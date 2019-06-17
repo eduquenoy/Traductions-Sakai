@@ -1,0 +1,108 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: TMX Project 0.1a\n"
+"Report-Msgid-Bugs-To: ddeguchi@nagoya-u.jp\n"
+"POT-Creation-Date: 2019-06-17 04:37+00:00\n"
+"PO-Revision-Date: 2019-03-07 05:51+0000\n"
+"Language-Team: French (France) (https://www.transifex.com/apereo/teams/29702/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. title
+#: webcomponents/src/main/bundle/org/sakaiproject/webcomponents/permissions/bundle/Messages.properties:1
+msgctxt ""
+"webcomponents/src/main/bundle/org/sakaiproject/webcomponents/permissions/bundle/Messages.properties:title"
+msgid "Permission \\ Role"
+msgstr ""
+
+#. save
+#: webcomponents/src/main/bundle/org/sakaiproject/webcomponents/permissions/bundle/Messages.properties:2
+msgctxt ""
+"webcomponents/src/main/bundle/org/sakaiproject/webcomponents/permissions/bundle/Messages.properties:save"
+msgid "Save"
+msgstr "Enregistrer"
+
+#. cancel
+#: webcomponents/src/main/bundle/org/sakaiproject/webcomponents/permissions/bundle/Messages.properties:3
+msgctxt ""
+"webcomponents/src/main/bundle/org/sakaiproject/webcomponents/permissions/bundle/Messages.properties:cancel"
+msgid "Cancel"
+msgstr "Annuler"
+
+#. undo
+#: webcomponents/src/main/bundle/org/sakaiproject/webcomponents/permissions/bundle/Messages.properties:4
+msgctxt ""
+"webcomponents/src/main/bundle/org/sakaiproject/webcomponents/permissions/bundle/Messages.properties:undo"
+msgid "Undo changes"
+msgstr "Annuler les modifications"
+
+#. per.alrgra
+#: webcomponents/src/main/bundle/org/sakaiproject/webcomponents/permissions/bundle/Messages.properties:5
+msgctxt ""
+"webcomponents/src/main/bundle/org/sakaiproject/webcomponents/permissions/bundle/Messages.properties:per.alrgra"
+msgid "already granted"
+msgstr "déjà attribué"
+
+#. gen.enable
+#: webcomponents/src/main/bundle/org/sakaiproject/webcomponents/permissions/bundle/Messages.properties:6
+msgctxt ""
+"webcomponents/src/main/bundle/org/sakaiproject/webcomponents/permissions/bundle/Messages.properties:gen.enable"
+msgid "Enable"
+msgstr "Activer"
+
+#. per.lis
+#: webcomponents/src/main/bundle/org/sakaiproject/webcomponents/permissions/bundle/Messages.properties:7
+msgctxt ""
+"webcomponents/src/main/bundle/org/sakaiproject/webcomponents/permissions/bundle/Messages.properties:per.lis"
+msgid ""
+"List of roles and permissions that can be applied to this folder. Layout: "
+"each row lists the permissions of a role. Layout: column 1 lists the roles, "
+"the other columns list the permissions, checkboxes permit enabling a "
+"permission for a role."
+msgstr ""
+
+#. per.lis.head
+#: webcomponents/src/main/bundle/org/sakaiproject/webcomponents/permissions/bundle/Messages.properties:8
+msgctxt ""
+"webcomponents/src/main/bundle/org/sakaiproject/webcomponents/permissions/bundle/Messages.properties:per.lis.head"
+msgid "Permission"
+msgstr "Droits"
+
+#. per.lis.head.title
+#: webcomponents/src/main/bundle/org/sakaiproject/webcomponents/permissions/bundle/Messages.properties:9
+msgctxt ""
+"webcomponents/src/main/bundle/org/sakaiproject/webcomponents/permissions/bundle/Messages.properties:per.lis.head.title"
+msgid "Toggle all permissions for all roles"
+msgstr "Permuter tous les droits pour tous les rôles"
+
+#. per.lis.role.title
+#: webcomponents/src/main/bundle/org/sakaiproject/webcomponents/permissions/bundle/Messages.properties:10
+msgctxt ""
+"webcomponents/src/main/bundle/org/sakaiproject/webcomponents/permissions/bundle/Messages.properties:per.lis.role.title"
+msgid "Toggle all permissions for this role"
+msgstr "Permuter tous les droits pour ce rôle"
+
+#. per.lis.perm.title
+#: webcomponents/src/main/bundle/org/sakaiproject/webcomponents/permissions/bundle/Messages.properties:11
+msgctxt ""
+"webcomponents/src/main/bundle/org/sakaiproject/webcomponents/permissions/bundle/Messages.properties:per.lis.perm.title"
+msgid "Toggle all roles for this permission"
+msgstr "Permuter tous les rôles pour ce droit"
+
+#. save_success
+#: webcomponents/src/main/bundle/org/sakaiproject/webcomponents/permissions/bundle/Messages.properties:12
+msgctxt ""
+"webcomponents/src/main/bundle/org/sakaiproject/webcomponents/permissions/bundle/Messages.properties:save_success"
+msgid "Permissions saved"
+msgstr ""
+
+#. save_failure
+#: webcomponents/src/main/bundle/org/sakaiproject/webcomponents/permissions/bundle/Messages.properties:13
+msgctxt ""
+"webcomponents/src/main/bundle/org/sakaiproject/webcomponents/permissions/bundle/Messages.properties:save_failure"
+msgid "\"Failed to save permissions"
+msgstr ""

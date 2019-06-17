@@ -1,0 +1,1026 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: sakai-trunk\n"
+"Report-Msgid-Bugs-To: ddeguchi@nagoya-u.jp\n"
+"POT-Creation-Date: 2019-06-17 04:37+00:00\n"
+"PO-Revision-Date: 2019-02-22 05:51+0000\n"
+"Last-Translator: spanishsakai <spanishsakai@gmail.com>\n"
+"Language-Team: French (France) (http://www.transifex.com/apereo/sakai-trunk/language/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. chat-channel
+#: chat/chat-impl/impl/src/bundle/chat-channel.properties:1
+msgctxt "chat/chat-impl/impl/src/bundle/chat-channel.properties:chat-channel"
+msgid "A chat channel represents a chat room in a context (site)."
+msgstr "Un canal de chat correspond à un salon dans un contexte (espace)."
+
+#. chat-message
+#: chat/chat-impl/impl/src/bundle/chat-message.properties:1
+msgctxt "chat/chat-impl/impl/src/bundle/chat-message.properties:chat-message"
+msgid "A chat message represents a message in a chat channel (room)."
+msgstr "Un message de chat correspond à un message dans un canal de chat (salon)."
+
+#. chat_header
+#: chat/chat-impl/impl/src/bundle/chat.properties:1
+msgctxt "chat/chat-impl/impl/src/bundle/chat.properties:chat_header"
+msgid "Message Headers\n"
+msgstr ""
+
+#. chat_from
+#: chat/chat-impl/impl/src/bundle/chat.properties:2
+msgctxt "chat/chat-impl/impl/src/bundle/chat.properties:chat_from"
+msgid "From "
+msgstr "De "
+
+#. chat_body
+#: chat/chat-impl/impl/src/bundle/chat.properties:3
+msgctxt "chat/chat-impl/impl/src/bundle/chat.properties:chat_body"
+msgid "Message Body\n"
+msgstr ""
+
+#. chat_message
+#: chat/chat-impl/impl/src/bundle/chat.properties:4
+msgctxt "chat/chat-impl/impl/src/bundle/chat.properties:chat_message"
+msgid "Message  "
+msgstr "Message"
+
+#. desc-chat.new
+#: chat/chat-tool/tool/src/bundle/permissions.properties:1
+msgctxt "chat/chat-tool/tool/src/bundle/permissions.properties:desc-chat.new"
+msgid "Post chat messages"
+msgstr "Écrire des messages"
+
+#. desc-chat.read
+#: chat/chat-tool/tool/src/bundle/permissions.properties:2
+msgctxt "chat/chat-tool/tool/src/bundle/permissions.properties:desc-chat.read"
+msgid "Read chat messages"
+msgstr "Lire les messages"
+
+#. desc-chat.delete.any
+#: chat/chat-tool/tool/src/bundle/permissions.properties:3
+msgctxt ""
+"chat/chat-tool/tool/src/bundle/permissions.properties:desc-chat.delete.any"
+msgid "Delete any chat messages"
+msgstr "Supprimer tous les messages"
+
+#. desc-chat.delete.own
+#: chat/chat-tool/tool/src/bundle/permissions.properties:4
+msgctxt ""
+"chat/chat-tool/tool/src/bundle/permissions.properties:desc-chat.delete.own"
+msgid "Delete own chat messages"
+msgstr "Supprimer ses propres messages"
+
+#. desc-chat.delete.channel
+#: chat/chat-tool/tool/src/bundle/permissions.properties:5
+msgctxt ""
+"chat/chat-tool/tool/src/bundle/permissions.properties:desc-"
+"chat.delete.channel"
+msgid "Delete a chat room"
+msgstr "Supprimer un salon"
+
+#. desc-chat.new.channel
+#: chat/chat-tool/tool/src/bundle/permissions.properties:6
+msgctxt ""
+"chat/chat-tool/tool/src/bundle/permissions.properties:desc-chat.new.channel"
+msgid "Create a new chat room"
+msgstr "Créer un nouveau salon"
+
+#. desc-chat.revise.channel
+#: chat/chat-tool/tool/src/bundle/permissions.properties:7
+msgctxt ""
+"chat/chat-tool/tool/src/bundle/permissions.properties:desc-"
+"chat.revise.channel"
+msgid "Set chat room options"
+msgstr "Définir les options du salon"
+
+#. thischat
+#: chat/chat-tool/tool/src/bundle/chat.properties:1
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:thischat"
+msgid "This chat is not available."
+msgstr "Ce chat n'est pas disponible."
+
+#. chatmesdel
+#: chat/chat-tool/tool/src/bundle/chat.properties:2
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:chatmesdel"
+msgid "Chat message deleted by"
+msgstr "Message de chat supprimé par"
+
+#. chatroom
+#: chat/chat-tool/tool/src/bundle/chat.properties:3
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:chatroom"
+msgid "Chat Room:"
+msgstr "Salon :"
+
+#. days
+#: chat/chat-tool/tool/src/bundle/chat.properties:4
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:days"
+msgid "Days"
+msgstr "Jours"
+
+#. forchat
+#: chat/chat-tool/tool/src/bundle/chat.properties:5
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:forchat"
+msgid "for Chat room name. Chat room name"
+msgstr "pour le nom du salon. Nom du salon"
+
+#. hided
+#: chat/chat-tool/tool/src/bundle/chat.properties:6
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:hided"
+msgid "Hide Date"
+msgstr "Cacher la date"
+
+#. hidet
+#: chat/chat-tool/tool/src/bundle/chat.properties:7
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:hidet"
+msgid "Hide Time"
+msgstr "Cacher l'heure"
+
+#. messages
+#: chat/chat-tool/tool/src/bundle/chat.properties:8
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:messages"
+msgid "Messages"
+msgstr "Messages"
+
+#. on
+#: chat/chat-tool/tool/src/bundle/chat.properties:9
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:on"
+msgid "on"
+msgstr "sur"
+
+#. permis
+#: chat/chat-tool/tool/src/bundle/chat.properties:10
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:permis"
+msgid "Permissions"
+msgstr "Droits"
+
+#. setpermis
+#: chat/chat-tool/tool/src/bundle/chat.properties:11
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:setpermis"
+msgid "Set permissions for Chat room in worksite "
+msgstr "Définir les droits pour le salon dans l'espace "
+
+#. perm_description
+#: chat/chat-tool/tool/src/bundle/chat.properties:12
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:perm_description"
+msgid "Set permissions for {0} in worksite ''{1}''"
+msgstr ""
+
+#. showall
+#: chat/chat-tool/tool/src/bundle/chat.properties:13
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:showall"
+msgid "All Messages"
+msgstr "Tous les messages"
+
+#. shownone
+#: chat/chat-tool/tool/src/bundle/chat.properties:14
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:shownone"
+msgid "Show no message history"
+msgstr "Ne pas montrer l'historique des messages"
+
+#. showd
+#: chat/chat-tool/tool/src/bundle/chat.properties:15
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:showd"
+msgid "Show Date"
+msgstr "Afficher la date"
+
+#. showlast
+#: chat/chat-tool/tool/src/bundle/chat.properties:16
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:showlast"
+msgid "Show Last"
+msgstr "Afficher le dernier"
+
+#. showpast
+#: chat/chat-tool/tool/src/bundle/chat.properties:17
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:showpast"
+msgid "Past"
+msgstr "Passés"
+
+#. showt
+#: chat/chat-tool/tool/src/bundle/chat.properties:18
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:showt"
+msgid "Show Time"
+msgstr "Afficher l'heure"
+
+#. showtoday
+#: chat/chat-tool/tool/src/bundle/chat.properties:19
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:showtoday"
+msgid "Show Today's Messages"
+msgstr "Afficher les messages du jour"
+
+#. thereispro
+#: chat/chat-tool/tool/src/bundle/chat.properties:20
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:thereispro"
+msgid ""
+"Permissions can not be set at this time because the site is already being "
+"edited. Close permissions in other tools before proceeding."
+msgstr ""
+
+#. therewaspro
+#: chat/chat-tool/tool/src/bundle/chat.properties:21
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:therewaspro"
+msgid "There was a problem sending the prior message."
+msgstr "Un problème est survenu lors de l'envoi du message précédent."
+
+#. missingchannel1
+#: chat/chat-tool/tool/src/bundle/chat.properties:22
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:missingchannel1"
+msgid ""
+"This room could not be found. It may have been removed by an instructor. "
+"Click "
+msgstr ""
+
+#. here
+#: chat/chat-tool/tool/src/bundle/chat.properties:23
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:here"
+msgid "here"
+msgstr "ici"
+
+#. missingchannel2
+#: chat/chat-tool/tool/src/bundle/chat.properties:24
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:missingchannel2"
+msgid " to go to the main room."
+msgstr ""
+
+#. turnoff
+#: chat/chat-tool/tool/src/bundle/chat.properties:25
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:turnoff"
+msgid "Turn OFF New Message Alert"
+msgstr "Désactiver l'alerte de nouveau message"
+
+#. turnon
+#: chat/chat-tool/tool/src/bundle/chat.properties:26
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:turnon"
+msgid "Turn ON New Message Alert"
+msgstr "Activer l'alerte de nouveau message"
+
+#. youdonot1
+#: chat/chat-tool/tool/src/bundle/chat.properties:27
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:youdonot1"
+msgid "You do not have permission to view this chat."
+msgstr "Vous n'avez pas le droit de consulter ce salon."
+
+#. youdonot2
+#: chat/chat-tool/tool/src/bundle/chat.properties:28
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:youdonot2"
+msgid "You do not have permission to create this chat."
+msgstr "Vous n'avez pas le droit de créer ce salon."
+
+#. youdonot3
+#: chat/chat-tool/tool/src/bundle/chat.properties:29
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:youdonot3"
+msgid "You do not have permission to post to this chat."
+msgstr "Vous n'avez pas le droit d'écrire dans ce salon."
+
+#. youdonot4
+#: chat/chat-tool/tool/src/bundle/chat.properties:30
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:youdonot4"
+msgid "You do not have permission to delete this chat message."
+msgstr "Vous n'avez pas le droit de supprimer ce message."
+
+#. youent
+#: chat/chat-tool/tool/src/bundle/chat.properties:31
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:youent"
+msgid "You entered"
+msgstr "Vous êtes entré"
+
+#. gen.alert
+#: chat/chat-tool/tool/src/bundle/chat.properties:32
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:gen.alert"
+msgid "Alert:"
+msgstr "Alerte :"
+
+#. gen.cancel
+#: chat/chat-tool/tool/src/bundle/chat.properties:33
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:gen.cancel"
+msgid "Cancel"
+msgstr "Annuler"
+
+#. gen.date
+#: chat/chat-tool/tool/src/bundle/chat.properties:34
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:gen.date"
+msgid "Date:"
+msgstr "Date :"
+
+#. gen.delete
+#: chat/chat-tool/tool/src/bundle/chat.properties:35
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:gen.delete"
+msgid "Delete"
+msgstr "Supprimer"
+
+#. gen.edit
+#: chat/chat-tool/tool/src/bundle/chat.properties:36
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:gen.edit"
+msgid "Edit"
+msgstr "Modifier"
+
+#. gen.from
+#: chat/chat-tool/tool/src/bundle/chat.properties:37
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:gen.from"
+msgid "From:"
+msgstr "De:"
+
+#. gen.mess
+#: chat/chat-tool/tool/src/bundle/chat.properties:38
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:gen.mess"
+msgid "Message:"
+msgstr "Message:"
+
+#. gen.save
+#: chat/chat-tool/tool/src/bundle/chat.properties:39
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:gen.save"
+msgid "Update Options"
+msgstr "Mettre à jour les options"
+
+#. control.clear
+#: chat/chat-tool/tool/src/bundle/chat.properties:40
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:control.clear"
+msgid "Clear"
+msgstr "Effacer"
+
+#. control.post
+#: chat/chat-tool/tool/src/bundle/chat.properties:41
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:control.post"
+msgid "Add message"
+msgstr "Ajouter un message"
+
+#. control.submit
+#: chat/chat-tool/tool/src/bundle/chat.properties:42
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:control.submit"
+msgid "Submit"
+msgstr "Remettre"
+
+#. control.lab
+#: chat/chat-tool/tool/src/bundle/chat.properties:43
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:control.lab"
+msgid "Enter chat message"
+msgstr "Saisir un message de chat"
+
+#. combox.viewfrom
+#: chat/chat-tool/tool/src/bundle/chat.properties:44
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:combox.viewfrom"
+msgid "View messages from..."
+msgstr "Aperçu des messages de..."
+
+#. custom.chatroom
+#: chat/chat-tool/tool/src/bundle/chat.properties:45
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:custom.chatroom"
+msgid "Chat Room"
+msgstr "Salon de chat"
+
+#. custom.cuschat
+#: chat/chat-tool/tool/src/bundle/chat.properties:46
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:custom.cuschat"
+msgid "Chat Options"
+msgstr "Options de chat"
+
+#. custom.days
+#: chat/chat-tool/tool/src/bundle/chat.properties:47
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:custom.days"
+msgid "days"
+msgstr "jours"
+
+#. custom.howmany
+#: chat/chat-tool/tool/src/bundle/chat.properties:48
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:custom.howmany"
+msgid "How many messages will be displayed?"
+msgstr "Combien de messages seront affichés ?"
+
+#. custom.mess
+#: chat/chat-tool/tool/src/bundle/chat.properties:49
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:custom.mess"
+msgid "messages"
+msgstr "messages "
+
+#. custom.showall
+#: chat/chat-tool/tool/src/bundle/chat.properties:50
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:custom.showall"
+msgid "Show all messages"
+msgstr "Afficher tous les messages"
+
+#. custom.showlast
+#: chat/chat-tool/tool/src/bundle/chat.properties:51
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:custom.showlast"
+msgid "Show the last"
+msgstr "Afficher les derniers"
+
+#. custom.showpast
+#: chat/chat-tool/tool/src/bundle/chat.properties:52
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:custom.showpast"
+msgid "Show messages from the past"
+msgstr "Afficher les messages passés"
+
+#. custom.use1
+#: chat/chat-tool/tool/src/bundle/chat.properties:53
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:custom.use1"
+msgid "Use this worksite's Main Chat Room"
+msgstr "Entrer dans le salon principal de cet espace"
+
+#. custom.use2
+#: chat/chat-tool/tool/src/bundle/chat.properties:54
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:custom.use2"
+msgid "Use the chat room called"
+msgstr "Entrer dans le salon"
+
+#. custom.use3
+#: chat/chat-tool/tool/src/bundle/chat.properties:55
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:custom.use3"
+msgid "Use a new Chat Room"
+msgstr "Créer un nouveau salon"
+
+#. custom.which
+#: chat/chat-tool/tool/src/bundle/chat.properties:56
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:custom.which"
+msgid "Which chat room will be displayed?"
+msgstr "Quel salon sera affiché ?"
+
+#. custom.called
+#: chat/chat-tool/tool/src/bundle/chat.properties:57
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:custom.called"
+msgid "called"
+msgstr "nommé"
+
+#. custom.msgdisp
+#: chat/chat-tool/tool/src/bundle/chat.properties:58
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:custom.msgdisp"
+msgid "Message Display"
+msgstr "Affichage du message"
+
+#. custom_date_display
+#: chat/chat-tool/tool/src/bundle/chat.properties:59
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:custom_date_display"
+msgid "Posting allowed from {0} through {1}"
+msgstr "Écriture autorisée du {0} au {1}"
+
+#. custom_date_display_start
+#: chat/chat-tool/tool/src/bundle/chat.properties:60
+msgctxt ""
+"chat/chat-tool/tool/src/bundle/chat.properties:custom_date_display_start"
+msgid "Posting allowed starting {0}"
+msgstr "Écriture autorisée à partir du {0} "
+
+#. custom_date_display_end
+#: chat/chat-tool/tool/src/bundle/chat.properties:61
+msgctxt ""
+"chat/chat-tool/tool/src/bundle/chat.properties:custom_date_display_end"
+msgid "Posting allowed through {1}"
+msgstr "Écriture autorisée jusqu'au {1}"
+
+#. custom_date_heading
+#: chat/chat-tool/tool/src/bundle/chat.properties:62
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:custom_date_heading"
+msgid "Allowed Posting Dates"
+msgstr "Dates auxquelles il est possible d'écrire"
+
+#. custom_date_instructions
+#: chat/chat-tool/tool/src/bundle/chat.properties:63
+msgctxt ""
+"chat/chat-tool/tool/src/bundle/chat.properties:custom_date_instructions"
+msgid ""
+"Users are allowed to post to the chatroom between the dates specified below."
+" Leaving or setting a date blank indicates no date restriction (only the "
+"permissions would limit posting). The end date must be the same as or later "
+"than the start date."
+msgstr ""
+
+#. custom_date_start
+#: chat/chat-tool/tool/src/bundle/chat.properties:64
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:custom_date_start"
+msgid "Start"
+msgstr "Début"
+
+#. custom_date_end
+#: chat/chat-tool/tool/src/bundle/chat.properties:65
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:custom_date_end"
+msgid "End"
+msgstr "Fin"
+
+#. custom_date_restricted
+#: chat/chat-tool/tool/src/bundle/chat.properties:66
+msgctxt ""
+"chat/chat-tool/tool/src/bundle/chat.properties:custom_date_restricted"
+msgid "Posting is currently disabled by configured dates."
+msgstr "Il est actuellement impossible d'écrire du fait des dates qui ont été précisées."
+
+#. custom_date_error_order
+#: chat/chat-tool/tool/src/bundle/chat.properties:67
+msgctxt ""
+"chat/chat-tool/tool/src/bundle/chat.properties:custom_date_error_order"
+msgid "Start date ({0}) must come before end date ({1})"
+msgstr "La date de début ({0}) doit être antérieure à la date de fin ({1})"
+
+#. custom_date_entry_format_description
+#: chat/chat-tool/tool/src/bundle/chat.properties:68
+msgctxt ""
+"chat/chat-"
+"tool/tool/src/bundle/chat.properties:custom_date_entry_format_description"
+msgid "(mm/dd/yy)"
+msgstr "(jj/mm/aa)"
+
+#. custom_date_entry_today_is
+#: chat/chat-tool/tool/src/bundle/chat.properties:69
+msgctxt ""
+"chat/chat-tool/tool/src/bundle/chat.properties:custom_date_entry_today_is"
+msgid "Today is"
+msgstr "Nous sommes le"
+
+#. custom_date_entry_week_header
+#: chat/chat-tool/tool/src/bundle/chat.properties:70
+msgctxt ""
+"chat/chat-tool/tool/src/bundle/chat.properties:custom_date_entry_week_header"
+msgid "Wk"
+msgstr "Semaine"
+
+#. custom_date_entry_format
+#: chat/chat-tool/tool/src/bundle/chat.properties:71
+msgctxt ""
+"chat/chat-tool/tool/src/bundle/chat.properties:custom_date_entry_format"
+msgid "MM/dd/yy"
+msgstr "dd/MM/yy"
+
+#. custom_date_entry_goto
+#: chat/chat-tool/tool/src/bundle/chat.properties:72
+msgctxt ""
+"chat/chat-tool/tool/src/bundle/chat.properties:custom_date_entry_goto"
+msgid "Go To Current Month"
+msgstr "Aller au mois en cours"
+
+#. delete.delete
+#: chat/chat-tool/tool/src/bundle/chat.properties:73
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:delete.delete"
+msgid "Deleting chat message"
+msgstr "Supprimer le message"
+
+#. delete.sure
+#: chat/chat-tool/tool/src/bundle/chat.properties:74
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:delete.sure"
+msgid "Are you sure you want to permanently delete this message?"
+msgstr "Êtes-vous sûr de vouloir supprimer définitivement ce message ?"
+
+#. delete.wrong
+#: chat/chat-tool/tool/src/bundle/chat.properties:75
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:delete.wrong"
+msgid "Message has been deleted already!"
+msgstr "Le message a déjà été supprimé !"
+
+#. lay.note
+#: chat/chat-tool/tool/src/bundle/chat.properties:76
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:lay.note"
+msgid ""
+"All chat messages are archived and can be read by any site participant."
+msgstr ""
+
+#. lay.user
+#: chat/chat-tool/tool/src/bundle/chat.properties:77
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:lay.user"
+msgid "Users in Chat"
+msgstr "Utilisateurs dans le salon"
+
+#. list.del
+#: chat/chat-tool/tool/src/bundle/chat.properties:78
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:list.del"
+msgid "Delete this message"
+msgstr "Supprimer ce message"
+
+#. bar.onlytime
+#: chat/chat-tool/tool/src/bundle/chat.properties:79
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:bar.onlytime"
+msgid "Time Only"
+msgstr "Heure uniquement"
+
+#. bar.datetime
+#: chat/chat-tool/tool/src/bundle/chat.properties:80
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:bar.datetime"
+msgid "Date and Time"
+msgstr "Date et heure"
+
+#. bar.onlydate
+#: chat/chat-tool/tool/src/bundle/chat.properties:81
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:bar.onlydate"
+msgid "Date Only"
+msgstr "Date uniquement"
+
+#. bar.nodatetime
+#: chat/chat-tool/tool/src/bundle/chat.properties:82
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:bar.nodatetime"
+msgid "Neither Date or Time"
+msgstr "Ni date ni heure"
+
+#. bar.allmes
+#: chat/chat-tool/tool/src/bundle/chat.properties:83
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:bar.allmes"
+msgid "All Messages"
+msgstr "Tous les messages"
+
+#. bar.view
+#: chat/chat-tool/tool/src/bundle/chat.properties:84
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:bar.view"
+msgid "View"
+msgstr "Vue"
+
+#. bar.show
+#: chat/chat-tool/tool/src/bundle/chat.properties:85
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:bar.show"
+msgid "Show"
+msgstr "Afficher"
+
+#. bar.listnavselect
+#: chat/chat-tool/tool/src/bundle/chat.properties:86
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:bar.listnavselect"
+msgid "List options: press alt + up and down arrows to scroll through menu"
+msgstr "Liste des options : appuyer sur alt + flèches haut et bas pour faire défiler le menu"
+
+#. past_x_days
+#: chat/chat-tool/tool/src/bundle/chat.properties:87
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:past_x_days"
+msgid "Past {0} days"
+msgstr "{0} derniers jours"
+
+#. past_x_messages
+#: chat/chat-tool/tool/src/bundle/chat.properties:88
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:past_x_messages"
+msgid "Last {0} messages"
+msgstr "{0} derniers messages"
+
+#. default_new_channel_title
+#: chat/chat-tool/tool/src/bundle/chat.properties:89
+msgctxt ""
+"chat/chat-tool/tool/src/bundle/chat.properties:default_new_channel_title"
+msgid "Main Chat Room"
+msgstr "Salon principal de chat "
+
+#. allMessages
+#: chat/chat-tool/tool/src/bundle/chat.properties:90
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:allMessages"
+msgid "All Messages"
+msgstr "Tous les messages"
+
+#. timeOnly
+#: chat/chat-tool/tool/src/bundle/chat.properties:91
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:timeOnly"
+msgid "Time Only"
+msgstr "Heure uniquement"
+
+#. timeAndDate
+#: chat/chat-tool/tool/src/bundle/chat.properties:92
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:timeAndDate"
+msgid "Date and Time"
+msgstr "Date et heure"
+
+#. dateOnly
+#: chat/chat-tool/tool/src/bundle/chat.properties:93
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:dateOnly"
+msgid "Date Only"
+msgstr "Date uniquement"
+
+#. neitherDateOrTime
+#: chat/chat-tool/tool/src/bundle/chat.properties:94
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:neitherDateOrTime"
+msgid "Neither Date nor Time"
+msgstr "Ni date ni heure"
+
+#. uniqueid
+#: chat/chat-tool/tool/src/bundle/chat.properties:95
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:uniqueid"
+msgid "ID Only"
+msgstr "Identifiant uniquement"
+
+#. manage_tool
+#: chat/chat-tool/tool/src/bundle/chat.properties:96
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:manage_tool"
+msgid "Options"
+msgstr "Options"
+
+#. lay_note
+#: chat/chat-tool/tool/src/bundle/chat.properties:97
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:lay_note"
+msgid ""
+"All chat messages are archived and can be read by any site participant."
+msgstr ""
+
+#. lay_restricted_note_days
+#: chat/chat-tool/tool/src/bundle/chat.properties:98
+msgctxt ""
+"chat/chat-tool/tool/src/bundle/chat.properties:lay_restricted_note_days"
+msgid ""
+"Only messages from the past {0} days are archived and can be read by any "
+"site participant."
+msgstr ""
+
+#. lay_restricted_note_messages
+#: chat/chat-tool/tool/src/bundle/chat.properties:99
+msgctxt ""
+"chat/chat-tool/tool/src/bundle/chat.properties:lay_restricted_note_messages"
+msgid ""
+"Only the past {0} messages are archived and can be read by any site "
+"participant."
+msgstr ""
+
+#. lay_restricted_note_none
+#: chat/chat-tool/tool/src/bundle/chat.properties:100
+msgctxt ""
+"chat/chat-tool/tool/src/bundle/chat.properties:lay_restricted_note_none"
+msgid ""
+"Only messages from the current session can be read by site participants."
+msgstr ""
+
+#. lay_user
+#: chat/chat-tool/tool/src/bundle/chat.properties:101
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:lay_user"
+msgid "Users in Chat"
+msgstr "Utilisateurs dans le salon"
+
+#. view
+#: chat/chat-tool/tool/src/bundle/chat.properties:102
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:view"
+msgid "View"
+msgstr "Vue"
+
+#. add_room
+#: chat/chat-tool/tool/src/bundle/chat.properties:103
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:add_room"
+msgid "Add Room"
+msgstr "Ajouter un salon"
+
+#. change_room
+#: chat/chat-tool/tool/src/bundle/chat.properties:104
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:change_room"
+msgid "Change Room"
+msgstr "Changer de salon"
+
+#. enter_the_chat_room
+#: chat/chat-tool/tool/src/bundle/chat.properties:105
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:enter_the_chat_room"
+msgid "Enter ''{0}'' Room"
+msgstr ""
+
+#. channel_creation_date
+#: chat/chat-tool/tool/src/bundle/chat.properties:106
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:channel_creation_date"
+msgid "Creation Date"
+msgstr "Date de création"
+
+#. channel_description
+#: chat/chat-tool/tool/src/bundle/chat.properties:107
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:channel_description"
+msgid "Description"
+msgstr "Description"
+
+#. channel_description_colon
+#: chat/chat-tool/tool/src/bundle/chat.properties:108
+msgctxt ""
+"chat/chat-tool/tool/src/bundle/chat.properties:channel_description_colon"
+msgid "Description:"
+msgstr "Description :"
+
+#. channel_title
+#: chat/chat-tool/tool/src/bundle/chat.properties:109
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:channel_title"
+msgid "Title"
+msgstr "Titre"
+
+#. channel_title_colon
+#: chat/chat-tool/tool/src/bundle/chat.properties:110
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:channel_title_colon"
+msgid "Title:"
+msgstr "Titre:"
+
+#. edit_channel_title
+#: chat/chat-tool/tool/src/bundle/chat.properties:111
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:edit_channel_title"
+msgid "Edit Room"
+msgstr "Éditer le salon"
+
+#. add_channel_title
+#: chat/chat-tool/tool/src/bundle/chat.properties:112
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:add_channel_title"
+msgid "Add Room"
+msgstr "Ajouter un salon"
+
+#. message_display
+#: chat/chat-tool/tool/src/bundle/chat.properties:113
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:message_display"
+msgid "Message Display"
+msgstr "Affichage du message"
+
+#. messages_shown_total
+#: chat/chat-tool/tool/src/bundle/chat.properties:114
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:messages_shown_total"
+msgid "Showing {0} messages out of {1}"
+msgstr "Affichage de {0} messages sur {1}"
+
+#. messages_unreaded
+#: chat/chat-tool/tool/src/bundle/chat.properties:115
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:messages_unreaded"
+msgid "There are {0} unread messages"
+msgstr ""
+
+#. new_messages
+#: chat/chat-tool/tool/src/bundle/chat.properties:116
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:new_messages"
+msgid "New messages"
+msgstr "Nouveaux messages"
+
+#. unreaded
+#: chat/chat-tool/tool/src/bundle/chat.properties:117
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:unreaded"
+msgid "Unread messages"
+msgstr ""
+
+#. perm_error
+#: chat/chat-tool/tool/src/bundle/chat.properties:118
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:perm_error"
+msgid "Insufficient Permissions for {0}"
+msgstr "Droits insuffisants pour {0}"
+
+#. message_owner
+#: chat/chat-tool/tool/src/bundle/chat.properties:119
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:message_owner"
+msgid "Owner"
+msgstr "Propriétaire"
+
+#. select_room_title
+#: chat/chat-tool/tool/src/bundle/chat.properties:120
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:select_room_title"
+msgid "Select Chat Room"
+msgstr "Sélectionnez un salon"
+
+#. tool_options_title
+#: chat/chat-tool/tool/src/bundle/chat.properties:121
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:tool_options_title"
+msgid "Tool Options"
+msgstr "Options des outils"
+
+#. synoptic_options_title
+#: chat/chat-tool/tool/src/bundle/chat.properties:122
+msgctxt ""
+"chat/chat-tool/tool/src/bundle/chat.properties:synoptic_options_title"
+msgid "Synoptic Options"
+msgstr "Options synoptiques"
+
+#. room_list_title
+#: chat/chat-tool/tool/src/bundle/chat.properties:123
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:room_list_title"
+msgid "Manage Rooms"
+msgstr "Administrer les salons"
+
+#. monitor_panel
+#: chat/chat-tool/tool/src/bundle/chat.properties:124
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:monitor_panel"
+msgid "List"
+msgstr "Liste"
+
+#. presence_panel
+#: chat/chat-tool/tool/src/bundle/chat.properties:125
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:presence_panel"
+msgid "List of users present in room"
+msgstr "Liste des personnes présentes dans le salon"
+
+#. control_panel
+#: chat/chat-tool/tool/src/bundle/chat.properties:126
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:control_panel"
+msgid "Control"
+msgstr "Contrôle"
+
+#. delete_room_confirm_title
+#: chat/chat-tool/tool/src/bundle/chat.properties:127
+msgctxt ""
+"chat/chat-tool/tool/src/bundle/chat.properties:delete_room_confirm_title"
+msgid "Deleting chat room"
+msgstr "Suppression du salon"
+
+#. delete_room_confirm_alert
+#: chat/chat-tool/tool/src/bundle/chat.properties:128
+msgctxt ""
+"chat/chat-tool/tool/src/bundle/chat.properties:delete_room_confirm_alert"
+msgid "Are you sure you want to permanently delete this chat room?"
+msgstr "Êtes-vous sûr de vouloir supprimer définitivement ce salon ?"
+
+#. delete_room_messages_confirm_title
+#: chat/chat-tool/tool/src/bundle/chat.properties:129
+msgctxt ""
+"chat/chat-"
+"tool/tool/src/bundle/chat.properties:delete_room_messages_confirm_title"
+msgid "Deleting all messages from chat room"
+msgstr "Suppression de tous les messages du salon"
+
+#. delete_room_messages_confirm_alert
+#: chat/chat-tool/tool/src/bundle/chat.properties:130
+msgctxt ""
+"chat/chat-"
+"tool/tool/src/bundle/chat.properties:delete_room_messages_confirm_alert"
+msgid ""
+"Are you sure you want to permanently delete all messages from this chat "
+"room?"
+msgstr ""
+
+#. recent_chat_heading
+#: chat/chat-tool/tool/src/bundle/chat.properties:131
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:recent_chat_heading"
+msgid "Recent Chat Display"
+msgstr "Affichage des chats récents"
+
+#. number_days
+#: chat/chat-tool/tool/src/bundle/chat.properties:132
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:number_days"
+msgid "Number of days in the past"
+msgstr "Nombre de jours dans le passé"
+
+#. number_messages
+#: chat/chat-tool/tool/src/bundle/chat.properties:133
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:number_messages"
+msgid "Number of Chat messages"
+msgstr "Nombre de messages"
+
+#. number_chars
+#: chat/chat-tool/tool/src/bundle/chat.properties:134
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:number_chars"
+msgid "Number of characters per Chat message"
+msgstr "Nombre de caractères par message"
+
+#. update_text
+#: chat/chat-tool/tool/src/bundle/chat.properties:135
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:update_text"
+msgid "Update"
+msgstr "Mise à jour"
+
+#. validation_error
+#: chat/chat-tool/tool/src/bundle/chat.properties:136
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:validation_error"
+msgid "There was an error submitting this form.  See specific messages below."
+msgstr "Une erreur est survenue lors de l'envoi du formulaire. Voir ci-dessous."
+
+#. title_required
+#: chat/chat-tool/tool/src/bundle/chat.properties:137
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:title_required"
+msgid "Title is required"
+msgstr "Titre obligatoire"
+
+#. title_too_long
+#: chat/chat-tool/tool/src/bundle/chat.properties:138
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:title_too_long"
+msgid "Title has to be less than {0} characters"
+msgstr "Le titre doit comporter moins de {0} caractères"
+
+#. desc_too_long
+#: chat/chat-tool/tool/src/bundle/chat.properties:139
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:desc_too_long"
+msgid "Description has to be less than {0} characters"
+msgstr "La description doit comporter moins de {0} de caractères"
+
+#. delete_room_messages
+#: chat/chat-tool/tool/src/bundle/chat.properties:140
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:delete_room_messages"
+msgid "Clear History"
+msgstr "Nettoyer l'historique"
+
+#. set_default
+#: chat/chat-tool/tool/src/bundle/chat.properties:141
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:set_default"
+msgid "Set as Default"
+msgstr "Définir comme valeur par défaut"
+
+#. set_as_default
+#: chat/chat-tool/tool/src/bundle/chat.properties:142
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:set_as_default"
+msgid "Set ''{0}'' as Default"
+msgstr ""
+
+#. viewingChatRoomText
+#: chat/chat-tool/tool/src/bundle/chat.properties:143
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:viewingChatRoomText"
+msgid "Currently viewing messages for ''{0}''"
+msgstr ""
+
+#. back_to_room
+#: chat/chat-tool/tool/src/bundle/chat.properties:144
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:back_to_room"
+msgid "Back to room"
+msgstr "Retour au salon"
+
+#. channel_enable_override_description
+#: chat/chat-tool/tool/src/bundle/chat.properties:145
+msgctxt ""
+"chat/chat-"
+"tool/tool/src/bundle/chat.properties:channel_enable_override_description"
+msgid ""
+"Allow chat participants to change the chat display settings for their own "
+"chat window"
+msgstr ""
+
+#. neg_num_error
+#: chat/chat-tool/tool/src/bundle/chat.properties:146
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:neg_num_error"
+msgid "Negative numbers are not allowed"
+msgstr "Les nombres négatifs sont interdits"
+
+#. show_last_range_error
+#: chat/chat-tool/tool/src/bundle/chat.properties:147
+msgctxt "chat/chat-tool/tool/src/bundle/chat.properties:show_last_range_error"
+msgid "Value must be between {0} and {1}"
+msgstr "La valeur doit être comprise entre {0} et {1}"

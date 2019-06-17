@@ -1,0 +1,524 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: sakai-trunk\n"
+"Report-Msgid-Bugs-To: ddeguchi@nagoya-u.jp\n"
+"POT-Creation-Date: 2019-06-17 04:37+00:00\n"
+"PO-Revision-Date: 2019-05-24 04:38+0000\n"
+"Last-Translator: spanishsakai <spanishsakai@gmail.com>\n"
+"Language-Team: French (France) (http://www.transifex.com/apereo/sakai-trunk/language/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. navbar_overview
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:1
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:navbar_overview"
+msgid "Overview"
+msgstr ""
+
+#. navbar_overview_tooltip
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:2
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:navbar_overview_tooltip"
+msgid "Overview of site members"
+msgstr ""
+
+#. navbar_status
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:3
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:navbar_status"
+msgid "Enrollment Status"
+msgstr ""
+
+#. navbar_status_tooltip
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:4
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:navbar_status_tooltip"
+msgid "View site members organized by enrollment status"
+msgstr ""
+
+#. navbar_permissions
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:5
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:navbar_permissions"
+msgid "Permissions"
+msgstr ""
+
+#. navbar_permissions_tooltip
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:6
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:navbar_permissions_tooltip"
+msgid "View and edit user permissions for this site"
+msgstr ""
+
+#. title_permissions
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:7
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:title_permissions"
+msgid "Role Permissions"
+msgstr ""
+
+#. roster_search_text
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:8
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:roster_search_text"
+msgid "Search"
+msgstr ""
+
+#. roster_search_button
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:9
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:roster_search_button"
+msgid "Find"
+msgstr ""
+
+#. roster_clear_button
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:10
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:roster_clear_button"
+msgid "Clear"
+msgstr ""
+
+#. roster_sections_all
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:11
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:roster_sections_all"
+msgid "All"
+msgstr ""
+
+#. roster_group_ungrouped
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:12
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:roster_group_ungrouped"
+msgid "Ungrouped"
+msgstr ""
+
+#. roster_group_bygroup
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:13
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:roster_group_bygroup"
+msgid "By Group"
+msgstr ""
+
+#. roster_group_unassigned
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:14
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:roster_group_unassigned"
+msgid "Unassigned"
+msgstr ""
+
+#. roster_enrollment_status_all
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:15
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:roster_enrollment_status_all"
+msgid "All"
+msgstr ""
+
+#. currently_displaying_participants
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:16
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:currently_displaying_participants"
+msgid "Currently showing {0} participants"
+msgstr ""
+
+#. currently_displaying_participant
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:17
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:currently_displaying_participant"
+msgid "Currently showing {0} participant"
+msgstr ""
+
+#. role_breakdown_fragment
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:18
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:role_breakdown_fragment"
+msgid "{0} in {1} role"
+msgstr ""
+
+#. enrollment_set_filter_label
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:19
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:enrollment_set_filter_label"
+msgid "Set"
+msgstr ""
+
+#. enrollment_status_filter_label
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:20
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:enrollment_status_filter_label"
+msgid "Status"
+msgstr ""
+
+#. member_group_all_option
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:21
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:member_group_all_option"
+msgid "Multiple..."
+msgstr ""
+
+#. print_roster
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:22
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:print_roster"
+msgid "Print"
+msgstr ""
+
+#. print_roster_tooltip
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:23
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:print_roster_tooltip"
+msgid "Print this page"
+msgstr ""
+
+#. export_roster
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:24
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:export_roster"
+msgid "Export"
+msgstr ""
+
+#. export_roster_tooltip
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:25
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:export_roster_tooltip"
+msgid "Export this roster"
+msgstr ""
+
+#. roster_hide_names
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:26
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:roster_hide_names"
+msgid "Hide Names"
+msgstr ""
+
+#. roster_hide_pictures
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:27
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:roster_hide_pictures"
+msgid "Hide Photos"
+msgstr ""
+
+#. picture_source_group
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:28
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:picture_source_group"
+msgid "Photo Source"
+msgstr ""
+
+#. roster_show_official_pictures
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:29
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:roster_show_official_pictures"
+msgid "Official"
+msgstr ""
+
+#. roster_show_profile_pictures
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:30
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:roster_show_profile_pictures"
+msgid "Profile"
+msgstr ""
+
+#. layout_group
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:31
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:layout_group"
+msgid "Layout"
+msgstr ""
+
+#. roster_card_view
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:32
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:roster_card_view"
+msgid "Cards"
+msgstr ""
+
+#. roster_photo_view
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:33
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:roster_photo_view"
+msgid "Photo Grid"
+msgstr ""
+
+#. roster_spreadsheet_view
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:34
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:roster_spreadsheet_view"
+msgid "List"
+msgstr ""
+
+#. profile_email
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:35
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:profile_email"
+msgid "Email"
+msgstr ""
+
+#. profile_picture_alt
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:36
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:profile_picture_alt"
+msgid "Photo of"
+msgstr ""
+
+#. facet_picture
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:37
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:facet_picture"
+msgid "Photo"
+msgstr ""
+
+#. facet_name
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:38
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:facet_name"
+msgid "Name"
+msgstr ""
+
+#. facet_userId
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:39
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:facet_userId"
+msgid "User ID"
+msgstr ""
+
+#. facet_user_name_pronunciation
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:40
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:facet_user_name_pronunciation"
+msgid "Pronunciation"
+msgstr ""
+
+#. facet_userProperties
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:41
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:facet_userProperties"
+msgid "User Properties"
+msgstr ""
+
+#. facet_email
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:42
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:facet_email"
+msgid "Email"
+msgstr ""
+
+#. facet_role
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:43
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:facet_role"
+msgid "Role"
+msgstr ""
+
+#. facet_status
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:44
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:facet_status"
+msgid "Status"
+msgstr ""
+
+#. facet_credits
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:45
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:facet_credits"
+msgid "Credits"
+msgstr ""
+
+#. facet_groups
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:46
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:facet_groups"
+msgid "Groups"
+msgstr ""
+
+#. facet_roster
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:47
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:facet_roster"
+msgid "Roster"
+msgstr ""
+
+#. title_msg_permissions
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:48
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:title_msg_permissions"
+msgid "Define permissions for the roles in the current site."
+msgstr ""
+
+#. no_participants
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:49
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:no_participants"
+msgid "No results found"
+msgstr ""
+
+#. roster_permissions_role
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:50
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:roster_permissions_role"
+msgid "Role"
+msgstr ""
+
+#. roster_save_button
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:51
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:roster_save_button"
+msgid "Save"
+msgstr ""
+
+#. roster_cancel_button
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:52
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:roster_cancel_button"
+msgid "Cancel"
+msgstr ""
+
+#. permissions_header
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:53
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:permissions_header"
+msgid "Permission"
+msgstr ""
+
+#. perm-roster.viewallmembers
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:54
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties"
+":perm-roster.viewallmembers"
+msgid "View all participants"
+msgstr ""
+
+#. perm-roster.viewhidden
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:55
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties"
+":perm-roster.viewhidden"
+msgid "View hidden participants"
+msgstr ""
+
+#. perm-roster.export
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:56
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties"
+":perm-roster.export"
+msgid "Export roster"
+msgstr ""
+
+#. perm-roster.viewgroup
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:57
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties"
+":perm-roster.viewgroup"
+msgid "View groups"
+msgstr ""
+
+#. perm-roster.viewenrollmentstatus
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:58
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties"
+":perm-roster.viewenrollmentstatus"
+msgid "View participant's enrollment status"
+msgstr ""
+
+#. perm-roster.viewprofile
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:59
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties"
+":perm-roster.viewprofile"
+msgid "View participant's profile"
+msgstr ""
+
+#. perm-roster.viewemail
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:60
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties"
+":perm-roster.viewemail"
+msgid "View participant's email"
+msgstr ""
+
+#. perm-roster.viewofficialphoto
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:61
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties"
+":perm-roster.viewofficialphoto"
+msgid "View participant's official photo"
+msgstr ""
+
+#. perm-roster.viewsitevisits
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:62
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties"
+":perm-roster.viewsitevisits"
+msgid "View participant's site visits"
+msgstr ""
+
+#. perm-roster.viewuserproperties
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:63
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties"
+":perm-roster.viewuserproperties"
+msgid "View participant's properties"
+msgstr ""
+
+#. groups
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:64
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:groups"
+msgid "Group"
+msgstr ""
+
+#. roles_label
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:65
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:roles_label"
+msgid "Role"
+msgstr ""
+
+#. total_visits
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:66
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:total_visits"
+msgid "Total Visits"
+msgstr ""
+
+#. last_visit
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:67
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:last_visit"
+msgid "Last Visit"
+msgstr ""
+
+#. months
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:68
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:months"
+msgid "Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec"
+msgstr ""
+
+#. no_visits_yet
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:69
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:no_visits_yet"
+msgid "None yet"
+msgstr ""
+
+#. screenreader_comboBox
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:70
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:screenreader_comboBox"
+msgid ""
+"To operate the combo box, first press Alt+Down Arrow to open it, and then "
+"use the up and down arrow keys to scroll through the options."
+msgstr ""
+
+#. name_pronunciation_not_provided
+#: roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:71
+msgctxt ""
+"roster2/bundle/src/bundle/org/sakaiproject/roster/bundle/Messages.properties:name_pronunciation_not_provided"
+msgid "[Not Provided]"
+msgstr ""

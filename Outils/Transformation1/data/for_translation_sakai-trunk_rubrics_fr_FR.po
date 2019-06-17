@@ -1,0 +1,344 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: TMX Project 0.1a\n"
+"Report-Msgid-Bugs-To: ddeguchi@nagoya-u.jp\n"
+"POT-Creation-Date: 2019-06-17 04:37+00:00\n"
+"PO-Revision-Date: 2017-05-10 07:51+0000\n"
+"Language-Team: French (France) (https://www.transifex.com/apereo/teams/29702/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. grading_rubric
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:1
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:grading_rubric"
+msgid "Grading Rubric"
+msgstr ""
+
+#. rubric
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:2
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:rubric"
+msgid "rubric"
+msgstr ""
+
+#. criterion
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:3
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:criterion"
+msgid "criterion"
+msgstr ""
+
+#. rating
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:4
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:rating"
+msgid "rating"
+msgstr ""
+
+#. rubric_title
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:5
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:rubric_title"
+msgid "Rubric Title"
+msgstr ""
+
+#. manage_rubrics
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:6
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:manage_rubrics"
+msgid "Manage Rubrics"
+msgstr ""
+
+#. add_rubric
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:7
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:add_rubric"
+msgid "Add Rubric"
+msgstr ""
+
+#. toggle_details
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:8
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:toggle_details"
+msgid "Toggle details for"
+msgstr ""
+
+#. edit_rubric
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:9
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:edit_rubric"
+msgid "Edit Rubric"
+msgstr ""
+
+#. edit_criterion
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:10
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:edit_criterion"
+msgid "Edit Criterion"
+msgstr ""
+
+#. edit_rating
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:11
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:edit_rating"
+msgid "Edit Rating"
+msgstr ""
+
+#. copy
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:12
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:copy"
+msgid "Copy"
+msgstr ""
+
+#. remove
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:13
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:remove"
+msgid "Remove {}"
+msgstr ""
+
+#. remove_label
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:14
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:remove_label"
+msgid "Remove"
+msgstr ""
+
+#. cancel
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:15
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:cancel"
+msgid "Cancel"
+msgstr ""
+
+#. save
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:16
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:save"
+msgid "Save"
+msgstr ""
+
+#. done
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:17
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:done"
+msgid "Done"
+msgstr ""
+
+#. total
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:18
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:total"
+msgid "Total"
+msgstr ""
+
+#. confirm_remove
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:19
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:confirm_remove"
+msgid "Are you sure you want to remove"
+msgstr ""
+
+#. is_locked
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:20
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:is_locked"
+msgid "is locked"
+msgstr ""
+
+#. points
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:21
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:points"
+msgid "Points"
+msgstr ""
+
+#. add_criterion
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:22
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:add_criterion"
+msgid "Add Criterion"
+msgstr ""
+
+#. add_rating
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:23
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:add_rating"
+msgid "Add rating to"
+msgstr ""
+
+#. rating_title
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:24
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:rating_title"
+msgid "Rating Title"
+msgstr ""
+
+#. rating_description
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:25
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:rating_description"
+msgid "Rating Description"
+msgstr ""
+
+#. drag_order
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:26
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:drag_order"
+msgid "Drag to reorder"
+msgstr ""
+
+#. criterion_title
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:27
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:criterion_title"
+msgid "Criterion Title"
+msgstr ""
+
+#. criterion_description
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:28
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:criterion_description"
+msgid "Criterion Description"
+msgstr ""
+
+#. preview_rubric
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:29
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:preview_rubric"
+msgid "Preview Rubric"
+msgstr ""
+
+#. point_override_details
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:30
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:point_override_details"
+msgid ""
+"Fine tune points by entering a number and overriding the selected rating "
+"points"
+msgstr ""
+
+#. criterion_comment
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:31
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:criterion_comment"
+msgid "Leave a comment about this criterion for the student"
+msgstr ""
+
+#. criterion_comment_student
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:32
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:criterion_comment_student"
+msgid "Instructor comment about this criterion"
+msgstr ""
+
+#. comment_for_criterion
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:33
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:comment_for_criterion"
+msgid "Comment for {}"
+msgstr ""
+
+#. site_rubrics
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:34
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:site_rubrics"
+msgid "Site Rubrics"
+msgstr ""
+
+#. shared_rubrics
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:35
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:shared_rubrics"
+msgid "Shared Rubrics"
+msgstr ""
+
+#. toggle_site_rubrics
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:36
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:toggle_site_rubrics"
+msgid "Toggle Site Rubrics"
+msgstr ""
+
+#. toggle_shared_rubrics
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:37
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:toggle_shared_rubrics"
+msgid "Toggle Shared Rubrics"
+msgstr ""
+
+#. copy_to_site
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:38
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:copy_to_site"
+msgid "Copy {} to site list"
+msgstr ""
+
+#. site_title
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:39
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:site_title"
+msgid "Origin"
+msgstr ""
+
+#. creator_name
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:40
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:creator_name"
+msgid "Author"
+msgstr ""
+
+#. modified
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:41
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:modified"
+msgid "Modified"
+msgstr ""
+
+#. actions
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:42
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:actions"
+msgid "Actions"
+msgstr ""
+
+#. share
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:43
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:share"
+msgid "Share {}"
+msgstr ""
+
+#. share_label
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:44
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:share_label"
+msgid "Share"
+msgstr ""
+
+#. revoke
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:45
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:revoke"
+msgid "Revoke sharing for {}"
+msgstr ""
+
+#. revoke_label
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:46
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:revoke_label"
+msgid "Revoke"
+msgstr ""
+
+#. no_rubrics
+#: rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:47
+msgctxt ""
+"rubrics/api/src/main/bundle/org/sakaiproject/rubrics/bundle/Messages.properties:no_rubrics"
+msgid "No rubrics have been created."
+msgstr ""

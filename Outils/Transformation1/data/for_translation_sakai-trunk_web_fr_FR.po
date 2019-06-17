@@ -1,0 +1,556 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: sakai-trunk\n"
+"Report-Msgid-Bugs-To: ddeguchi@nagoya-u.jp\n"
+"POT-Creation-Date: 2019-06-17 04:37+00:00\n"
+"PO-Revision-Date: 2014-10-30 04:56+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: French (France) (http://www.transifex.com/apereo/sakai-trunk/language/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. webcontent
+#: web/web-tool/tool/src/bundle/webcontent.properties:1
+msgctxt "web/web-tool/tool/src/bundle/webcontent.properties:webcontent"
+msgid "Represents the Web Content tool"
+msgstr ""
+
+#. webcontent.action.site
+#: web/web-tool/tool/src/bundle/webcontent.properties:2
+msgctxt ""
+"web/web-tool/tool/src/bundle/webcontent.properties:webcontent.action.site"
+msgid "Gets all of the web content items for the given site"
+msgstr ""
+
+#. gen.alert
+#: web/web-tool/tool/src/bundle/iframe.properties:1
+msgctxt "web/web-tool/tool/src/bundle/iframe.properties:gen.alert"
+msgid "Alert:"
+msgstr ""
+
+#. gen.custom
+#: web/web-tool/tool/src/bundle/iframe.properties:2
+msgctxt "web/web-tool/tool/src/bundle/iframe.properties:gen.custom"
+msgid "Customize Web Content"
+msgstr ""
+
+#. gen.custom.site
+#: web/web-tool/tool/src/bundle/iframe.properties:3
+msgctxt "web/web-tool/tool/src/bundle/iframe.properties:gen.custom.site"
+msgid "Customize Server Info Display"
+msgstr ""
+
+#. gen.custom.worksite
+#: web/web-tool/tool/src/bundle/iframe.properties:4
+msgctxt "web/web-tool/tool/src/bundle/iframe.properties:gen.custom.worksite"
+msgid "Customize Site Info Display"
+msgstr ""
+
+#. gen.custom.annotatedurl
+#: web/web-tool/tool/src/bundle/iframe.properties:5
+msgctxt ""
+"web/web-tool/tool/src/bundle/iframe.properties:gen.custom.annotatedurl"
+msgid "Customize Instruction Info Display"
+msgstr ""
+
+#. gen.custom.workspace
+#: web/web-tool/tool/src/bundle/iframe.properties:6
+msgctxt "web/web-tool/tool/src/bundle/iframe.properties:gen.custom.workspace"
+msgid "Customize Home Info Display"
+msgstr ""
+
+#. gen.height
+#: web/web-tool/tool/src/bundle/iframe.properties:7
+msgctxt "web/web-tool/tool/src/bundle/iframe.properties:gen.height"
+msgid "Frame Height"
+msgstr ""
+
+#. gen.title
+#: web/web-tool/tool/src/bundle/iframe.properties:8
+msgctxt "web/web-tool/tool/src/bundle/iframe.properties:gen.title"
+msgid "Title"
+msgstr ""
+
+#. gen.tootit
+#: web/web-tool/tool/src/bundle/iframe.properties:9
+msgctxt "web/web-tool/tool/src/bundle/iframe.properties:gen.tootit"
+msgid "Tool Title"
+msgstr ""
+
+#. gen.tootit.empty
+#: web/web-tool/tool/src/bundle/iframe.properties:10
+msgctxt "web/web-tool/tool/src/bundle/iframe.properties:gen.tootit.empty"
+msgid "Tool title cannot be empty"
+msgstr ""
+
+#. gen.tootit.toolong
+#: web/web-tool/tool/src/bundle/iframe.properties:11
+msgctxt "web/web-tool/tool/src/bundle/iframe.properties:gen.tootit.toolong"
+msgid "Tool title is too long (max 99 characters)"
+msgstr ""
+
+#. gen.pagtit
+#: web/web-tool/tool/src/bundle/iframe.properties:12
+msgctxt "web/web-tool/tool/src/bundle/iframe.properties:gen.pagtit"
+msgid "Page Title"
+msgstr ""
+
+#. gen.pagtit.empty
+#: web/web-tool/tool/src/bundle/iframe.properties:13
+msgctxt "web/web-tool/tool/src/bundle/iframe.properties:gen.pagtit.empty"
+msgid "Page title cannot be empty"
+msgstr ""
+
+#. gen.pagtit.toolong
+#: web/web-tool/tool/src/bundle/iframe.properties:14
+msgctxt "web/web-tool/tool/src/bundle/iframe.properties:gen.pagtit.toolong"
+msgid "Page title is too long (max 99 characters)"
+msgstr ""
+
+#. gen.url.empty
+#: web/web-tool/tool/src/bundle/iframe.properties:15
+msgctxt "web/web-tool/tool/src/bundle/iframe.properties:gen.url.empty"
+msgid "URL cannot be empty"
+msgstr ""
+
+#. gen.url.invalid
+#: web/web-tool/tool/src/bundle/iframe.properties:16
+msgctxt "web/web-tool/tool/src/bundle/iframe.properties:gen.url.invalid"
+msgid "The URL you entered is not valid."
+msgstr ""
+
+#. gen.url
+#: web/web-tool/tool/src/bundle/iframe.properties:17
+msgctxt "web/web-tool/tool/src/bundle/iframe.properties:gen.url"
+msgid "URL"
+msgstr ""
+
+#. gen.save
+#: web/web-tool/tool/src/bundle/iframe.properties:18
+msgctxt "web/web-tool/tool/src/bundle/iframe.properties:gen.save"
+msgid "Update Options"
+msgstr ""
+
+#. gen.cancel
+#: web/web-tool/tool/src/bundle/iframe.properties:19
+msgctxt "web/web-tool/tool/src/bundle/iframe.properties:gen.cancel"
+msgid "Cancel"
+msgstr ""
+
+#. gen.options
+#: web/web-tool/tool/src/bundle/iframe.properties:20
+msgctxt "web/web-tool/tool/src/bundle/iframe.properties:gen.options"
+msgid "Options"
+msgstr ""
+
+#. gen.description
+#: web/web-tool/tool/src/bundle/iframe.properties:21
+msgctxt "web/web-tool/tool/src/bundle/iframe.properties:gen.description"
+msgid "Description"
+msgstr ""
+
+#. gen.info.url
+#: web/web-tool/tool/src/bundle/iframe.properties:22
+msgctxt "web/web-tool/tool/src/bundle/iframe.properties:gen.info.url"
+msgid "Site Info URL"
+msgstr ""
+
+#. gen.info.url.msg
+#: web/web-tool/tool/src/bundle/iframe.properties:23
+msgctxt "web/web-tool/tool/src/bundle/iframe.properties:gen.info.url.msg"
+msgid "If specified, this URL will be shown instead of the Site description."
+msgstr ""
+
+#. gen.info.url.toolong
+#: web/web-tool/tool/src/bundle/iframe.properties:24
+msgctxt "web/web-tool/tool/src/bundle/iframe.properties:gen.info.url.toolong"
+msgid "Site Info URL is too long (max 255 characters)"
+msgstr ""
+
+#. gen.hei1
+#: web/web-tool/tool/src/bundle/iframe.properties:25
+msgctxt "web/web-tool/tool/src/bundle/iframe.properties:gen.hei1"
+msgid "300 pixels"
+msgstr ""
+
+#. gen.hei2
+#: web/web-tool/tool/src/bundle/iframe.properties:26
+msgctxt "web/web-tool/tool/src/bundle/iframe.properties:gen.hei2"
+msgid "450 pixels"
+msgstr ""
+
+#. gen.hei3
+#: web/web-tool/tool/src/bundle/iframe.properties:27
+msgctxt "web/web-tool/tool/src/bundle/iframe.properties:gen.hei3"
+msgid "600 pixels"
+msgstr ""
+
+#. gen.hei4
+#: web/web-tool/tool/src/bundle/iframe.properties:28
+msgctxt "web/web-tool/tool/src/bundle/iframe.properties:gen.hei4"
+msgid "750 pixels"
+msgstr ""
+
+#. gen.hei5
+#: web/web-tool/tool/src/bundle/iframe.properties:29
+msgctxt "web/web-tool/tool/src/bundle/iframe.properties:gen.hei5"
+msgid "900 pixels"
+msgstr ""
+
+#. gen.hei6
+#: web/web-tool/tool/src/bundle/iframe.properties:30
+msgctxt "web/web-tool/tool/src/bundle/iframe.properties:gen.hei6"
+msgid "1200 pixels"
+msgstr ""
+
+#. gen.hei7
+#: web/web-tool/tool/src/bundle/iframe.properties:31
+msgctxt "web/web-tool/tool/src/bundle/iframe.properties:gen.hei7"
+msgid "1800 pixels"
+msgstr ""
+
+#. gen.hei8
+#: web/web-tool/tool/src/bundle/iframe.properties:32
+msgctxt "web/web-tool/tool/src/bundle/iframe.properties:gen.hei8"
+msgid "2400 pixels"
+msgstr ""
+
+#. gen.heisomelse
+#: web/web-tool/tool/src/bundle/iframe.properties:33
+msgctxt "web/web-tool/tool/src/bundle/iframe.properties:gen.heisomelse"
+msgid "Something else"
+msgstr ""
+
+#. gen.custheight
+#: web/web-tool/tool/src/bundle/iframe.properties:34
+msgctxt "web/web-tool/tool/src/bundle/iframe.properties:gen.custheight"
+msgid "Custom height"
+msgstr ""
+
+#. gen.pixels
+#: web/web-tool/tool/src/bundle/iframe.properties:35
+msgctxt "web/web-tool/tool/src/bundle/iframe.properties:gen.pixels"
+msgid "pixels"
+msgstr ""
+
+#. gen.pixelshid
+#: web/web-tool/tool/src/bundle/iframe.properties:36
+msgctxt "web/web-tool/tool/src/bundle/iframe.properties:gen.pixelshid"
+msgid "(in pixels)"
+msgstr ""
+
+#. gen.info.pop
+#: web/web-tool/tool/src/bundle/iframe.properties:37
+msgctxt "web/web-tool/tool/src/bundle/iframe.properties:gen.info.pop"
+msgid "Open in new window?"
+msgstr ""
+
+#. java.alert.pleentval
+#: web/web-tool/tool/src/bundle/iframe.properties:38
+msgctxt "web/web-tool/tool/src/bundle/iframe.properties:java.alert.pleentval"
+msgid "The height you entered is not valid."
+msgstr ""
+
+#. gen.info.title.message
+#: web/web-tool/tool/src/bundle/iframe.properties:39
+msgctxt ""
+"web/web-tool/tool/src/bundle/iframe.properties:gen.info.title.message"
+msgid "Home Information Message"
+msgstr ""
+
+#. gen.trouble.loading
+#: web/web-tool/tool/src/bundle/iframe.properties:40
+msgctxt "web/web-tool/tool/src/bundle/iframe.properties:gen.trouble.loading"
+msgid "Page launched in a new window."
+msgstr ""
+
+#. new.page.relaunch
+#: web/web-tool/tool/src/bundle/iframe.properties:41
+msgctxt "web/web-tool/tool/src/bundle/iframe.properties:new.page.relaunch"
+msgid "Re-launch page in a new window."
+msgstr ""
+
+#. gen.alert
+#: web/web-portlet/src/bundle/iframe.properties:1
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.alert"
+msgid "Alert:"
+msgstr ""
+
+#. gen.custom
+#: web/web-portlet/src/bundle/iframe.properties:2
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.custom"
+msgid "Customize Web Content"
+msgstr ""
+
+#. gen.custom.site
+#: web/web-portlet/src/bundle/iframe.properties:3
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.custom.site"
+msgid "Customize Server Info Display"
+msgstr ""
+
+#. gen.custom.worksite
+#: web/web-portlet/src/bundle/iframe.properties:4
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.custom.worksite"
+msgid "Customize Site Info Display"
+msgstr ""
+
+#. gen.custom.annotatedurl
+#: web/web-portlet/src/bundle/iframe.properties:5
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.custom.annotatedurl"
+msgid "Customize Instruction Info Display"
+msgstr ""
+
+#. gen.custom.workspace
+#: web/web-portlet/src/bundle/iframe.properties:6
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.custom.workspace"
+msgid "Customize Home Info Display"
+msgstr ""
+
+#. gen.height
+#: web/web-portlet/src/bundle/iframe.properties:7
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.height"
+msgid "Frame Height"
+msgstr ""
+
+#. gen.title
+#: web/web-portlet/src/bundle/iframe.properties:8
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.title"
+msgid "Title"
+msgstr ""
+
+#. gen.fa_icon
+#: web/web-portlet/src/bundle/iframe.properties:9
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.fa_icon"
+msgid "Choose a custom icon "
+msgstr ""
+
+#. gen.tootit
+#: web/web-portlet/src/bundle/iframe.properties:10
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.tootit"
+msgid "Tool Title"
+msgstr ""
+
+#. gen.tootit.empty
+#: web/web-portlet/src/bundle/iframe.properties:11
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.tootit.empty"
+msgid "Tool title cannot be empty"
+msgstr ""
+
+#. gen.tootit.toolong
+#: web/web-portlet/src/bundle/iframe.properties:12
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.tootit.toolong"
+msgid "Tool title is too long (max 99 characters)"
+msgstr ""
+
+#. gen.pagtit
+#: web/web-portlet/src/bundle/iframe.properties:13
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.pagtit"
+msgid "Page Title"
+msgstr ""
+
+#. gen.pagtit.empty
+#: web/web-portlet/src/bundle/iframe.properties:14
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.pagtit.empty"
+msgid "Page title cannot be empty"
+msgstr ""
+
+#. gen.pagtit.toolong
+#: web/web-portlet/src/bundle/iframe.properties:15
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.pagtit.toolong"
+msgid "Page title is too long (max 99 characters)"
+msgstr ""
+
+#. gen.url.empty
+#: web/web-portlet/src/bundle/iframe.properties:16
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.url.empty"
+msgid "URL cannot be empty"
+msgstr ""
+
+#. gen.url.invalid
+#: web/web-portlet/src/bundle/iframe.properties:17
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.url.invalid"
+msgid "The URL you entered is not valid."
+msgstr ""
+
+#. gen.url
+#: web/web-portlet/src/bundle/iframe.properties:18
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.url"
+msgid "URL"
+msgstr ""
+
+#. gen.save
+#: web/web-portlet/src/bundle/iframe.properties:19
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.save"
+msgid "Update Options"
+msgstr ""
+
+#. gen.cancel
+#: web/web-portlet/src/bundle/iframe.properties:20
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.cancel"
+msgid "Cancel"
+msgstr ""
+
+#. gen.options
+#: web/web-portlet/src/bundle/iframe.properties:21
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.options"
+msgid "Options"
+msgstr ""
+
+#. gen.description
+#: web/web-portlet/src/bundle/iframe.properties:22
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.description"
+msgid "Description"
+msgstr ""
+
+#. gen.info.url
+#: web/web-portlet/src/bundle/iframe.properties:23
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.info.url"
+msgid "Site Info URL"
+msgstr ""
+
+#. gen.info.url.msg
+#: web/web-portlet/src/bundle/iframe.properties:24
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.info.url.msg"
+msgid "If specified, this URL will be shown instead of the Site description."
+msgstr ""
+
+#. gen.info.url.toolong
+#: web/web-portlet/src/bundle/iframe.properties:25
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.info.url.toolong"
+msgid "Site Info URL is too long (max 255 characters)"
+msgstr ""
+
+#. gen.hei1
+#: web/web-portlet/src/bundle/iframe.properties:26
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.hei1"
+msgid "300 pixels"
+msgstr ""
+
+#. gen.hei2
+#: web/web-portlet/src/bundle/iframe.properties:27
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.hei2"
+msgid "450 pixels"
+msgstr ""
+
+#. gen.hei3
+#: web/web-portlet/src/bundle/iframe.properties:28
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.hei3"
+msgid "600 pixels"
+msgstr ""
+
+#. gen.hei4
+#: web/web-portlet/src/bundle/iframe.properties:29
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.hei4"
+msgid "750 pixels"
+msgstr ""
+
+#. gen.hei5
+#: web/web-portlet/src/bundle/iframe.properties:30
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.hei5"
+msgid "900 pixels"
+msgstr ""
+
+#. gen.hei6
+#: web/web-portlet/src/bundle/iframe.properties:31
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.hei6"
+msgid "1200 pixels"
+msgstr ""
+
+#. gen.hei7
+#: web/web-portlet/src/bundle/iframe.properties:32
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.hei7"
+msgid "1800 pixels"
+msgstr ""
+
+#. gen.hei8
+#: web/web-portlet/src/bundle/iframe.properties:33
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.hei8"
+msgid "2400 pixels"
+msgstr ""
+
+#. gen.heisomelse
+#: web/web-portlet/src/bundle/iframe.properties:34
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.heisomelse"
+msgid "Something else"
+msgstr ""
+
+#. gen.custheight
+#: web/web-portlet/src/bundle/iframe.properties:35
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.custheight"
+msgid "Custom height"
+msgstr ""
+
+#. gen.pixels
+#: web/web-portlet/src/bundle/iframe.properties:36
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.pixels"
+msgid "pixels"
+msgstr ""
+
+#. gen.pixelshid
+#: web/web-portlet/src/bundle/iframe.properties:37
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.pixelshid"
+msgid "(in pixels)"
+msgstr ""
+
+#. gen.info.pop
+#: web/web-portlet/src/bundle/iframe.properties:38
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.info.pop"
+msgid "Open in new window?"
+msgstr ""
+
+#. gen.popup.info
+#: web/web-portlet/src/bundle/iframe.properties:39
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.popup.info"
+msgid ""
+"Note: Applies only to secure (https://) URLs that allow framing. Most major "
+"websites do not allow framing. A non-secure (http://) URL will always open "
+"in a new window."
+msgstr ""
+
+#. java.alert.pleentval
+#: web/web-portlet/src/bundle/iframe.properties:40
+msgctxt "web/web-portlet/src/bundle/iframe.properties:java.alert.pleentval"
+msgid "The height you entered is not valid."
+msgstr ""
+
+#. gen.info.title.message
+#: web/web-portlet/src/bundle/iframe.properties:41
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.info.title.message"
+msgid "Home Information Message"
+msgstr ""
+
+#. gen.info.maximize
+#: web/web-portlet/src/bundle/iframe.properties:42
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.info.maximize"
+msgid "Launch Maximum Width"
+msgstr ""
+
+#. gen.trouble.loading
+#: web/web-portlet/src/bundle/iframe.properties:43
+msgctxt "web/web-portlet/src/bundle/iframe.properties:gen.trouble.loading"
+msgid "This page seems to have trouble loading."
+msgstr ""
+
+#. new.page.launch
+#: web/web-portlet/src/bundle/iframe.properties:44
+msgctxt "web/web-portlet/src/bundle/iframe.properties:new.page.launch"
+msgid "Page launched in a new window."
+msgstr ""
+
+#. new.page.relaunch
+#: web/web-portlet/src/bundle/iframe.properties:45
+msgctxt "web/web-portlet/src/bundle/iframe.properties:new.page.relaunch"
+msgid "Re-launch page in a new window."
+msgstr ""
+
+#. dissmiss.page.relaunch.message
+#: web/web-portlet/src/bundle/iframe.properties:46
+msgctxt ""
+"web/web-portlet/src/bundle/iframe.properties:dissmiss.page.relaunch.message"
+msgid "Click to dismiss "
+msgstr ""

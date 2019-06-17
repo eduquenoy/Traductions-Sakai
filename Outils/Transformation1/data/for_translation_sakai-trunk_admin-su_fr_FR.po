@@ -1,0 +1,155 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: TMX Project 0.1a\n"
+"Report-Msgid-Bugs-To: ddeguchi@nagoya-u.jp\n"
+"POT-Creation-Date: 2019-06-17 04:37+00:00\n"
+"PO-Revision-Date: 2018-07-26 06:14+0000\n"
+"Language-Team: French (France) (https://www.transifex.com/apereo/teams/29702/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. tool_title
+#: admin-su/src/bundle/tool-tool-su.properties:1
+msgctxt "admin-su/src/bundle/tool-tool-su.properties:tool_title"
+msgid "Become User"
+msgstr ""
+
+#. title
+#: admin-su/src/bundle/tool-tool-su.properties:2
+msgctxt "admin-su/src/bundle/tool-tool-su.properties:title"
+msgid "Become User"
+msgstr ""
+
+#. refresh
+#: admin-su/src/bundle/tool-tool-su.properties:3
+msgctxt "admin-su/src/bundle/tool-tool-su.properties:refresh"
+msgid "refresh"
+msgstr ""
+
+#. help
+#: admin-su/src/bundle/tool-tool-su.properties:4
+msgctxt "admin-su/src/bundle/tool-tool-su.properties:help"
+msgid "help"
+msgstr ""
+
+#. instructions
+#: admin-su/src/bundle/tool-tool-su.properties:5
+msgctxt "admin-su/src/bundle/tool-tool-su.properties:instructions"
+msgid "Enter a user id below and click \"Become user\" to login as that user."
+msgstr ""
+
+#. unauthorized
+#: admin-su/src/bundle/tool-tool-su.properties:6
+msgctxt "admin-su/src/bundle/tool-tool-su.properties:unauthorized"
+msgid "You must be an administrator to become another user."
+msgstr ""
+
+#. unauthorized_superuser
+#: admin-su/src/bundle/tool-tool-su.properties:7
+msgctxt "admin-su/src/bundle/tool-tool-su.properties:unauthorized_superuser"
+msgid "You can not become an administrator user."
+msgstr ""
+
+#. unauthorized_da
+#: admin-su/src/bundle/tool-tool-su.properties:8
+msgctxt "admin-su/src/bundle/tool-tool-su.properties:unauthorized_da"
+msgid "You can not become a Delegated Access user."
+msgstr ""
+
+#. unauthorized_danoaccess
+#: admin-su/src/bundle/tool-tool-su.properties:9
+msgctxt "admin-su/src/bundle/tool-tool-su.properties:unauthorized_danoaccess"
+msgid ""
+"You can not become a user who isn't a member in one of your Delegated Access"
+" sites."
+msgstr ""
+
+#. instructions_da
+#: admin-su/src/bundle/tool-tool-su.properties:10
+msgctxt "admin-su/src/bundle/tool-tool-su.properties:instructions_da"
+msgid ""
+"You can only choose users who are members of one of your Delegated Access "
+"sites and who are not Delegated Access users."
+msgstr ""
+
+#. userinfoheader
+#: admin-su/src/bundle/tool-tool-su.properties:11
+msgctxt "admin-su/src/bundle/tool-tool-su.properties:userinfoheader"
+msgid "User Information"
+msgstr ""
+
+#. view_user_info_button
+#: admin-su/src/bundle/tool-tool-su.properties:12
+msgctxt "admin-su/src/bundle/tool-tool-su.properties:view_user_info_button"
+msgid "View user info"
+msgstr ""
+
+#. become_user_button
+#: admin-su/src/bundle/tool-tool-su.properties:13
+msgctxt "admin-su/src/bundle/tool-tool-su.properties:become_user_button"
+msgid "Become user"
+msgstr ""
+
+#. return_to_portal
+#: admin-su/src/bundle/tool-tool-su.properties:14
+msgctxt "admin-su/src/bundle/tool-tool-su.properties:return_to_portal"
+msgid "Return to main page"
+msgstr ""
+
+#. no_such_user
+#: admin-su/src/bundle/tool-tool-su.properties:15
+msgctxt "admin-su/src/bundle/tool-tool-su.properties:no_such_user"
+msgid "User account does not exist"
+msgstr ""
+
+#. displaying_info_for
+#: admin-su/src/bundle/tool-tool-su.properties:16
+msgctxt "admin-su/src/bundle/tool-tool-su.properties:displaying_info_for"
+msgid "Displaying user info for"
+msgstr ""
+
+#. name
+#: admin-su/src/bundle/tool-tool-su.properties:17
+msgctxt "admin-su/src/bundle/tool-tool-su.properties:name"
+msgid "Name:"
+msgstr ""
+
+#. email
+#: admin-su/src/bundle/tool-tool-su.properties:18
+msgctxt "admin-su/src/bundle/tool-tool-su.properties:email"
+msgid "Email:"
+msgstr ""
+
+#. type
+#: admin-su/src/bundle/tool-tool-su.properties:19
+msgctxt "admin-su/src/bundle/tool-tool-su.properties:type"
+msgid "Type:"
+msgstr ""
+
+#. created
+#: admin-su/src/bundle/tool-tool-su.properties:20
+msgctxt "admin-su/src/bundle/tool-tool-su.properties:created"
+msgid "Created:"
+msgstr ""
+
+#. eid
+#: admin-su/src/bundle/tool-tool-su.properties:21
+msgctxt "admin-su/src/bundle/tool-tool-su.properties:eid"
+msgid "User Id:"
+msgstr ""
+
+#. id
+#: admin-su/src/bundle/tool-tool-su.properties:22
+msgctxt "admin-su/src/bundle/tool-tool-su.properties:id"
+msgid "Internal Id:"
+msgstr ""
+
+#. already_that_user
+#: admin-su/src/bundle/tool-tool-su.properties:23
+msgctxt "admin-su/src/bundle/tool-tool-su.properties:already_that_user"
+msgid "You are already logged in as user {0}."
+msgstr ""

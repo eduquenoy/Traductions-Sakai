@@ -1,0 +1,3939 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: sakai-trunk\n"
+"Report-Msgid-Bugs-To: ddeguchi@nagoya-u.jp\n"
+"POT-Creation-Date: 2019-06-17 04:37+00:00\n"
+"PO-Revision-Date: 2019-05-08 04:37+0000\n"
+"Last-Translator: spanishsakai <spanishsakai@gmail.com>\n"
+"Language-Team: French (France) (http://www.transifex.com/apereo/sakai-trunk/language/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. app.title
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:1
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:app.title"
+msgid "Gradebook"
+msgstr ""
+
+#. format.date
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:2
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:format.date"
+msgid "MM/dd/yyyy"
+msgstr ""
+
+#. label.date
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:3
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.date"
+msgid "mm/dd/yyyy"
+msgstr ""
+
+#. format.datetime
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:4
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:format.datetime"
+msgid "MM/dd/yyyy HH:mm"
+msgstr ""
+
+#. link.gradebook
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:5
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:link.gradebook"
+msgid "Grades"
+msgstr ""
+
+#. link.gradebook.tooltip
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:6
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:link.gradebook.tooltip"
+msgid "Grades"
+msgstr ""
+
+#. link.settings
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:7
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:link.settings"
+msgid "Settings"
+msgstr ""
+
+#. link.settings.tooltip
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:8
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:link.settings.tooltip"
+msgid "Settings"
+msgstr ""
+
+#. link.importexport
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:9
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:link.importexport"
+msgid "Import / Export"
+msgstr ""
+
+#. link.importexport.tooltip
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:10
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:link.importexport.tooltip"
+msgid "Import /  Export"
+msgstr ""
+
+#. link.permissions
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:11
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:link.permissions"
+msgid "Permissions"
+msgstr ""
+
+#. link.permissions.tooltip
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:12
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:link.permissions.tooltip"
+msgid "Permissions"
+msgstr ""
+
+#. link.screenreader.tabnotselected
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:13
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:link.screenreader.tabnotselected"
+msgid "tab"
+msgstr ""
+
+#. link.screenreader.tabselected
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:14
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:link.screenreader.tabselected"
+msgid "tab selected"
+msgstr ""
+
+#. label.avg
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:15
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.avg"
+msgid "Avg:"
+msgstr ""
+
+#. label.total
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:16
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.total"
+msgid "Total:"
+msgstr ""
+
+#. label.relativeweight
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:17
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.relativeweight"
+msgid "Relative weight:"
+msgstr ""
+
+#. label.due
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:18
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.due"
+msgid "Due:"
+msgstr ""
+
+#. label.category
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:19
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.category"
+msgid "Cat:"
+msgstr ""
+
+#. label.noduedate
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:20
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.noduedate"
+msgid "-"
+msgstr ""
+
+#. label.percentage.valued
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:21
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.percentage.valued"
+msgid "{0}%"
+msgstr ""
+
+#. label.percentage.plain
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:22
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.percentage.plain"
+msgid "%"
+msgstr ""
+
+#. label.category.drophighest
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:23
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.category.drophighest"
+msgid "Drop Highest: {0}"
+msgstr ""
+
+#. label.category.droplowest
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:24
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.category.droplowest"
+msgid "Drop Lowest: {0}"
+msgstr ""
+
+#. label.category.keephighest
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:25
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.category.keephighest"
+msgid "Keep Highest: {0}"
+msgstr ""
+
+#. label.category.dropSeparator
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:26
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.category.dropSeparator"
+msgid "&"
+msgstr ""
+
+#. label.coursegrade.released
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:27
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.coursegrade.released"
+msgid "Course grade has been released to students."
+msgstr ""
+
+#. label.coursegrade.notreleased
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:28
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.coursegrade.notreleased"
+msgid "Course grade has not been released to students."
+msgstr ""
+
+#. label.coursegrade.nopermission
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:29
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.coursegrade.nopermission"
+msgid "-"
+msgstr ""
+
+#. label.coursegrade.editsettings
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:30
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.coursegrade.editsettings"
+msgid "Edit Release Settings"
+msgstr ""
+
+#. label.coursegrade.studentnotreleased
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:31
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.coursegrade.studentnotreleased"
+msgid "Not Yet Released"
+msgstr ""
+
+#. label.gradeitem.externalapplabel
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:32
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.gradeitem.externalapplabel"
+msgid "Gradebook Item coming from {0}"
+msgstr ""
+
+#. label.gradeitem.released
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:33
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.gradeitem.released"
+msgid "Gradebook Item has been released and is visible to students."
+msgstr ""
+
+#. label.gradeitem.notreleased
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:34
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.gradeitem.notreleased"
+msgid "Gradebook item is not visible to students."
+msgstr ""
+
+#. label.gradeitem.counted
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:35
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.gradeitem.counted"
+msgid "Gradebook Item is included in the course grade calculation."
+msgstr ""
+
+#. label.gradeitem.notcounted
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:36
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.gradeitem.notcounted"
+msgid "Gradebook Item not included in course grade calculation."
+msgstr ""
+
+#. label.gradeitem.extracredit
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:37
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.gradeitem.extracredit"
+msgid "This is an Extra Credit Gradebook Item"
+msgstr ""
+
+#. label.gradeitem.extracreditcategory
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:38
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.gradeitem.extracreditcategory"
+msgid "This is an Extra Credit Category"
+msgstr ""
+
+#. label.gradeitem.categoryaverage
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:39
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.gradeitem.categoryaverage"
+msgid "{0} Weighted Average"
+msgstr ""
+
+#. label.gradeitem.categoryaveragelabel
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:40
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.gradeitem.categoryaveragelabel"
+msgid "Weighted Average"
+msgstr ""
+
+#. label.gradeitem.categoryheadertooltip
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:41
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.gradeitem.categoryheadertooltip"
+msgid "Category: {0}"
+msgstr ""
+
+#. label.gradeitem.categoryweight
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:42
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.gradeitem.categoryweight"
+msgid "Category weight"
+msgstr ""
+
+#. label.gradeitem.categoryandweightheadertooltip
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:43
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.gradeitem.categoryandweightheadertooltip"
+msgid "Category: {0}, Weight: {1}"
+msgstr ""
+
+#. label.toolbar.toggleitems
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:44
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.toolbar.toggleitems"
+msgid "View Columns"
+msgstr ""
+
+#. label.toolbar.togglecategories
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:45
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.toolbar.togglecategories"
+msgid "Group By Category"
+msgstr ""
+
+#. label.toolbar.sortgradeitems
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:46
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.toolbar.sortgradeitems"
+msgid "Item Order"
+msgstr ""
+
+#. label.toolbar.gradeitemsummary
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:47
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.toolbar.gradeitemsummary"
+msgid ""
+"Showing <span class='gb-item-summary-counts'><span "
+"class='visible'>{0}</span> of <span class='total'>{1}</span></span> columns"
+msgstr ""
+
+#. label.toolbar.gradeitemsummary-tooltip
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:48
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.toolbar"
+".gradeitemsummary-tooltip"
+msgid ""
+"Showing {0} of {1} columns ({2} of {3} items, {4} of {5} category averages)"
+msgstr ""
+
+#. label.toolbar.studentsummarypaginated
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:49
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.toolbar.studentsummarypaginated"
+msgid "Showing {0} to {1} of {2} students"
+msgstr ""
+
+#. label.toolbar.studentsummary
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:50
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.toolbar.studentsummary"
+msgid ""
+"Showing <span class='gb-student-summary-counts'><span "
+"class=\"visible\">{0}</span></span> students"
+msgstr ""
+
+#. label.toolbar.gradeitemshowall
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:51
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.toolbar.gradeitemshowall"
+msgid "Show All"
+msgstr ""
+
+#. label.toolbar.gradeitemhideall
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:52
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.toolbar.gradeitemhideall"
+msgid "Hide All"
+msgstr ""
+
+#. label.toolbar.gradeitemshowthiscategory
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:53
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.toolbar.gradeitemshowthiscategory"
+msgid "Show this category"
+msgstr ""
+
+#. label.toolbar.gradeitemhidethiscategory
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:54
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.toolbar.gradeitemhidethiscategory"
+msgid "Hide this category"
+msgstr ""
+
+#. label.toolbar.gradeitemshowonlythiscategory
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:55
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.toolbar.gradeitemshowonlythiscategory"
+msgid "Show only this category"
+msgstr ""
+
+#. label.toolbar.gradeitemshowthisitem
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:56
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.toolbar.gradeitemshowthisitem"
+msgid "Show this item"
+msgstr ""
+
+#. label.toolbar.gradeitemhidethisitem
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:57
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.toolbar.gradeitemhidethisitem"
+msgid "Hide this item"
+msgstr ""
+
+#. label.toolbar.gradeitemshowonlythisitem
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:58
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.toolbar.gradeitemshowonlythisitem"
+msgid "Show only this item"
+msgstr ""
+
+#. label.toolbar.categoryscorelabel
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:59
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.toolbar.categoryscorelabel"
+msgid "{0} Score"
+msgstr ""
+
+#. label.toolbar.gradeitemshowonlythiscategoryscore
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:60
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.toolbar.gradeitemshowonlythiscategoryscore"
+msgid "Show only this column"
+msgstr ""
+
+#. label.toolbar.gradeitemshowthiscategoryscore
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:61
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.toolbar.gradeitemshowthiscategoryscore"
+msgid "Show this column"
+msgstr ""
+
+#. label.toolbar.gradeitemhidethiscategoryscore
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:62
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.toolbar.gradeitemhidethiscategoryscore"
+msgid "Hide this column"
+msgstr ""
+
+#. label.toolbar.categorygroup.menulabel
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:63
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.toolbar.categorygroup.menulabel"
+msgid "Open menu for this category column"
+msgstr ""
+
+#. label.toolbar.gradeitem.menulabel
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:64
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.toolbar.gradeitem.menulabel"
+msgid "Open menu for this Gradebook Item column"
+msgstr ""
+
+#. label.toolbar.categoryaverage.menulabel
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:65
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.toolbar.categoryaverage.menulabel"
+msgid "Open menu for this category score column"
+msgstr ""
+
+#. label.toolbar.togglehelp
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:66
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.toolbar.togglehelp"
+msgid "Toggle grade table and keyboard navigation help"
+msgstr ""
+
+#. label.toolbar.bulkedit
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:67
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.toolbar.bulkedit"
+msgid "Bulk Edit"
+msgstr ""
+
+#. label.concurrentuserwarning
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:68
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.concurrentuserwarning"
+msgid ""
+"Please be aware a colleague has just made some changes to this "
+"Gradebook.<br>Refresh your page often to ensure you have the latest values."
+msgstr ""
+
+#. error.concurrentedit
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:69
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:error.concurrentedit"
+msgid ""
+"Concurrent edits have been detected. Refresh the tool to see the latest "
+"scores."
+msgstr ""
+
+#. column.header.section
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:70
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:column.header.section"
+msgid "Section"
+msgstr ""
+
+#. column.header.students
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:71
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:column.header.students"
+msgid "Students"
+msgstr ""
+
+#. column.header.studentNumber
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:72
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:column.header.studentNumber"
+msgid "Number"
+msgstr ""
+
+#. column.header.sections
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:73
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:column.header.sections"
+msgid "Sections"
+msgstr ""
+
+#. column.header.coursegrade
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:74
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:column.header.coursegrade"
+msgid "Course Grade"
+msgstr ""
+
+#. filter.students
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:75
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:filter.students"
+msgid "Filter students"
+msgstr ""
+
+#. filter.studentsclear
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:76
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:filter.studentsclear"
+msgid "Clear student filter"
+msgstr ""
+
+#. filter.groups
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:77
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:filter.groups"
+msgid "Filter by group/section"
+msgstr ""
+
+#. button.addgradeitem
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:78
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:button.addgradeitem"
+msgid "Add Gradebook Item"
+msgstr ""
+
+#. button.savechanges
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:79
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:button.savechanges"
+msgid "Save Changes"
+msgstr ""
+
+#. button.cancel
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:80
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:button.cancel"
+msgid "Cancel"
+msgstr ""
+
+#. button.done
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:81
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:button.done"
+msgid "Done"
+msgstr ""
+
+#. button.update
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:82
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:button.update"
+msgid "Update"
+msgstr ""
+
+#. button.savecomment
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:83
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:button.savecomment"
+msgid "Save Comment"
+msgstr ""
+
+#. button.saverubricgrading
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:84
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:button.saverubricgrading"
+msgid "Save Rubric Grading"
+msgstr ""
+
+#. button.deleteitem
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:85
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:button.deleteitem"
+msgid "Delete"
+msgstr ""
+
+#. button.create
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:86
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:button.create"
+msgid "Create"
+msgstr ""
+
+#. button.clear
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:87
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:button.clear"
+msgid "Clear Changes"
+msgstr ""
+
+#. button.defaults
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:88
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:button.defaults"
+msgid "Revert to Default"
+msgstr ""
+
+#. button.remove
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:89
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:button.remove"
+msgid "Remove"
+msgstr ""
+
+#. button.settingsexpandall
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:90
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:button.settingsexpandall"
+msgid "Expand All"
+msgstr ""
+
+#. button.settingscollapseall
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:91
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:button.settingscollapseall"
+msgid "Collapse All"
+msgstr ""
+
+#. button.saveoverride
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:92
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:button.saveoverride"
+msgid "Save Course Grade Override"
+msgstr ""
+
+#. button.print
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:93
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:button.print"
+msgid "Print"
+msgstr ""
+
+#. heading.addgradeitem
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:94
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:heading.addgradeitem"
+msgid "Add Gradebook Item"
+msgstr ""
+
+#. heading.editgradeitem
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:95
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:heading.editgradeitem"
+msgid "Edit Gradebook Item"
+msgstr ""
+
+#. heading.studentsummary
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:96
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:heading.studentsummary"
+msgid "Grade Summary for {0} ({1})"
+msgstr ""
+
+#. heading.updateungradeditems
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:97
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:heading.updateungradeditems"
+msgid "Set Score for Empty Cells"
+msgstr ""
+
+#. heading.gradelog
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:98
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:heading.gradelog"
+msgid "Grade Log for {0} ({1})"
+msgstr ""
+
+#. heading.editcomment
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:99
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:heading.editcomment"
+msgid "Comment for {0} ({1}) - {2}"
+msgstr ""
+
+#. heading.studentpage
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:100
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:heading.studentpage"
+msgid "Grade Report for {0}"
+msgstr ""
+
+#. heading.coursegrade
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:101
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:heading.coursegrade"
+msgid "Course Grade Override for {0} ({1})"
+msgstr ""
+
+#. heading.coursegradelog
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:102
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:heading.coursegradelog"
+msgid "Course Grade Override Log for {0} ({1})"
+msgstr ""
+
+#. heading.zeroungradeditems
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:103
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:heading.zeroungradeditems"
+msgid "Set zero score for empty cells"
+msgstr ""
+
+#. formatter.studentname.LAST_NAME
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:104
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:formatter.studentname.LAST_NAME"
+msgid "%s, %s"
+msgstr ""
+
+#. formatter.studentname.FIRST_NAME
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:105
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:formatter.studentname.FIRST_NAME"
+msgid "%s %s"
+msgstr ""
+
+#. label.addgradeitem.title
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:106
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.addgradeitem.title"
+msgid "Title"
+msgstr ""
+
+#. label.addgradeitem.points
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:107
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.addgradeitem.points"
+msgid "Point value"
+msgstr ""
+
+#. label.addgradeitem.percentage
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:108
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.addgradeitem.percentage"
+msgid "Relative weight"
+msgstr ""
+
+#. label.addgradeitem.extracredit
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:109
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.addgradeitem.extracredit"
+msgid "Extra credit"
+msgstr ""
+
+#. label.addgradeitem.due
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:110
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.addgradeitem.due"
+msgid "Due date"
+msgstr ""
+
+#. label.addgradeitem.due.help
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:111
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.addgradeitem.due.help"
+msgid "Select a date"
+msgstr ""
+
+#. label.addgradeitem.category
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:112
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.addgradeitem.category"
+msgid "Category"
+msgstr ""
+
+#. label.addgradeitem.nocategoryassigned
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:113
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.addgradeitem.nocategoryassigned"
+msgid ""
+"Items not assigned to a category will not count toward the course grade."
+msgstr ""
+
+#. label.addgradeitem.release
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:114
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.addgradeitem.release"
+msgid "Release item to students?"
+msgstr ""
+
+#. label.addgradeitem.include
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:115
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.addgradeitem.include"
+msgid "Include item in course grade calculations?"
+msgstr ""
+
+#. label.addgradeitem.nocategories
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:116
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.addgradeitem.nocategories"
+msgid "Categories have not been configured."
+msgstr ""
+
+#. label.addgradeitem.categorywithweight
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:117
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.addgradeitem.categorywithweight"
+msgid "{0} ({1})"
+msgstr ""
+
+#. label.addgradeitem.createanother
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:118
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.addgradeitem.createanother"
+msgid "Create Another"
+msgstr ""
+
+#. label.addgradeitem.scalegrades
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:119
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.addgradeitem.scalegrades"
+msgid "Scale existing grades?"
+msgstr ""
+
+#. label.addgradeitem.highlight.title
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:120
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.addgradeitem.highlight.title"
+msgid "This is your new gradebook item"
+msgstr ""
+
+#. label.addgradeitem.highlight.message
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:121
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.addgradeitem.highlight.message"
+msgid "Click here to start grading"
+msgstr ""
+
+#. error.addgradeitem.points
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:122
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:error.addgradeitem.points"
+msgid "Points required and must be a number greater than zero."
+msgstr ""
+
+#. error.addgradeitem.title
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:123
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:error.addgradeitem.title"
+msgid "Title required and must be unique."
+msgstr ""
+
+#. error.addgradeitem.title.duplicate
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:124
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:error.addgradeitem.title.duplicate"
+msgid "The title ''{0}'' is a duplicate. Titles must be unique."
+msgstr ""
+
+#. error.addgradeitem.duedate
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:125
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:error.addgradeitem.duedate"
+msgid "The Due Date is not in the correct format, please use the time picker."
+msgstr ""
+
+#. error.addgradeitem.exception
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:126
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:error.addgradeitem.exception"
+msgid "Error creating Assignment."
+msgstr ""
+
+#. notification.addgradeitem.success
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:127
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:notification.addgradeitem.success"
+msgid "Gradebook item ''{0}'' has been created."
+msgstr ""
+
+#. info.edit_assignment_external_items
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:128
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:info.edit_assignment_external_items"
+msgid ""
+"Please go to {0} to edit the title, points, and due date, or to remove the "
+"item from the Gradebook."
+msgstr ""
+
+#. label.editgradeitem.title
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:129
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.editgradeitem.title"
+msgid "Title"
+msgstr ""
+
+#. label.editgradeitem.points
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:130
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.editgradeitem.points"
+msgid "Point value"
+msgstr ""
+
+#. label.editgradeitem.extracredit
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:131
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.editgradeitem.extracredit"
+msgid "Extra credit"
+msgstr ""
+
+#. label.editgradeitem.due
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:132
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.editgradeitem.due"
+msgid "Due date"
+msgstr ""
+
+#. label.editgradeitem.due.help
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:133
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.editgradeitem.due.help"
+msgid "Select a date"
+msgstr ""
+
+#. label.editgradeitem.category
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:134
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.editgradeitem.category"
+msgid "Category"
+msgstr ""
+
+#. label.editgradeitem.release
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:135
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.editgradeitem.release"
+msgid "Release item to students?"
+msgstr ""
+
+#. label.editgradeitem.include
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:136
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.editgradeitem.include"
+msgid "Include item in course grade calculations?"
+msgstr ""
+
+#. rubrics.dont_associate_label
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:137
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:rubrics.dont_associate_label"
+msgid "Do not use a rubric to grade this assignment"
+msgstr ""
+
+#. rubrics.associate_label
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:138
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:rubrics.associate_label"
+msgid "Use the following rubric to grade this assignment"
+msgstr ""
+
+#. rubrics.option_pointsoverride
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:139
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:rubrics.option_pointsoverride"
+msgid "Adjust individual student scores"
+msgstr ""
+
+#. rubrics.option_hidepoints
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:140
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:rubrics.option_hidepoints"
+msgid "Hide point values (feedback only)"
+msgstr ""
+
+#. rubrics.option_studentpreview
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:141
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:rubrics.option_studentpreview"
+msgid "Hide Rubric from student"
+msgstr ""
+
+#. rubrics.grading_rubric
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:142
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:rubrics.grading_rubric"
+msgid "Grading Rubric "
+msgstr ""
+
+#. rubrics.option.graderubric
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:143
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:rubrics.option.graderubric"
+msgid "Grade Rubric"
+msgstr ""
+
+#. rubrics.option.graderubric.for
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:144
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:rubrics.option.graderubric.for"
+msgid "Grade Rubric for {0} ({1})"
+msgstr ""
+
+#. rubrics.browse_grading_criteria
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:145
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:rubrics.browse_grading_criteria"
+msgid "Browse grading criteria"
+msgstr ""
+
+#. rubrics.grading_criteria
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:146
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:rubrics.grading_criteria"
+msgid "Grading criteria"
+msgstr ""
+
+#. rubrics.question_use_rubric
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:147
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:rubrics.question_use_rubric"
+msgid "This question could be graded using a Rubric"
+msgstr ""
+
+#. label.updateungradeditems.instructions.1
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:148
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.updateungradeditems.instructions.1"
+msgid ""
+"Provide a value below to override all currently ungraded (i.e., empty) "
+"cells."
+msgstr ""
+
+#. label.updateungradeditems.instructions.2
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:149
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.updateungradeditems.instructions.2"
+msgid ""
+"<b>Note:</b> The value below will only apply to <b>ungraded scores</b> "
+"within this Gradebook Item, and will not affect existing scores that have "
+"been entered. <b>This can not be undone!</b>"
+msgstr ""
+
+#. label.updateungradeditems.grade
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:150
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.updateungradeditems.grade"
+msgid "Grade Override"
+msgstr ""
+
+#. label.updateungradeditems.confirmation.title
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:151
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.updateungradeditems.confirmation.title"
+msgid "Set Score Confirmation"
+msgstr ""
+
+#. label.updateungradeditems.confirmation.general
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:152
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.updateungradeditems.confirmation.general"
+msgid ""
+"This action will apply the score <strong>{0}</strong> to students in "
+"<strong>{1}</strong>."
+msgstr ""
+
+#. label.updateungradeditems.confirmation.extracredit
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:153
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.updateungradeditems.confirmation.extracredit"
+msgid ""
+"The supplied score is in excess of the maximum point value for this "
+"Gradebook item. Do you want to continue?"
+msgstr ""
+
+#. label.updateungradeditems.confirmation.continue
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:154
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.updateungradeditems.confirmation.continue"
+msgid "Continue"
+msgstr ""
+
+#. label.updateungradeditems.confirmation.cancel
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:155
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.updateungradeditems.confirmation.cancel"
+msgid "Cancel"
+msgstr ""
+
+#. label.updateungradeditems.groups
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:156
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.updateungradeditems.groups"
+msgid "Group / Section"
+msgstr ""
+
+#. label.studentsummary.coursegrade
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:157
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.studentsummary.coursegrade"
+msgid "Course Grade:"
+msgstr ""
+
+#. label.studentsummary.gradeitems
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:158
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.studentsummary.gradeitems"
+msgid "Gradebook Items"
+msgstr ""
+
+#. label.studentsummary.outof
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:159
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.studentsummary.outof"
+msgid "/{0}"
+msgstr ""
+
+#. label.studentsummary.coursegrade.display
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:160
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.studentsummary.coursegrade.display"
+msgid "{0} ({1})"
+msgstr ""
+
+#. label.studentsummary.coursegrade.none
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:161
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.studentsummary.coursegrade.none"
+msgid "Not yet available"
+msgstr ""
+
+#. label.studentsummary.noduedate
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:162
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.studentsummary.noduedate"
+msgid "-"
+msgstr ""
+
+#. label.studentsummary.instructorviewtab
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:163
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.studentsummary.instructorviewtab"
+msgid "Grade Summary"
+msgstr ""
+
+#. label.studentsummary.studentviewtab
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:164
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.studentsummary.studentviewtab"
+msgid "Student Review Mode"
+msgstr ""
+
+#. label.studentsummary.expandall
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:165
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.studentsummary.expandall"
+msgid "Expand All"
+msgstr ""
+
+#. label.studentsummary.collapseall
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:166
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.studentsummary.collapseall"
+msgid "Collapse All"
+msgstr ""
+
+#. label.studentsummary.previous
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:167
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.studentsummary.previous"
+msgid "Previous Student"
+msgstr ""
+
+#. label.studentsummary.next
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:168
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.studentsummary.next"
+msgid "Next Student"
+msgstr ""
+
+#. label.studentsummary.coursegradenotreleased
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:169
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.studentsummary.coursegradenotreleased"
+msgid "Not Yet Released"
+msgstr ""
+
+#. label.studentsummary.coursegradenotreleasedflag
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:170
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.studentsummary.coursegradenotreleasedflag"
+msgid "Not released to students*"
+msgstr ""
+
+#. label.studentsummary.coursegradenotreleasedmessage
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:171
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.studentsummary.coursegradenotreleasedmessage"
+msgid ""
+"* To release final course grade to students, go to Settings and select "
+"\"Display Final Course Grades to Students\"."
+msgstr ""
+
+#. label.studentsummary.categoryweight
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:172
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.studentsummary.categoryweight"
+msgid "({0})"
+msgstr ""
+
+#. label.studentsummary.closeconfirmation.title
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:173
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.studentsummary.closeconfirmation.title"
+msgid "You are about to leave Student Review mode."
+msgstr ""
+
+#. label.studentsummary.closeconfirmation.content
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:174
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.studentsummary.closeconfirmation.content"
+msgid "Unreleased grades and other students' data will become visible."
+msgstr ""
+
+#. label.studentsummary.closeconfirmation.continue
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:175
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.studentsummary.closeconfirmation.continue"
+msgid "Continue"
+msgstr ""
+
+#. label.studentsummary.closeconfirmation.cancel
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:176
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.studentsummary.closeconfirmation.cancel"
+msgid "Cancel"
+msgstr ""
+
+#. column.header.studentsummary.gradebookitem
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:177
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:column.header.studentsummary.gradebookitem"
+msgid "Gradebook Item"
+msgstr ""
+
+#. column.header.studentsummary.duedate
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:178
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:column.header.studentsummary.duedate"
+msgid "Due Date"
+msgstr ""
+
+#. column.header.studentsummary.grade
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:179
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:column.header.studentsummary.grade"
+msgid "Grade"
+msgstr ""
+
+#. column.header.studentsummary.weight
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:180
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:column.header.studentsummary.weight"
+msgid "Weight"
+msgstr ""
+
+#. column.header.studentsummary.comments
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:181
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:column.header.studentsummary.comments"
+msgid "Comments"
+msgstr ""
+
+#. column.header.studentsummary.category
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:182
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:column.header.studentsummary.category"
+msgid "Category"
+msgstr ""
+
+#. studentsummary.caption
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:183
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:studentsummary.caption"
+msgid ""
+"Rows of gradebook items.  Columns of gradebook item information including "
+"your score."
+msgstr ""
+
+#. studentsummary.categoryrow
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:184
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:studentsummary.categoryrow"
+msgid ""
+"This row signifies a category. Rows directly after are gradebook items "
+"within this category."
+msgstr ""
+
+#. studentsummary.categoryaverage
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:185
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:studentsummary.categoryaverage"
+msgid "The calculated average based on your scores within this category."
+msgstr ""
+
+#. studentsummary.categoryweight
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:186
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:studentsummary.categoryweight"
+msgid ""
+"This weight denotes the percentage the scores within this category will "
+"apply to your final course grade."
+msgstr ""
+
+#. studentsummary.categorytoggle
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:187
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:studentsummary.categorytoggle"
+msgid "Show / hide the gradebook items within this category"
+msgstr ""
+
+#. studentsummary.gradebookitem.score
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:188
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:studentsummary.gradebookitem.score"
+msgid "The score you received for this gradebook item."
+msgstr ""
+
+#. studentsummary.gradebookitem.outof
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:189
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:studentsummary.gradebookitem.outof"
+msgid ""
+"The gradebook item's total points from which your score was marked out of."
+msgstr ""
+
+#. studentsummary.gradebookitem.assignmentstats
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:190
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:studentsummary.gradebookitem.assignmentstats"
+msgid "Display the statistics for this assignment."
+msgstr ""
+
+#. studentsummary.gradebookitem.gradebookstats
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:191
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:studentsummary.gradebookitem.gradebookstats"
+msgid "Display course grade statistics."
+msgstr ""
+
+#. importExport.export.heading
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:192
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.export.heading"
+msgid "Export"
+msgstr ""
+
+#. importExport.export.description
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:193
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.export.description"
+msgid ""
+"Export your Gradebook as a .csv file in order to enter grades/structure your"
+" Gradebook in the spreadsheet application of your choice."
+msgstr ""
+
+#. importExport.instructions.title
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:194
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.instructions.title"
+msgid "Conventions used"
+msgstr ""
+
+#. importExport.instructions.summary
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:195
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.instructions.summary"
+msgid ""
+"The Gradebook exports grades in CSV format only. For importing grades, CSV "
+"is recommended, but XLS, and XLSX files are also supported. The following "
+"conventions are used in the Import/Export process:"
+msgstr ""
+
+#. importExport.instructions.1
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:196
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.instructions.1"
+msgid ""
+"Student ID and Name are the first two columns and must be retained for any "
+"future imports."
+msgstr ""
+
+#. importExport.instructions.2
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:197
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.instructions.2"
+msgid ""
+"Gradebook Items may include points by wrapping the points in [ ] after the "
+"title, e.g. \"Assignment 1 [50]\"."
+msgstr ""
+
+#. importExport.instructions.3
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:198
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.instructions.3"
+msgid ""
+"Comments can be imported by prefixing the column with a *, e.g. \"* "
+"Assignment 1\"."
+msgstr ""
+
+#. importExport.instructions.4
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:199
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.instructions.4"
+msgid "Columns that cannot be re-imported are prefixed with #."
+msgstr ""
+
+#. importExport.download.filenameprefix
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:200
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.download.filenameprefix"
+msgid "gradebook_export"
+msgstr ""
+
+#. importExport.download.filenameallsuffix
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:201
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.download.filenameallsuffix"
+msgid "ALL"
+msgstr ""
+
+#. importExport.import.heading
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:202
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.import.heading"
+msgid "Import"
+msgstr ""
+
+#. importExport.import.description
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:203
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.import.description"
+msgid ""
+"Selectively import new grades or gradebook items by uploading a spreadsheet "
+"(.csv, .xls, and .xlsx formats) below."
+msgstr ""
+
+#. importExport.template.description
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:204
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.template.description"
+msgid ""
+"<strong>Note:</strong> The formatting of the uploaded spreadsheet must match"
+" the conventions detailed below."
+msgstr ""
+
+#. importExport.template.button.fullGradebook
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:205
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.template.button.fullGradebook"
+msgid "Export Gradebook"
+msgstr ""
+
+#. importExport.template.button.customGradebook
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:206
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.template.button.customGradebook"
+msgid "Download Custom Export"
+msgstr ""
+
+#. importExport.template.button.advancedOptions
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:207
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.template.button.advancedOptions"
+msgid "Custom Export"
+msgstr ""
+
+#. importExport.selection.heading
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:208
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.selection.heading"
+msgid "Gradebook Item Import Selection"
+msgstr ""
+
+#. importExport.selection.description
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:209
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.selection.description"
+msgid ""
+"The system has analyzed the contents of your file upload and has identified "
+"new/updated information where applicable. Please select from the desired "
+"items below."
+msgstr ""
+
+#. importExport.selection.note
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:210
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.selection.note"
+msgid ""
+"<strong>Note:</strong> Selecting \"Update\" items will override existing "
+"values for that item."
+msgstr ""
+
+#. importExport.selection.details
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:211
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.selection.details"
+msgid ""
+"If selecting new items, you will need to confirm the settings on the "
+"following screen(s)."
+msgstr ""
+
+#. importExport.selection.checkall
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:212
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.selection.checkall"
+msgid "Check/uncheck all"
+msgstr ""
+
+#. importExport.selection.title
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:213
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.selection.title"
+msgid "Title"
+msgstr ""
+
+#. importExport.selection.points
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:214
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.selection.points"
+msgid "Points"
+msgstr ""
+
+#. importExport.selection.status
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:215
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.selection.status"
+msgid "Status"
+msgstr ""
+
+#. importExport.selection.noneselected
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:216
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.selection.noneselected"
+msgid "You must select at least one item."
+msgstr ""
+
+#. importExport.selection.omissions.missingUsers.header.plural
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:217
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.selection.omissions.missingUsers.header.plural"
+msgid "{0} students in the site were missing from the import file"
+msgstr ""
+
+#. importExport.selection.omissions.missingUsers.header.singular
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:218
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.selection.omissions.missingUsers.header.singular"
+msgid "{0} student in the site was missing from the import file"
+msgstr ""
+
+#. importExport.selection.omissions.unknownUsers.header.plural
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:219
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.selection.omissions.unknownUsers.header.plural"
+msgid "{0} students in the import file could not be found in the site"
+msgstr ""
+
+#. importExport.selection.omissions.unknownUsers.header.singular
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:220
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.selection.omissions.unknownUsers.header.singular"
+msgid "{0} student in the import file could not be found in the site"
+msgstr ""
+
+#. importExport.selection.omissions.unknownUsers.info.plural
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:221
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.selection.omissions.unknownUsers.info.plural"
+msgid "Grade entries for these students will not be imported."
+msgstr ""
+
+#. importExport.selection.omissions.unknownUsers.info.singular
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:222
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.selection.omissions.unknownUsers.info.singular"
+msgid "Grade entries for this student will not be imported."
+msgstr ""
+
+#. importExport.selection.previewGrades.header
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:223
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.selection.previewGrades.header"
+msgid "Preview Grades for '{0}'"
+msgstr ""
+
+#. importExport.selection.previewGrades.studentID.heading
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:224
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.selection.previewGrades.studentID.heading"
+msgid "Student ID"
+msgstr ""
+
+#. importExport.selection.previewGrades.studentName.heading
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:225
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.selection.previewGrades.studentName.heading"
+msgid "Student Name"
+msgstr ""
+
+#. importExport.selection.previewGrades.grade.heading
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:226
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.selection.previewGrades.grade.heading"
+msgid "Grade"
+msgstr ""
+
+#. importExport.error.grade
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:227
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.error.grade"
+msgid "An error occurred importing a grade. Please check the file."
+msgstr ""
+
+#. importExport.commentname
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:228
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.commentname"
+msgid "+ comments"
+msgstr ""
+
+#. importExport.error.incorrecttype
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:229
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.error.incorrecttype"
+msgid "The file you uploaded is not recognised as a CSV or Excel file."
+msgstr ""
+
+#. importExport.error.nullFile
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:230
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.error.nullFile"
+msgid ""
+"The file you have selected is empty or invalid. Please try selecting a "
+"different file."
+msgstr ""
+
+#. importExport.error.pointsmodification
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:231
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.error.pointsmodification"
+msgid "There was an error updating the points for gradebook item \"{0}\"."
+msgstr ""
+
+#. importExport.error.unknown
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:232
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.error.unknown"
+msgid ""
+"There was an error importing the file. Please try again or contact your "
+"local IT Support."
+msgstr ""
+
+#. importExport.error.duplicateColumns
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:233
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.error.duplicateColumns"
+msgid ""
+"The following columns are duplicated in the uploaded file: {0}. Please "
+"remove all duplicate columns and try again."
+msgstr ""
+
+#. importExport.error.invalidColumns
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:234
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.error.invalidColumns"
+msgid ""
+"The following columns are invalid or are not formatted properly: {0}. Please"
+" review the uploaded file."
+msgstr ""
+
+#. importExport.error.blankHeadings
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:235
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.error.blankHeadings"
+msgid ""
+"The uploaded file contains {0} blank column headings. Please ensure each "
+"column has a valid heading and try again."
+msgstr ""
+
+#. importExport.error.invalidGradeData
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:236
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.error.invalidGradeData"
+msgid ""
+"The uploaded file contains invalid grades. {0} Please remove or correct the "
+"invalid data and re-upload the file. The following student/grade pairs in "
+"the file are invalid: {1}"
+msgstr ""
+
+#. importExport.error.invalidComments
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:237
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.error.invalidComments"
+msgid ""
+"The uploaded file contains invalid comments. Comments cannot be longer than "
+"{0} characters. Please remove or correct the invalid data and re-upload the "
+"file. The following gradebook item:student pairs in the file have invalid "
+"comments: {1}"
+msgstr ""
+
+#. importExport.error.noValidStudents
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:238
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.error.noValidStudents"
+msgid ""
+"The uploaded file contains no students that are enrolled in this site. "
+"Importing requires at least one valid student entry in the file."
+msgstr ""
+
+#. importExport.error.duplicateStudents
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:239
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.error.duplicateStudents"
+msgid ""
+"The following students appear multiple times in the uploaded file: {0}. "
+"Please ensure that each student appears only once."
+msgstr ""
+
+#. importExport.error.orphanedComments
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:240
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.error.orphanedComments"
+msgid ""
+"The uploaded file contains the following orphaned comment columns: {0}. "
+"Please review the file and ensure all comment columns have a corresponding "
+"gradebook item."
+msgstr ""
+
+#. importExport.error.noFileSelected
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:241
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.error.noFileSelected"
+msgid ""
+"You have not yet selected a file to upload. Please select the file you wish "
+"to import and click the 'Continue' button."
+msgstr ""
+
+#. importExport.error.noValidGrades
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:242
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.error.noValidGrades"
+msgid ""
+"The uploaded file contains no grade columns. Please review the file and "
+"ensure it contains at least one importable column with valid grades."
+msgstr ""
+
+#. importExport.error.noChanges
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:243
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.error.noChanges"
+msgid ""
+"The uploaded file contains no changes compared to the existing Gradebook "
+"data. Please review the file and ensure it contains at least one change to "
+"column or grade data."
+msgstr ""
+
+#. importExport.selection.hideitems
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:244
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.selection.hideitems"
+msgid "Hide items with no changes"
+msgstr ""
+
+#. importExport.selection.hideitemsallhidden
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:245
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.selection.hideitemsallhidden"
+msgid "There are no imported items that have any changes."
+msgstr ""
+
+#. importExport.createItem.heading
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:246
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.createItem.heading"
+msgid "New Item Creation ({0} of {1})"
+msgstr ""
+
+#. importExport.confirmation.heading
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:247
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.confirmation.heading"
+msgid "Confirmation"
+msgstr ""
+
+#. importExport.confirmation.description
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:248
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.confirmation.description"
+msgid ""
+"Upon clicking <strong>Finish</strong>, you will be completing the following "
+"actions:"
+msgstr ""
+
+#. importExport.confirmation.update.heading
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:249
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.confirmation.update.heading"
+msgid "Updating data for existing Gradebook Item(s):"
+msgstr ""
+
+#. importExport.confirmation.create.heading
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:250
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.confirmation.create.heading"
+msgid "Creating new Gradebook Item(s):"
+msgstr ""
+
+#. importExport.confirmation.modify.heading
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:251
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.confirmation.modify.heading"
+msgid "Modifying existing Gradebook Item(s):"
+msgstr ""
+
+#. importExport.confirmation.title
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:252
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.confirmation.title"
+msgid "Title"
+msgstr ""
+
+#. importExport.confirmation.points
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:253
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.confirmation.points"
+msgid "Points"
+msgstr ""
+
+#. importExport.confirmation.extraCredit
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:254
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.confirmation.extraCredit"
+msgid "Extra Credit"
+msgstr ""
+
+#. importExport.confirmation.dueDate
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:255
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.confirmation.dueDate"
+msgid "Due date"
+msgstr ""
+
+#. importExport.confirmation.releaseToStudents
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:256
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.confirmation.releaseToStudents"
+msgid "Release item to students"
+msgstr ""
+
+#. importExport.confirmation.includeInCourseGrades
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:257
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.confirmation.includeInCourseGrades"
+msgid "Include item in course grade calculations"
+msgstr ""
+
+#. importExport.confirmation.yes
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:258
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.confirmation.yes"
+msgid "Yes"
+msgstr ""
+
+#. importExport.confirmation.no
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:259
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.confirmation.no"
+msgid "No"
+msgstr ""
+
+#. importExport.confirmation.commentsdisplay
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:260
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.confirmation.commentsdisplay"
+msgid "{0} (Comments)"
+msgstr ""
+
+#. importExport.confirmation.success
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:261
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.confirmation.success"
+msgid "Gradebook items imported successfully!"
+msgstr ""
+
+#. importExport.confirmation.failure
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:262
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.confirmation.failure"
+msgid "Errors during gradebook item import."
+msgstr ""
+
+#. importExport.status.UPDATE
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:263
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.status.UPDATE"
+msgid "Update"
+msgstr ""
+
+#. importExport.status.NEW
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:264
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.status.NEW"
+msgid "New"
+msgstr ""
+
+#. importExport.status.SKIP
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:265
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.status.SKIP"
+msgid "No changes"
+msgstr ""
+
+#. importExport.status.EXTERNAL
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:266
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.status.EXTERNAL"
+msgid "External"
+msgstr ""
+
+#. importExport.status.MODIFIED
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:267
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.status.MODIFIED"
+msgid "Update"
+msgstr ""
+
+#. importExport.button.continue
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:268
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.button.continue"
+msgid "Continue"
+msgstr ""
+
+#. importExport.button.cancel
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:269
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.button.cancel"
+msgid "Cancel"
+msgstr ""
+
+#. importExport.button.back
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:270
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.button.back"
+msgid "Back"
+msgstr ""
+
+#. importExport.button.next
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:271
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.button.next"
+msgid "Next"
+msgstr ""
+
+#. importExport.button.finish
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:272
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.button.finish"
+msgid "Finish"
+msgstr ""
+
+#. importExport.export.format.csv
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:273
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.export.format.csv"
+msgid "CSV"
+msgstr ""
+
+#. importExport.export.format.pdf
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:274
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.export.format.pdf"
+msgid "PDF"
+msgstr ""
+
+#. importExport.export.format.excel
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:275
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.export.format.excel"
+msgid "Excel"
+msgstr ""
+
+#. importExport.export.advancedOption.description
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:276
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.export.advancedOption.description"
+msgid "Select from the options below to customize your Gradebook export."
+msgstr ""
+
+#. importExport.export.advancedOption.warning
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:277
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.export.advancedOption.warning"
+msgid ""
+"Customized exports can only be imported back into the system if Student ID "
+"and Student Name are retained in the first and second columns and all other "
+"formatting conventions are followed."
+msgstr ""
+
+#. importExport.export.advancedOption.exportFormat
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:278
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.export.advancedOption.exportFormat"
+msgid "Export File Format"
+msgstr ""
+
+#. importExport.export.advancedOption.includeStudentName
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:279
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.export.advancedOption.includeStudentName"
+msgid "Student Name"
+msgstr ""
+
+#. importExport.export.advancedOption.includeStudentNumber
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:280
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.export.advancedOption.includeStudentNumber"
+msgid "Student Number"
+msgstr ""
+
+#. importExport.export.advancedOption.includeSectionMembership
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:281
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.export.advancedOption.includeSectionMembership"
+msgid "Section Membership"
+msgstr ""
+
+#. importExport.export.advancedOption.includePoints
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:282
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.export.advancedOption.includePoints"
+msgid "Total Points"
+msgstr ""
+
+#. importExport.export.advancedOption.includeLastLogDate
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:283
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.export.advancedOption.includeLastLogDate"
+msgid "Course Grade Override Date"
+msgstr ""
+
+#. importExport.export.advancedOption.includeCourseGrade
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:284
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.export.advancedOption.includeCourseGrade"
+msgid "Course Grade"
+msgstr ""
+
+#. importExport.export.advancedOption.includeStudentId
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:285
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.export.advancedOption.includeStudentId"
+msgid "Student ID"
+msgstr ""
+
+#. importExport.export.advancedOption.includeStudentDisplayId
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:286
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.export.advancedOption.includeStudentDisplayId"
+msgid "Student Display ID"
+msgstr ""
+
+#. importExport.export.advancedOption.includeCalculatedGrade
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:287
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.export.advancedOption.includeCalculatedGrade"
+msgid "Calculated Course Grade"
+msgstr ""
+
+#. importExport.export.advancedOption.includeGradeOverride
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:288
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.export.advancedOption.includeGradeOverride"
+msgid "Grade Override"
+msgstr ""
+
+#. importExport.export.advancedOption.includeGradeItemScores
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:289
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.export.advancedOption.includeGradeItemScores"
+msgid "Gradebook Item Scores"
+msgstr ""
+
+#. importExport.export.advancedOption.includeGradeItemComments
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:290
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.export.advancedOption.includeGradeItemComments"
+msgid "Gradebook Item Comments"
+msgstr ""
+
+#. importExport.export.csv.headers.studentId
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:291
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.export.csv.headers.studentId"
+msgid "Student ID"
+msgstr ""
+
+#. importExport.export.csv.headers.studentDisplayId
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:292
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.export.csv.headers.studentDisplayId"
+msgid "Student Display ID"
+msgstr ""
+
+#. importExport.export.csv.headers.studentName
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:293
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.export.csv.headers.studentName"
+msgid "Name"
+msgstr ""
+
+#. importExport.export.csv.headers.points
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:294
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.export.csv.headers.points"
+msgid "Total Points"
+msgstr ""
+
+#. importExport.export.csv.headers.courseGrade
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:295
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.export.csv.headers.courseGrade"
+msgid "Course Grade"
+msgstr ""
+
+#. importExport.export.csv.headers.calculatedGrade
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:296
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.export.csv.headers.calculatedGrade"
+msgid "Calculated Grade"
+msgstr ""
+
+#. importExport.export.csv.headers.gradeOverride
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:297
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.export.csv.headers.gradeOverride"
+msgid "Grade Override"
+msgstr ""
+
+#. importExport.export.csv.headers.lastLogDate
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:298
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.export.csv.headers.lastLogDate"
+msgid "Course Grade Override Date"
+msgstr ""
+
+#. importExport.export.csv.headers.example.points
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:299
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.export.csv.headers.example.points"
+msgid "Example Assignment With Points"
+msgstr ""
+
+#. importExport.export.csv.headers.example.nopoints
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:300
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.export.csv.headers.example.nopoints"
+msgid "Example Assignment With No Points"
+msgstr ""
+
+#. importExport.export.csv.headers.example.pointscomments
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:301
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.export.csv.headers.example.pointscomments"
+msgid "Example Assignment With Points And Comments"
+msgstr ""
+
+#. importExport.export.csv.headers.example.ignore
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:302
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:importExport.export.csv.headers.example.ignore"
+msgid "This column will be ignored"
+msgstr ""
+
+#. assignment.option.edit
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:303
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:assignment.option.edit"
+msgid "Edit Item Details"
+msgstr ""
+
+#. assignment.option.viewgradestatistics
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:304
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:assignment.option.viewgradestatistics"
+msgid "View Grade Statistics"
+msgstr ""
+
+#. assignment.option.moveleft
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:305
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:assignment.option.moveleft"
+msgid "Move Left"
+msgstr ""
+
+#. assignment.option.moveright
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:306
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:assignment.option.moveright"
+msgid "Move Right"
+msgstr ""
+
+#. assignment.option.hide
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:307
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:assignment.option.hide"
+msgid "Hide Item"
+msgstr ""
+
+#. assignment.option.setungraded
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:308
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:assignment.option.setungraded"
+msgid "Set Score for Empty Cells"
+msgstr ""
+
+#. assignment.menulabel
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:309
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:assignment.menulabel"
+msgid "Open menu for {0} column"
+msgstr ""
+
+#. message.edititem.success
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:310
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:message.edititem.success"
+msgid "Gradebook item ''{0}'' has been updated."
+msgstr ""
+
+#. message.edititem.error
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:311
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:message.edititem.error"
+msgid "An error occurred updating the Gradebook item."
+msgstr ""
+
+#. message.editcomment.error
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:312
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:message.editcomment.error"
+msgid "An error occurred editing the comment."
+msgstr ""
+
+#. comment.StringValidator.maximum
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:313
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:comment.StringValidator.maximum"
+msgid ""
+"The comment entered exceeds the maximum allowance of ${maximum} characters."
+msgstr ""
+
+#. message.addcoursegradeoverride.success
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:314
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:message.addcoursegradeoverride.success"
+msgid "The course grade was updated."
+msgstr ""
+
+#. message.addcoursegradeoverride.error
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:315
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:message.addcoursegradeoverride.error"
+msgid "An error occurred updating the course grade."
+msgstr ""
+
+#. message.addcoursegradeoverride.invalid
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:316
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:message.addcoursegradeoverride.invalid"
+msgid ""
+"The course grade entered is invalid according to the grading schema "
+"currently in use by this gradebook."
+msgstr ""
+
+#. message.updateungradeditems.success
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:317
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:message.updateungradeditems.success"
+msgid "The ungraded items were updated."
+msgstr ""
+
+#. gradetable.wrapper.tooltip
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:318
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:gradetable.wrapper.tooltip"
+msgid ""
+"This is the wrapper of the grades table data. Hit 'return' to enter the "
+"table data and 'escape' to return to this point."
+msgstr ""
+
+#. gradetable.caption.summaryheader
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:319
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:gradetable.caption.summaryheader"
+msgid "Table Summary"
+msgstr ""
+
+#. gradetable.caption.summary
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:320
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:gradetable.caption.summary"
+msgid ""
+"Rows of students. First column is student name. Second column is course "
+"grade. Other columns are gradebook items and category averages (if enabled)."
+" Press enter key in a cell to add or edit a grade. Filter list with "
+"accesskey F."
+msgstr ""
+
+#. gradetable.caption.keyboardnavigationheader
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:321
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:gradetable.caption.keyboardnavigationheader"
+msgid "Keyboard Navigation"
+msgstr ""
+
+#. gradetable.caption.keyboardnavigation
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:322
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:gradetable.caption.keyboardnavigation"
+msgid ""
+"<p>Use the access key 'g' skip to the grades table and hit 'return' to enter"
+" table mode and begin navigating the grades data. Once in table mode, the "
+"tab key and arrow keys allow you to navigate the table cells. To edit a "
+"grade, hit the 'return' key or begin entering the student's score.  When "
+"editing a score, hit 'escape' to cancel your changes and 'return' to save "
+"your changes. When you have finished, hit 'escape' to exit table mode.<p> "
+msgstr ""
+
+#. gradetable.caption.keyboardshortcutsheader
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:323
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:gradetable.caption.keyboardshortcutsheader"
+msgid "Keyboard Shortcuts"
+msgstr ""
+
+#. gradetable.caption.keyboardshortcuts
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:324
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:gradetable.caption.keyboardshortcuts"
+msgid ""
+"<p>Accesskey shortcuts (note: your AccessKeyShortcut this will depend on "
+"your browser and operating system - <a href=\"https://developer.mozilla.org"
+"/en-US/docs/Web/HTML/Global_attributes/accesskey\" target=\"_blank\" "
+"tabindex=\"-1\">more information</a>)</p><dl class=\"dl-"
+"horizontal\"><dt>Jump to the Grades Table</dt><dd>AccessKeyShortcut + "
+"g</dd><dt>Jump to Student Filter</dt><dd>AccessKeyShortcut + "
+"f</dd></dl><p>When the grades table is focused:</p><dl class=\"dl-"
+"horizontal\"><dt>Enter table mode</dt><dd>Return</dd></dl>"
+msgstr ""
+
+#. gradetable.caption.keyboardtablemodeshortcuts
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:325
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:gradetable.caption.keyboardtablemodeshortcuts"
+msgid ""
+"<p>When in table mode:</p><dl class=\"dl-horizontal\"><dt>Navigate "
+"cells</dt><dd>Arrow keys or Tab</dd><dt>Open cell "
+"menu</dt><dd>Space</dd><dt>Open cell header menu</dt><dd>Control + "
+"Space</dd><dt>Toggle cell summary</dt><dd>s</dd><dt>Exit table "
+"mode</dt><dd>ESC</dd></dl>"
+msgstr ""
+
+#. gradetable.caption.keyboardeditingshortcuts
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:326
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:gradetable.caption.keyboardeditingshortcuts"
+msgid ""
+"<p>When editing a score:</p><dl class=\"dl-horizontal\"><dt>Cancel "
+"changes</dt><dd>ESC</dd><dt>Save changes</dt><dd>Return</dd></dl>"
+msgstr ""
+
+#. grade.option.viewlog
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:327
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:grade.option.viewlog"
+msgid "Grade Log"
+msgstr ""
+
+#. grade.log.entry
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:328
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:grade.log.entry"
+msgid "{0} - Score set to <b>{1}</b> by {2}"
+msgstr ""
+
+#. grade.log.none
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:329
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:grade.log.none"
+msgid "No grades have been entered for this cell."
+msgstr ""
+
+#. grade.outof
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:330
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:grade.outof"
+msgid "/{0}"
+msgstr ""
+
+#. grade.menulabel
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:331
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:grade.menulabel"
+msgid "Open menu for student {0} and assignment {1} cell"
+msgstr ""
+
+#. grade.notifications.hascomment
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:332
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:grade.notifications.hascomment"
+msgid "Gradebook item has comments"
+msgstr ""
+
+#. grade.notifications.commentloading
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:333
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:grade.notifications.commentloading"
+msgid "Loading comment..."
+msgstr ""
+
+#. grade.notifications.editcomment
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:334
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:grade.notifications.editcomment"
+msgid "Edit Comment"
+msgstr ""
+
+#. grade.notifications.haserror
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:335
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:grade.notifications.haserror"
+msgid "An error occurred saving this item score."
+msgstr ""
+
+#. grade.notifications.overlimit
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:336
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:grade.notifications.overlimit"
+msgid ""
+"Score is over item's maximum point value and is providing extra credit."
+msgstr ""
+
+#. grade.notifications.concurrentedit
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:337
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:grade.notifications.concurrentedit"
+msgid ""
+"A concurrent edit has been detected. Please refresh the tool to view the "
+"latest scores."
+msgstr ""
+
+#. grade.notifications.concurrentedituser
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:338
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:grade.notifications.concurrentedituser"
+msgid "Edited by:"
+msgstr ""
+
+#. grade.notifications.concurrentedittime
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:339
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:grade.notifications.concurrentedittime"
+msgid "At time:"
+msgstr ""
+
+#. grade.notifications.isexternal
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:340
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:grade.notifications.isexternal"
+msgid "Go to {0} tool to edit scores for this item."
+msgstr ""
+
+#. grade.notifications.externalinvalid
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:341
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:grade.notifications.externalinvalid"
+msgid ""
+"External tool has provided an invalid score which may affect the student's "
+"final grade."
+msgstr ""
+
+#. grade.notifications.invalid
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:342
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:grade.notifications.invalid"
+msgid ""
+"Item score must be a non-negative number with a maximum of 10 digits before "
+"and 2 digits after the decimal."
+msgstr ""
+
+#. grade.notifications.readonly
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:343
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:grade.notifications.readonly"
+msgid "Item score is read only"
+msgstr ""
+
+#. grade.notifications.privileges
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:344
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:grade.notifications.privileges"
+msgid "Insufficient privileges to edit this Gradebook item score"
+msgstr ""
+
+#. grade.notifications.revert
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:345
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:grade.notifications.revert"
+msgid "Revert to Previous Score"
+msgstr ""
+
+#. grade.notifications.saved
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:346
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:grade.notifications.saved"
+msgid "All changes saved."
+msgstr ""
+
+#. grade.notifications.error
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:347
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:grade.notifications.error"
+msgid "Errors were detected. See cell notifications below."
+msgstr ""
+
+#. grade.notifications.excused
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:348
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:grade.notifications.excused"
+msgid "Grade has been excused from grade calculations."
+msgstr ""
+
+#. comment.option.edit
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:349
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:comment.option.edit"
+msgid "Add/Edit Comment"
+msgstr ""
+
+#. comment.option.external
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:350
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:comment.option.external"
+msgid "Editable in {0} tool"
+msgstr ""
+
+#. delete.label
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:351
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:delete.label"
+msgid "Delete Item"
+msgstr ""
+
+#. delete.warning
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:352
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:delete.warning"
+msgid ""
+"Please be aware that deleting this Gradebook item cannot be undone and "
+"scores entered will be removed from the gradebook."
+msgstr ""
+
+#. delete.success
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:353
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:delete.success"
+msgid "Gradebook item ''{0}'' has been deleted."
+msgstr ""
+
+#. excuse.grade
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:354
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:excuse.grade"
+msgid "Excuse/Include Grade"
+msgstr ""
+
+#. sortbyname.option.first
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:355
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:sortbyname.option.first"
+msgid "Order By First Name"
+msgstr ""
+
+#. sortbyname.option.last
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:356
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:sortbyname.option.last"
+msgid "Order By Last Name"
+msgstr ""
+
+#. students.menulabel
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:357
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:students.menulabel"
+msgid "Open menu for the students column"
+msgstr ""
+
+#. groups.all
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:358
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:groups.all"
+msgid "All Sections/Groups"
+msgstr ""
+
+#. groups.available
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:359
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:groups.available"
+msgid "Available Sections/Groups"
+msgstr ""
+
+#. categories.all
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:360
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:categories.all"
+msgid "All Categories"
+msgstr ""
+
+#. label.nocategoryscore
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:361
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.nocategoryscore"
+msgid "-"
+msgstr ""
+
+#. errorpage.heading
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:362
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:errorpage.heading"
+msgid "Something went wrong"
+msgstr ""
+
+#. errorpage.text
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:363
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:errorpage.text"
+msgid ""
+"You should refresh and try again. If you end up back here, quote the "
+"following error number to your local IT Support: <b>{0}</b>."
+msgstr ""
+
+#. settingspage.main.heading
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:364
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.main.heading"
+msgid "Settings"
+msgstr ""
+
+#. settingspage.gradeentry.heading
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:365
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.gradeentry.heading"
+msgid "Grade Entry"
+msgstr ""
+
+#. settingspage.graderelease.heading
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:366
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.graderelease.heading"
+msgid "Grade Release Rules"
+msgstr ""
+
+#. settingspage.statistics.heading
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:367
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.statistics.heading"
+msgid "Statistics"
+msgstr ""
+
+#. settingspage.categories.heading
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:368
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.categories.heading"
+msgid "Categories & Weighting"
+msgstr ""
+
+#. settingspage.gradingschema.heading
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:369
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.gradingschema.heading"
+msgid "Grading Schema"
+msgstr ""
+
+#. settingspage.gradingschema.chart.heading
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:370
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.gradingschema.chart.heading"
+msgid "Course Grade Distribution"
+msgstr ""
+
+#. settingspage.gradingschema.chart.xaxis
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:371
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.gradingschema.chart.xaxis"
+msgid "Number of Students"
+msgstr ""
+
+#. settingspage.gradingschema.chart.yaxis
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:372
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.gradingschema.chart.yaxis"
+msgid "Course Grade"
+msgstr ""
+
+#. settingspage.gradingschema.overrides
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:373
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.gradingschema.overrides"
+msgid ""
+"Course grade overrides exist for the following students which may affect the"
+" chart distribution:"
+msgstr ""
+
+#. settingspage.gradingschema.modified.note
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:374
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.gradingschema.modified.note"
+msgid "This grading schema has been modified from the default."
+msgstr ""
+
+#. settingspage.gradingschema.modified.warning
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:375
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.gradingschema.modified.warning"
+msgid "There are unsaved changes."
+msgstr ""
+
+#. settingspage.gradingschema.duplicates.warning
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:376
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.gradingschema.duplicates.warning"
+msgid "There are duplicate entries. Correct this before saving your changes."
+msgstr ""
+
+#. settingspage.gradingschema.removecolhead
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:377
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.gradingschema.removecolhead"
+msgid "Remove"
+msgstr ""
+
+#. settingspage.gradeentry.instructions
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:378
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.gradeentry.instructions"
+msgid "How will graders enter grades into this gradebook?"
+msgstr ""
+
+#. settingspage.gradeentry.points
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:379
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.gradeentry.points"
+msgid "Points"
+msgstr ""
+
+#. settingspage.gradeentry.percentages
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:380
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.gradeentry.percentages"
+msgid "Percentages"
+msgstr ""
+
+#. settingspage.graderelease.label
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:381
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.graderelease.label"
+msgid "Display released Gradebook items to students"
+msgstr ""
+
+#. settingspage.graderelease.instructions
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:382
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.graderelease.instructions"
+msgid ""
+"You can release a Gradebook item when creating or editing the Gradebook "
+"item. "
+msgstr ""
+
+#. settingspage.statistics.assignment.label
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:383
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.statistics.assignment.label"
+msgid "Display assignment statistics to students"
+msgstr ""
+
+#. settingspage.statistics.coursegrade.label
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:384
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.statistics.coursegrade.label"
+msgid "Display course grade statistics to students"
+msgstr ""
+
+#. settingspage.displaycoursegrade.label
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:385
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.displaycoursegrade.label"
+msgid "Display final course grade to students"
+msgstr ""
+
+#. settingspage.displaycoursegrade.lettergrade
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:386
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.displaycoursegrade.lettergrade"
+msgid "Letter Grade"
+msgstr ""
+
+#. settingspage.displaycoursegrade.percentage
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:387
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.displaycoursegrade.percentage"
+msgid "Percentage"
+msgstr ""
+
+#. settingspage.displaycoursegrade.points
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:388
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.displaycoursegrade.points"
+msgid "Points"
+msgstr ""
+
+#. settingspage.displaycoursegrade.preview
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:389
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.displaycoursegrade.preview"
+msgid "Preview"
+msgstr ""
+
+#. settingspage.displaycoursegrade.preview-none
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:390
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.displaycoursegrade"
+".preview-none"
+msgid "-"
+msgstr ""
+
+#. settingspage.displaycoursegrade.preview-letter
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:391
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.displaycoursegrade"
+".preview-letter"
+msgid "B+"
+msgstr ""
+
+#. settingspage.displaycoursegrade.preview-percentage-first
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:392
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.displaycoursegrade"
+".preview-percentage-first"
+msgid "88%"
+msgstr ""
+
+#. settingspage.displaycoursegrade.preview-percentage-second
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:393
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.displaycoursegrade"
+".preview-percentage-second"
+msgid "(88%)"
+msgstr ""
+
+#. settingspage.displaycoursegrade.preview-points-first
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:394
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.displaycoursegrade"
+".preview-points-first"
+msgid "176/200"
+msgstr ""
+
+#. settingspage.displaycoursegrade.preview-points-second
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:395
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.displaycoursegrade"
+".preview-points-second"
+msgid "[176/200]"
+msgstr ""
+
+#. settingspage.displaycoursegrade.instructions.1
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:396
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.displaycoursegrade.instructions.1"
+msgid ""
+"Choose the options for formatting the course grade. You must choose at least"
+" one option."
+msgstr ""
+
+#. settingspage.displaycoursegrade.instructions.2
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:397
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.displaycoursegrade.instructions.2"
+msgid ""
+"Note that you cannot choose 'Points' if the gradebook is setup with "
+"'Categories & weighting'."
+msgstr ""
+
+#. settingspage.displaycoursegrade.notenough
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:398
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.displaycoursegrade.notenough"
+msgid ""
+"Display course grade is selected but you haven't selected any formatting "
+"options."
+msgstr ""
+
+#. settingspage.displaycoursegrade.incompatible
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:399
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.displaycoursegrade.incompatible"
+msgid ""
+"Points can not be displayed as a course grade when weighted categories are "
+"enabled. Please select different course grade display options."
+msgstr ""
+
+#. settingspage.categories.none
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:400
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.categories.none"
+msgid "No categories"
+msgstr ""
+
+#. settingspage.categories.categoriesonly
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:401
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.categories.categoriesonly"
+msgid "Categories only"
+msgstr ""
+
+#. settingspage.categories.categoriesweighting
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:402
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.categories.categoriesweighting"
+msgid "Categories & weighting"
+msgstr ""
+
+#. settingspage.categories.drophighest
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:403
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.categories.drophighest"
+msgid "Drop highest"
+msgstr ""
+
+#. settingspage.categories.droplowest
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:404
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.categories.droplowest"
+msgid "Drop lowest"
+msgstr ""
+
+#. settingspage.categories.keephighest
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:405
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.categories.keephighest"
+msgid "Keep highest"
+msgstr ""
+
+#. settingspage.categories.add
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:406
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.categories.add"
+msgid "Add a category"
+msgstr ""
+
+#. settingspage.categories.items
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:407
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.categories.items"
+msgid "{0} items(s)"
+msgstr ""
+
+#. settingspage.categories.categorycolhead
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:408
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.categories.categorycolhead"
+msgid "Category"
+msgstr ""
+
+#. settingspage.categories.weightcolhead
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:409
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.categories.weightcolhead"
+msgid "%"
+msgstr ""
+
+#. settingspage.categories.extracreditcolhead
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:410
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.categories.extracreditcolhead"
+msgid "Extra Credit"
+msgstr ""
+
+#. settingspage.categories.itemscolhead
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:411
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.categories.itemscolhead"
+msgid "Gradebook Items"
+msgstr ""
+
+#. settingspage.categories.drophighestcolhead
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:412
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.categories.drophighestcolhead"
+msgid "Drop Highest"
+msgstr ""
+
+#. settingspage.categories.droplowestcolhead
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:413
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.categories.droplowestcolhead"
+msgid "Drop Lowest"
+msgstr ""
+
+#. settingspage.categories.keephighestcolhead
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:414
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.categories.keephighestcolhead"
+msgid "Keep Highest"
+msgstr ""
+
+#. settingspage.categories.removecolhead
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:415
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.categories.removecolhead"
+msgid "Remove"
+msgstr ""
+
+#. settingspage.categories.total
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:416
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.categories.total"
+msgid "Total:"
+msgstr ""
+
+#. settingspage.categories.instructions.categoryvisibility
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:417
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.categories.instructions.categoryvisibility"
+msgid ""
+"A category will only be visible if there is at least one Gradebook item "
+"assigned to it."
+msgstr ""
+
+#. settingspage.categories.instructions.uncounteditems
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:418
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.categories.instructions.uncounteditems"
+msgid ""
+"If 'Categories & weighting' is enabled, uncategorized items will not be "
+"counted toward the course grade."
+msgstr ""
+
+#. settingspage.categories.instructions.applydropkeep
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:419
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.categories.instructions.applydropkeep"
+msgid ""
+"To apply drop highest, drop lowest, or keep highest, all items in the "
+"category must have the same score value."
+msgstr ""
+
+#. settingspage.categories.hover.dropkeepusage
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:420
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.categories.hover.dropkeepusage"
+msgid ""
+"'Drop highest' / 'Drop lowest' cannot be used in the same category with "
+"'Keep Highest'."
+msgstr ""
+
+#. settingspage.categories.hover.categoriesweightingpoints
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:421
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.categories.hover.categoriesweightingpoints"
+msgid ""
+"'Categories & weighting' is not compatible with the 'Points' final course "
+"grade display option."
+msgstr ""
+
+#. settingspage.categories.runningtotalerror
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:422
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.categories.runningtotalerror"
+msgid "Weighting for the categories must equal 100%"
+msgstr ""
+
+#. settingspage.gradingschema.type
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:423
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.gradingschema.type"
+msgid "Grade Type"
+msgstr ""
+
+#. settingspage.gradingschema.grade
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:424
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.gradingschema.grade"
+msgid "Grade"
+msgstr ""
+
+#. settingspage.gradingschema.minpercent
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:425
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.gradingschema.minpercent"
+msgid "Minimum %"
+msgstr ""
+
+#. settingspage.gradingschema.emptychart
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:426
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.gradingschema.emptychart"
+msgid "There are no students with course grades."
+msgstr ""
+
+#. settingspage.gradingschema.add
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:427
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.gradingschema.add"
+msgid "Add a mapping"
+msgstr ""
+
+#. settingspage.update.success
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:428
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.update.success"
+msgid "The settings were successfully updated"
+msgstr ""
+
+#. settingspage.update.failure.categorymissingweight
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:429
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.update.failure.categorymissingweight"
+msgid "No weight specified for a category, but weightings enabled"
+msgstr ""
+
+#. settingspage.update.failure.categoryweighttotals
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:430
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.update.failure.categoryweighttotals"
+msgid "Weightings for the categories must equal 100%"
+msgstr ""
+
+#. weight.settingspage.update.failure.categoryweightnumber
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:431
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:weight.settingspage.update.failure.categoryweightnumber"
+msgid "The category % entered is not a valid number."
+msgstr ""
+
+#. settingspage.update.failure.categorynameconflict
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:432
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.update.failure.categorynameconflict"
+msgid "Category names must be unique."
+msgstr ""
+
+#. settingspage.update.failure.categorydropkeepenabled
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:433
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.update.failure.categorydropkeepenabled"
+msgid ""
+"The combination of drop highest, drop lowest and keep highest was invalid."
+msgstr ""
+
+#. settingspage.update.failure.gradingschemamapping
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:434
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:settingspage.update.failure.gradingschemamapping"
+msgid ""
+"The grading schema could not be updated as it would leave some course grade "
+"overrides in an unmappable state."
+msgstr ""
+
+#. permissionspage.main.heading
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:435
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:permissionspage.main.heading"
+msgid "Grader Permissions"
+msgstr ""
+
+#. permissionspage.instructions.noteachingassistants
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:436
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:permissionspage.instructions.noteachingassistants"
+msgid ""
+"There are currently no teaching assistants defined in your site. Teaching "
+"assistants must be defined to set special grader permissions."
+msgstr ""
+
+#. permissionspage.instructions.nocategoriesorsections
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:437
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:permissionspage.instructions.nocategoriesorsections"
+msgid ""
+"There are currently no categories in your gradebook and no sections/groups "
+"defined for your site. Categories and/or sections/groups must be defined to "
+"set special grader permissions."
+msgstr ""
+
+#. permissionspage.instructions.ok
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:438
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:permissionspage.instructions.ok"
+msgid ""
+"Grading permissions can be restricted for each teaching assistant in this "
+"site. To restrict permissions for a TA, select from the rules below. "
+"Multiple rules may be applied. <b>Adding or modifying these rules overrides "
+"the default permission and restricts their capabilities within your "
+"specifications below.</b>"
+msgstr ""
+
+#. permissionspage.instructions.choose
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:439
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:permissionspage.instructions.choose"
+msgid "Select a grader to edit"
+msgstr ""
+
+#. permissionspage.instructions.norules
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:440
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:permissionspage.instructions.norules"
+msgid "There are currently no rules defined for this grader."
+msgstr ""
+
+#. permissionspage.instructions.coursegrade
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:441
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:permissionspage.instructions.coursegrade"
+msgid "Allow grader to see course grade for selected section(s) below."
+msgstr ""
+
+#. permissionspage.item.can
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:442
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:permissionspage.item.can"
+msgid "Can"
+msgstr ""
+
+#. permissionspage.item.in
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:443
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:permissionspage.item.in"
+msgid "in"
+msgstr ""
+
+#. permissionspage.addrule
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:444
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:permissionspage.addrule"
+msgid "Add Rule"
+msgstr ""
+
+#. permissionspage.label.tausername
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:445
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:permissionspage.label.tausername"
+msgid "{0} ({1})"
+msgstr ""
+
+#. permissionspage.function.view
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:446
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:permissionspage.function.view"
+msgid "View"
+msgstr ""
+
+#. permissionspage.function.grade
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:447
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:permissionspage.function.grade"
+msgid "Grade"
+msgstr ""
+
+#. permissionspage.allgradeitems
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:448
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:permissionspage.allgradeitems"
+msgid "All Gradebook items"
+msgstr ""
+
+#. permissionspage.update.success
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:449
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:permissionspage.update.success"
+msgid "The permissions were successfully updated."
+msgstr ""
+
+#. permissionspage.update.dupes
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:450
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:permissionspage.update.dupes"
+msgid ""
+"Note: One or more duplicate permissions were detected and were removed."
+msgstr ""
+
+#. no-assignments.label
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:451
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties"
+":no-assignments.label"
+msgid "There are no Gradebook items"
+msgstr ""
+
+#. no-students.label
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:452
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties"
+":no-students.label"
+msgid "There are no students to display"
+msgstr ""
+
+#. gradebookpage.uncategorised
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:453
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:gradebookpage.uncategorised"
+msgid "Uncategorized"
+msgstr ""
+
+#. label.statistics.title.assignment
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:454
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.statistics.title.assignment"
+msgid "Grade Statistics for {0}"
+msgstr ""
+
+#. label.statistics.title.coursegrade
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:455
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.statistics.title.coursegrade"
+msgid "Course Grade Statistics"
+msgstr ""
+
+#. label.statistics.average
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:456
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.statistics.average"
+msgid "Average (mean) grade"
+msgstr ""
+
+#. label.statistics.graded
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:457
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.statistics.graded"
+msgid "Total graded"
+msgstr ""
+
+#. label.statistics.median
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:458
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.statistics.median"
+msgid "Median grade"
+msgstr ""
+
+#. label.statistics.lowest
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:459
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.statistics.lowest"
+msgid "Lowest grade"
+msgstr ""
+
+#. label.statistics.highest
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:460
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.statistics.highest"
+msgid "Highest grade"
+msgstr ""
+
+#. label.statistics.deviation
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:461
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.statistics.deviation"
+msgid "Standard deviation"
+msgstr ""
+
+#. label.statistics.averagegpa
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:462
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.statistics.averagegpa"
+msgid "Course Average GPA"
+msgstr ""
+
+#. label.statistics.chart.extracredit
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:463
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.statistics.chart.extracredit"
+msgid "EC"
+msgstr ""
+
+#. label.statistics.chart.xaxis
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:464
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.statistics.chart.xaxis"
+msgid "Percentage Scored"
+msgstr ""
+
+#. label.statistics.chart.yaxis
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:465
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.statistics.chart.yaxis"
+msgid "Number of Students"
+msgstr ""
+
+#. label.statistics.chart.tooltip
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:466
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.statistics.chart.tooltip"
+msgid "{2} score(s) in {1} range"
+msgstr ""
+
+#. label.statistics.chart.range
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:467
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.statistics.chart.range"
+msgid "{0}-{1}"
+msgstr ""
+
+#. label.statistics.chart.title
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:468
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.statistics.chart.title"
+msgid "Grade Distribution"
+msgstr ""
+
+#. coursegrade.option.override
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:469
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:coursegrade.option.override"
+msgid "Course Grade Override"
+msgstr ""
+
+#. coursegrade.option.overridelog
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:470
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:coursegrade.option.overridelog"
+msgid "Course Grade Override Log"
+msgstr ""
+
+#. coursegrade.option.setungraded
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:471
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:coursegrade.option.setungraded"
+msgid "Set Zero Score For Empty Cells"
+msgstr ""
+
+#. coursegrade.option.viewcoursegradestatistics
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:472
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:coursegrade.option.viewcoursegradestatistics"
+msgid "View Course Grade Statistics"
+msgstr ""
+
+#. coursegrade.header.menulabel
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:473
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:coursegrade.header.menulabel"
+msgid "Open menu for Course Grade column"
+msgstr ""
+
+#. coursegrade.cell.menulabel
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:474
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:coursegrade.cell.menulabel"
+msgid "Open menu for Course Grade cell"
+msgstr ""
+
+#. label.zeroungradeditems.instructions.1
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:475
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.zeroungradeditems.instructions.1"
+msgid ""
+"The Gradebook automatically calculates the course grade for students as "
+"items are graded. To accurately calculate the course grades, all gradable "
+"items must be assigned a grade. Continuing will assign zero to any grade "
+"items that do not have a grade. Not zeroing may result in higher course "
+"grades than intended."
+msgstr ""
+
+#. label.zeroungradeditems.instructions.2
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:476
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:label.zeroungradeditems.instructions.2"
+msgid ""
+"<b>Note:</b> Clicking Update will assign a grade of zero to all ungraded "
+"items in this gradebook. <b>This can not be undone!</b>"
+msgstr ""
+
+#. coursegrade.option.viewlog
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:477
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:coursegrade.option.viewlog"
+msgid "Course Grade Override Log"
+msgstr ""
+
+#. coursegrade.log.entry.set
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:478
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:coursegrade.log.entry.set"
+msgid "{0} - Course Grade set to <b>{1}</b> by {2}"
+msgstr ""
+
+#. coursegrade.log.entry.unset
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:479
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:coursegrade.log.entry.unset"
+msgid "{0} - Course Grade Override removed by {1}"
+msgstr ""
+
+#. coursegrade.log.none
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:480
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:coursegrade.log.none"
+msgid "No course grade overrides have been entered."
+msgstr ""
+
+#. coursegrade.override.instructions.1
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:481
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:coursegrade.override.instructions.1"
+msgid ""
+"To provide a final course grade override, enter the desired letter grade "
+"into the field below. You may enter both + and - grades."
+msgstr ""
+
+#. column.header.coursegradeoverride.studentname
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:482
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:column.header.coursegradeoverride.studentname"
+msgid "Student Name"
+msgstr ""
+
+#. column.header.coursegradeoverride.studentid
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:483
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:column.header.coursegradeoverride.studentid"
+msgid "Student ID"
+msgstr ""
+
+#. column.header.coursegradeoverride.points
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:484
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:column.header.coursegradeoverride.points"
+msgid "Points"
+msgstr ""
+
+#. column.header.coursegradeoverride.calculated
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:485
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:column.header.coursegradeoverride.calculated"
+msgid "Calculated Grade"
+msgstr ""
+
+#. column.header.coursegradeoverride.gradeoverride
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:486
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:column.header.coursegradeoverride.gradeoverride"
+msgid "Grade Override"
+msgstr ""
+
+#. coursegrade.display.percentage-first
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:487
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:coursegrade.display"
+".percentage-first"
+msgid "{0}"
+msgstr ""
+
+#. coursegrade.display.percentage-second
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:488
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:coursegrade.display"
+".percentage-second"
+msgid "({0})"
+msgstr ""
+
+#. coursegrade.display.points-first
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:489
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:coursegrade.display"
+".points-first"
+msgid "{0}/{1}"
+msgstr ""
+
+#. coursegrade.display.points-second
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:490
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:coursegrade.display"
+".points-second"
+msgid "[{0}/{1}]"
+msgstr ""
+
+#. coursegrade.display.points-none
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:491
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:coursegrade.display"
+".points-none"
+msgid "-"
+msgstr ""
+
+#. coursegrade.display.none
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:492
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:coursegrade.display.none"
+msgid "-"
+msgstr ""
+
+#. coursegrade.option.showpoints
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:493
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:coursegrade.option.showpoints"
+msgid "Show Points"
+msgstr ""
+
+#. coursegrade.option.hidepoints
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:494
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:coursegrade.option.hidepoints"
+msgid "Hide Points"
+msgstr ""
+
+#. link.coursegradeoverride.revert.tooltip
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:495
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:link.coursegradeoverride.revert.tooltip"
+msgid ""
+"Removes the course grade override and reverts to the calculated course grade"
+msgstr ""
+
+#. link.coursegradeoverride.reverttocalculated
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:496
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:link.coursegradeoverride.reverttocalculated"
+msgid "Revert to calculated course grade"
+msgstr ""
+
+#. feedback.saving
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:497
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:feedback.saving"
+msgid "Saving..."
+msgstr ""
+
+#. feedback.saved
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:498
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:feedback.saved"
+msgid "All changes saved."
+msgstr ""
+
+#. feedback.error
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:499
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:feedback.error"
+msgid "Errors were detected. See cell notifications below."
+msgstr ""
+
+#. feedback.connectiontimeout
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:500
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:feedback.connectiontimeout"
+msgid "Unable to connect. Changes cannot be saved while offline."
+msgstr ""
+
+#. feedback.reordercolumnsfailed
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:501
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:feedback.reordercolumnsfailed"
+msgid "An error occurred while reordering columns."
+msgstr ""
+
+#. ta.nopermission
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:502
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:ta.nopermission"
+msgid ""
+"You do not have permission to view the gradebook. Please contact your "
+"instructor."
+msgstr ""
+
+#. ta.roleswapped
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:503
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:ta.roleswapped"
+msgid "TA view of gradebook cannot be displayed."
+msgstr ""
+
+#. error.addeditgradeitem.categorypoints
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:504
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:error.addeditgradeitem.categorypoints"
+msgid ""
+"This gradebook item is configured with a category that has drop highest/drop"
+" lowest/keep highest enabled. The points for this gradebook item must match "
+"the current maximum of {0}."
+msgstr ""
+
+#. error.addeditgradeitem.titlecharacters
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:505
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:error.addeditgradeitem.titlecharacters"
+msgid ""
+"Gradebook item names cannot contain characters '*', '[', ']' or start with a"
+" '#' as they are reserved."
+msgstr ""
+
+#. error.role
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:506
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:error.role"
+msgid ""
+"Your role in this site is improperly configured. You must have one of the "
+"section.role.x permissions assigned before you can view this page."
+msgstr ""
+
+#. ta.null
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:507
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:ta.null"
+msgid "Select a grader"
+msgstr ""
+
+#. sortgradeitems.heading
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:508
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:sortgradeitems.heading"
+msgid "Sort Grade Items"
+msgstr ""
+
+#. sortgradeitems.bycategory
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:509
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:sortgradeitems.bycategory"
+msgid "By Category"
+msgstr ""
+
+#. sortgradeitems.bygradeitem
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:510
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:sortgradeitems.bygradeitem"
+msgid "By Grade Item"
+msgstr ""
+
+#. sortgradeitems.submit
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:511
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:sortgradeitems.submit"
+msgid "Update Sort Order"
+msgstr ""
+
+#. sortgradeitems.submitbycategory
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:512
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:sortgradeitems.submitbycategory"
+msgid "Update Categorized Sort Order"
+msgstr ""
+
+#. sortgradeitems.success.byitem
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:513
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:sortgradeitems.success.byitem"
+msgid "Sort Order Updated"
+msgstr ""
+
+#. sortgradeitems.success.bycategory
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:514
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:sortgradeitems.success.bycategory"
+msgid "Categorized Sort Order Updated"
+msgstr ""
+
+#. sortgradeitems.error
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:515
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:sortgradeitems.error"
+msgid "Unable to update sort order. Please contact your System Administrator."
+msgstr ""
+
+#. metadata.header
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:516
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:metadata.header"
+msgid "Current Cell Metadata"
+msgstr ""
+
+#. metadata.student
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:517
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:metadata.student"
+msgid "Student:"
+msgstr ""
+
+#. metadata.assignment
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:518
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:metadata.assignment"
+msgid "Assignment:"
+msgstr ""
+
+#. metadata.score
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:519
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:metadata.score"
+msgid "Score:"
+msgstr ""
+
+#. metadata.courseGrade
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:520
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:metadata.courseGrade"
+msgid "Course Grade:"
+msgstr ""
+
+#. metadata.category
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:521
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:metadata.category"
+msgid "Category:"
+msgstr ""
+
+#. metadata.categoryAverage
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:522
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:metadata.categoryAverage"
+msgid "Category Average:"
+msgstr ""
+
+#. metadata.flags
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:523
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:metadata.flags"
+msgid "This score has the following flags:"
+msgstr ""
+
+#. metadata.noflags
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:524
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:metadata.noflags"
+msgid "No notifications"
+msgstr ""
+
+#. AutoLabel.CSS.required
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:525
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:AutoLabel.CSS.required"
+msgid "required"
+msgstr ""
+
+#. bulkedit.heading
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:526
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:bulkedit.heading"
+msgid "Bulk Edit Items"
+msgstr ""
+
+#. bulkedit.column.header.gradebookitem
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:527
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:bulkedit.column.header.gradebookitem"
+msgid "Gradebook Item"
+msgstr ""
+
+#. bulkedit.column.header.release
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:528
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:bulkedit.column.header.release"
+msgid "Release to students"
+msgstr ""
+
+#. bulkedit.column.header.include
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:529
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:bulkedit.column.header.include"
+msgid "Include in course grade calculations"
+msgstr ""
+
+#. bulkedit.update.success
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:530
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:bulkedit.update.success"
+msgid "The gradebook items were successfully updated"
+msgstr ""
+
+#. bulkedit.update.error
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:531
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:bulkedit.update.error"
+msgid ""
+"Some gradebook items could not be updated. Please try again. If the problem "
+"persists, contact your System Administrator."
+msgstr ""
+
+#. sections.label.none
+#: gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:532
+msgctxt ""
+"gradebookng/tool/src/java/org/sakaiproject/gradebookng/GradebookNgApplication.properties:sections.label.none"
+msgid "None"
+msgstr ""

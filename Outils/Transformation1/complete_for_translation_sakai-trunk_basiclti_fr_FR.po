@@ -1,0 +1,3711 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: sakai-trunk\n"
+"Report-Msgid-Bugs-To: ddeguchi@nagoya-u.jp\n"
+"POT-Creation-Date: 2019-06-17 04:37+00:00\n"
+"PO-Revision-Date: 2019-05-25 04:37+0000\n"
+"Last-Translator: spanishsakai <spanishsakai@gmail.com>\n"
+"Language-Team: French (France) (http://www.transifex.com/apereo/sakai-trunk/language/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. lti
+#: basiclti/basiclti-blis/src/bundle/lti.properties:1
+msgctxt "basiclti/basiclti-blis/src/bundle/lti.properties:lti"
+msgid ""
+"Allows access to the various data structures available from the LTIService "
+"support LTI 1.x and LTI 2.x work.  Collection endpoints allow the use of "
+"first= last= and order= parameters."
+msgstr ""
+
+#. lti.action.tools
+#: basiclti/basiclti-blis/src/bundle/lti.properties:2
+msgctxt "basiclti/basiclti-blis/src/bundle/lti.properties:lti.action.tools"
+msgid ""
+"Retrieve the tools for a siteId. eg "
+"/lti/{siteId}/tools[.format][?first=0&last=10&order=title]"
+msgstr ""
+
+#. lti.action.tool
+#: basiclti/basiclti-blis/src/bundle/lti.properties:3
+msgctxt "basiclti/basiclti-blis/src/bundle/lti.properties:lti.action.tool"
+msgid ""
+"Retrieve a tool from a siteId. eg /lti/tool/{siteId}/{toolId}/tool[.format]"
+msgstr ""
+
+#. lti.action.contents
+#: basiclti/basiclti-blis/src/bundle/lti.properties:4
+msgctxt "basiclti/basiclti-blis/src/bundle/lti.properties:lti.action.contents"
+msgid ""
+"Retrieve the content items for a siteId. eg "
+"/lti/{siteId}/contents[.format][?first=0&last=10&order=title]"
+msgstr ""
+
+#. lti.action.content
+#: basiclti/basiclti-blis/src/bundle/lti.properties:5
+msgctxt "basiclti/basiclti-blis/src/bundle/lti.properties:lti.action.content"
+msgid ""
+"Retrieve a content item from a siteId. eg "
+"/lti/content/{siteId}/{contentId}[.format]"
+msgstr ""
+
+#. lti.action.deploys
+#: basiclti/basiclti-blis/src/bundle/lti.properties:6
+msgctxt "basiclti/basiclti-blis/src/bundle/lti.properties:lti.action.deploys"
+msgid ""
+"Retrieve the deployments for a siteId. eg "
+"/lti/{siteId}/deploys[.format][?first=0&last=10&order=title] (only works for"
+" !admin)"
+msgstr ""
+
+#. lti.action.deploy
+#: basiclti/basiclti-blis/src/bundle/lti.properties:7
+msgctxt "basiclti/basiclti-blis/src/bundle/lti.properties:lti.action.deploy"
+msgid ""
+"Retrieve a deployment from a siteId. eg "
+"/lti/deploy/{siteId}/{deployId}[.format] (only works for !admin)"
+msgstr ""
+
+#. outcomes.invalid
+#: basiclti/basiclti-blis/src/bundle/blis.properties:1
+msgctxt "basiclti/basiclti-blis/src/bundle/blis.properties:outcomes.invalid"
+msgid "Not a valid outcomes request"
+msgstr "Ce n'est pas une demande valable de résultats"
+
+#. outcomes.missing
+#: basiclti/basiclti-blis/src/bundle/blis.properties:2
+msgctxt "basiclti/basiclti-blis/src/bundle/blis.properties:outcomes.missing"
+msgid "Message is missing required information"
+msgstr "Des informations nécessaires sont absentes du message"
+
+#. outcomes.fail
+#: basiclti/basiclti-blis/src/bundle/blis.properties:3
+msgctxt "basiclti/basiclti-blis/src/bundle/blis.properties:outcomes.fail"
+msgid ""
+"Unknown failure setting outcomes. Check server log for possible additional "
+"information."
+msgstr ""
+
+#. outcomes.sourcedid
+#: basiclti/basiclti-blis/src/bundle/blis.properties:4
+msgctxt "basiclti/basiclti-blis/src/bundle/blis.properties:outcomes.sourcedid"
+msgid "Unable to process sourcedid"
+msgstr "Traitement de l'identifiant de la source impossible"
+
+#. outcome.site.membership
+#: basiclti/basiclti-blis/src/bundle/blis.properties:5
+msgctxt ""
+"basiclti/basiclti-blis/src/bundle/blis.properties:outcome.site.membership"
+msgid "Not a member of the designated site"
+msgstr "Vous n'êtes pas membre du site"
+
+#. outcome.no.assignment
+#: basiclti/basiclti-blis/src/bundle/blis.properties:6
+msgctxt ""
+"basiclti/basiclti-blis/src/bundle/blis.properties:outcome.no.assignment"
+msgid "Designated gradable assignment does not exist"
+msgstr "Le devoir noté choisi n'existe pas"
+
+#. outcome.grade.fail
+#: basiclti/basiclti-blis/src/bundle/blis.properties:7
+msgctxt "basiclti/basiclti-blis/src/bundle/blis.properties:outcome.grade.fail"
+msgid "Fail to store grade in gradebook"
+msgstr "L'enregistrement de la note dans le bulletin de notes a échoué"
+
+#. outcome.no.validate
+#: basiclti/basiclti-blis/src/bundle/blis.properties:8
+msgctxt ""
+"basiclti/basiclti-blis/src/bundle/blis.properties:outcome.no.validate"
+msgid "Unable to validate message"
+msgstr "Validation du message impossible"
+
+#. outcome.tool.finished
+#: basiclti/basiclti-blis/src/bundle/blis.properties:9
+msgctxt ""
+"basiclti/basiclti-blis/src/bundle/blis.properties:outcome.tool.finished"
+msgid "External tool has finished"
+msgstr "L'outil externe a fini"
+
+#. outcome.tool.lti_msg
+#: basiclti/basiclti-blis/src/bundle/blis.properties:10
+msgctxt ""
+"basiclti/basiclti-blis/src/bundle/blis.properties:outcome.tool.lti_msg"
+msgid "External tool has finished:"
+msgstr "L'outil externe a fini :"
+
+#. outcome.tool.lti_errormsg
+#: basiclti/basiclti-blis/src/bundle/blis.properties:11
+msgctxt ""
+"basiclti/basiclti-blis/src/bundle/blis.properties:outcome.tool.lti_errormsg"
+msgid "External tool has finished with an error:"
+msgstr "L'outil externe a fini avec une erreur :"
+
+#. outcome.tool.close.window
+#: basiclti/basiclti-blis/src/bundle/blis.properties:12
+msgctxt ""
+"basiclti/basiclti-blis/src/bundle/blis.properties:outcome.tool.close.window"
+msgid "You can close this window / tab"
+msgstr ""
+
+#. setting.empty
+#: basiclti/basiclti-blis/src/bundle/blis.properties:13
+msgctxt "basiclti/basiclti-blis/src/bundle/blis.properties:setting.empty"
+msgid "Missing setting value"
+msgstr "Valeur du paramètre absente"
+
+#. setting.save.fail
+#: basiclti/basiclti-blis/src/bundle/blis.properties:14
+msgctxt "basiclti/basiclti-blis/src/bundle/blis.properties:setting.save.fail"
+msgid "Failure while storing setting"
+msgstr "Erreur pendant l'enregistrement du paramètre"
+
+#. setting.fail
+#: basiclti/basiclti-blis/src/bundle/blis.properties:15
+msgctxt "basiclti/basiclti-blis/src/bundle/blis.properties:setting.fail"
+msgid "Failure processing setting message"
+msgstr "Erreur dans le traitement du message de parametrage"
+
+#. request.bad.url
+#: basiclti/basiclti-blis/src/bundle/blis.properties:16
+msgctxt "basiclti/basiclti-blis/src/bundle/blis.properties:request.bad.url"
+msgid "Bad URL format for request"
+msgstr "Mauvais format d'URL pour la requête"
+
+#. request.not.implemented
+#: basiclti/basiclti-blis/src/bundle/blis.properties:17
+msgctxt ""
+"basiclti/basiclti-blis/src/bundle/blis.properties:request.not.implemented"
+msgid "Unknown request"
+msgstr "Requête inconnue"
+
+#. deploy.register.valid
+#: basiclti/basiclti-blis/src/bundle/blis.properties:18
+msgctxt ""
+"basiclti/basiclti-blis/src/bundle/blis.properties:deploy.register.valid"
+msgid "Request is not in a valid format"
+msgstr "Le format de la requête est erroné"
+
+#. deploy.register.credentials
+#: basiclti/basiclti-blis/src/bundle/blis.properties:19
+msgctxt ""
+"basiclti/basiclti-"
+"blis/src/bundle/blis.properties:deploy.register.credentials"
+msgid "Deployment is missing credentials"
+msgstr "Manque de droits pour le déploiement"
+
+#. deploy.register.signature
+#: basiclti/basiclti-blis/src/bundle/blis.properties:20
+msgctxt ""
+"basiclti/basiclti-blis/src/bundle/blis.properties:deploy.register.signature"
+msgid "OAuth signature failure"
+msgstr "Échec de signature OAuth"
+
+#. deploy.register.parse
+#: basiclti/basiclti-blis/src/bundle/blis.properties:21
+msgctxt ""
+"basiclti/basiclti-blis/src/bundle/blis.properties:deploy.register.parse"
+msgid "JSON parse failed"
+msgstr "L'analyse JSON a échoué"
+
+#. deploy.register.notools
+#: basiclti/basiclti-blis/src/bundle/blis.properties:22
+msgctxt ""
+"basiclti/basiclti-blis/src/bundle/blis.properties:deploy.register.notools"
+msgid "No tools found in profile"
+msgstr "Aucun outil trouvé dans le profil"
+
+#. deploy.register.launch
+#: basiclti/basiclti-blis/src/bundle/blis.properties:23
+msgctxt ""
+"basiclti/basiclti-blis/src/bundle/blis.properties:deploy.register.launch"
+msgid "Unable to determine launch URL"
+msgstr "Impossible de déterminer l'URL de lancement"
+
+#. deploy.register.messages
+#: basiclti/basiclti-blis/src/bundle/blis.properties:24
+msgctxt ""
+"basiclti/basiclti-blis/src/bundle/blis.properties:deploy.register.messages"
+msgid ""
+"A resource_handler cannot have more than one basic-lti-launch-request "
+"message"
+msgstr ""
+
+#. deploy.register.nopath
+#: basiclti/basiclti-blis/src/bundle/blis.properties:25
+msgctxt ""
+"basiclti/basiclti-blis/src/bundle/blis.properties:deploy.register.nopath"
+msgid "A basic-lti-launch-request message must have a path"
+msgstr "Un message basic-lti-launch-request doit avoir un chemin"
+
+#. new.tools.subject
+#: basiclti/basiclti-impl/src/bundle/email.properties:1
+msgctxt "basiclti/basiclti-impl/src/bundle/email.properties:new.tools.subject"
+msgid "Copies of {0} added to sites in the last {1}"
+msgstr ""
+
+#. new.tools.body.header
+#: basiclti/basiclti-impl/src/bundle/email.properties:2
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/email.properties:new.tools.body.header"
+msgid ""
+"This is a list of all the copies of {0} added to site(s) in the last {1}.\n"
+"\n"
+msgstr ""
+
+#. new.tools.body.entry
+#: basiclti/basiclti-impl/src/bundle/email.properties:3
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/email.properties:new.tools.body.entry"
+msgid ""
+"{0} - {1}\n"
+"added by {2} at {3}.\n"
+"\n"
+msgstr ""
+
+#. new.tools.body.footer
+#: basiclti/basiclti-impl/src/bundle/email.properties:4
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/email.properties:new.tools.body.footer"
+msgid "User information may be different to the person who added the tool.\n"
+msgstr ""
+
+#. bl_off
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:1
+msgctxt "basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_off"
+msgid "(Off)"
+msgstr "(Arrêt)"
+
+#. foorm.missing.field
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:2
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:foorm.missing.field"
+msgid "Required Field:"
+msgstr "Champ requis :"
+
+#. foorm.maxlength.field
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:3
+msgctxt ""
+"basiclti/basiclti-"
+"impl/src/bundle/ltiservice.properties:foorm.maxlength.field"
+msgid "Field >"
+msgstr "Champ >"
+
+#. foorm.integer.field
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:4
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:foorm.integer.field"
+msgid "Field should be an integer:"
+msgstr "Le champ doit être un entier :"
+
+#. foorm.id.field
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:5
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:foorm.id.field"
+msgid "Field has invalid characters:"
+msgstr "Le champ contient des caractères non valides :"
+
+#. foorm.url.field
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:6
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:foorm.url.field"
+msgid "Field is not a url:"
+msgstr "Le champ n'est pas une url :"
+
+#. error.missing.toolid
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:7
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:error.missing.toolid"
+msgid "Missing Tool ID"
+msgstr "Il manque l'identifiant de l'outil"
+
+#. error.invalid.toolid
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:8
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:error.invalid.toolid"
+msgid "Invalid Tool ID"
+msgstr "Identifiant de l'outil non valide"
+
+#. error.content.not.found
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:9
+msgctxt ""
+"basiclti/basiclti-"
+"impl/src/bundle/ltiservice.properties:error.content.not.found"
+msgid "Tool configuration not found"
+msgstr "Configuration de l'outil introuvable"
+
+#. error.placement.not.found
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:10
+msgctxt ""
+"basiclti/basiclti-"
+"impl/src/bundle/ltiservice.properties:error.placement.not.found"
+msgid "Tool content item not found"
+msgstr "Élément de contenu de l'outil introuvable"
+
+#. id
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:11
+msgctxt "basiclti/basiclti-impl/src/bundle/ltiservice.properties:id"
+msgid "Primary Key"
+msgstr "Clé primaire"
+
+#. tool_id
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:12
+msgctxt "basiclti/basiclti-impl/src/bundle/ltiservice.properties:tool_id"
+msgid "Associated Tool"
+msgstr "Outil associé"
+
+#. bl_title
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:13
+msgctxt "basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_title"
+msgid "Tool Title (Above the tool)"
+msgstr "Titre d'outil (au-dessus de l'outil)"
+
+#. bl_allowtitle
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:14
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_allowtitle"
+msgid "Allow tool title to be changed"
+msgstr "Autoriser la modification du titre de l'outil"
+
+#. bl_allowtitle_allow
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:15
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_allowtitle_allow"
+msgid "Allow"
+msgstr "Autoriser"
+
+#. bl_allowtitle_disallow
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:16
+msgctxt ""
+"basiclti/basiclti-"
+"impl/src/bundle/ltiservice.properties:bl_allowtitle_disallow"
+msgid "Do not allow"
+msgstr "Interdire"
+
+#. bl_pagetitle
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:17
+msgctxt "basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_pagetitle"
+msgid "Button Text (Text in tool menu)"
+msgstr "Texte du bouton (texte dans le menu outil)"
+
+#. bl_allowpagetitle
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:18
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_allowpagetitle"
+msgid "Allow button text to be changed"
+msgstr "Autoriser la modification du texte du bouton"
+
+#. bl_allowpagetitle_allow
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:19
+msgctxt ""
+"basiclti/basiclti-"
+"impl/src/bundle/ltiservice.properties:bl_allowpagetitle_allow"
+msgid "Allow"
+msgstr "Autoriser"
+
+#. bl_allowpagetitle_disallow
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:20
+msgctxt ""
+"basiclti/basiclti-"
+"impl/src/bundle/ltiservice.properties:bl_allowpagetitle_disallow"
+msgid "Do not allow"
+msgstr "Interdire"
+
+#. bl_content_title
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:21
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_content_title"
+msgid "Tool Configuration Title"
+msgstr "Outil de configuration de titre"
+
+#. bl_description
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:22
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_description"
+msgid "Description"
+msgstr "Description"
+
+#. bl_note
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:23
+msgctxt "basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_note"
+msgid "Note"
+msgstr "Note"
+
+#. bl_status
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:24
+msgctxt "basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_status"
+msgid "Tool Status"
+msgstr "État de l'outil"
+
+#. bl_status_enable
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:25
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_status_enable"
+msgid "Enabled"
+msgstr "Activé"
+
+#. bl_status_disable
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:26
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_status_disable"
+msgid "Disabled"
+msgstr "Désactivé"
+
+#. bl_visible
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:27
+msgctxt "basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_visible"
+msgid "Tool Visibility"
+msgstr "Visibilité de l'outil"
+
+#. bl_visible_visible
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:28
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_visible_visible"
+msgid "Visible"
+msgstr "Visible"
+
+#. bl_visible_stealth
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:29
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_visible_stealth"
+msgid "Stealthed"
+msgstr "Camouflé"
+
+#. lti2_launch
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:30
+msgctxt "basiclti/basiclti-impl/src/bundle/ltiservice.properties:lti2_launch"
+msgid ""
+"URL, Key, and Secret are managed via web services in LTI2.  Changing them "
+"here will likely break something."
+msgstr ""
+
+#. lti2_status
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:31
+msgctxt "basiclti/basiclti-impl/src/bundle/ltiservice.properties:lti2_status"
+msgid ""
+"These values will serve as the default for the tools installed as part of "
+"this deployment."
+msgstr ""
+
+#. bl_launch
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:32
+msgctxt "basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_launch"
+msgid "Launch URL"
+msgstr "URL de lancement"
+
+#. bl_allowlaunch
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:33
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_allowlaunch"
+msgid "Allow launch URL to be changed"
+msgstr "Autoriser la modification de l'URL de lancement"
+
+#. bl_allowlaunch_allow
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:34
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_allowlaunch_allow"
+msgid "Allow"
+msgstr "Autoriser"
+
+#. bl_allowlaunch_disallow
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:35
+msgctxt ""
+"basiclti/basiclti-"
+"impl/src/bundle/ltiservice.properties:bl_allowlaunch_disallow"
+msgid "Do not allow"
+msgstr "Interdire"
+
+#. bl_consumerkey
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:36
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_consumerkey"
+msgid "Launch Key"
+msgstr "Clé de lancement"
+
+#. bl_allowconsumerkey
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:37
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_allowconsumerkey"
+msgid "Allow launch key to be changed"
+msgstr "Autoriser la modification de la clé de lancement"
+
+#. bl_allowconsumerkey_allow
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:38
+msgctxt ""
+"basiclti/basiclti-"
+"impl/src/bundle/ltiservice.properties:bl_allowconsumerkey_allow"
+msgid "Allow"
+msgstr "Autoriser"
+
+#. bl_allowconsumerkey_disallow
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:39
+msgctxt ""
+"basiclti/basiclti-"
+"impl/src/bundle/ltiservice.properties:bl_allowconsumerkey_disallow"
+msgid "Do not allow"
+msgstr "Interdire"
+
+#. bl_secret
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:40
+msgctxt "basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_secret"
+msgid "Launch Secret"
+msgstr "Secret de lancement"
+
+#. bl_allowsecret
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:41
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_allowsecret"
+msgid "Allow launch secret to be changed"
+msgstr "Permettre la modification du secret de lancement"
+
+#. bl_allowsecret_allow
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:42
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_allowsecret_allow"
+msgid "Allow"
+msgstr "Autoriser"
+
+#. bl_allowsecret_disallow
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:43
+msgctxt ""
+"basiclti/basiclti-"
+"impl/src/bundle/ltiservice.properties:bl_allowsecret_disallow"
+msgid "Do not allow"
+msgstr "Interdire"
+
+#. SITE_ID
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:44
+msgctxt "basiclti/basiclti-impl/src/bundle/ltiservice.properties:SITE_ID"
+msgid "Site Id (Leave blank to make tool available in all sites)"
+msgstr "Identifiant de l'espace (laisser vide pour rendre l'outil disponible dans tous les espaces)"
+
+#. bl_content_site_id
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:45
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_content_site_id"
+msgid "Site ID"
+msgstr "Identifiant de l'espace"
+
+#. bl_frameheight
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:46
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_frameheight"
+msgid "Frame Height"
+msgstr "Hauteur du cadre"
+
+#. bl_allowframeheight
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:47
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_allowframeheight"
+msgid "Allow frame height to be changed"
+msgstr "Autoriser la modification de la hauteur du cadre"
+
+#. bl_allowframeheight_allow
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:48
+msgctxt ""
+"basiclti/basiclti-"
+"impl/src/bundle/ltiservice.properties:bl_allowframeheight_allow"
+msgid "Allow"
+msgstr "Autoriser"
+
+#. bl_allowframeheight_disallow
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:49
+msgctxt ""
+"basiclti/basiclti-"
+"impl/src/bundle/ltiservice.properties:bl_allowframeheight_disallow"
+msgid "Do not allow"
+msgstr "Interdire"
+
+#. bl_toolorder
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:50
+msgctxt "basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_toolorder"
+msgid "Tool Order (Only valid for tools placed in all sites)"
+msgstr ""
+
+#. bl_siteinfoconfig
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:51
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_siteinfoconfig"
+msgid "Configuration dialog when tool is selected"
+msgstr ""
+
+#. bl_siteinfoconfig_bypass
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:52
+msgctxt ""
+"basiclti/basiclti-"
+"impl/src/bundle/ltiservice.properties:bl_siteinfoconfig_bypass"
+msgid "Bypass configuration dialog"
+msgstr ""
+
+#. bl_siteinfoconfig_config
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:53
+msgctxt ""
+"basiclti/basiclti-"
+"impl/src/bundle/ltiservice.properties:bl_siteinfoconfig_config"
+msgid "Show configuration dialog"
+msgstr ""
+
+#. bl_newpage
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:54
+msgctxt "basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_newpage"
+msgid "Launch in Popup"
+msgstr "Lancer dans une fenêtre ''popup''"
+
+#. bl_newpage_off
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:55
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_newpage_off"
+msgid "Never launch in Popup"
+msgstr "Ne jamais lancer dans une fenêtre ''popup''"
+
+#. bl_newpage_on
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:56
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_newpage_on"
+msgid "Always launch in Popup"
+msgstr "Toujours lancer dans une fenêtre ''popup''"
+
+#. bl_newpage_content
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:57
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_newpage_content"
+msgid "Allow popup to be changed"
+msgstr "Autoriser la modification du choix de fenêtre ''popup''"
+
+#. bl_debug
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:58
+msgctxt "basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_debug"
+msgid "Debug Launch"
+msgstr "Lancement de débogage"
+
+#. bl_debug_off
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:59
+msgctxt "basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_debug_off"
+msgid "Never launch in debug mode"
+msgstr "Ne jamais lancer en mode débogage"
+
+#. bl_debug_on
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:60
+msgctxt "basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_debug_on"
+msgid "Always launch in debug mode"
+msgstr "Toujours lancer en mode débogage"
+
+#. bl_debug_content
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:61
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_debug_content"
+msgid "Allow debug mode to be changed"
+msgstr "Permettre la modification du choix du mode débogage"
+
+#. privacy
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:62
+msgctxt "basiclti/basiclti-impl/src/bundle/ltiservice.properties:privacy"
+msgid "Privacy Settings:"
+msgstr "Réglage des paramètres de confidentialité :"
+
+#. bl_sendname
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:63
+msgctxt "basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_sendname"
+msgid "Send User Names to External Tool"
+msgstr "Envoyer les noms des utilisateurs à l'outil externe"
+
+#. bl_sendemailaddr
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:64
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_sendemailaddr"
+msgid "Send Email Addresses to External Tool"
+msgstr "Envoyer les adresses de courriel à l'outil externe"
+
+#. services
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:65
+msgctxt "basiclti/basiclti-impl/src/bundle/ltiservice.properties:services"
+msgid "Services:"
+msgstr "Services :"
+
+#. bl_allowoutcomes
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:66
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_allowoutcomes"
+msgid "Allow External Tool to return grades"
+msgstr "Autoriser l'outil externe à renvoyer des notes"
+
+#. bl_allowlineitems
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:67
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_allowlineitems"
+msgid "Allow External Tool to create grade columns"
+msgstr ""
+
+#. bl_allowroster
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:68
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_allowroster"
+msgid "Provide Roster to External Tool"
+msgstr "Fournir la liste des participants à l'outil externe"
+
+#. bl_allowsettings
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:69
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_allowsettings"
+msgid "Allow External Tool to store setting data"
+msgstr "Autoriser l'outil externe à stocker les paramètres"
+
+#. bl_allowcontentitem
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:70
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_allowcontentitem"
+msgid ""
+"Allow External Tool to configure itself (the tool must support the IMS "
+"Content-Item or Deep-Link message)"
+msgstr ""
+
+#. pl_header
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:71
+msgctxt "basiclti/basiclti-impl/src/bundle/ltiservice.properties:pl_header"
+msgid ""
+"Indicate the following types of Content Item/Deep Link Selection launches "
+"this tool can handle.  Not all tools can handle types of launches.  If you "
+"enable a tool which is not capable of responding to a particular request, it"
+" will likely fail when you try to use it."
+msgstr ""
+
+#. bl_pl_launch
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:72
+msgctxt "basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_pl_launch"
+msgid ""
+"Allow the tool to be launched as a link (this is typically true for most "
+"tools)"
+msgstr ""
+
+#. bl_pl_linkselection
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:73
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_pl_linkselection"
+msgid ""
+"Allow external tool to configure itself (the tool must support the IMS "
+"Content-Item or Deep-Link message)"
+msgstr ""
+
+#. bl_pl_importitem
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:74
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_pl_importitem"
+msgid ""
+"Allow the tool to provide a common cartridge (usually to be imported into a "
+"tool like Lessons)"
+msgstr ""
+
+#. bl_pl_fileitem
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:75
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_pl_fileitem"
+msgid "Allow the tool to provide a file (usually as part of a file picker)"
+msgstr "Permettre à l'outil de fournir un fichier (généralement dans le cadre d'un sélecteur de fichiers)"
+
+#. bl_pl_contenteditor
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:76
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_pl_contenteditor"
+msgid ""
+"Allow the tool to be used from the rich content editor to select content "
+"(the tool must support the IMS Content-Item or Deep-Link message)"
+msgstr ""
+
+#. bl_pl_assessmentselection
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:77
+msgctxt ""
+"basiclti/basiclti-"
+"impl/src/bundle/ltiservice.properties:bl_pl_assessmentselection"
+msgid "Allow the tool to be one of the assessment types"
+msgstr "Autoriser l’outil comme l’un des types d’évaluation"
+
+#. bl_allowcustom
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:78
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_allowcustom"
+msgid "Allow additional custom parameters"
+msgstr "Autoriser des paramètres personnalisés supplémentaires"
+
+#. bl_custom
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:79
+msgctxt "basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_custom"
+msgid "Custom Parameters (key=value on separate lines)"
+msgstr "Paramètres personnalisés (clé = valeur sur des lignes séparées)"
+
+#. bl_rolemap
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:80
+msgctxt "basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_rolemap"
+msgid ""
+"Manually map Sakai roles to IMS roles. Example: "
+"maintain:Learner;access:Learner"
+msgstr ""
+
+#. bl_splash
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:81
+msgctxt "basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_splash"
+msgid ""
+"Splash Screen (If this is non-blank it is shown before the tool is launched)"
+msgstr ""
+
+#. bl_fa_icon
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:82
+msgctxt "basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_fa_icon"
+msgid "Choose a custom icon (leave empty to use the default icon)"
+msgstr "Choisir une icône personnalisée (laisser vide pour utiliser l’icône par défaut)"
+
+#. bl_allowfa_icon
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:83
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_allowfa_icon"
+msgid "Allow custom icon to be changed"
+msgstr ""
+
+#. bl_allowfa_icon_allow
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:84
+msgctxt ""
+"basiclti/basiclti-"
+"impl/src/bundle/ltiservice.properties:bl_allowfa_icon_allow"
+msgid "Allow"
+msgstr "Autoriser"
+
+#. bl_allowfa_icon_disallow
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:85
+msgctxt ""
+"basiclti/basiclti-"
+"impl/src/bundle/ltiservice.properties:bl_allowfa_icon_disallow"
+msgid "Do not allow"
+msgstr "Interdire"
+
+#. bl_matchpattern
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:86
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_matchpattern"
+msgid "Launch URL Pattern to Match"
+msgstr "Modèle auquel l'URL de lancement doit correspondre"
+
+#. bl_launchurl
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:87
+msgctxt "basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_launchurl"
+msgid "Actual Launch Url"
+msgstr "URL de lancement réelle"
+
+#. bl_resource_handler
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:88
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_resource_handler"
+msgid "Resource Handler"
+msgstr "Gestionnaire de la ressource"
+
+#. bl_parameter
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:89
+msgctxt "basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_parameter"
+msgid "Launch Parameters"
+msgstr "Paramètres de lancement"
+
+#. bl_enabled_capability
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:90
+msgctxt ""
+"basiclti/basiclti-"
+"impl/src/bundle/ltiservice.properties:bl_enabled_capability"
+msgid "Enabled Capabilities"
+msgstr "Fonctionnalités activées"
+
+#. bl_contentitem
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:91
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_contentitem"
+msgid "Enabled Capabilities"
+msgstr "Fonctionnalités activées"
+
+#. bl_sha256
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:92
+msgctxt "basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_sha256"
+msgid "SHA-256 Signature Support"
+msgstr ""
+
+#. bl_sha256_off
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:93
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_sha256_off"
+msgid "Sign Launch with SHA-1 (Legacy)"
+msgstr ""
+
+#. bl_sha256_on
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:94
+msgctxt "basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_sha256_on"
+msgid "Sign Launch with SHA-256"
+msgstr ""
+
+#. bl_sha256_content
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:95
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_sha256_content"
+msgid "Delegate to each Content Item"
+msgstr ""
+
+#. bl_lti13
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:96
+msgctxt "basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_lti13"
+msgid ""
+"If you select LTI 1.3 support, your configuration information should be "
+"immediately viewed once the tool record has been inserted.  If your tool has"
+" provided a public key or keyset for LTI 1.3 enter it, otherwise leave both "
+"fields blank and public and private keys will be provided for you.  If we "
+"generate a private key for the tool, you need to view it and communicate it "
+"to the tool immediately because it will be deleted shortly after it is "
+"created."
+msgstr ""
+
+#. bl_lti13_inherit
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:97
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_lti13_inherit"
+msgid "Inherit LTI 1.3 setting from tool (default)"
+msgstr ""
+
+#. bl_lti13_off
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:98
+msgctxt "basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_lti13_off"
+msgid "Tool does not support LTI 1.3"
+msgstr ""
+
+#. bl_lti13_on
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:99
+msgctxt "basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_lti13_on"
+msgid "Tool supports LTI 1.3"
+msgstr ""
+
+#. bl_lti13_settings
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:100
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_lti13_settings"
+msgid "Settings for LTI 1.3"
+msgstr ""
+
+#. bl_lti13_client_id
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:101
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_lti13_client_id"
+msgid "LTI 1.3 Client ID (provide to the tool)"
+msgstr ""
+
+#. bl_lti13_platform_public
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:102
+msgctxt ""
+"basiclti/basiclti-"
+"impl/src/bundle/ltiservice.properties:bl_lti13_platform_public"
+msgid "LTI 1.3 Platform Public Key (provide to the tool)"
+msgstr ""
+
+#. bl_lti13_platform_private
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:103
+msgctxt ""
+"basiclti/basiclti-"
+"impl/src/bundle/ltiservice.properties:bl_lti13_platform_private"
+msgid "LTI 1.3 Platform Private Key (for messages from the LMS)"
+msgstr ""
+
+#. bl_lti13_oidc_endpoint
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:104
+msgctxt ""
+"basiclti/basiclti-"
+"impl/src/bundle/ltiservice.properties:bl_lti13_oidc_endpoint"
+msgid ""
+"LTI 1.3 Tool OpenID Connect/Initialization Endpoint (provided by the tool)"
+msgstr ""
+
+#. bl_lti13_oidc_redirect
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:105
+msgctxt ""
+"basiclti/basiclti-"
+"impl/src/bundle/ltiservice.properties:bl_lti13_oidc_redirect"
+msgid ""
+"LTI 1.3 Tool Redirect Endpoint(s) (comma separated and provided by the tool)"
+msgstr ""
+
+#. bl_lti13_tool_public
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:106
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_lti13_tool_public"
+msgid "LTI 1.3 Tool Public Key (provided by the tool)"
+msgstr ""
+
+#. bl_lti13_tool_keyset
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:107
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_lti13_tool_keyset"
+msgid "LTI 1.3 Tool Keyset URL (provided by the tool)"
+msgstr ""
+
+#. bl_lti13_tool_private
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:108
+msgctxt ""
+"basiclti/basiclti-"
+"impl/src/bundle/ltiservice.properties:bl_lti13_tool_private"
+msgid "LTI 1.3 Tool Private Key (for messages from the tool)"
+msgstr ""
+
+#. bl_lti13_tool_kid
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:109
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_lti13_tool_kid"
+msgid "LTI 1.3 Tool Latest KID value (for messages from the tool)"
+msgstr ""
+
+#. bl_lti13_platform_header
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:110
+msgctxt ""
+"basiclti/basiclti-"
+"impl/src/bundle/ltiservice.properties:bl_lti13_platform_header"
+msgid ""
+"These fields are also required for LTI 1.3, but these must not be shared "
+"with the tool."
+msgstr ""
+
+#. bl_version
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:111
+msgctxt "basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_version"
+msgid "LTI Version"
+msgstr "Version LTI"
+
+#. bl_version_lti1
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:112
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_version_lti1"
+msgid "LTI 1.x Tool"
+msgstr "Outil LTI 1.x"
+
+#. bl_version_lti2
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:113
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_version_lti2"
+msgid "LTI 2.x Tool"
+msgstr "Outil LTI 2.x"
+
+#. lti2_internal
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:114
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:lti2_internal"
+msgid ""
+"These are fields internal to LTI 2.x processing - changing them is likely to"
+" break something"
+msgstr ""
+
+#. bl_reg_state
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:115
+msgctxt "basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_reg_state"
+msgid "Tool Status "
+msgstr "État de l'outil "
+
+#. bl_reg_state_lti2_ready
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:116
+msgctxt ""
+"basiclti/basiclti-"
+"impl/src/bundle/ltiservice.properties:bl_reg_state_lti2_ready"
+msgid "LTI 2.x Registration Started"
+msgstr "L'enregistrement LTI 2.x a commencé"
+
+#. bl_reg_state_lti2_received
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:117
+msgctxt ""
+"basiclti/basiclti-"
+"impl/src/bundle/ltiservice.properties:bl_reg_state_lti2_received"
+msgid "LTI 2.x Registration Received"
+msgstr "Enregistrement LTI 2.x  reçu"
+
+#. bl_reg_state_lti2_complete
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:118
+msgctxt ""
+"basiclti/basiclti-"
+"impl/src/bundle/ltiservice.properties:bl_reg_state_lti2_complete"
+msgid "LTI 2.x Registration Complete"
+msgstr "Enregistrement LTI 2.x  terminé"
+
+#. bl_lti11_launch_type
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:119
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_lti11_launch_type"
+msgid "Type of LTI 1.1 Launch to Use"
+msgstr ""
+
+#. bl_lti11_launch_type_inherit
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:120
+msgctxt ""
+"basiclti/basiclti-"
+"impl/src/bundle/ltiservice.properties:bl_lti11_launch_type_inherit"
+msgid "Inherit System-Wide Default"
+msgstr ""
+
+#. bl_lti11_launch_type_legacy
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:121
+msgctxt ""
+"basiclti/basiclti-"
+"impl/src/bundle/ltiservice.properties:bl_lti11_launch_type_legacy"
+msgid "Use Legacy LTI 1.1 Launch"
+msgstr ""
+
+#. bl_lti11_launch_type_lti112
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:122
+msgctxt ""
+"basiclti/basiclti-"
+"impl/src/bundle/ltiservice.properties:bl_lti11_launch_type_lti112"
+msgid "Use Round-trip LTI 1.1 Launch"
+msgstr ""
+
+#. bl_reg_launch
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:123
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_reg_launch"
+msgid "LTI 2.x Registration URL"
+msgstr "URL d'enregistrement LTI 2.x"
+
+#. bl_reg_key
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:124
+msgctxt "basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_reg_key"
+msgid "LTI 2.x Registration Key"
+msgstr "Clé d'enregistrement LTI 2.x"
+
+#. bl_reg_password
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:125
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_reg_password"
+msgid "LTI 2.x Registration Secret"
+msgstr "Secret d'enregistrement LTI 2.x"
+
+#. bl_reg_parameters
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:126
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_reg_parameters"
+msgid "LTI 2.x Tool Launch Parameters"
+msgstr "Paramètres de lancement de l'outil LTI 2.x"
+
+#. bl_reg_profile
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:127
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:bl_reg_profile"
+msgid "LTI 2.x Registration Profile"
+msgstr "Profil d'enregistrement LTI 2.x"
+
+#. bl_tool_proxy_binding
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:128
+msgctxt ""
+"basiclti/basiclti-"
+"impl/src/bundle/ltiservice.properties:bl_tool_proxy_binding"
+msgid "LTI 2.x Tool Registration Profile"
+msgstr "LTI 2.x outil d’inscription profil"
+
+#. error.id.not.found
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:129
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:error.id.not.found"
+msgid "Cannot find LTI tool id."
+msgstr "Impossible de trouver l'identifiant de l'outil LTI."
+
+#. error.maintain.link
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:130
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:error.maintain.link"
+msgid "Must be site maintainer to manage LTI tool links"
+msgstr "Seul le responsable de l'espace est autorisé à gérer les liens de l'outil LTI"
+
+#. error.link.placement.update
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:131
+msgctxt ""
+"basiclti/basiclti-"
+"impl/src/bundle/ltiservice.properties:error.link.placement.update"
+msgid "Error updating placement information in configuration item {0}"
+msgstr "Erreur de mise à jour des informations de placement dans l'élément de configuration {0}"
+
+#. error.maintain.edit
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:132
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:error.maintain.edit"
+msgid "Must be site maintainer to edit"
+msgstr "Il faut être responsable de l'espace pour pouvoir modifier"
+
+#. error.tool.not.found
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:133
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:error.tool.not.found"
+msgid "Tool not found"
+msgstr "Outil introuvable"
+
+#. error.need.key.secret
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:134
+msgctxt ""
+"basiclti/basiclti-"
+"impl/src/bundle/ltiservice.properties:error.need.key.secret"
+msgid "This tool will not function without a key and secret."
+msgstr "Cet outil ne fonctionnera pas sans une clé et un secret."
+
+#. error.placement.not.removed
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:135
+msgctxt ""
+"basiclti/basiclti-"
+"impl/src/bundle/ltiservice.properties:error.placement.not.removed"
+msgid "Unable to remove tool placement"
+msgstr "Impossible de supprimer le placement de l'outil"
+
+#. export.title
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:136
+msgctxt "basiclti/basiclti-impl/src/bundle/ltiservice.properties:export.title"
+msgid "Title"
+msgstr "Titre"
+
+#. export.url
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:137
+msgctxt "basiclti/basiclti-impl/src/bundle/ltiservice.properties:export.url"
+msgid "URL"
+msgstr "URL"
+
+#. export.sitetitle
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:138
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:export.sitetitle"
+msgid "Site Title"
+msgstr "Code du cours (p. ex. F13-ACCT-134C-01)"
+
+#. export.siteid
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:139
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:export.siteid"
+msgid "Site ID"
+msgstr "Identifiant de l'espace"
+
+#. export.createdat
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:140
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:export.createdat"
+msgid "Added On"
+msgstr ""
+
+#. export.sitecontactname
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:141
+msgctxt ""
+"basiclti/basiclti-"
+"impl/src/bundle/ltiservice.properties:export.sitecontactname"
+msgid "Site Owner"
+msgstr ""
+
+#. export.sitecontactemail
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:142
+msgctxt ""
+"basiclti/basiclti-"
+"impl/src/bundle/ltiservice.properties:export.sitecontactemail"
+msgid "Site Contact"
+msgstr "Propriétaire"
+
+#. content.attribution
+#: basiclti/basiclti-impl/src/bundle/ltiservice.properties:143
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/ltiservice.properties:content.attribution"
+msgid "Department"
+msgstr "Service/Département"
+
+#. launch.button
+#: basiclti/basiclti-impl/src/bundle/basicltisvc.properties:1
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/basicltisvc.properties:launch.button"
+msgid "Press to continue to external tool."
+msgstr "Appuyez pour continuer vers l'outil externe."
+
+#. error.nosecret
+#: basiclti/basiclti-impl/src/bundle/basicltisvc.properties:2
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/basicltisvc.properties:error.nosecret"
+msgid "Error - must have a secret."
+msgstr "Erreur - doit avoir un secret."
+
+#. error.nokey
+#: basiclti/basiclti-impl/src/bundle/basicltisvc.properties:3
+msgctxt "basiclti/basiclti-impl/src/bundle/basicltisvc.properties:error.nokey"
+msgid "Error - must have a secret and a key."
+msgstr "Erreur - doit avoir un secret et une clé."
+
+#. error.nolaunch
+#: basiclti/basiclti-impl/src/bundle/basicltisvc.properties:4
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/basicltisvc.properties:error.nolaunch"
+msgid "This tool is not yet configured."
+msgstr "Cet outil n'est pas encore configuré."
+
+#. error.missing
+#: basiclti/basiclti-impl/src/bundle/basicltisvc.properties:5
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/basicltisvc.properties:error.missing"
+msgid "Error, non-existent placementId."
+msgstr "Erreur, placementId inexistant."
+
+#. error.load
+#: basiclti/basiclti-impl/src/bundle/basicltisvc.properties:6
+msgctxt "basiclti/basiclti-impl/src/bundle/basicltisvc.properties:error.load"
+msgid "Error, cannot load placement="
+msgstr "Erreur, impossible de charger le placement ="
+
+#. error.props
+#: basiclti/basiclti-impl/src/bundle/basicltisvc.properties:7
+msgctxt "basiclti/basiclti-impl/src/bundle/basicltisvc.properties:error.props"
+msgid "Error, cannot load Sakai information for placement="
+msgstr "Erreur, impossible de charger les informations de Sakai pour le placement ="
+
+#. error.sign
+#: basiclti/basiclti-impl/src/bundle/basicltisvc.properties:8
+msgctxt "basiclti/basiclti-impl/src/bundle/basicltisvc.properties:error.sign"
+msgid "Error signing message."
+msgstr "Erreur lors de la signature du message."
+
+#. error.no.pki
+#: basiclti/basiclti-impl/src/bundle/basicltisvc.properties:9
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/basicltisvc.properties:error.no.pki"
+msgid "Public and/or Private Key(s) not configured."
+msgstr ""
+
+#. error.content.missing
+#: basiclti/basiclti-impl/src/bundle/basicltisvc.properties:10
+msgctxt ""
+"basiclti/basiclti-"
+"impl/src/bundle/basicltisvc.properties:error.content.missing"
+msgid "External tool content item is missing or improperly configured."
+msgstr "L'élément de contenu d'outil externe est manquant ou mal configuré."
+
+#. error.tool.missing
+#: basiclti/basiclti-impl/src/bundle/basicltisvc.properties:11
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/basicltisvc.properties:error.tool.missing"
+msgid "External tool item is missing or improperly configured."
+msgstr "L'élément d'outil externe est manquant ou mal configuré."
+
+#. error.tool.partial
+#: basiclti/basiclti-impl/src/bundle/basicltisvc.properties:12
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/basicltisvc.properties:error.tool.partial"
+msgid ""
+"External tool item is incomplete, missing a key and secret.  This is likely "
+"due to an imported cartridge.  The administrator or site owner must "
+"configure the tool and add a key and secret before the extenal tool will "
+"work."
+msgstr ""
+
+#. tool.disabled
+#: basiclti/basiclti-impl/src/bundle/basicltisvc.properties:13
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/basicltisvc.properties:tool.disabled"
+msgid "External tool is currently disabled"
+msgstr "L'outil externe est actuellement désactivé"
+
+#. error.site.missing
+#: basiclti/basiclti-impl/src/bundle/basicltisvc.properties:14
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/basicltisvc.properties:error.site.missing"
+msgid "Cannot load site."
+msgstr "Impossible de charger le site."
+
+#. session.warning
+#: basiclti/basiclti-impl/src/bundle/basicltisvc.properties:15
+msgctxt ""
+"basiclti/basiclti-impl/src/bundle/basicltisvc.properties:session.warning"
+msgid ""
+"<p><span style=\"color:red\">Warning:</span> This tool makes use of your "
+"logged in session.  This means that the tool can access your data in this "
+"system.  Only continue to this tool if you are willing to share your data "
+"with this tool.</p>"
+msgstr ""
+
+#. to
+#: basiclti/basiclti-api/src/bundle/org/sakaiproject/lti/impl/LTIReportingJob.properties:1
+msgctxt ""
+"basiclti/basiclti-"
+"api/src/bundle/org/sakaiproject/lti/impl/LTIReportingJob.properties:to"
+msgid "To Address"
+msgstr ""
+
+#. to.description
+#: basiclti/basiclti-api/src/bundle/org/sakaiproject/lti/impl/LTIReportingJob.properties:2
+msgctxt ""
+"basiclti/basiclti-"
+"api/src/bundle/org/sakaiproject/lti/impl/LTIReportingJob.properties:to.description"
+msgid "The recipient of the report"
+msgstr ""
+
+#. from
+#: basiclti/basiclti-api/src/bundle/org/sakaiproject/lti/impl/LTIReportingJob.properties:3
+msgctxt ""
+"basiclti/basiclti-"
+"api/src/bundle/org/sakaiproject/lti/impl/LTIReportingJob.properties:from"
+msgid "From Address"
+msgstr ""
+
+#. from.description
+#: basiclti/basiclti-api/src/bundle/org/sakaiproject/lti/impl/LTIReportingJob.properties:4
+msgctxt ""
+"basiclti/basiclti-"
+"api/src/bundle/org/sakaiproject/lti/impl/LTIReportingJob.properties:from.description"
+msgid "The sender of the report"
+msgstr ""
+
+#. period
+#: basiclti/basiclti-api/src/bundle/org/sakaiproject/lti/impl/LTIReportingJob.properties:5
+msgctxt ""
+"basiclti/basiclti-"
+"api/src/bundle/org/sakaiproject/lti/impl/LTIReportingJob.properties:period"
+msgid "Reporting Period(ms)"
+msgstr ""
+
+#. period.description
+#: basiclti/basiclti-api/src/bundle/org/sakaiproject/lti/impl/LTIReportingJob.properties:6
+msgctxt ""
+"basiclti/basiclti-"
+"api/src/bundle/org/sakaiproject/lti/impl/LTIReportingJob.properties:period.description"
+msgid "The period over which we will look for LTI tools being installed."
+msgstr ""
+
+#. toolId
+#: basiclti/basiclti-api/src/bundle/org/sakaiproject/lti/impl/LTIReportingJob.properties:7
+msgctxt ""
+"basiclti/basiclti-"
+"api/src/bundle/org/sakaiproject/lti/impl/LTIReportingJob.properties:toolId"
+msgid "LTI Tool ID"
+msgstr ""
+
+#. toolId.description
+#: basiclti/basiclti-api/src/bundle/org/sakaiproject/lti/impl/LTIReportingJob.properties:8
+msgctxt ""
+"basiclti/basiclti-"
+"api/src/bundle/org/sakaiproject/lti/impl/LTIReportingJob.properties:toolId.description"
+msgid "The LTI Tool that the report is generated for."
+msgstr ""
+
+#. oidc.continue
+#: basiclti/basiclti-oidc/src/bundle/oidc.properties:1
+msgctxt "basiclti/basiclti-oidc/src/bundle/oidc.properties:oidc.continue"
+msgid "Continue To Launch"
+msgstr ""
+
+#. gen.alert
+#: basiclti/web-ifp/src/bundle/iframe.properties:1
+msgctxt "basiclti/web-ifp/src/bundle/iframe.properties:gen.alert"
+msgid "Alert:"
+msgstr "Alerte :"
+
+#. gen.custom
+#: basiclti/web-ifp/src/bundle/iframe.properties:2
+msgctxt "basiclti/web-ifp/src/bundle/iframe.properties:gen.custom"
+msgid "Customize Web Content"
+msgstr "Personnaliser le contenu Web"
+
+#. gen.custom.site
+#: basiclti/web-ifp/src/bundle/iframe.properties:3
+msgctxt "basiclti/web-ifp/src/bundle/iframe.properties:gen.custom.site"
+msgid "Customize Server Info Display"
+msgstr "Personnaliser l'affichage d'informations serveur"
+
+#. gen.custom.worksite
+#: basiclti/web-ifp/src/bundle/iframe.properties:4
+msgctxt "basiclti/web-ifp/src/bundle/iframe.properties:gen.custom.worksite"
+msgid "Customize Site Info Display"
+msgstr "Personnaliser l'affichage d'informations du site"
+
+#. gen.custom.workspace
+#: basiclti/web-ifp/src/bundle/iframe.properties:5
+msgctxt "basiclti/web-ifp/src/bundle/iframe.properties:gen.custom.workspace"
+msgid "Customize Home Info Display"
+msgstr "Personnaliser l'affichage d'informations de l'Espace de Travail"
+
+#. gen.height
+#: basiclti/web-ifp/src/bundle/iframe.properties:6
+msgctxt "basiclti/web-ifp/src/bundle/iframe.properties:gen.height"
+msgid "Frame Height"
+msgstr "Hauteur du cadre"
+
+#. gen.title
+#: basiclti/web-ifp/src/bundle/iframe.properties:7
+msgctxt "basiclti/web-ifp/src/bundle/iframe.properties:gen.title"
+msgid "Title"
+msgstr "Titre"
+
+#. gen.tootit
+#: basiclti/web-ifp/src/bundle/iframe.properties:8
+msgctxt "basiclti/web-ifp/src/bundle/iframe.properties:gen.tootit"
+msgid "Tool Title"
+msgstr "Titre de l'outil"
+
+#. gen.pagtit
+#: basiclti/web-ifp/src/bundle/iframe.properties:9
+msgctxt "basiclti/web-ifp/src/bundle/iframe.properties:gen.pagtit"
+msgid "Page Title"
+msgstr "Titre de la page"
+
+#. gen.url
+#: basiclti/web-ifp/src/bundle/iframe.properties:10
+msgctxt "basiclti/web-ifp/src/bundle/iframe.properties:gen.url"
+msgid "URL"
+msgstr "URL"
+
+#. gen.save
+#: basiclti/web-ifp/src/bundle/iframe.properties:11
+msgctxt "basiclti/web-ifp/src/bundle/iframe.properties:gen.save"
+msgid "Update Options"
+msgstr "Mettre à jour les options"
+
+#. gen.cancel
+#: basiclti/web-ifp/src/bundle/iframe.properties:12
+msgctxt "basiclti/web-ifp/src/bundle/iframe.properties:gen.cancel"
+msgid "Cancel"
+msgstr "Annuler"
+
+#. gen.back
+#: basiclti/web-ifp/src/bundle/iframe.properties:13
+msgctxt "basiclti/web-ifp/src/bundle/iframe.properties:gen.back"
+msgid "Back"
+msgstr "Retour"
+
+#. gen.options
+#: basiclti/web-ifp/src/bundle/iframe.properties:14
+msgctxt "basiclti/web-ifp/src/bundle/iframe.properties:gen.options"
+msgid "Options"
+msgstr "Options"
+
+#. gen.description
+#: basiclti/web-ifp/src/bundle/iframe.properties:15
+msgctxt "basiclti/web-ifp/src/bundle/iframe.properties:gen.description"
+msgid "Description"
+msgstr "Description"
+
+#. gen.info.url
+#: basiclti/web-ifp/src/bundle/iframe.properties:16
+msgctxt "basiclti/web-ifp/src/bundle/iframe.properties:gen.info.url"
+msgid "Site Info URL"
+msgstr "URL d'informations du site"
+
+#. gen.info.url.msg
+#: basiclti/web-ifp/src/bundle/iframe.properties:17
+msgctxt "basiclti/web-ifp/src/bundle/iframe.properties:gen.info.url.msg"
+msgid "If specified, this URL will be shown instead of the Site description."
+msgstr "Si spécifiée, cette URL sera affichée au lieu de la description du site."
+
+#. gen.info.maximize
+#: basiclti/web-ifp/src/bundle/iframe.properties:18
+msgctxt "basiclti/web-ifp/src/bundle/iframe.properties:gen.info.maximize"
+msgid "Launch Maximum Width"
+msgstr "Largeur maximale de lancement"
+
+#. get.info.notconfig
+#: basiclti/web-ifp/src/bundle/iframe.properties:19
+msgctxt "basiclti/web-ifp/src/bundle/iframe.properties:get.info.notconfig"
+msgid "Not yet configured."
+msgstr "Pas encore configuré."
+
+#. gen.info.nocustom
+#: basiclti/web-ifp/src/bundle/iframe.properties:20
+msgctxt "basiclti/web-ifp/src/bundle/iframe.properties:gen.info.nocustom"
+msgid "There are no settings to customize."
+msgstr ""
+
+#. new.page.launch
+#: basiclti/web-ifp/src/bundle/iframe.properties:21
+msgctxt "basiclti/web-ifp/src/bundle/iframe.properties:new.page.launch"
+msgid "Page opened in new window."
+msgstr "Ouverture de la page dans une nouvelle fenêtre."
+
+#. new.page.relaunch
+#: basiclti/web-ifp/src/bundle/iframe.properties:22
+msgctxt "basiclti/web-ifp/src/bundle/iframe.properties:new.page.relaunch"
+msgid "Press to re-launch page."
+msgstr "Appuyer pour relancer la page."
+
+#. gen.hei1
+#: basiclti/web-ifp/src/bundle/iframe.properties:23
+msgctxt "basiclti/web-ifp/src/bundle/iframe.properties:gen.hei1"
+msgid "300 pixels"
+msgstr "300 pixels"
+
+#. gen.hei2
+#: basiclti/web-ifp/src/bundle/iframe.properties:24
+msgctxt "basiclti/web-ifp/src/bundle/iframe.properties:gen.hei2"
+msgid "450 pixels"
+msgstr "450 pixels"
+
+#. gen.hei3
+#: basiclti/web-ifp/src/bundle/iframe.properties:25
+msgctxt "basiclti/web-ifp/src/bundle/iframe.properties:gen.hei3"
+msgid "600 pixels"
+msgstr "600 pixels"
+
+#. gen.hei4
+#: basiclti/web-ifp/src/bundle/iframe.properties:26
+msgctxt "basiclti/web-ifp/src/bundle/iframe.properties:gen.hei4"
+msgid "750 pixels"
+msgstr "750 pixels"
+
+#. gen.hei5
+#: basiclti/web-ifp/src/bundle/iframe.properties:27
+msgctxt "basiclti/web-ifp/src/bundle/iframe.properties:gen.hei5"
+msgid "900 pixels"
+msgstr "900 pixels"
+
+#. gen.hei6
+#: basiclti/web-ifp/src/bundle/iframe.properties:28
+msgctxt "basiclti/web-ifp/src/bundle/iframe.properties:gen.hei6"
+msgid "1200 pixels"
+msgstr "1200 pixels"
+
+#. gen.hei7
+#: basiclti/web-ifp/src/bundle/iframe.properties:29
+msgctxt "basiclti/web-ifp/src/bundle/iframe.properties:gen.hei7"
+msgid "1800 pixels"
+msgstr "1800 pixels"
+
+#. gen.hei8
+#: basiclti/web-ifp/src/bundle/iframe.properties:30
+msgctxt "basiclti/web-ifp/src/bundle/iframe.properties:gen.hei8"
+msgid "2400 pixels"
+msgstr "2400 pixels"
+
+#. gen.heisomelse
+#: basiclti/web-ifp/src/bundle/iframe.properties:31
+msgctxt "basiclti/web-ifp/src/bundle/iframe.properties:gen.heisomelse"
+msgid "Something else"
+msgstr "Autre valeur"
+
+#. gen.custheight
+#: basiclti/web-ifp/src/bundle/iframe.properties:32
+msgctxt "basiclti/web-ifp/src/bundle/iframe.properties:gen.custheight"
+msgid "Custom height"
+msgstr "Hauteur personnalisée"
+
+#. gen.pixels
+#: basiclti/web-ifp/src/bundle/iframe.properties:33
+msgctxt "basiclti/web-ifp/src/bundle/iframe.properties:gen.pixels"
+msgid "pixels"
+msgstr "pixels"
+
+#. gen.info.pop
+#: basiclti/web-ifp/src/bundle/iframe.properties:34
+msgctxt "basiclti/web-ifp/src/bundle/iframe.properties:gen.info.pop"
+msgid "Open in new window?"
+msgstr "Ouvrir dans une nouvelle fenêtre?"
+
+#. gen.info.yes
+#: basiclti/web-ifp/src/bundle/iframe.properties:35
+msgctxt "basiclti/web-ifp/src/bundle/iframe.properties:gen.info.yes"
+msgid "yes"
+msgstr "Oui"
+
+#. gen.info.no
+#: basiclti/web-ifp/src/bundle/iframe.properties:36
+msgctxt "basiclti/web-ifp/src/bundle/iframe.properties:gen.info.no"
+msgid "no"
+msgstr "Non"
+
+#. java.alert.pleentval
+#: basiclti/web-ifp/src/bundle/iframe.properties:37
+msgctxt "basiclti/web-ifp/src/bundle/iframe.properties:java.alert.pleentval"
+msgid "The height you entered was not valid."
+msgstr "La hauteur que vous avez saisi n'était pas valide."
+
+#. gen.options
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:1
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:gen.options"
+msgid "Options"
+msgstr "Options"
+
+#. gen.cancel
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:2
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:gen.cancel"
+msgid "Cancel"
+msgstr "Annuler"
+
+#. gen.save
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:3
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:gen.save"
+msgid "Save"
+msgstr "Enregistrer"
+
+#. gen.done
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:4
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:gen.done"
+msgid "Done"
+msgstr "Terminé"
+
+#. gen.edit
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:5
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:gen.edit"
+msgid "Edit"
+msgstr "Modifier"
+
+#. gen.test
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:6
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:gen.test"
+msgid "Test"
+msgstr "Tester"
+
+#. gen.delete
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:7
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:gen.delete"
+msgid "Delete"
+msgstr "Supprimer"
+
+#. gen.insert
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:8
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:gen.insert"
+msgid "Install New Tool"
+msgstr "Installer un nouvel outil"
+
+#. gen.alert
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:9
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:gen.alert"
+msgid "Alert:"
+msgstr "Alerte :"
+
+#. gen.success
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:10
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:gen.success"
+msgid "Success"
+msgstr "Réussite"
+
+#. gen.failure
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:11
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:gen.failure"
+msgid "Failure"
+msgstr "Échec"
+
+#. gen.tools
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:12
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:gen.tools"
+msgid "View Tools"
+msgstr "Voir les outils"
+
+#. gen.add
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:13
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:gen.add"
+msgid "Add"
+msgstr "Ajouter"
+
+#. gen.remove
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:14
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:gen.remove"
+msgid "Remove"
+msgstr "Supprimer"
+
+#. gen.register
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:15
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:gen.register"
+msgid "Register"
+msgstr "Inscrire"
+
+#. gen.reregister
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:16
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:gen.reregister"
+msgid "Re-Register"
+msgstr "Réinscrire"
+
+#. gen.activate
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:17
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:gen.activate"
+msgid "Activate"
+msgstr "Activer"
+
+#. gen.reactivate
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:18
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:gen.reactivate"
+msgid "Re-Activate"
+msgstr "Réactiver"
+
+#. gen.toggle.priv
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:19
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:gen.toggle.priv"
+msgid "Toggle Private Key"
+msgstr ""
+
+#. tool.title
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:20
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:tool.title"
+msgid "External Tools (IMS LTI)"
+msgstr "Outils externes (IMS LTI)"
+
+#. tool.in.site
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:21
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:tool.in.site"
+msgid "Tool Links"
+msgstr "Outils ajoutés aux espaces"
+
+#. tool.in.system
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:22
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:tool.in.system"
+msgid "Installed Tools"
+msgstr "Outils disponibles dans le système"
+
+#. tool.description.sites
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:23
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:tool.description.sites"
+msgid ""
+"Below are the external tools that have links within a site. One installed "
+"tool may have many links.  Select \"Edit\" to revise the settings for a "
+"particular link. Select the \"Create Tool Link\" to add a new link."
+msgstr ""
+
+#. tool.description.sites.helper
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:24
+msgctxt ""
+"basiclti/basiclti-"
+"tool/src/bundle/ltitool.properties:tool.description.sites.helper"
+msgid ""
+"Below are the external tools that have links within this site. One installed"
+" tool may have many links.  Select \"Edit\" to revise the settings for a "
+"particular link.  There may be hard-coded references to these links "
+"throughout this site.  If you delete a link from this screen, those "
+"references will fail so be careful when deleting links from this screen."
+msgstr ""
+
+#. tool.description.system
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:25
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:tool.description.system"
+msgid ""
+"Below are the external tools that have been added to the system. Select the "
+"\"Edit\" link to revise the launch settings. Select the \"Add External Tool "
+"to System\" link to make additional external tools available."
+msgstr ""
+
+#. tool.view
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:26
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:tool.view"
+msgid "View Installed Tool"
+msgstr "Outil Vue"
+
+#. tool.put
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:27
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:tool.put"
+msgid "External Tool"
+msgstr "Outil externe"
+
+#. tool.delete
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:28
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:tool.delete"
+msgid "Deleting an Installed Tool"
+msgstr "Suppression d'un outil"
+
+#. tool.delete.sure
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:29
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:tool.delete.sure"
+msgid ""
+"This tool will be removed from all sites after deletion. Do you want to "
+"proceed?"
+msgstr ""
+
+#. tool.table
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:30
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:tool.table"
+msgid "Installed External (LTI) Tools\""
+msgstr ""
+
+#. tool.none
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:31
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:tool.none"
+msgid "No Tools Available of Installed"
+msgstr "Aucun outil trouvé"
+
+#. tool.note
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:32
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:tool.note"
+msgid ""
+"<p>If you have a key and secret, you must first install the tool using this "
+"screen, and then to launch the tool, you need to create a tool configuration"
+" for the tool.   You can test launch your tool and get a URL for your tool "
+"from the tool configuration screen.</p>"
+msgstr ""
+
+#. tool.launch
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:33
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:tool.launch"
+msgid "Launch URL:"
+msgstr "URL de lancement :"
+
+#. tool.resource.handler
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:34
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:tool.resource.handler"
+msgid "Resource Handler:"
+msgstr "Gestionnaire de la ressource :"
+
+#. tool.already.exists
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:35
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:tool.already.exists"
+msgid ""
+"<br/><span style=\"color:red\">(Note tool aready exists for "
+"resource_handler)</span>"
+msgstr ""
+
+#. tool.patch.title
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:36
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:tool.patch.title"
+msgid "Content Item Launch"
+msgstr ""
+
+#. tool.patch.body
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:37
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:tool.patch.body"
+msgid ""
+"Since you are placing this tool as a Content Item tool, we have "
+"automatically set it so the title and launch URL can be changed."
+msgstr ""
+
+#. content.menu
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:38
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:content.menu"
+msgid "Tool Link"
+msgstr "Placement de l’outil"
+
+#. content.title
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:39
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:content.title"
+msgid "Tool Link"
+msgstr "Placement de l’outil"
+
+#. content.note
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:40
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:content.note"
+msgid ""
+"<p>If you have a url, key, and secret you need to install a new tool, and "
+"then come back and place that tool to be launched in this screen.</p>"
+msgstr ""
+
+#. content.put
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:41
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:content.put"
+msgid "Tool Link"
+msgstr "Placement de l’outil"
+
+#. content.redirecting
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:42
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:content.redirecting"
+msgid "Redirecting to external tool for configuration..."
+msgstr "Redirection vers un outil externe pour configuration..."
+
+#. content.add
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:43
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:content.add"
+msgid "Create Tool Link"
+msgstr "Ajouter l'outil disponible à l'espace"
+
+#. content.tools
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:44
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:content.tools"
+msgid "View Tools"
+msgstr "Voir les outils"
+
+#. content.delete
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:45
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:content.delete"
+msgid "Delete a Tool Link"
+msgstr "Supprimer un placement d'outil"
+
+#. content.delete.sure
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:46
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:content.delete.sure"
+msgid ""
+"This tool will be removed from this site after deletion. Do you want to "
+"proceed?"
+msgstr ""
+
+#. content.delete.detail
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:47
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:content.delete.detail"
+msgid ""
+"Note that there may be uses of this tool in more than one place.  If you "
+"delete this tool link, all uses of this tool link stop working."
+msgstr ""
+
+#. content.table
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:48
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:content.table"
+msgid "Current Tool Link"
+msgstr "Placement d'outil actuel"
+
+#. content.none
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:49
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:content.none"
+msgid "No Tool Link Found"
+msgstr "Aucun placement d'outil trouvé"
+
+#. content.select.tool
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:50
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:content.select.tool"
+msgid "Select Tool"
+msgstr "Sélectionnez l'outil"
+
+#. content.select.one
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:51
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:content.select.one"
+msgid "---------- select one ----------"
+msgstr "---Sélectionnez un---"
+
+#. content.no.tools
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:52
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:content.no.tools"
+msgid "No Tools Available"
+msgstr "Aucun outil disponible"
+
+#. content.admin.note
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:53
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:content.admin.note"
+msgid ""
+"<p>Note: All tool links need to have a non-null SITE_ID in order to be "
+"launched.</p>"
+msgstr ""
+
+#. content.export.csv
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:54
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:content.export.csv"
+msgid "Export to CSV"
+msgstr "Exporter au format CSV"
+
+#. content.export.excel
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:55
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:content.export.excel"
+msgid "Export to Excel"
+msgstr ""
+
+#. content.attribution
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:56
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:content.attribution"
+msgid "Department"
+msgstr "Service/Département"
+
+#. contentitem.link
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:57
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:contentitem.link"
+msgid "Launch External Tool Configuration"
+msgstr "Lancer la Configuration de l’outil externe"
+
+#. contentitem.detail
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:58
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:contentitem.detail"
+msgid ""
+"This tool may be able configure itself.  If you have problems using the "
+"tool's configuration capabilities, come back to this screen to configure the"
+" tool."
+msgstr ""
+
+#. contentitem.generic.title
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:59
+msgctxt ""
+"basiclti/basiclti-"
+"tool/src/bundle/ltitool.properties:contentitem.generic.title"
+msgid "External Tool"
+msgstr "Outil externe"
+
+#. contentitem.success
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:60
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:contentitem.success"
+msgid "Valid Content Items received:"
+msgstr ""
+
+#. contentitem.success.none
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:61
+msgctxt ""
+"basiclti/basiclti-"
+"tool/src/bundle/ltitool.properties:contentitem.success.none"
+msgid "Did not receive any valid Content Items from the external tool."
+msgstr ""
+
+#. contentitem.success.action
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:62
+msgctxt ""
+"basiclti/basiclti-"
+"tool/src/bundle/ltitool.properties:contentitem.success.action"
+msgid "Press 'OK' to install these Content Items in the editor."
+msgstr ""
+
+#. contentitem.failure
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:63
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:contentitem.failure"
+msgid "One of your returned Content Items had a problem."
+msgstr ""
+
+#. contentitem.failures
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:64
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:contentitem.failures"
+msgid "Several of your returned Content Items had a problem."
+msgstr ""
+
+#. contentitem.tools
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:65
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:contentitem.tools"
+msgid ""
+"These are searchable sources of External Tools that allow you to search for,"
+" select, and configure select tools and/or content to insert into your "
+"document."
+msgstr ""
+
+#. contentitem.tools.launch
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:66
+msgctxt ""
+"basiclti/basiclti-"
+"tool/src/bundle/ltitool.properties:contentitem.tools.launch"
+msgid ""
+"These are available External Tools that you can insert into your document."
+msgstr ""
+
+#. contentitem.notools
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:67
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:contentitem.notools"
+msgid ""
+"There are no External Tools available to the editor.   These tools can be "
+"Application Stores, Applications that are self-configuring, or Learning "
+"Object Repositories."
+msgstr ""
+
+#. error.contentitem.missing.returnurl
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:68
+msgctxt ""
+"basiclti/basiclti-"
+"tool/src/bundle/ltitool.properties:error.contentitem.missing.returnurl"
+msgid "Missing returnUrl on ContentItemResponse"
+msgstr "ReturnUrl manquant sur ContentItemResponse"
+
+#. error.contentitem.missing.data
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:69
+msgctxt ""
+"basiclti/basiclti-"
+"tool/src/bundle/ltitool.properties:error.contentitem.missing.data"
+msgid "Missing data= parameter on ContentItemResponse"
+msgstr "Le paramètre data= est manquant dans ContentItemResponse"
+
+#. error.contentitem.bad
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:70
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:error.contentitem.bad"
+msgid "Error in returned ContentItemResponse"
+msgstr "Erreur dans le ContentItemResponse retournée"
+
+#. error.contentitem.missing
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:71
+msgctxt ""
+"basiclti/basiclti-"
+"tool/src/bundle/ltitool.properties:error.contentitem.missing"
+msgid "Missing tool key in ContentItemResponse"
+msgstr "Clé d’outil manquante dans ContentItemResponse"
+
+#. error.contentitem.incorrect
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:72
+msgctxt ""
+"basiclti/basiclti-"
+"tool/src/bundle/ltitool.properties:error.contentitem.incorrect"
+msgid "Incorrect tool key in ContentItemResponse"
+msgstr "Clé d’outil incorrecte dans ContentItemResponse"
+
+#. error.contentitem.no.validate
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:73
+msgctxt ""
+"basiclti/basiclti-"
+"tool/src/bundle/ltitool.properties:error.contentitem.no.validate"
+msgid "OAuth validation error"
+msgstr "Erreur de validation OAuth"
+
+#. error.contentitem.no.ltilink
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:74
+msgctxt ""
+"basiclti/basiclti-"
+"tool/src/bundle/ltitool.properties:error.contentitem.no.ltilink"
+msgid "Missing LtiLinkItem in ContentItemResponse @graph"
+msgstr "Il manque LtiLinkItem dans ContentItemResponse @graph"
+
+#. error.contentitem.missing.url
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:75
+msgctxt ""
+"basiclti/basiclti-"
+"tool/src/bundle/ltitool.properties:error.contentitem.missing.url"
+msgid "LTILink Item missing launch url"
+msgstr ""
+
+#. error.contentitem.content.insert
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:76
+msgctxt ""
+"basiclti/basiclti-"
+"tool/src/bundle/ltitool.properties:error.contentitem.content.insert"
+msgid "Unable to insert ContentItem"
+msgstr ""
+
+#. error.contentitem.content.launch
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:77
+msgctxt ""
+"basiclti/basiclti-"
+"tool/src/bundle/ltitool.properties:error.contentitem.content.launch"
+msgid "Could not retrieve Launch URL from ContentItem"
+msgstr ""
+
+#. error.deeplink.bad
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:78
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:error.deeplink.bad"
+msgid "Error in Deep Link Response"
+msgstr ""
+
+#. error.deeplink.no.ltilink
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:79
+msgctxt ""
+"basiclti/basiclti-"
+"tool/src/bundle/ltitool.properties:error.deeplink.no.ltilink"
+msgid "Missing ltiResourceLink in Deep Link Response"
+msgstr ""
+
+#. link.add
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:80
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:link.add"
+msgid "Adding Site Nagivation Link"
+msgstr "Ajout d'un lien de navigation d'espace"
+
+#. link.add.detail
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:81
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:link.add.detail"
+msgid ""
+"<p>This will add a link to this tool to your site navigation.  When you add "
+"the link, the entire page will reset to update the navigation.</p>"
+msgstr ""
+
+#. link.button.text
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:82
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:link.button.text"
+msgid "Button Text"
+msgstr "Texte du bouton"
+
+#. error.link.add.fail
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:83
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:error.link.add.fail"
+msgid "Link Addition Failed"
+msgstr "L'ajout de lien a échoué"
+
+#. success.link.add
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:84
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:success.link.add"
+msgid "Linked"
+msgstr "Lié"
+
+#. link.remove
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:85
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:link.remove"
+msgid "Removing Site Nagivation Link"
+msgstr "Enlever le lien de navigation d'espace"
+
+#. link.remove.detail
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:86
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:link.remove.detail"
+msgid ""
+"<p>This will remove the link to this tool from your site navigation.  When "
+"you remove the link, the entire page will reset to update the "
+"navigation.</p>"
+msgstr ""
+
+#. error.link.remove.fail
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:87
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:error.link.remove.fail"
+msgid "Link Addition Failed"
+msgstr "L'ajout de lien a échoué"
+
+#. success.link.remove
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:88
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:success.link.remove"
+msgid "Link removed"
+msgstr "Lien supprimé"
+
+#. success.deleted
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:89
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:success.deleted"
+msgid "Deleted"
+msgstr "Supprimé"
+
+#. success.created
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:90
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:success.created"
+msgid "Created"
+msgstr "Créé le"
+
+#. success.updated
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:91
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:success.updated"
+msgid "Updated"
+msgstr "Mis à jour"
+
+#. success.linked
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:92
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:success.linked"
+msgid "Linked"
+msgstr "Lié"
+
+#. error.delete.fail
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:93
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:error.delete.fail"
+msgid "Delete failed"
+msgstr "Échec de la suppression"
+
+#. error.link.fail
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:94
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:error.link.fail"
+msgid "Link failed"
+msgstr "Échec du lien"
+
+#. error.placement.not.removed
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:95
+msgctxt ""
+"basiclti/basiclti-"
+"tool/src/bundle/ltitool.properties:error.placement.not.removed"
+msgid "Unable to remove tool placement"
+msgstr "Impossible de supprimer le placement de l'outil"
+
+#. error.maintain.edit
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:96
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:error.maintain.edit"
+msgid "Must be site maintainer to edit"
+msgstr "Il faut être responsable de l'espace pour pouvoir modifier"
+
+#. error.maintain.view
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:97
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:error.maintain.view"
+msgid "Must be site maintainer to view"
+msgstr "Il faut être responsable de l'espace pour pouvoir visualiser"
+
+#. error.maintain.delete
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:98
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:error.maintain.delete"
+msgid "Must be site maintainer to view"
+msgstr "Il faut être responsable de l'espace pour pouvoir visualiser"
+
+#. error.maintain.link
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:99
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:error.maintain.link"
+msgid "Must be site maintainer to manage links"
+msgstr "Il faut être responsable de l'espace pour pouvoir gérer les liens"
+
+#. error.register.not.ready
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:100
+msgctxt ""
+"basiclti/basiclti-"
+"tool/src/bundle/ltitool.properties:error.register.not.ready"
+msgid "This deployment is not ready to be registered"
+msgstr "Ce déploiement n'est pas prêt à être inscrit"
+
+#. error.deploy.not.found
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:101
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:error.deploy.not.found"
+msgid "Deployment not found"
+msgstr "Déploiement introuvable"
+
+#. error.deploy.missing
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:102
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:error.deploy.missing"
+msgid "Deployment is missing or improperly configured."
+msgstr "Le déploiement est manquant ou mal configuré."
+
+#. error.activate.not.ready
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:103
+msgctxt ""
+"basiclti/basiclti-"
+"tool/src/bundle/ltitool.properties:error.activate.not.ready"
+msgid "This deployment is not ready to be activated"
+msgstr "Ce déploiement n'est pas prêt à être activé"
+
+#. error.deploy.badstate
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:104
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:error.deploy.badstate"
+msgid "Deployment is in the wrong state to register"
+msgstr "Le déploiement n'est dans le bon état pour inscrire"
+
+#. error.deploy.badproxy
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:105
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:error.deploy.badproxy"
+msgid "This deployment has a broken reg_profile."
+msgstr "Ce déploiement a un reg_profile cassé."
+
+#. error.deploy.noreg
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:106
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:error.deploy.noreg"
+msgid "This deployment is has no registration url."
+msgstr "Ce déploiement n’a aucune url d’enregistrement."
+
+#. error.deploy.partial
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:107
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:error.deploy.partial"
+msgid "Deployment is incomplete, missing a key and secret."
+msgstr "Le déploiement est incomplet, manque une clé et un secret."
+
+#. error.deploy.not.config
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:108
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:error.deploy.not.config"
+msgid ""
+"This server is not configured for LTI2.  Sample configuration will be used."
+"  Do not use sample data in production."
+msgstr ""
+
+#. error.admin.edit
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:109
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:error.admin.edit"
+msgid "Must be site adminstrator to edit"
+msgstr "Il faut être administrateur de l'espace pour pouvoir modifier"
+
+#. error.admin.view
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:110
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:error.admin.view"
+msgid "Must be site administrator to view"
+msgstr "Il faut être administrateur de l'espace pour pouvoir visualiser"
+
+#. error.admin.delete
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:111
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:error.admin.delete"
+msgid "Must be site administrator to view"
+msgstr "Il faut être administrateur de l'espace pour pouvoir visualiser"
+
+#. error.admin.activate
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:112
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:error.admin.activate"
+msgid "Must be an administrator to activate"
+msgstr "Il faut être administrateur de l'espace pour pouvoir activer"
+
+#. error.admin.register
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:113
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:error.admin.register"
+msgid "Must be an administrator to register "
+msgstr "Il faut être administrateur de l'espace pour pouvoir inscrire "
+
+#. error.id.not.found
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:114
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:error.id.not.found"
+msgid "ID not found"
+msgstr "Identifiant introuvable"
+
+#. error.content.not.found
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:115
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:error.content.not.found"
+msgid "Tool configuration not found"
+msgstr "Configuration de l'outil introuvable"
+
+#. error.tool.not.found
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:116
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:error.tool.not.found"
+msgid "Tool not found"
+msgstr "Outil introuvable"
+
+#. error.keygen.fail
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:117
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:error.keygen.fail"
+msgid "Failed to generate PKI key pair"
+msgstr ""
+
+#. error.missing.return
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:118
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:error.missing.return"
+msgid "Called as helper without return URL"
+msgstr "Appelé comme aide sans URL de retour"
+
+#. error.need.key.secret
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:119
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:error.need.key.secret"
+msgid "This tool will not function without a key and secret."
+msgstr "Cet outil ne fonctionnera pas sans une clé et un secret."
+
+#. error.link.placement.update
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:120
+msgctxt ""
+"basiclti/basiclti-"
+"tool/src/bundle/ltitool.properties:error.link.placement.update"
+msgid "Error updating placement information in configuration item"
+msgstr "Erreur de mise à jour des informations de placement dans l'élément de configuration"
+
+#. error.tool.no.encryption.key
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:121
+msgctxt ""
+"basiclti/basiclti-"
+"tool/src/bundle/ltitool.properties:error.tool.no.encryption.key"
+msgid ""
+"This server does not have basiclti.encryption.key set in its "
+"sakai.properties.  Until you set this value, LTI secrets will be unencrypted"
+" in the database."
+msgstr ""
+
+#. need.tool.info
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:122
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:need.tool.info"
+msgid ""
+"<p>Note: This tool was imported and needs a key and secret before it will "
+"function.</p>"
+msgstr ""
+
+#. need.tool.secret
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:123
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:need.tool.secret"
+msgid "Tool secret"
+msgstr "Secret de l'outil"
+
+#. need.tool.key
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:124
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:need.tool.key"
+msgid "Tool key"
+msgstr "Clé de l'outil"
+
+#. bl_launch
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:125
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:bl_launch"
+msgid "URL"
+msgstr "URL"
+
+#. bl_title
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:126
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:bl_title"
+msgid "Title"
+msgstr "Titre"
+
+#. bl_url
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:127
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:bl_url"
+msgid "URL"
+msgstr "URL"
+
+#. bl_site
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:128
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:bl_site"
+msgid "Site ID"
+msgstr "Identifiant de l'espace"
+
+#. bl_sitetitle
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:129
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:bl_sitetitle"
+msgid "Site Title"
+msgstr "Code du cours (p. ex. F13-ACCT-134C-01)"
+
+#. bl_description
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:130
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:bl_description"
+msgid "Tool description"
+msgstr "Description de l'outil"
+
+#. bl_created_at
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:131
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:bl_created_at"
+msgid "Added On"
+msgstr ""
+
+#. bl_sitecontactname
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:132
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:bl_sitecontactname"
+msgid "Site Owner"
+msgstr ""
+
+#. bl_sitecontactemail
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:133
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:bl_sitecontactemail"
+msgid "Site Contact"
+msgstr "Propriétaire"
+
+#. bl_use
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:134
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:bl_use"
+msgid "Uses"
+msgstr "Utilise"
+
+#. bl_toolorder
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:135
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:bl_toolorder"
+msgid "Order"
+msgstr ""
+
+#. bl_action
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:136
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:bl_action"
+msgid "Action"
+msgstr "Action"
+
+#. bl_page
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:137
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:bl_page"
+msgid "Site Navigation"
+msgstr "Navigation dans les espaces"
+
+#. bl_matchpattern
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:138
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:bl_matchpattern"
+msgid "URL to match"
+msgstr "Modèle auquel l'URL doit correspondre"
+
+#. bl_addlink
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:139
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:bl_addlink"
+msgid "Add Site Link"
+msgstr "Ajouter un lien d'espace"
+
+#. bl_removelink
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:140
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:bl_removelink"
+msgid "Remove Site Link"
+msgstr "Supprimer le lien d'espace"
+
+#. bad.operation
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:141
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:bad.operation"
+msgid "You attempted an improper operation."
+msgstr "Vous avez tenté une opération incorrecte."
+
+#. operation.complete
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:142
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:operation.complete"
+msgid "Operation complete"
+msgstr "Opération terminée"
+
+#. operation.refreshing
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:143
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:operation.refreshing"
+msgid "Resetting navigation via window refresh..."
+msgstr "Réinitialisation de la navigation via l'actualisation de la fenêtre..."
+
+#. add.to.site
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:144
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:add.to.site"
+msgid "Create Tool Link"
+msgstr "Ajouter l'outil disponible à l'espace"
+
+#. add.tool.to.site
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:145
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:add.tool.to.site"
+msgid "Create Tool Link "
+msgstr "Ajouter l'outil à l'espace"
+
+#. add.to.system
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:146
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:add.to.system"
+msgid "Install LTI 1.x Tool"
+msgstr ""
+
+#. select.showall
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:147
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:select.showall"
+msgid "Show All"
+msgstr "Afficher tout"
+
+#. deploy.put
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:148
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:deploy.put"
+msgid "LTI 2.x Installation "
+msgstr "Déploiement de LTI 2.x "
+
+#. deploy.in.system
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:149
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:deploy.in.system"
+msgid "LTI 2.x Installation"
+msgstr "Déploiements de LTI 2.x"
+
+#. deploy.register
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:150
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:deploy.register"
+msgid "Registering external tools"
+msgstr "Inscription des outils externes"
+
+#. deploy.activate
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:151
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:deploy.activate"
+msgid "Activating Deployment"
+msgstr "Activation du déploiement"
+
+#. deploy.activate.note
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:152
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:deploy.activate.note"
+msgid ""
+"<p>When you activate this deployment, the tools in the deployment are "
+"installed or updated in the system.  Activation completes the tool "
+"registration process.</p>"
+msgstr ""
+
+#. deploy.activate.badlaunch
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:153
+msgctxt ""
+"basiclti/basiclti-"
+"tool/src/bundle/ltitool.properties:deploy.activate.badlaunch"
+msgid "Bad launch in deploy"
+msgstr "Mauvais lancement pendant le déploiement"
+
+#. deploy.activate.notools
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:154
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:deploy.activate.notools"
+msgid "There are no tools to activate"
+msgstr "Il n'y a pas d'outils à activer"
+
+#. deploy.parse.exception
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:155
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:deploy.parse.exception"
+msgid "Unable to parse provider profile"
+msgstr "Impossible d'analyser le profil fournisseur"
+
+#. deploy.delete
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:156
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:deploy.delete"
+msgid "Deleting Deployment"
+msgstr "Suppression du déploiement"
+
+#. deploy.delete.sure
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:157
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:deploy.delete.sure"
+msgid "Are you sure you want to delete this deployment?"
+msgstr "Êtes-vous sûr de vouloir supprimer ce déploiement ?"
+
+#. deploy.delete.tool
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:158
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:deploy.delete.tool"
+msgid "Delete: "
+msgstr ""
+
+#. deploy.delete.tools
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:159
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:deploy.delete.tools"
+msgid ""
+"The tools below were installed by this deployment. If you delete these "
+"tools, all of the links to these tools in all the sites in this system will "
+"also be deleted.  You can delete the deployment without deleting the tools."
+msgstr ""
+
+#. deploy.data
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:160
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:deploy.data"
+msgid ""
+"This deployment supports :tools tools and :contents placements in :sites "
+"sites."
+msgstr ""
+
+#. add.deploy
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:161
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:add.deploy"
+msgid "Install LTI 2.x Tool"
+msgstr "Ajouter un outil LTI 2.x"
+
+#. deploy.description.system
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:162
+msgctxt ""
+"basiclti/basiclti-"
+"tool/src/bundle/ltitool.properties:deploy.description.system"
+msgid "Deployments currently in this system"
+msgstr "Déploiements actuellement dans ce système"
+
+#. deploy.table
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:163
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:deploy.table"
+msgid "Deployments"
+msgstr "Déploiements"
+
+#. deploy.none
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:164
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:deploy.none"
+msgid "No LTI 2.x Deployments found"
+msgstr "Aucun déploiement LTI 2.x trouvé"
+
+#. deploy.note
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:165
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:deploy.note"
+msgid ""
+"<p>These are LTI 2.x Tools. To add a tool you need a Tool Deployment "
+"URL.</p>"
+msgstr ""
+
+#. deploy.provider.name
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:166
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:deploy.provider.name"
+msgid "Activating tools from: "
+msgstr "Activer les outils depuis : "
+
+#. search.title
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:167
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:search.title"
+msgid "Search by Title"
+msgstr "Recherche par titre"
+
+#. search.url
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:168
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:search.url"
+msgid "Search by URL"
+msgstr "Recherche par URL"
+
+#. search.siteid
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:169
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:search.siteid"
+msgid "Search by Site ID"
+msgstr "Recherche par identifiant d'espace"
+
+#. search.sitetitle
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:170
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:search.sitetitle"
+msgid "Search by Site Title"
+msgstr ""
+
+#. search.uses
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:171
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:search.uses"
+msgid "Search by Usage"
+msgstr "Recherche par utilisation"
+
+#. searchby
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:172
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:searchby"
+msgid "Search by {0}"
+msgstr ""
+
+#. register.may.popup
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:173
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:register.may.popup"
+msgid ""
+"The registration process may open a popup window.  If it opens a popup "
+"window, when registration is complete, come back to this page and manually "
+"activate the deployment."
+msgstr ""
+
+#. register.external.pre.launch
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:174
+msgctxt ""
+"basiclti/basiclti-"
+"tool/src/bundle/ltitool.properties:register.external.pre.launch"
+msgid ""
+"We will now launch an external web site in a new window to do the actual "
+"installation.  When that process completes, come back to this window and "
+"either continue to the Activation process or go back to the deployment list."
+msgstr ""
+
+#. register.external.post.launch
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:175
+msgctxt ""
+"basiclti/basiclti-"
+"tool/src/bundle/ltitool.properties:register.external.post.launch"
+msgid ""
+"If the registration process was successful, your next step is to Activate "
+"the registration.  If the registration process had a problem, you may need "
+"to restart the registration."
+msgstr ""
+
+#. register.popup.text
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:176
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:register.popup.text"
+msgid "Continue to registration web site"
+msgstr "Continuer sur le site web d'enregistrement"
+
+#. register.done
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:177
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:register.done"
+msgid ""
+"The external tool has completed its registration process.  If the "
+"registration process was successful, your next step is to Activate the "
+"registration.  If the registration process had a problem, you may need to "
+"restart the registration."
+msgstr ""
+
+#. register.close
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:178
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:register.close"
+msgid "Close this window"
+msgstr "Fermer cette fenêtre"
+
+#. lti13_keyset_url
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:179
+msgctxt ""
+"basiclti/basiclti-tool/src/bundle/ltitool.properties:lti13_keyset_url"
+msgid "LTI 1.3 Platform OAuth2 Well-Known/KeySet URL (provide to tool)"
+msgstr ""
+
+#. lti13_token_url
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:180
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:lti13_token_url"
+msgid "LTI 1.3 Platform OAuth2 Bearer Token Retrieval URL (provide to tool)"
+msgstr ""
+
+#. lti13_oidc_auth
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:181
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:lti13_oidc_auth"
+msgid "LTI 1.3 Platform OIDC Authentication URL (provide to tool)"
+msgstr ""
+
+#. lti13_issuer
+#: basiclti/basiclti-tool/src/bundle/ltitool.properties:182
+msgctxt "basiclti/basiclti-tool/src/bundle/ltitool.properties:lti13_issuer"
+msgid "LTI 1.3 Issuer for this Platform (provide to tool)"
+msgstr ""
+
+#. lti.forward
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:1
+msgctxt "basiclti/basiclti-portlet/src/bundle/basiclti.properties:lti.forward"
+msgid "Press to start external tool"
+msgstr "Cliquez pour lancer l'outil externe"
+
+#. noiframes
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:2
+msgctxt "basiclti/basiclti-portlet/src/bundle/basiclti.properties:noiframes"
+msgid "Your browser does not support iframes."
+msgstr "Votre navigateur ne supporte pas les iframes."
+
+#. noiframe.press.here
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:3
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:noiframe.press.here"
+msgid "Press here to launch."
+msgstr "Cliquez ici pour lancer."
+
+#. not.configured
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:4
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:not.configured"
+msgid "This tool has not yet been configured."
+msgstr "Cet outil n'a pas encore été configuré."
+
+#. new.page.launch
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:5
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:new.page.launch"
+msgid ""
+"(We attempted to launch {0} in a new window. To launch pop-up windows "
+"automatically in the future, configure your browser to allow {1} to open "
+"pop-up windows.)"
+msgstr ""
+
+#. tool.name
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:6
+msgctxt "basiclti/basiclti-portlet/src/bundle/basiclti.properties:tool.name"
+msgid "your tool"
+msgstr "votre outil"
+
+#. edit.exit
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:7
+msgctxt "basiclti/basiclti-portlet/src/bundle/basiclti.properties:edit.exit"
+msgid "Cancel"
+msgstr "Annuler"
+
+#. edit.clear.prefs
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:8
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:edit.clear.prefs"
+msgid "Clear Stored Preferences"
+msgstr "Effacer les préférences stockées"
+
+#. edit.nothing
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:9
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:edit.nothing"
+msgid ""
+"Configuration has been pre-set and cannot be edited for this placement."
+msgstr ""
+
+#. edit.clear.yes
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:10
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:edit.clear.yes"
+msgid "YES"
+msgstr "OUI"
+
+#. edit.clear.no
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:11
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:edit.clear.no"
+msgid "NO"
+msgstr "NON"
+
+#. are.you.sure
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:12
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:are.you.sure"
+msgid ""
+"Are you sure your want to remove the settings for this Tool Interoperability"
+" Placement?"
+msgstr ""
+
+#. select.url
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:13
+msgctxt "basiclti/basiclti-portlet/src/bundle/basiclti.properties:select.url"
+msgid "URL and Password"
+msgstr "URL et mot de passe"
+
+#. select.xml
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:14
+msgctxt "basiclti/basiclti-portlet/src/bundle/basiclti.properties:select.xml"
+msgid "XML Paste"
+msgstr "Coller XML"
+
+#. required.information
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:15
+msgctxt ""
+"basiclti/basiclti-"
+"portlet/src/bundle/basiclti.properties:required.information"
+msgid "Required Information"
+msgstr "Informations requises"
+
+#. display.information
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:16
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:display.information"
+msgid "Display Information"
+msgstr "Afficher les informations"
+
+#. launch.information
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:17
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:launch.information"
+msgid "Optional Launch Information"
+msgstr "Informations de lancement facultatives"
+
+#. tool.xml.detail
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:18
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:tool.xml.detail"
+msgid ""
+"<p>Some external tools will provide you an XML descriptor that includes the "
+"URL and other configuration information.   If your external tool supports "
+"the XML descriptor, copy and paste the descriptor in this field."
+msgstr ""
+
+#. tool.url
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:19
+msgctxt "basiclti/basiclti-portlet/src/bundle/basiclti.properties:tool.url"
+msgid "Remote Tool Url:"
+msgstr "Url de l'outil distant :"
+
+#. tool.key
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:20
+msgctxt "basiclti/basiclti-portlet/src/bundle/basiclti.properties:tool.key"
+msgid "Remote Tool Key:"
+msgstr "Clé de l'outil distant :"
+
+#. tool.secret
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:21
+msgctxt "basiclti/basiclti-portlet/src/bundle/basiclti.properties:tool.secret"
+msgid "Remote Tool Secret: "
+msgstr "Secret de l'outil distant :"
+
+#. page.title
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:22
+msgctxt "basiclti/basiclti-portlet/src/bundle/basiclti.properties:page.title"
+msgid "Set Button Text:"
+msgstr "Définir le texte du bouton :"
+
+#. page.title.detail
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:23
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:page.title.detail"
+msgid "(Text in tool menu)"
+msgstr "(Texte dans le menu de l'outil)"
+
+#. tool.title
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:24
+msgctxt "basiclti/basiclti-portlet/src/bundle/basiclti.properties:tool.title"
+msgid "Set Tool Title:"
+msgstr "Définir le titre de l'outil :"
+
+#. tool.title.detail
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:25
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:tool.title.detail"
+msgid "(Above the tool)"
+msgstr "(Au-dessus de l'outil)"
+
+#. tool.fa_icon
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:26
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:tool.fa_icon"
+msgid "Choose an icon for this tool:"
+msgstr "Choisir une icône pour cet outil :"
+
+#. new.page
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:27
+msgctxt "basiclti/basiclti-portlet/src/bundle/basiclti.properties:new.page"
+msgid "Open in a New Window:"
+msgstr "Ouvrir dans une nouvelle fenêtre :"
+
+#. maximize.page
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:28
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:maximize.page"
+msgid "Maximize Window Width:"
+msgstr "Maximiser la largeur de la fenêtre :"
+
+#. iframe.height
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:29
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:iframe.height"
+msgid "iFrame Height:"
+msgstr "Hauteur du cadre :"
+
+#. toolorder
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:30
+msgctxt "basiclti/basiclti-portlet/src/bundle/basiclti.properties:toolorder"
+msgid "Tool Order:"
+msgstr ""
+
+#. debug.launch
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:31
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:debug.launch"
+msgid "Debug Launch:"
+msgstr "Lancement de débogage :"
+
+#. debug.launch.detail
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:32
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:debug.launch.detail"
+msgid ""
+"<br/>When Debug Launch is selected, the tool pauses before launching and "
+"displays launch data."
+msgstr ""
+
+#. launch.privacy
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:33
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:launch.privacy"
+msgid "Releasing Roster Information"
+msgstr "Communiquer les informations d'inscription"
+
+#. launch.privacy.detail
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:34
+msgctxt ""
+"basiclti/basiclti-"
+"portlet/src/bundle/basiclti.properties:launch.privacy.detail"
+msgid ""
+"<br/>These options allow you to control which information is released to the"
+" external tool.  Some tools may require roster information to function."
+msgstr ""
+
+#. privacy.releasename
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:35
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:privacy.releasename"
+msgid "Send Names to the External Tool"
+msgstr "Envoyer les noms à l'outil externe"
+
+#. privacy.releaseemail
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:36
+msgctxt ""
+"basiclti/basiclti-"
+"portlet/src/bundle/basiclti.properties:privacy.releaseemail"
+msgid "Send Email Addresses to the External Tool"
+msgstr "Envoyer les adresses de courriel à l'outil externe"
+
+#. privacy.allowroster
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:37
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:privacy.allowroster"
+msgid "Allow the External Tool to retrieve the course roster"
+msgstr "Autoriser l'outil externe à récupérer la liste des inscrits"
+
+#. allowsettings.information
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:38
+msgctxt ""
+"basiclti/basiclti-"
+"portlet/src/bundle/basiclti.properties:allowsettings.information"
+msgid "Storing Tool Settings"
+msgstr "Stockage des paramètres de l'outil"
+
+#. privacy.allowsettings
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:39
+msgctxt ""
+"basiclti/basiclti-"
+"portlet/src/bundle/basiclti.properties:privacy.allowsettings"
+msgid "Allow the External Tool to store and retrieve its settings"
+msgstr "Autoriser l'outil externe à stocker et à récupérer ses paramètres"
+
+#. allowsettings.detail
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:40
+msgctxt ""
+"basiclti/basiclti-"
+"portlet/src/bundle/basiclti.properties:allowsettings.detail"
+msgid ""
+"<br/>This allows the External Tool to store and retrieve its own settings in"
+" this placement.  This only gives the tool access a scratch area to store "
+"and retrieve its own settings.  It does not give the tool any access to any "
+"of the other setting."
+msgstr ""
+
+#. contentlink.legend
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:41
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:contentlink.legend"
+msgid "Content Link Setting"
+msgstr "Paramètres du lien de contenu"
+
+#. sha256.legend
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:42
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:sha256.legend"
+msgid "Enable SHA-256 Signatures"
+msgstr ""
+
+#. imsti.sha256.detail
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:43
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:imsti.sha256.detail"
+msgid ""
+"<br/>The original LTI Launches used SHA-1 signatures, newer tools may "
+"require SHA-256 signatures."
+msgstr ""
+
+#. contentlink.label
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:44
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:contentlink.label"
+msgid "Content Link URL"
+msgstr "URL du lien de contenu"
+
+#. contentlink.detail
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:45
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:contentlink.detail"
+msgid ""
+"<br/>This allows you to specify a content link to be sent to the external "
+"tool.  This content should be available to unauthenticated users.  The "
+"typical use of this feature is to send a file (such as a SCORM object) to "
+"the external tool to be played by the external tool."
+msgstr ""
+
+#. launch.custom
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:46
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:launch.custom"
+msgid "Custom Launch Parameters"
+msgstr "Paramètres de lancement personnalisé"
+
+#. launch.custom.detail
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:47
+msgctxt ""
+"basiclti/basiclti-"
+"portlet/src/bundle/basiclti.properties:launch.custom.detail"
+msgid ""
+"<br/>You can add a series of launch parameters using keyword=value.  You can"
+" either put separate parameters on their own lines or separate them by "
+"semicolons (;)."
+msgstr ""
+
+#. update.options
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:48
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:update.options"
+msgid "Update Options"
+msgstr "Mettre à jour les options"
+
+#. launch.splash
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:49
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:launch.splash"
+msgid "Splash Screen"
+msgstr "Écran de démarrage"
+
+#. launch.splash.detail
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:50
+msgctxt ""
+"basiclti/basiclti-"
+"portlet/src/bundle/basiclti.properties:launch.splash.detail"
+msgid ""
+"<br/>This text will be displayed to users before they are sent to the "
+"External Tool.  You cannot use HTML in this field."
+msgstr ""
+
+#. error.modify.prefs
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:51
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:error.modify.prefs"
+msgid "Unable to modify preferences."
+msgstr "Impossible de modifier les préférences."
+
+#. error.xml.input
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:52
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:error.xml.input"
+msgid "Error in XML input."
+msgstr "Erreur dans l'entrée XML."
+
+#. error.no.input
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:53
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:error.no.input"
+msgid "You must set Launch URL, key, and secret"
+msgstr "Vous devez définir l'URL de lancement, la clé et le secret"
+
+#. error.bad.url
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:54
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:error.bad.url"
+msgid "Incorrectly formatted Launch URL"
+msgstr "Format de l'URL de lancement incorrect"
+
+#. error.bad.height
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:55
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:error.bad.height"
+msgid "Height must be a positive integer"
+msgstr "La hauteur doit être un entier positif"
+
+#. error.page.title
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:56
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:error.page.title"
+msgid "Unable to set page title."
+msgstr "Impossible de définir le titre de la page."
+
+#. launch.missing
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:57
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:launch.missing"
+msgid "Missing required field for LTI Launch"
+msgstr "Il manque un champ obligatoire pour le lancement LTI"
+
+#. launch.invalid
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:58
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:launch.invalid"
+msgid "Invalid value for LTI Launch"
+msgstr "Valeur non valide pour le lancement LTI"
+
+#. launch.tool_id.required
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:59
+msgctxt ""
+"basiclti/basiclti-"
+"portlet/src/bundle/basiclti.properties:launch.tool_id.required"
+msgid "Tool is not found on launch URL"
+msgstr "L'outil ne se trouve pas à l'URL de lancement"
+
+#. launch.tool.notallowed
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:60
+msgctxt ""
+"basiclti/basiclti-"
+"portlet/src/bundle/basiclti.properties:launch.tool.notallowed"
+msgid "Tool is not configured to allow LTI access"
+msgstr "L'outil n'est pas configuré pour autoriser l'accès LTI"
+
+#. launch.tool.notfound
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:61
+msgctxt ""
+"basiclti/basiclti-"
+"portlet/src/bundle/basiclti.properties:launch.tool.notfound"
+msgid "Tool ID is not registered on this system"
+msgstr "L'identifiant de l'outil n'est pas inscrit sur ce système"
+
+#. launch.key.notfound
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:62
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:launch.key.notfound"
+msgid "OAuth Consumer Key Not found"
+msgstr "l'« OAuth Consumer Key » n'a pas été trouvée"
+
+#. launch.no.validate
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:63
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:launch.no.validate"
+msgid "OAuth does not validate this request"
+msgstr "OAuth ne valide pas cette demande"
+
+#. launch.no.session
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:64
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:launch.no.session"
+msgid "Unable to find session"
+msgstr "Impossible de trouver la session"
+
+#. launch.create.user
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:65
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:launch.create.user"
+msgid "Unable to create user account"
+msgstr "Impossible de créer le compte utilisateur"
+
+#. launch.site.save
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:66
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:launch.site.save"
+msgid "Unable to save site"
+msgstr "Impossible d'enregistrer le site"
+
+#. launch.create.site
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:67
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:launch.create.site"
+msgid "Unable to create site"
+msgstr "Impossible de créer le site"
+
+#. launch.role.missing
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:68
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:launch.role.missing"
+msgid "Could not find role"
+msgstr "Impossible de trouver le rôle"
+
+#. launch.join.site
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:69
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:launch.join.site"
+msgid "Could not add user to site"
+msgstr "Impossible d'ajouter l'utilisateur au site"
+
+#. launch.tool.search
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:70
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:launch.tool.search"
+msgid "Error searching through tools"
+msgstr "Erreur pendant la recherche dans les outils"
+
+#. launch.tool.add
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:71
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:launch.tool.add"
+msgid "Could not add tool to site"
+msgstr "Impossible d'ajouter l'outil au site"
+
+#. launch.continue
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:72
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:launch.continue"
+msgid "Press to continue to tool"
+msgstr "Cliquez pour continuer vers l'outil"
+
+#. launch.user.invalid
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:73
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:launch.user.invalid"
+msgid "Unable to find user"
+msgstr "Impossible de trouver l'utilisateur"
+
+#. launch.site.invalid
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:74
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:launch.site.invalid"
+msgid "Unable to find site"
+msgstr "Impossible de trouver le site"
+
+#. launch.site.user.missing
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:75
+msgctxt ""
+"basiclti/basiclti-"
+"portlet/src/bundle/basiclti.properties:launch.site.user.missing"
+msgid "Unable to find user in site"
+msgstr "Impossible de trouver l'utilisateur dans le site"
+
+#. launch.site.tool.missing
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:76
+msgctxt ""
+"basiclti/basiclti-"
+"portlet/src/bundle/basiclti.properties:launch.site.tool.missing"
+msgid "Unable to find tool in site"
+msgstr "Impossible de trouver l'outil dans le site"
+
+#. launch.site.tool.denied
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:77
+msgctxt ""
+"basiclti/basiclti-"
+"portlet/src/bundle/basiclti.properties:launch.site.tool.denied"
+msgid "Not allowed to access tool"
+msgstr "Accès à l'outil interdit"
+
+#. launch.provided.eid.invalid
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:78
+msgctxt ""
+"basiclti/basiclti-"
+"portlet/src/bundle/basiclti.properties:launch.provided.eid.invalid"
+msgid "The provided eid was invalid"
+msgstr "L'EID fourni n'était pas valide"
+
+#. launch.user.site.unknown
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:79
+msgctxt ""
+"basiclti/basiclti-"
+"portlet/src/bundle/basiclti.properties:launch.user.site.unknown"
+msgid "Could not determine the user's site ID"
+msgstr "Impossible de déterminer l'identifiant de site de l'utilisateur"
+
+#. launch.user.multiple.emailaddress
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:80
+msgctxt ""
+"basiclti/basiclti-"
+"portlet/src/bundle/basiclti.properties:launch.user.multiple.emailaddress"
+msgid "multiple user id's exist for emailaddress"
+msgstr "plusieurs id d’utilisateur existe pour emailaddress"
+
+#. content_item.install.button
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:81
+msgctxt ""
+"basiclti/basiclti-"
+"portlet/src/bundle/basiclti.properties:content_item.install.button"
+msgid "Install"
+msgstr "Installer"
+
+#. content_item.return_url.notfound
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:82
+msgctxt ""
+"basiclti/basiclti-"
+"portlet/src/bundle/basiclti.properties:content_item.return_url.notfound"
+msgid "Missing content_item_return_url from launch data"
+msgstr "Il manque content_item_return_url des données de lancement"
+
+#. content_item.back.to.store
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:83
+msgctxt ""
+"basiclti/basiclti-"
+"portlet/src/bundle/basiclti.properties:content_item.back.to.store"
+msgid "Back to List"
+msgstr "Retour à la liste"
+
+#. canvas.config.title
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:84
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:canvas.config.title"
+msgid "Sakai Tools"
+msgstr "Outils de Sakai"
+
+#. canvas.config.description
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:85
+msgctxt ""
+"basiclti/basiclti-"
+"portlet/src/bundle/basiclti.properties:canvas.config.description"
+msgid "This server hosts Sakai tools that you can launch from your LMS."
+msgstr "Ce serveur héberge des outils de Sakai que vous pouvez lancer depuis votre LMS."
+
+#. canvas.error.missing.domain
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:86
+msgctxt ""
+"basiclti/basiclti-"
+"portlet/src/bundle/basiclti.properties:canvas.error.missing.domain"
+msgid "Unable to parse domain (internal error)"
+msgstr "Impossible d’analyser le domaine (erreur interne)"
+
+#. gradable.information
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:87
+msgctxt ""
+"basiclti/basiclti-"
+"portlet/src/bundle/basiclti.properties:gradable.information"
+msgid "Routing Grades to the Gradebook"
+msgstr "Acheminement des notes vers le carnet de notes"
+
+#. gradable.title
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:88
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:gradable.title"
+msgid "Select Gradebook Item: <br/>"
+msgstr "Sélectionnez l'élément de carnet de notes : <br/>"
+
+#. gradable.nograde
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:89
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:gradable.nograde"
+msgid "Do not accept grades from this tool"
+msgstr "Ne pas accepter de notes en provenance de cet outil"
+
+#. gradable.detail
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:90
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti.properties:gradable.detail"
+msgid ""
+"<br/>Be careful when changing this value. If you change this value, existing"
+" grades will <strong>not</strong> be moved to the new Gradebook item.  Only "
+"future grades received from the tool will be routed to the new Gradebook "
+"item."
+msgstr ""
+
+#. gradable.newassignment
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:91
+msgctxt ""
+"basiclti/basiclti-"
+"portlet/src/bundle/basiclti.properties:gradable.newassignment"
+msgid "Create Gradebook Item"
+msgstr "Créer un élément du carnet de notes"
+
+#. gradable.newassignment.detail
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:92
+msgctxt ""
+"basiclti/basiclti-"
+"portlet/src/bundle/basiclti.properties:gradable.newassignment.detail"
+msgid ""
+"<br/>This creates a new Gradebook item and routes grades to this new item.  "
+"You only need to create the item once."
+msgstr ""
+
+#. error.gradable.badassign
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:93
+msgctxt ""
+"basiclti/basiclti-"
+"portlet/src/bundle/basiclti.properties:error.gradable.badassign"
+msgid "Invalid Gradebook Item Selected "
+msgstr "L'élément du carnet de notes sélectionné n'est pas valide"
+
+#. error.gradable.badcreate
+#: basiclti/basiclti-portlet/src/bundle/basiclti.properties:94
+msgctxt ""
+"basiclti/basiclti-"
+"portlet/src/bundle/basiclti.properties:error.gradable.badcreate"
+msgid "Unable to create Gradebook item "
+msgstr "Impossible de créer l'élément du carnet de notes "
+
+#. basiclti-events
+#: basiclti/basiclti-portlet/src/bundle/basiclti-events.properties:1
+msgctxt ""
+"basiclti/basiclti-portlet/src/bundle/basiclti-events.properties:basiclti-"
+"events"
+msgid ""
+"Enables reporting of LTI usage to SiteStats. There are no usable interfaces "
+"here."
+msgstr ""

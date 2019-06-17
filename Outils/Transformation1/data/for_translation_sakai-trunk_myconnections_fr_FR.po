@@ -1,0 +1,34 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: TMX Project 0.1a\n"
+"Report-Msgid-Bugs-To: ddeguchi@nagoya-u.jp\n"
+"POT-Creation-Date: 2019-06-17 04:37+00:00\n"
+"PO-Revision-Date: 2017-09-12 12:01+0000\n"
+"Language-Team: French (France) (https://www.transifex.com/apereo/teams/29702/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. app.title
+#: myconnections/src/java/org/sakaiproject/myconnections/WidgetApplication.properties:1
+msgctxt ""
+"myconnections/src/java/org/sakaiproject/myconnections/WidgetApplication.properties:app.title"
+msgid "Connections"
+msgstr ""
+
+#. label.noconnections
+#: myconnections/src/java/org/sakaiproject/myconnections/WidgetApplication.properties:2
+msgctxt ""
+"myconnections/src/java/org/sakaiproject/myconnections/WidgetApplication.properties:label.noconnections"
+msgid "You don't have any connections yet."
+msgstr ""
+
+#. heading.request
+#: myconnections/src/java/org/sakaiproject/myconnections/WidgetApplication.properties:3
+msgctxt ""
+"myconnections/src/java/org/sakaiproject/myconnections/WidgetApplication.properties:heading.request"
+msgid "connection request"
+msgstr ""

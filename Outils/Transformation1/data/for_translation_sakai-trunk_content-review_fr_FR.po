@@ -1,0 +1,739 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: sakai-trunk\n"
+"Report-Msgid-Bugs-To: ddeguchi@nagoya-u.jp\n"
+"POT-Creation-Date: 2019-06-17 04:37+00:00\n"
+"PO-Revision-Date: 2016-04-29 00:35+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: French (France) (http://www.transifex.com/apereo/sakai-trunk/language/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. file.type.txt
+#: content-review/impl/urkund/src/main/resources/urkund.properties:1
+msgctxt ""
+"content-"
+"review/impl/urkund/src/main/resources/urkund.properties:file.type.txt"
+msgid "Plain Text"
+msgstr ""
+
+#. file.type.rtf
+#: content-review/impl/urkund/src/main/resources/urkund.properties:2
+msgctxt ""
+"content-"
+"review/impl/urkund/src/main/resources/urkund.properties:file.type.rtf"
+msgid "Rich Text Format"
+msgstr ""
+
+#. file.type.pdf
+#: content-review/impl/urkund/src/main/resources/urkund.properties:3
+msgctxt ""
+"content-"
+"review/impl/urkund/src/main/resources/urkund.properties:file.type.pdf"
+msgid "Adobe Acrobat"
+msgstr ""
+
+#. file.type.doc
+#: content-review/impl/urkund/src/main/resources/urkund.properties:4
+msgctxt ""
+"content-"
+"review/impl/urkund/src/main/resources/urkund.properties:file.type.doc"
+msgid "Text Processors"
+msgstr ""
+
+#. file.type.docx
+#: content-review/impl/urkund/src/main/resources/urkund.properties:5
+msgctxt ""
+"content-"
+"review/impl/urkund/src/main/resources/urkund.properties:file.type.docx"
+msgid "Text Processors"
+msgstr ""
+
+#. file.type.odt
+#: content-review/impl/urkund/src/main/resources/urkund.properties:6
+msgctxt ""
+"content-"
+"review/impl/urkund/src/main/resources/urkund.properties:file.type.odt"
+msgid "Text Processors"
+msgstr ""
+
+#. file.type.wps
+#: content-review/impl/urkund/src/main/resources/urkund.properties:7
+msgctxt ""
+"content-"
+"review/impl/urkund/src/main/resources/urkund.properties:file.type.wps"
+msgid "Text Processors"
+msgstr ""
+
+#. file.type.sxw
+#: content-review/impl/urkund/src/main/resources/urkund.properties:8
+msgctxt ""
+"content-"
+"review/impl/urkund/src/main/resources/urkund.properties:file.type.sxw"
+msgid "Text Processors"
+msgstr ""
+
+#. file.type.ppt
+#: content-review/impl/urkund/src/main/resources/urkund.properties:9
+msgctxt ""
+"content-"
+"review/impl/urkund/src/main/resources/urkund.properties:file.type.ppt"
+msgid "PowerPoint"
+msgstr ""
+
+#. file.type.pptx
+#: content-review/impl/urkund/src/main/resources/urkund.properties:10
+msgctxt ""
+"content-"
+"review/impl/urkund/src/main/resources/urkund.properties:file.type.pptx"
+msgid "PowerPoint"
+msgstr ""
+
+#. file.type.html
+#: content-review/impl/urkund/src/main/resources/urkund.properties:11
+msgctxt ""
+"content-"
+"review/impl/urkund/src/main/resources/urkund.properties:file.type.html"
+msgid "HTML"
+msgstr ""
+
+#. file.type.htm
+#: content-review/impl/urkund/src/main/resources/urkund.properties:12
+msgctxt ""
+"content-"
+"review/impl/urkund/src/main/resources/urkund.properties:file.type.htm"
+msgid "HTML"
+msgstr ""
+
+#. 123
+#: content-review/impl/turnitin/src/main/resources/turnitin.properties:1
+msgctxt ""
+"content-review/impl/turnitin/src/main/resources/turnitin.properties:123"
+msgid "Assignment title missing or incorrect length"
+msgstr ""
+
+#. 1007
+#: content-review/impl/turnitin/src/main/resources/turnitin.properties:2
+msgctxt ""
+"content-review/impl/turnitin/src/main/resources/turnitin.properties:1007"
+msgid "The file you have uploaded is too big."
+msgstr ""
+
+#. 1009
+#: content-review/impl/turnitin/src/main/resources/turnitin.properties:3
+msgctxt ""
+"content-review/impl/turnitin/src/main/resources/turnitin.properties:1009"
+msgid ""
+"Invalid file type! Valid types are: MS Word (DOC, DOCX), Acrobat PDF, "
+"PostScript, Text, HTML, WordPerfect (WPD) and Rich Text Format.  Please make"
+" sure the format of your file is one of the valid file types."
+msgstr ""
+
+#. 1010
+#: content-review/impl/turnitin/src/main/resources/turnitin.properties:4
+msgctxt ""
+"content-review/impl/turnitin/src/main/resources/turnitin.properties:1010"
+msgid ""
+"The paper you are trying to submit does not contain 100 characters of text."
+msgstr ""
+
+#. 1011
+#: content-review/impl/turnitin/src/main/resources/turnitin.properties:5
+msgctxt ""
+"content-review/impl/turnitin/src/main/resources/turnitin.properties:1011"
+msgid ""
+"The paper you are trying to submit is incorrectly formatted.  There seems to"
+" be spaces between each letter in your paper.  Please try submitting again "
+"or contact our helpdesk if the problem persists."
+msgstr ""
+
+#. 1013
+#: content-review/impl/turnitin/src/main/resources/turnitin.properties:6
+msgctxt ""
+"content-review/impl/turnitin/src/main/resources/turnitin.properties:1013"
+msgid "You must submit more than 20 words of text."
+msgstr ""
+
+#. 1019
+#: content-review/impl/turnitin/src/main/resources/turnitin.properties:7
+msgctxt ""
+"content-review/impl/turnitin/src/main/resources/turnitin.properties:1019"
+msgid "Paper title exceeds maximum of 200 characters"
+msgstr ""
+
+#. 1023
+#: content-review/impl/turnitin/src/main/resources/turnitin.properties:8
+msgctxt ""
+"content-review/impl/turnitin/src/main/resources/turnitin.properties:1023"
+msgid ""
+"We're sorry, but we could not read the PDF you submitted. Please make sure "
+"that the file is not password protected and contains selectable text rather "
+"than scanned images."
+msgstr ""
+
+#. 1024
+#: content-review/impl/turnitin/src/main/resources/turnitin.properties:9
+msgctxt ""
+"content-review/impl/turnitin/src/main/resources/turnitin.properties:1024"
+msgid ""
+"The paper you are trying to submit does not meet our criteria for a "
+"legitimate paper. Please try submitting again or contact our helpdesk if the"
+" problem persists."
+msgstr ""
+
+#. 302
+#: content-review/impl/turnitin/src/main/resources/turnitin.properties:10
+msgctxt ""
+"content-review/impl/turnitin/src/main/resources/turnitin.properties:302"
+msgid ""
+"MD5 not authenticated - the MD5 in the URL does not match the MD5 calculated"
+msgstr ""
+
+#. 208
+#: content-review/impl/turnitin/src/main/resources/turnitin.properties:11
+msgctxt ""
+"content-review/impl/turnitin/src/main/resources/turnitin.properties:208"
+msgid ""
+"An error occurred enrolling the student in the Turnitin class. Please "
+"contact the helpdesk"
+msgstr ""
+
+#. 1000
+#: content-review/impl/turnitin/src/main/resources/turnitin.properties:12
+msgctxt ""
+"content-review/impl/turnitin/src/main/resources/turnitin.properties:1000"
+msgid ""
+"The due date for this assignment has passed. Please see your instructor to "
+"request a late submission."
+msgstr ""
+
+#. file.type.doc
+#: content-review/impl/turnitin/src/main/resources/turnitin.properties:13
+msgctxt ""
+"content-"
+"review/impl/turnitin/src/main/resources/turnitin.properties:file.type.doc"
+msgid "Word 97-2003"
+msgstr ""
+
+#. file.type.docx
+#: content-review/impl/turnitin/src/main/resources/turnitin.properties:14
+msgctxt ""
+"content-"
+"review/impl/turnitin/src/main/resources/turnitin.properties:file.type.docx"
+msgid "Word 2007+"
+msgstr ""
+
+#. file.type.xls
+#: content-review/impl/turnitin/src/main/resources/turnitin.properties:15
+msgctxt ""
+"content-"
+"review/impl/turnitin/src/main/resources/turnitin.properties:file.type.xls"
+msgid "Excel"
+msgstr ""
+
+#. file.type.xlsx
+#: content-review/impl/turnitin/src/main/resources/turnitin.properties:16
+msgctxt ""
+"content-"
+"review/impl/turnitin/src/main/resources/turnitin.properties:file.type.xlsx"
+msgid "Excel"
+msgstr ""
+
+#. file.type.ppt
+#: content-review/impl/turnitin/src/main/resources/turnitin.properties:17
+msgctxt ""
+"content-"
+"review/impl/turnitin/src/main/resources/turnitin.properties:file.type.ppt"
+msgid "PowerPoint"
+msgstr ""
+
+#. file.type.pptx
+#: content-review/impl/turnitin/src/main/resources/turnitin.properties:18
+msgctxt ""
+"content-"
+"review/impl/turnitin/src/main/resources/turnitin.properties:file.type.pptx"
+msgid "PowerPoint"
+msgstr ""
+
+#. file.type.pps
+#: content-review/impl/turnitin/src/main/resources/turnitin.properties:19
+msgctxt ""
+"content-"
+"review/impl/turnitin/src/main/resources/turnitin.properties:file.type.pps"
+msgid "PowerPoint"
+msgstr ""
+
+#. file.type.ppsx
+#: content-review/impl/turnitin/src/main/resources/turnitin.properties:20
+msgctxt ""
+"content-"
+"review/impl/turnitin/src/main/resources/turnitin.properties:file.type.ppsx"
+msgid "PowerPoint"
+msgstr ""
+
+#. file.type.pdf
+#: content-review/impl/turnitin/src/main/resources/turnitin.properties:21
+msgctxt ""
+"content-"
+"review/impl/turnitin/src/main/resources/turnitin.properties:file.type.pdf"
+msgid "PDF"
+msgstr ""
+
+#. file.type.ps
+#: content-review/impl/turnitin/src/main/resources/turnitin.properties:22
+msgctxt ""
+"content-"
+"review/impl/turnitin/src/main/resources/turnitin.properties:file.type.ps"
+msgid "PostScript"
+msgstr ""
+
+#. file.type.eps
+#: content-review/impl/turnitin/src/main/resources/turnitin.properties:23
+msgctxt ""
+"content-"
+"review/impl/turnitin/src/main/resources/turnitin.properties:file.type.eps"
+msgid "PostScript"
+msgstr ""
+
+#. file.type.txt
+#: content-review/impl/turnitin/src/main/resources/turnitin.properties:24
+msgctxt ""
+"content-"
+"review/impl/turnitin/src/main/resources/turnitin.properties:file.type.txt"
+msgid "plain text"
+msgstr ""
+
+#. file.type.html
+#: content-review/impl/turnitin/src/main/resources/turnitin.properties:25
+msgctxt ""
+"content-"
+"review/impl/turnitin/src/main/resources/turnitin.properties:file.type.html"
+msgid "HTML"
+msgstr ""
+
+#. file.type.htm
+#: content-review/impl/turnitin/src/main/resources/turnitin.properties:26
+msgctxt ""
+"content-"
+"review/impl/turnitin/src/main/resources/turnitin.properties:file.type.htm"
+msgid "HTML"
+msgstr ""
+
+#. file.type.wpd
+#: content-review/impl/turnitin/src/main/resources/turnitin.properties:27
+msgctxt ""
+"content-"
+"review/impl/turnitin/src/main/resources/turnitin.properties:file.type.wpd"
+msgid "WordPerfect"
+msgstr ""
+
+#. file.type.odt
+#: content-review/impl/turnitin/src/main/resources/turnitin.properties:28
+msgctxt ""
+"content-"
+"review/impl/turnitin/src/main/resources/turnitin.properties:file.type.odt"
+msgid "OpenOffice"
+msgstr ""
+
+#. file.type.rtf
+#: content-review/impl/turnitin/src/main/resources/turnitin.properties:29
+msgctxt ""
+"content-"
+"review/impl/turnitin/src/main/resources/turnitin.properties:file.type.rtf"
+msgid "rich text"
+msgstr ""
+
+#. file.type.hwp
+#: content-review/impl/turnitin/src/main/resources/turnitin.properties:30
+msgctxt ""
+"content-"
+"review/impl/turnitin/src/main/resources/turnitin.properties:file.type.hwp"
+msgid "Hangul"
+msgstr ""
+
+#. file.type.doc
+#: content-review/impl/turnitin-oc/src/main/resources/turnitin.properties:1
+msgctxt ""
+"content-review/impl/turnitin-"
+"oc/src/main/resources/turnitin.properties:file.type.doc"
+msgid "Word 97-2003"
+msgstr ""
+
+#. file.type.docx
+#: content-review/impl/turnitin-oc/src/main/resources/turnitin.properties:2
+msgctxt ""
+"content-review/impl/turnitin-"
+"oc/src/main/resources/turnitin.properties:file.type.docx"
+msgid "Word 2007+"
+msgstr ""
+
+#. file.type.xls
+#: content-review/impl/turnitin-oc/src/main/resources/turnitin.properties:3
+msgctxt ""
+"content-review/impl/turnitin-"
+"oc/src/main/resources/turnitin.properties:file.type.xls"
+msgid "Excel"
+msgstr ""
+
+#. file.type.xlsx
+#: content-review/impl/turnitin-oc/src/main/resources/turnitin.properties:4
+msgctxt ""
+"content-review/impl/turnitin-"
+"oc/src/main/resources/turnitin.properties:file.type.xlsx"
+msgid "Excel"
+msgstr ""
+
+#. file.type.ppt
+#: content-review/impl/turnitin-oc/src/main/resources/turnitin.properties:5
+msgctxt ""
+"content-review/impl/turnitin-"
+"oc/src/main/resources/turnitin.properties:file.type.ppt"
+msgid "PowerPoint"
+msgstr ""
+
+#. file.type.pptx
+#: content-review/impl/turnitin-oc/src/main/resources/turnitin.properties:6
+msgctxt ""
+"content-review/impl/turnitin-"
+"oc/src/main/resources/turnitin.properties:file.type.pptx"
+msgid "PowerPoint"
+msgstr ""
+
+#. file.type.pps
+#: content-review/impl/turnitin-oc/src/main/resources/turnitin.properties:7
+msgctxt ""
+"content-review/impl/turnitin-"
+"oc/src/main/resources/turnitin.properties:file.type.pps"
+msgid "PowerPoint"
+msgstr ""
+
+#. file.type.ppsx
+#: content-review/impl/turnitin-oc/src/main/resources/turnitin.properties:8
+msgctxt ""
+"content-review/impl/turnitin-"
+"oc/src/main/resources/turnitin.properties:file.type.ppsx"
+msgid "PowerPoint"
+msgstr ""
+
+#. file.type.pdf
+#: content-review/impl/turnitin-oc/src/main/resources/turnitin.properties:9
+msgctxt ""
+"content-review/impl/turnitin-"
+"oc/src/main/resources/turnitin.properties:file.type.pdf"
+msgid "PDF"
+msgstr ""
+
+#. file.type.ps
+#: content-review/impl/turnitin-oc/src/main/resources/turnitin.properties:10
+msgctxt ""
+"content-review/impl/turnitin-"
+"oc/src/main/resources/turnitin.properties:file.type.ps"
+msgid "PostScript"
+msgstr ""
+
+#. file.type.eps
+#: content-review/impl/turnitin-oc/src/main/resources/turnitin.properties:11
+msgctxt ""
+"content-review/impl/turnitin-"
+"oc/src/main/resources/turnitin.properties:file.type.eps"
+msgid "PostScript"
+msgstr ""
+
+#. file.type.txt
+#: content-review/impl/turnitin-oc/src/main/resources/turnitin.properties:12
+msgctxt ""
+"content-review/impl/turnitin-"
+"oc/src/main/resources/turnitin.properties:file.type.txt"
+msgid "plain text"
+msgstr ""
+
+#. file.type.html
+#: content-review/impl/turnitin-oc/src/main/resources/turnitin.properties:13
+msgctxt ""
+"content-review/impl/turnitin-"
+"oc/src/main/resources/turnitin.properties:file.type.html"
+msgid "HTML"
+msgstr ""
+
+#. file.type.htm
+#: content-review/impl/turnitin-oc/src/main/resources/turnitin.properties:14
+msgctxt ""
+"content-review/impl/turnitin-"
+"oc/src/main/resources/turnitin.properties:file.type.htm"
+msgid "HTML"
+msgstr ""
+
+#. file.type.wpd
+#: content-review/impl/turnitin-oc/src/main/resources/turnitin.properties:15
+msgctxt ""
+"content-review/impl/turnitin-"
+"oc/src/main/resources/turnitin.properties:file.type.wpd"
+msgid "WordPerfect"
+msgstr ""
+
+#. file.type.odt
+#: content-review/impl/turnitin-oc/src/main/resources/turnitin.properties:16
+msgctxt ""
+"content-review/impl/turnitin-"
+"oc/src/main/resources/turnitin.properties:file.type.odt"
+msgid "OpenOffice"
+msgstr ""
+
+#. file.type.rtf
+#: content-review/impl/turnitin-oc/src/main/resources/turnitin.properties:17
+msgctxt ""
+"content-review/impl/turnitin-"
+"oc/src/main/resources/turnitin.properties:file.type.rtf"
+msgid "rich text"
+msgstr ""
+
+#. file.type.hwp
+#: content-review/impl/turnitin-oc/src/main/resources/turnitin.properties:18
+msgctxt ""
+"content-review/impl/turnitin-"
+"oc/src/main/resources/turnitin.properties:file.type.hwp"
+msgid "Hangul"
+msgstr ""
+
+#. 123
+#: content-review/impl/compilatio/src/main/resources/compilatio.properties:1
+msgctxt ""
+"content-review/impl/compilatio/src/main/resources/compilatio.properties:123"
+msgid "Assignment title missing or incorrect length"
+msgstr ""
+
+#. 1007
+#: content-review/impl/compilatio/src/main/resources/compilatio.properties:2
+msgctxt ""
+"content-review/impl/compilatio/src/main/resources/compilatio.properties:1007"
+msgid "The file you have uploaded is too big."
+msgstr ""
+
+#. 1009
+#: content-review/impl/compilatio/src/main/resources/compilatio.properties:3
+msgctxt ""
+"content-review/impl/compilatio/src/main/resources/compilatio.properties:1009"
+msgid ""
+"Invalid file type! Valid types are: MS Word (DOC, DOCX), Acrobat PDF, "
+"PostScript, Text, HTML, WordPerfect (WPD) and Rich Text Format.  Please make"
+" sure the format of your file is one of the valid file types."
+msgstr ""
+
+#. 1010
+#: content-review/impl/compilatio/src/main/resources/compilatio.properties:4
+msgctxt ""
+"content-review/impl/compilatio/src/main/resources/compilatio.properties:1010"
+msgid ""
+"The paper you are trying to submit does not contain 100 characters of text."
+msgstr ""
+
+#. 1011
+#: content-review/impl/compilatio/src/main/resources/compilatio.properties:5
+msgctxt ""
+"content-review/impl/compilatio/src/main/resources/compilatio.properties:1011"
+msgid ""
+"The paper you are trying to submit is incorrectly formatted.  There seems to"
+" be spaces between each letter in your paper.  Please try submitting again "
+"or contact our helpdesk if the problem persists."
+msgstr ""
+
+#. 1013
+#: content-review/impl/compilatio/src/main/resources/compilatio.properties:6
+msgctxt ""
+"content-review/impl/compilatio/src/main/resources/compilatio.properties:1013"
+msgid "You must submit more than 20 words of text."
+msgstr ""
+
+#. 1019
+#: content-review/impl/compilatio/src/main/resources/compilatio.properties:7
+msgctxt ""
+"content-review/impl/compilatio/src/main/resources/compilatio.properties:1019"
+msgid "Paper title exceeds maximum of 200 characters"
+msgstr ""
+
+#. 1023
+#: content-review/impl/compilatio/src/main/resources/compilatio.properties:8
+msgctxt ""
+"content-review/impl/compilatio/src/main/resources/compilatio.properties:1023"
+msgid ""
+"We're sorry, but we could not read the PDF you submitted. Please make sure "
+"that the file is not password protected and contains selectable text rather "
+"than scanned images."
+msgstr ""
+
+#. 1024
+#: content-review/impl/compilatio/src/main/resources/compilatio.properties:9
+msgctxt ""
+"content-review/impl/compilatio/src/main/resources/compilatio.properties:1024"
+msgid ""
+"The paper you are trying to submit does not meet our criteria for a "
+"legitimate paper. Please try submitting again or contact our helpdesk if the"
+" problem persists."
+msgstr ""
+
+#. 302
+#: content-review/impl/compilatio/src/main/resources/compilatio.properties:10
+msgctxt ""
+"content-review/impl/compilatio/src/main/resources/compilatio.properties:302"
+msgid ""
+"MD5 not authenticated - the MD5 in the URL does not match the MD5 calculated"
+msgstr ""
+
+#. 208
+#: content-review/impl/compilatio/src/main/resources/compilatio.properties:11
+msgctxt ""
+"content-review/impl/compilatio/src/main/resources/compilatio.properties:208"
+msgid ""
+"An error occurred enrolling the student in the Compilatio class. Please "
+"contact the helpdesk"
+msgstr ""
+
+#. 1000
+#: content-review/impl/compilatio/src/main/resources/compilatio.properties:12
+msgctxt ""
+"content-review/impl/compilatio/src/main/resources/compilatio.properties:1000"
+msgid ""
+"The due date for this assignment has passed. Please see your instructor to "
+"request a late submission."
+msgstr ""
+
+#. file.type.txt
+#: content-review/impl/compilatio/src/main/resources/compilatio.properties:13
+msgctxt ""
+"content-"
+"review/impl/compilatio/src/main/resources/compilatio.properties:file.type.txt"
+msgid "Plain Text"
+msgstr ""
+
+#. file.type.rtf
+#: content-review/impl/compilatio/src/main/resources/compilatio.properties:14
+msgctxt ""
+"content-"
+"review/impl/compilatio/src/main/resources/compilatio.properties:file.type.rtf"
+msgid "Rich Text Format"
+msgstr ""
+
+#. file.type.pdf
+#: content-review/impl/compilatio/src/main/resources/compilatio.properties:15
+msgctxt ""
+"content-"
+"review/impl/compilatio/src/main/resources/compilatio.properties:file.type.pdf"
+msgid "Adobe Acrobat"
+msgstr ""
+
+#. file.type.doc
+#: content-review/impl/compilatio/src/main/resources/compilatio.properties:16
+msgctxt ""
+"content-"
+"review/impl/compilatio/src/main/resources/compilatio.properties:file.type.doc"
+msgid "Text Processors"
+msgstr ""
+
+#. file.type.docx
+#: content-review/impl/compilatio/src/main/resources/compilatio.properties:17
+msgctxt ""
+"content-"
+"review/impl/compilatio/src/main/resources/compilatio.properties:file.type.docx"
+msgid "Text Processors"
+msgstr ""
+
+#. file.type.odt
+#: content-review/impl/compilatio/src/main/resources/compilatio.properties:18
+msgctxt ""
+"content-"
+"review/impl/compilatio/src/main/resources/compilatio.properties:file.type.odt"
+msgid "Text Processors"
+msgstr ""
+
+#. file.type.wpd
+#: content-review/impl/compilatio/src/main/resources/compilatio.properties:19
+msgctxt ""
+"content-"
+"review/impl/compilatio/src/main/resources/compilatio.properties:file.type.wpd"
+msgid "Text Processors"
+msgstr ""
+
+#. file.type.ps
+#: content-review/impl/compilatio/src/main/resources/compilatio.properties:20
+msgctxt ""
+"content-"
+"review/impl/compilatio/src/main/resources/compilatio.properties:file.type.ps"
+msgid "PostScript"
+msgstr ""
+
+#. file.type.eps
+#: content-review/impl/compilatio/src/main/resources/compilatio.properties:21
+msgctxt ""
+"content-"
+"review/impl/compilatio/src/main/resources/compilatio.properties:file.type.eps"
+msgid "PostScript"
+msgstr ""
+
+#. file.type.xls
+#: content-review/impl/compilatio/src/main/resources/compilatio.properties:22
+msgctxt ""
+"content-"
+"review/impl/compilatio/src/main/resources/compilatio.properties:file.type.xls"
+msgid "Excel"
+msgstr ""
+
+#. file.type.xlsx
+#: content-review/impl/compilatio/src/main/resources/compilatio.properties:23
+msgctxt ""
+"content-"
+"review/impl/compilatio/src/main/resources/compilatio.properties:file.type.xlsx"
+msgid "Excel"
+msgstr ""
+
+#. file.type.ppt
+#: content-review/impl/compilatio/src/main/resources/compilatio.properties:24
+msgctxt ""
+"content-"
+"review/impl/compilatio/src/main/resources/compilatio.properties:file.type.ppt"
+msgid "PowerPoint"
+msgstr ""
+
+#. file.type.pptx
+#: content-review/impl/compilatio/src/main/resources/compilatio.properties:25
+msgctxt ""
+"content-"
+"review/impl/compilatio/src/main/resources/compilatio.properties:file.type.pptx"
+msgid "PowerPoint"
+msgstr ""
+
+#. file.type.pps
+#: content-review/impl/compilatio/src/main/resources/compilatio.properties:26
+msgctxt ""
+"content-"
+"review/impl/compilatio/src/main/resources/compilatio.properties:file.type.pps"
+msgid "PowerPoint"
+msgstr ""
+
+#. file.type.ppsx
+#: content-review/impl/compilatio/src/main/resources/compilatio.properties:27
+msgctxt ""
+"content-"
+"review/impl/compilatio/src/main/resources/compilatio.properties:file.type.ppsx"
+msgid "PowerPoint"
+msgstr ""
+
+#. file.type.html
+#: content-review/impl/compilatio/src/main/resources/compilatio.properties:28
+msgctxt ""
+"content-"
+"review/impl/compilatio/src/main/resources/compilatio.properties:file.type.html"
+msgid "HTML"
+msgstr ""
+
+#. file.type.htm
+#: content-review/impl/compilatio/src/main/resources/compilatio.properties:29
+msgctxt ""
+"content-"
+"review/impl/compilatio/src/main/resources/compilatio.properties:file.type.htm"
+msgid "HTML"
+msgstr ""

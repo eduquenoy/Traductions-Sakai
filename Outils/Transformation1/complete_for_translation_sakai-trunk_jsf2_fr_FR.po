@@ -1,0 +1,344 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: TMX Project 0.1a\n"
+"Report-Msgid-Bugs-To: ddeguchi@nagoya-u.jp\n"
+"POT-Creation-Date: 2019-06-17 04:37+00:00\n"
+"PO-Revision-Date: 2018-08-21 04:46+0000\n"
+"Language-Team: French (France) (https://www.transifex.com/apereo/teams/29702/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. resources
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:1
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:resources"
+msgid "jsf-resource"
+msgstr ""
+
+#. hideDivisionScript
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:2
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:hideDivisionScript"
+msgid "hideDivision/hideDivision.js"
+msgstr ""
+
+#. inputDateScript
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:3
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:inputDateScript"
+msgid "inputDate/inputDate.js"
+msgstr ""
+
+#. timerBarScript
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:4
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:timerBarScript"
+msgid "timerBar/timerBar.js"
+msgstr ""
+
+#. inputRichTextScript
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:5
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:inputRichTextScript"
+msgid "inputRichText/sakai-htmlarea.js"
+msgstr ""
+
+#. inputColorScript
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:6
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:inputColorScript"
+msgid "inputColor/inputColor.js"
+msgstr ""
+
+#. hideDivisionRight
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:7
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:hideDivisionRight"
+msgid "hideDivision/images/right_arrow.gif"
+msgstr ""
+
+#. hideDivisionDown
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:8
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:hideDivisionDown"
+msgid "hideDivision/images/down_arrow.gif"
+msgstr ""
+
+#. inputDatePopup
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:9
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:inputDatePopup"
+msgid "inputDate/"
+msgstr ""
+
+#. inputDateImage
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:10
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:inputDateImage"
+msgid "inputDate/images/calendar.gif"
+msgstr ""
+
+#. inputColorPopup
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:11
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:inputColorPopup"
+msgid "inputColor/"
+msgstr ""
+
+#. inputColorImage
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:12
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:inputColorImage"
+msgid "inputColor/images/colors.gif"
+msgstr ""
+
+#. inputRichTextHTMLArea
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:13
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:inputRichTextHTMLArea"
+msgid "inputRichText/htmlarea"
+msgstr ""
+
+#. inputRichTextDefaultWidthPx
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:14
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:inputRichTextDefaultWidthPx"
+msgid "450"
+msgstr ""
+
+#. inputRichTextDefaultHeightPx
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:15
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:inputRichTextDefaultHeightPx"
+msgid "50"
+msgstr "50 "
+
+#. inputRichTextDefaultTextareaColumns
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:16
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:inputRichTextDefaultTextareaColumns"
+msgid "80"
+msgstr ""
+
+#. inputRichTextDefaultTextareaRows
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:17
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:inputRichTextDefaultTextareaRows"
+msgid "4"
+msgstr "4"
+
+#. inputRichTextFileInsertImage
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:18
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:inputRichTextFileInsertImage"
+msgid "inputRichText/images/insert.gif"
+msgstr ""
+
+#. inputRichText_small
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:19
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:inputRichText_small"
+msgid ""
+"fontname,space,fontsize,space,bold,italic,underline,strikethrough,forecolor,hilitecolor,about"
+msgstr ""
+
+#. inputRichText_medium
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:20
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:inputRichText_medium"
+msgid ""
+"fontname,space,fontsize,space,bold,italic,underline,strikethrough,forecolor,hilitecolor,linebreak,subscript,superscript,separator,justifyleft,justifycenter,justifyright,justifyfull,orderedlist,unorderedlist,outdent,indent,inserthorizontalrule,about"
+msgstr ""
+
+#. inputRichText_large
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:21
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:inputRichText_large"
+msgid ""
+"fontname,space,fontsize,space,bold,italic,underline,strikethrough,forecolor,hilitecolor,linebreak,subscript,superscript,separator,justifyleft,justifycenter,justifyright,justifyfull,orderedlist,unorderedlist,outdent,indent,inserthorizontalrule,linebreak,smile,sad,createlink,insertimage,separator,htmlmode,separator,showhelp,about"
+msgstr ""
+
+#. picker_style
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:22
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:picker_style"
+msgid "cursor:pointer;"
+msgstr ""
+
+#. date_pick_alt
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:23
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:date_pick_alt"
+msgid "Click Here to Pick Date"
+msgstr "Cliquez ici pour choisir une date"
+
+#. color_pick_alt
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:24
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:color_pick_alt"
+msgid "Click Here to Pick Color"
+msgstr "Cliquez ici pour choisir une couleur"
+
+#. inputMonthFirst
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:25
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:inputMonthFirst"
+msgid "true"
+msgstr "vrai"
+
+#. inputTimeColon
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:26
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:inputTimeColon"
+msgid "true"
+msgstr "vrai"
+
+#. inputTime24
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:27
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:inputTime24"
+msgid "false"
+msgstr "faux"
+
+#. inputDateHint
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:28
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:inputDateHint"
+msgid "mm/dd/yyyy"
+msgstr "mm/dd/aaaa"
+
+#. inputTimeHint
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:29
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:inputTimeHint"
+msgid "hh:mm am/pm"
+msgstr ""
+
+#. inputMonthFirstFormat
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:30
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:inputMonthFirstFormat"
+msgid "MM/dd/yyyy"
+msgstr "dd/MM/yyyy"
+
+#. inputDayFirstFormat
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:31
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:inputDayFirstFormat"
+msgid "dd-MM-yyyy"
+msgstr ""
+
+#. inputTimeColonFormatAMPM
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:32
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:inputTimeColonFormatAMPM"
+msgid "hh:mm:ss a"
+msgstr ""
+
+#. inputTimeColonFormat24
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:33
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:inputTimeColonFormat24"
+msgid "HH:mm:ss"
+msgstr ""
+
+#. inputTimeDotFormatAMPM
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:34
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:inputTimeDotFormatAMPM"
+msgid "hh.mm.ss a"
+msgstr ""
+
+#. inputTimeDotFormat24
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:35
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:inputTimeDotFormat24"
+msgid "HH.mm.ss"
+msgstr ""
+
+#. outputDate
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:36
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:outputDate"
+msgid "MMM-dd-yyyy"
+msgstr ""
+
+#. outputDateTime
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:37
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:outputDateTime"
+msgid "MMM-dd-yyyy hh:mm a"
+msgstr ""
+
+#. outputDateTimeSecs
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:38
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:outputDateTimeSecs"
+msgid "MMM-dd-yyyy hh:mm:ss a"
+msgstr ""
+
+#. outputTime
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:39
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:outputTime"
+msgid "hh:mm a"
+msgstr ""
+
+#. outputTimeSecs
+#: jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:40
+msgctxt ""
+"jsf2/jsf2-widgets/src/java/org/sakaiproject/jsf2/Configuration.properties:outputTimeSecs"
+msgid "hh:mm:ss a"
+msgstr ""
+
+#. pager_textFirst
+#: jsf2/jsf2-widgets/src/bundle/pager.properties:1
+msgctxt "jsf2/jsf2-widgets/src/bundle/pager.properties:pager_textFirst"
+msgid "|<"
+msgstr "|<"
+
+#. pager_textPrev
+#: jsf2/jsf2-widgets/src/bundle/pager.properties:2
+msgctxt "jsf2/jsf2-widgets/src/bundle/pager.properties:pager_textPrev"
+msgid "<"
+msgstr "<"
+
+#. pager_textNext
+#: jsf2/jsf2-widgets/src/bundle/pager.properties:3
+msgctxt "jsf2/jsf2-widgets/src/bundle/pager.properties:pager_textNext"
+msgid ">"
+msgstr ">"
+
+#. pager_textLast
+#: jsf2/jsf2-widgets/src/bundle/pager.properties:4
+msgctxt "jsf2/jsf2-widgets/src/bundle/pager.properties:pager_textLast"
+msgid ">|"
+msgstr ">|"
+
+#. pager_textStatus
+#: jsf2/jsf2-widgets/src/bundle/pager.properties:5
+msgctxt "jsf2/jsf2-widgets/src/bundle/pager.properties:pager_textStatus"
+msgid "Viewing {0} to {1} of {2} {3}"
+msgstr "Affichage de {0} à {1} parmi {2} {3}"
+
+#. pager_textPageSize
+#: jsf2/jsf2-widgets/src/bundle/pager.properties:6
+msgctxt "jsf2/jsf2-widgets/src/bundle/pager.properties:pager_textPageSize"
+msgid "Show {0}"
+msgstr "Afficher {0}"
+
+#. pager_textItem
+#: jsf2/jsf2-widgets/src/bundle/pager.properties:7
+msgctxt "jsf2/jsf2-widgets/src/bundle/pager.properties:pager_textItem"
+msgid "items"
+msgstr "éléments"
+
+#. pager_pageSize
+#: jsf2/jsf2-widgets/src/bundle/pager.properties:8
+msgctxt "jsf2/jsf2-widgets/src/bundle/pager.properties:pager_pageSize"
+msgid "20"
+msgstr "20"

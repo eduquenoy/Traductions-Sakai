@@ -1,0 +1,331 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: sakai-trunk\n"
+"Report-Msgid-Bugs-To: ddeguchi@nagoya-u.jp\n"
+"POT-Creation-Date: 2019-06-17 04:37+00:00\n"
+"PO-Revision-Date: 2014-10-30 05:03+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: French (France) (http://www.transifex.com/apereo/sakai-trunk/language/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. MessageContentProducer.5
+#: message/search-adapters/impl/src/bundle/org/sakaiproject/search/component/adapter/message/bundle/Messages.properties:1
+msgctxt ""
+"message/search-"
+"adapters/impl/src/bundle/org/sakaiproject/search/component/adapter/message/bundle/Messages.properties:MessageContentProducer.5"
+msgid "Subject: "
+msgstr "Sujet : "
+
+#. MessageContentProducer.3
+#: message/search-adapters/impl/src/bundle/org/sakaiproject/search/component/adapter/message/bundle/Messages.properties:2
+msgctxt ""
+"message/search-"
+"adapters/impl/src/bundle/org/sakaiproject/search/component/adapter/message/bundle/Messages.properties:MessageContentProducer.3"
+msgid "Message Headers\n"
+msgstr ""
+
+#. MessageContentProducer.4
+#: message/search-adapters/impl/src/bundle/org/sakaiproject/search/component/adapter/message/bundle/Messages.properties:3
+msgctxt ""
+"message/search-"
+"adapters/impl/src/bundle/org/sakaiproject/search/component/adapter/message/bundle/Messages.properties:MessageContentProducer.4"
+msgid "From "
+msgstr "De "
+
+#. MessageContentProducer.11
+#: message/search-adapters/impl/src/bundle/org/sakaiproject/search/component/adapter/message/bundle/Messages.properties:4
+msgctxt ""
+"message/search-"
+"adapters/impl/src/bundle/org/sakaiproject/search/component/adapter/message/bundle/Messages.properties:MessageContentProducer.11"
+msgid "Message Body\n"
+msgstr ""
+
+#. MessageContentProducer.23
+#: message/search-adapters/impl/src/bundle/org/sakaiproject/search/component/adapter/message/bundle/Messages.properties:5
+msgctxt ""
+"message/search-"
+"adapters/impl/src/bundle/org/sakaiproject/search/component/adapter/message/bundle/Messages.properties:MessageContentProducer.23"
+msgid "Attachement: \n"
+msgstr ""
+
+#. MessageContentProducer.2
+#: message/search-adapters/impl/src/bundle/org/sakaiproject/search/component/adapter/message/bundle/Messages.properties:6
+msgctxt ""
+"message/search-"
+"adapters/impl/src/bundle/org/sakaiproject/search/component/adapter/message/bundle/Messages.properties:MessageContentProducer.2"
+msgid "Message "
+msgstr "Message  "
+
+#. MessageContentProducer.33
+#: message/search-adapters/impl/src/bundle/org/sakaiproject/search/component/adapter/message/bundle/Messages.properties:7
+msgctxt ""
+"message/search-"
+"adapters/impl/src/bundle/org/sakaiproject/search/component/adapter/message/bundle/Messages.properties:MessageContentProducer.33"
+msgid "Subject: "
+msgstr "Sujet : "
+
+#. MessageContentProducer.36
+#: message/search-adapters/impl/src/bundle/org/sakaiproject/search/component/adapter/message/bundle/Messages.properties:8
+msgctxt ""
+"message/search-"
+"adapters/impl/src/bundle/org/sakaiproject/search/component/adapter/message/bundle/Messages.properties:MessageContentProducer.36"
+msgid "From "
+msgstr "De "
+
+#. aall_items
+#: message/message-tool/tool/src/bundle/recent.properties:1
+msgctxt "message/message-tool/tool/src/bundle/recent.properties:aall_items"
+msgid "announcements"
+msgstr "annonces"
+
+#. all_items
+#: message/message-tool/tool/src/bundle/recent.properties:2
+msgctxt "message/message-tool/tool/src/bundle/recent.properties:all_items"
+msgid "message"
+msgstr "message "
+
+#. aone_item
+#: message/message-tool/tool/src/bundle/recent.properties:3
+msgctxt "message/message-tool/tool/src/bundle/recent.properties:aone_item"
+msgid "Announcement"
+msgstr "Annonce"
+
+#. atool_name
+#: message/message-tool/tool/src/bundle/recent.properties:4
+msgctxt "message/message-tool/tool/src/bundle/recent.properties:atool_name"
+msgid "Announcement"
+msgstr "Annonce"
+
+#. atool_title
+#: message/message-tool/tool/src/bundle/recent.properties:5
+msgctxt "message/message-tool/tool/src/bundle/recent.properties:atool_title"
+msgid "Message of The Day"
+msgstr "Message du jour"
+
+#. call_items
+#: message/message-tool/tool/src/bundle/recent.properties:6
+msgctxt "message/message-tool/tool/src/bundle/recent.properties:call_items"
+msgid "chat messages"
+msgstr "messages de chat"
+
+#. cchannel_analog
+#: message/message-tool/tool/src/bundle/recent.properties:7
+msgctxt ""
+"message/message-tool/tool/src/bundle/recent.properties:cchannel_analog"
+msgid "Chat Room"
+msgstr "Salon de chat"
+
+#. channel_analog
+#: message/message-tool/tool/src/bundle/recent.properties:8
+msgctxt ""
+"message/message-tool/tool/src/bundle/recent.properties:channel_analog"
+msgid "channel"
+msgstr "canal"
+
+#. charommes
+#: message/message-tool/tool/src/bundle/recent.properties:9
+msgctxt "message/message-tool/tool/src/bundle/recent.properties:charommes"
+msgid "Chat Room Messages"
+msgstr "Messages du salon de chat"
+
+#. cone_item
+#: message/message-tool/tool/src/bundle/recent.properties:10
+msgctxt "message/message-tool/tool/src/bundle/recent.properties:cone_item"
+msgid "Chat message"
+msgstr "Message de chat"
+
+#. ctool_name
+#: message/message-tool/tool/src/bundle/recent.properties:11
+msgctxt "message/message-tool/tool/src/bundle/recent.properties:ctool_name"
+msgid "Chat"
+msgstr "Chat"
+
+#. ctool_title
+#: message/message-tool/tool/src/bundle/recent.properties:12
+msgctxt "message/message-tool/tool/src/bundle/recent.properties:ctool_title"
+msgid "Recent Chat"
+msgstr "Chat récent"
+
+#. cus.cus
+#: message/message-tool/tool/src/bundle/recent.properties:13
+msgctxt "message/message-tool/tool/src/bundle/recent.properties:cus.cus"
+msgid "Customize"
+msgstr "Personnaliser"
+
+#. cus.dis1.tool
+#: message/message-tool/tool/src/bundle/recent.properties:14
+msgctxt "message/message-tool/tool/src/bundle/recent.properties:cus.dis1.tool"
+msgid "{0} Display"
+msgstr "Affichage {0} "
+
+#. cus.youare.for
+#: message/message-tool/tool/src/bundle/recent.properties:15
+msgctxt ""
+"message/message-tool/tool/src/bundle/recent.properties:cus.youare.for"
+msgid "You are currently setting options for {0}."
+msgstr "Actuellement, vous définissez des options pour {0}."
+
+#. cus.maicha
+#: message/message-tool/tool/src/bundle/recent.properties:16
+msgctxt "message/message-tool/tool/src/bundle/recent.properties:cus.maicha"
+msgid "Main Chat Room"
+msgstr "Salon principal de chat "
+
+#. cus.numof.items
+#: message/message-tool/tool/src/bundle/recent.properties:17
+msgctxt ""
+"message/message-tool/tool/src/bundle/recent.properties:cus.numof.items"
+msgid "Number of {0}"
+msgstr "Nombre de {0}"
+
+#. cus.numof2.item
+#: message/message-tool/tool/src/bundle/recent.properties:18
+msgctxt ""
+"message/message-tool/tool/src/bundle/recent.properties:cus.numof2.item"
+msgid "Number of characters per {0}"
+msgstr "Nombre de caractères par {0}"
+
+#. cus.numpas
+#: message/message-tool/tool/src/bundle/recent.properties:19
+msgctxt "message/message-tool/tool/src/bundle/recent.properties:cus.numpas"
+msgid "Number of days in the past"
+msgstr "Nombre de jours dans le passé"
+
+#. dall_items
+#: message/message-tool/tool/src/bundle/recent.properties:20
+msgctxt "message/message-tool/tool/src/bundle/recent.properties:dall_items"
+msgid "discussion items"
+msgstr "messages"
+
+#. done_item
+#: message/message-tool/tool/src/bundle/recent.properties:21
+msgctxt "message/message-tool/tool/src/bundle/recent.properties:done_item"
+msgid "discussion item"
+msgstr "message"
+
+#. dtool_name
+#: message/message-tool/tool/src/bundle/recent.properties:22
+msgctxt "message/message-tool/tool/src/bundle/recent.properties:dtool_name"
+msgid "Discussion"
+msgstr "Discussion "
+
+#. dtool_title
+#: message/message-tool/tool/src/bundle/recent.properties:23
+msgctxt "message/message-tool/tool/src/bundle/recent.properties:dtool_title"
+msgid "Recent Discussions"
+msgstr "Discussions récentes"
+
+#. gen.showabout
+#: message/message-tool/tool/src/bundle/recent.properties:24
+msgctxt "message/message-tool/tool/src/bundle/recent.properties:gen.showabout"
+msgid "Show about"
+msgstr "Afficher à propos"
+
+#. gen.oneline
+#: message/message-tool/tool/src/bundle/recent.properties:25
+msgctxt "message/message-tool/tool/src/bundle/recent.properties:gen.oneline"
+msgid "One Line"
+msgstr "Une ligne"
+
+#. gen.twoline
+#: message/message-tool/tool/src/bundle/recent.properties:26
+msgctxt "message/message-tool/tool/src/bundle/recent.properties:gen.twoline"
+msgid "Two Lines"
+msgstr "Deux lignes"
+
+#. gen.allline
+#: message/message-tool/tool/src/bundle/recent.properties:27
+msgctxt "message/message-tool/tool/src/bundle/recent.properties:gen.allline"
+msgid "All Lines"
+msgstr "Toutes les lignes"
+
+#. gen.alert.message
+#: message/message-tool/tool/src/bundle/recent.properties:28
+msgctxt ""
+"message/message-tool/tool/src/bundle/recent.properties:gen.alert.message"
+msgid "Alert: {0}"
+msgstr "Alerte : {0}"
+
+#. gen.can
+#: message/message-tool/tool/src/bundle/recent.properties:29
+msgctxt "message/message-tool/tool/src/bundle/recent.properties:gen.can"
+msgid "Cancel"
+msgstr "Annuler"
+
+#. gen.sav
+#: message/message-tool/tool/src/bundle/recent.properties:30
+msgctxt "message/message-tool/tool/src/bundle/recent.properties:gen.sav"
+msgid "Update"
+msgstr "Mise à jour"
+
+#. gen.show.sub
+#: message/message-tool/tool/src/bundle/recent.properties:31
+msgctxt "message/message-tool/tool/src/bundle/recent.properties:gen.show.sub"
+msgid "Show {0} subject"
+msgstr "Voir le sujet {0} "
+
+#. gen.show.bod
+#: message/message-tool/tool/src/bundle/recent.properties:32
+msgctxt "message/message-tool/tool/src/bundle/recent.properties:gen.show.bod"
+msgid "Show {0} body"
+msgstr "Voir le corps {0}"
+
+#. gen.options
+#: message/message-tool/tool/src/bundle/recent.properties:33
+msgctxt "message/message-tool/tool/src/bundle/recent.properties:gen.options"
+msgid "Options"
+msgstr "Options"
+
+#. gen.attach
+#: message/message-tool/tool/src/bundle/recent.properties:34
+msgctxt "message/message-tool/tool/src/bundle/recent.properties:gen.attach"
+msgid "Attachments"
+msgstr "Fichiers joints"
+
+#. motd.options
+#: message/message-tool/tool/src/bundle/recent.properties:35
+msgctxt "message/message-tool/tool/src/bundle/recent.properties:motd.options"
+msgid "Message of the Day Options"
+msgstr "Options de ''Message du jour''"
+
+#. disc.options
+#: message/message-tool/tool/src/bundle/recent.properties:36
+msgctxt "message/message-tool/tool/src/bundle/recent.properties:disc.options"
+msgid "Recent Discussion Options"
+msgstr "Options pour les discussions récentes"
+
+#. lis.the
+#: message/message-tool/tool/src/bundle/recent.properties:37
+msgctxt "message/message-tool/tool/src/bundle/recent.properties:lis.the"
+msgid "There are currently no messages at this location."
+msgstr "Il n'y a actuellement aucun message à cet endroit."
+
+#. one_item
+#: message/message-tool/tool/src/bundle/recent.properties:38
+msgctxt "message/message-tool/tool/src/bundle/recent.properties:one_item"
+msgid "message"
+msgstr "message "
+
+#. tool_name
+#: message/message-tool/tool/src/bundle/recent.properties:39
+msgctxt "message/message-tool/tool/src/bundle/recent.properties:tool_name"
+msgid "Recent Items"
+msgstr "Éléments récents"
+
+#. tool_title
+#: message/message-tool/tool/src/bundle/recent.properties:40
+msgctxt "message/message-tool/tool/src/bundle/recent.properties:tool_title"
+msgid "Recent Items"
+msgstr "Éléments récents"
+
+#. youdonot
+#: message/message-tool/tool/src/bundle/recent.properties:41
+msgctxt "message/message-tool/tool/src/bundle/recent.properties:youdonot"
+msgid "You do not have permission to view these messages"
+msgstr "Vous n'avez pas le droit de voir ces messages"

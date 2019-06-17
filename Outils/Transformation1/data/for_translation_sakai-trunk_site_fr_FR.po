@@ -1,0 +1,451 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: sakai-trunk\n"
+"Report-Msgid-Bugs-To: ddeguchi@nagoya-u.jp\n"
+"POT-Creation-Date: 2019-06-17 04:37+00:00\n"
+"PO-Revision-Date: 2019-05-10 04:38+0000\n"
+"Last-Translator: spanishsakai <spanishsakai@gmail.com>\n"
+"Language-Team: French (France) (http://www.transifex.com/apereo/sakai-trunk/language/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. siterole.title
+#: site/admin-perms-tool/src/main/resources/i18n/Messages.properties:1
+msgctxt ""
+"site/admin-perms-"
+"tool/src/main/resources/i18n/Messages.properties:siterole.title"
+msgid "Control Site Role Permissions for all sites"
+msgstr ""
+
+#. siterole.instructions
+#: site/admin-perms-tool/src/main/resources/i18n/Messages.properties:2
+msgctxt ""
+"site/admin-perms-"
+"tool/src/main/resources/i18n/Messages.properties:siterole.instructions"
+msgid ""
+"This will add or remove the selected permissions in all sites of the types "
+"selected and all roles selected. You must select at least one permission, "
+"one site type, and one role to do an update. This can be somewhat slow when "
+"updating a very large number of sites and will do the processing in a "
+"separate thread."
+msgstr ""
+
+#. siterole.add.command
+#: site/admin-perms-tool/src/main/resources/i18n/Messages.properties:3
+msgctxt ""
+"site/admin-perms-"
+"tool/src/main/resources/i18n/Messages.properties:siterole.add.command"
+msgid "Add Permissions"
+msgstr ""
+
+#. siterole.remove.command
+#: site/admin-perms-tool/src/main/resources/i18n/Messages.properties:4
+msgctxt ""
+"site/admin-perms-"
+"tool/src/main/resources/i18n/Messages.properties:siterole.remove.command"
+msgid "Remove Permissions"
+msgstr ""
+
+#. siterole.sitetype.title
+#: site/admin-perms-tool/src/main/resources/i18n/Messages.properties:5
+msgctxt ""
+"site/admin-perms-"
+"tool/src/main/resources/i18n/Messages.properties:siterole.sitetype.title"
+msgid "Site Types"
+msgstr ""
+
+#. siterole.role.title
+#: site/admin-perms-tool/src/main/resources/i18n/Messages.properties:6
+msgctxt ""
+"site/admin-perms-"
+"tool/src/main/resources/i18n/Messages.properties:siterole.role.title"
+msgid "Site Roles"
+msgstr ""
+
+#. siterole.perm.title
+#: site/admin-perms-tool/src/main/resources/i18n/Messages.properties:7
+msgctxt ""
+"site/admin-perms-"
+"tool/src/main/resources/i18n/Messages.properties:siterole.perm.title"
+msgid "Permissions"
+msgstr ""
+
+#. siterole.sitetype.header
+#: site/admin-perms-tool/src/main/resources/i18n/Messages.properties:8
+msgctxt ""
+"site/admin-perms-"
+"tool/src/main/resources/i18n/Messages.properties:siterole.sitetype.header"
+msgid "Select the site types to change the permissions in"
+msgstr ""
+
+#. siterole.role.header
+#: site/admin-perms-tool/src/main/resources/i18n/Messages.properties:9
+msgctxt ""
+"site/admin-perms-"
+"tool/src/main/resources/i18n/Messages.properties:siterole.role.header"
+msgid "Select the roles to apply the permission changes to"
+msgstr ""
+
+#. siterole.perm.header
+#: site/admin-perms-tool/src/main/resources/i18n/Messages.properties:10
+msgctxt ""
+"site/admin-perms-"
+"tool/src/main/resources/i18n/Messages.properties:siterole.perm.header"
+msgid "Select the permissions to add or remove"
+msgstr ""
+
+#. siterole.message.processing.add
+#: site/admin-perms-tool/src/main/resources/i18n/Messages.properties:11
+msgctxt ""
+"site/admin-perms-"
+"tool/src/main/resources/i18n/Messages.properties:siterole.message.processing.add"
+msgid ""
+"Adding permissions ({0}) in sites of types ({1}) for the following roles "
+"({2}). {3}% completed..."
+msgstr ""
+
+#. siterole.message.processing.remove
+#: site/admin-perms-tool/src/main/resources/i18n/Messages.properties:12
+msgctxt ""
+"site/admin-perms-"
+"tool/src/main/resources/i18n/Messages.properties:siterole.message.processing.remove"
+msgid ""
+"Removing permissions ({0}) in sites of types ({1}) for the following roles "
+"({2}). {3}% completed..."
+msgstr ""
+
+#. siterole.message.permissions.added
+#: site/admin-perms-tool/src/main/resources/i18n/Messages.properties:13
+msgctxt ""
+"site/admin-perms-"
+"tool/src/main/resources/i18n/Messages.properties:siterole.message.permissions.added"
+msgid ""
+"Completed adding permissions ({0}) in {3} sites of types ({1}) for the "
+"following roles ({2}). There were {4} updates (of {5} successfully processed"
+" sites and {6} failures) over {7} seconds (paused for {8} seconds)."
+msgstr ""
+
+#. siterole.message.permissions.removed
+#: site/admin-perms-tool/src/main/resources/i18n/Messages.properties:14
+msgctxt ""
+"site/admin-perms-"
+"tool/src/main/resources/i18n/Messages.properties:siterole.message.permissions.removed"
+msgid ""
+"Completed removing permissions ({0}) in {3} sites of types ({1}) for the "
+"following roles ({2}). There were {4} updates (of {5} successfully processed"
+" sites and {6} failures) over {7} seconds (paused for {8} seconds)."
+msgstr ""
+
+#. siterole.message.illegal.submission
+#: site/admin-perms-tool/src/main/resources/i18n/Messages.properties:15
+msgctxt ""
+"site/admin-perms-"
+"tool/src/main/resources/i18n/Messages.properties:siterole.message.illegal.submission"
+msgid "You must include at least one of each site type, role, and permission"
+msgstr ""
+
+#. siterole.message.cannot.update
+#: site/admin-perms-tool/src/main/resources/i18n/Messages.properties:16
+msgctxt ""
+"site/admin-perms-"
+"tool/src/main/resources/i18n/Messages.properties:siterole.message.cannot.update"
+msgid ""
+"You cannot update site permissions now because there is already a "
+"permissions update running"
+msgstr ""
+
+#. common.title
+#: site/sakai-message-bundle-manager-tool/src/main/resources/Messages.properties:1
+msgctxt ""
+"site/sakai-message-bundle-manager-"
+"tool/src/main/resources/Messages.properties:common.title"
+msgid "Message Bundle Manager"
+msgstr ""
+
+#. mbp.id
+#: site/sakai-message-bundle-manager-tool/src/main/resources/Messages.properties:2
+msgctxt ""
+"site/sakai-message-bundle-manager-"
+"tool/src/main/resources/Messages.properties:mbp.id"
+msgid "Id"
+msgstr ""
+
+#. mbp.moduleName
+#: site/sakai-message-bundle-manager-tool/src/main/resources/Messages.properties:3
+msgctxt ""
+"site/sakai-message-bundle-manager-"
+"tool/src/main/resources/Messages.properties:mbp.moduleName"
+msgid "Module Name"
+msgstr ""
+
+#. mbp.baseName
+#: site/sakai-message-bundle-manager-tool/src/main/resources/Messages.properties:4
+msgctxt ""
+"site/sakai-message-bundle-manager-"
+"tool/src/main/resources/Messages.properties:mbp.baseName"
+msgid "Base Name"
+msgstr ""
+
+#. mbp.propertyName
+#: site/sakai-message-bundle-manager-tool/src/main/resources/Messages.properties:5
+msgctxt ""
+"site/sakai-message-bundle-manager-"
+"tool/src/main/resources/Messages.properties:mbp.propertyName"
+msgid "Property Name"
+msgstr ""
+
+#. mbp.value
+#: site/sakai-message-bundle-manager-tool/src/main/resources/Messages.properties:6
+msgctxt ""
+"site/sakai-message-bundle-manager-"
+"tool/src/main/resources/Messages.properties:mbp.value"
+msgid "Value"
+msgstr ""
+
+#. mbp.defaultValue
+#: site/sakai-message-bundle-manager-tool/src/main/resources/Messages.properties:7
+msgctxt ""
+"site/sakai-message-bundle-manager-"
+"tool/src/main/resources/Messages.properties:mbp.defaultValue"
+msgid "Default Value"
+msgstr ""
+
+#. mbp.locale
+#: site/sakai-message-bundle-manager-tool/src/main/resources/Messages.properties:8
+msgctxt ""
+"site/sakai-message-bundle-manager-"
+"tool/src/main/resources/Messages.properties:mbp.locale"
+msgid "Locale"
+msgstr ""
+
+#. modules.modules
+#: site/sakai-message-bundle-manager-tool/src/main/resources/Messages.properties:9
+msgctxt ""
+"site/sakai-message-bundle-manager-"
+"tool/src/main/resources/Messages.properties:modules.modules"
+msgid "Messages by Module"
+msgstr ""
+
+#. modules.module.select
+#: site/sakai-message-bundle-manager-tool/src/main/resources/Messages.properties:10
+msgctxt ""
+"site/sakai-message-bundle-manager-"
+"tool/src/main/resources/Messages.properties:modules.module.select"
+msgid "Select a Module"
+msgstr ""
+
+#. modules.locale.select
+#: site/sakai-message-bundle-manager-tool/src/main/resources/Messages.properties:11
+msgctxt ""
+"site/sakai-message-bundle-manager-"
+"tool/src/main/resources/Messages.properties:modules.locale.select"
+msgid "Select a Locale"
+msgstr ""
+
+#. modules.filter
+#: site/sakai-message-bundle-manager-tool/src/main/resources/Messages.properties:12
+msgctxt ""
+"site/sakai-message-bundle-manager-"
+"tool/src/main/resources/Messages.properties:modules.filter"
+msgid "Filter"
+msgstr ""
+
+#. modules.info
+#: site/sakai-message-bundle-manager-tool/src/main/resources/Messages.properties:13
+msgctxt ""
+"site/sakai-message-bundle-manager-"
+"tool/src/main/resources/Messages.properties:modules.info"
+msgid ""
+"Please select a module and a locale from the drop down lists above, and then"
+" click Filter."
+msgstr ""
+
+#. modules.edit
+#: site/sakai-message-bundle-manager-tool/src/main/resources/Messages.properties:14
+msgctxt ""
+"site/sakai-message-bundle-manager-"
+"tool/src/main/resources/Messages.properties:modules.edit"
+msgid "Edit"
+msgstr ""
+
+#. index.status
+#: site/sakai-message-bundle-manager-tool/src/main/resources/Messages.properties:15
+msgctxt ""
+"site/sakai-message-bundle-manager-"
+"tool/src/main/resources/Messages.properties:index.status"
+msgid "Status"
+msgstr ""
+
+#. index.found
+#: site/sakai-message-bundle-manager-tool/src/main/resources/Messages.properties:16
+msgctxt ""
+"site/sakai-message-bundle-manager-"
+"tool/src/main/resources/Messages.properties:index.found"
+msgid "Found {0} modified of {1} message properties."
+msgstr ""
+
+#. modified.modified
+#: site/sakai-message-bundle-manager-tool/src/main/resources/Messages.properties:17
+msgctxt ""
+"site/sakai-message-bundle-manager-"
+"tool/src/main/resources/Messages.properties:modified.modified"
+msgid "Modified Messages"
+msgstr ""
+
+#. modified.edit
+#: site/sakai-message-bundle-manager-tool/src/main/resources/Messages.properties:18
+msgctxt ""
+"site/sakai-message-bundle-manager-"
+"tool/src/main/resources/Messages.properties:modified.edit"
+msgid "Edit"
+msgstr ""
+
+#. modified.csv.id
+#: site/sakai-message-bundle-manager-tool/src/main/resources/Messages.properties:19
+msgctxt ""
+"site/sakai-message-bundle-manager-"
+"tool/src/main/resources/Messages.properties:modified.csv.id"
+msgid "Id"
+msgstr ""
+
+#. modified.csv.module
+#: site/sakai-message-bundle-manager-tool/src/main/resources/Messages.properties:20
+msgctxt ""
+"site/sakai-message-bundle-manager-"
+"tool/src/main/resources/Messages.properties:modified.csv.module"
+msgid "Module Name"
+msgstr ""
+
+#. modified.csv.property
+#: site/sakai-message-bundle-manager-tool/src/main/resources/Messages.properties:21
+msgctxt ""
+"site/sakai-message-bundle-manager-"
+"tool/src/main/resources/Messages.properties:modified.csv.property"
+msgid "Property Name"
+msgstr ""
+
+#. modified.csv.value
+#: site/sakai-message-bundle-manager-tool/src/main/resources/Messages.properties:22
+msgctxt ""
+"site/sakai-message-bundle-manager-"
+"tool/src/main/resources/Messages.properties:modified.csv.value"
+msgid "Value"
+msgstr ""
+
+#. modified.csv.default
+#: site/sakai-message-bundle-manager-tool/src/main/resources/Messages.properties:23
+msgctxt ""
+"site/sakai-message-bundle-manager-"
+"tool/src/main/resources/Messages.properties:modified.csv.default"
+msgid "Default Value"
+msgstr ""
+
+#. modified.csv.locale
+#: site/sakai-message-bundle-manager-tool/src/main/resources/Messages.properties:24
+msgctxt ""
+"site/sakai-message-bundle-manager-"
+"tool/src/main/resources/Messages.properties:modified.csv.locale"
+msgid "Locale"
+msgstr ""
+
+#. modified.csv.date.format
+#: site/sakai-message-bundle-manager-tool/src/main/resources/Messages.properties:25
+msgctxt ""
+"site/sakai-message-bundle-manager-"
+"tool/src/main/resources/Messages.properties:modified.csv.date.format"
+msgid "yyyyMMdd"
+msgstr ""
+
+#. edit.edit
+#: site/sakai-message-bundle-manager-tool/src/main/resources/Messages.properties:26
+msgctxt ""
+"site/sakai-message-bundle-manager-"
+"tool/src/main/resources/Messages.properties:edit.edit"
+msgid "Edit Message"
+msgstr ""
+
+#. edit.save
+#: site/sakai-message-bundle-manager-tool/src/main/resources/Messages.properties:27
+msgctxt ""
+"site/sakai-message-bundle-manager-"
+"tool/src/main/resources/Messages.properties:edit.save"
+msgid "Save"
+msgstr ""
+
+#. edit.revert
+#: site/sakai-message-bundle-manager-tool/src/main/resources/Messages.properties:28
+msgctxt ""
+"site/sakai-message-bundle-manager-"
+"tool/src/main/resources/Messages.properties:edit.revert"
+msgid "Revert"
+msgstr ""
+
+#. common.warning
+#: site/sakai-message-bundle-manager-tool/src/main/resources/Messages.properties:29
+msgctxt ""
+"site/sakai-message-bundle-manager-"
+"tool/src/main/resources/Messages.properties:common.warning"
+msgid ""
+"Message bundle editing is not activated, please see your Administrator."
+msgstr ""
+
+#. common.danger
+#: site/sakai-message-bundle-manager-tool/src/main/resources/Messages.properties:30
+msgctxt ""
+"site/sakai-message-bundle-manager-"
+"tool/src/main/resources/Messages.properties:common.danger"
+msgid "You must be an admin to use this tool, please see your Administrator."
+msgstr ""
+
+#. search.searchMessages
+#: site/sakai-message-bundle-manager-tool/src/main/resources/Messages.properties:31
+msgctxt ""
+"site/sakai-message-bundle-manager-"
+"tool/src/main/resources/Messages.properties:search.searchMessages"
+msgid "Search Messages"
+msgstr ""
+
+#. search.search
+#: site/sakai-message-bundle-manager-tool/src/main/resources/Messages.properties:32
+msgctxt ""
+"site/sakai-message-bundle-manager-"
+"tool/src/main/resources/Messages.properties:search.search"
+msgid "Search"
+msgstr ""
+
+#. search.entertext
+#: site/sakai-message-bundle-manager-tool/src/main/resources/Messages.properties:33
+msgctxt ""
+"site/sakai-message-bundle-manager-"
+"tool/src/main/resources/Messages.properties:search.entertext"
+msgid "Please enter the text to search for in the provided field."
+msgstr ""
+
+#. search.text
+#: site/sakai-message-bundle-manager-tool/src/main/resources/Messages.properties:34
+msgctxt ""
+"site/sakai-message-bundle-manager-"
+"tool/src/main/resources/Messages.properties:search.text"
+msgid "Enter text"
+msgstr ""
+
+#. search.locale.select
+#: site/sakai-message-bundle-manager-tool/src/main/resources/Messages.properties:35
+msgctxt ""
+"site/sakai-message-bundle-manager-"
+"tool/src/main/resources/Messages.properties:search.locale.select"
+msgid "Select a Locale"
+msgstr ""
+
+#. search.edit
+#: site/sakai-message-bundle-manager-tool/src/main/resources/Messages.properties:36
+msgctxt ""
+"site/sakai-message-bundle-manager-"
+"tool/src/main/resources/Messages.properties:search.edit"
+msgid "Edit"
+msgstr ""

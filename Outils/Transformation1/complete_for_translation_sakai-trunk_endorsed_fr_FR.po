@@ -1,0 +1,496 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: TMX Project 0.1a\n"
+"Report-Msgid-Bugs-To: ddeguchi@nagoya-u.jp\n"
+"POT-Creation-Date: 2019-06-17 04:37+00:00\n"
+"PO-Revision-Date: 2017-05-10 07:48+0000\n"
+"Language-Team: French (France) (https://www.transifex.com/apereo/teams/29702/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. DateFormat.SHORT
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:1
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:DateFormat.SHORT"
+msgid "M/d/yy"
+msgstr ""
+
+#. DateFormat.MEDIUM
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:2
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:DateFormat.MEDIUM"
+msgid "MMM d, yyyy"
+msgstr "d MMM yyyy"
+
+#. DateFormat.LONG
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:3
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:DateFormat.LONG"
+msgid "MMMM d, yyyy"
+msgstr ""
+
+#. DateFormat.FULL
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:4
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:DateFormat.FULL"
+msgid "EEEE, MMMM d, yyyy"
+msgstr ""
+
+#. TimeFormat.SHORT
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:5
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:TimeFormat.SHORT"
+msgid "h:mm a"
+msgstr "H:mm"
+
+#. TimeFormat.MEDIUM
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:6
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:TimeFormat.MEDIUM"
+msgid "h:mm:ss a"
+msgstr ""
+
+#. TimeFormat.LONG
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:7
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:TimeFormat.LONG"
+msgid "h:mm:ss a z"
+msgstr ""
+
+#. TimeFormat.FULL
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:8
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:TimeFormat.FULL"
+msgid "h:mm:ss a z"
+msgstr ""
+
+#. Eras.BC
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:9
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:Eras.BC"
+msgid "BC"
+msgstr ""
+
+#. Eras.AD
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:10
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:Eras.AD"
+msgid "AD"
+msgstr ""
+
+#. Months.JAN
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:11
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:Months.JAN"
+msgid "January "
+msgstr ""
+
+#. Months.FEB
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:12
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:Months.FEB"
+msgid "February"
+msgstr "Février"
+
+#. Months.MAR
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:13
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:Months.MAR"
+msgid "March"
+msgstr "Mars"
+
+#. Months.APR
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:14
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:Months.APR"
+msgid "April"
+msgstr "Avril"
+
+#. Months.MAY
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:15
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:Months.MAY"
+msgid "May"
+msgstr "Mai"
+
+#. Months.JUN
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:16
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:Months.JUN"
+msgid "June"
+msgstr "Juin"
+
+#. Months.JUL
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:17
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:Months.JUL"
+msgid "July"
+msgstr "Juillet"
+
+#. Months.AUG
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:18
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:Months.AUG"
+msgid "August"
+msgstr "Aout"
+
+#. Months.SEP
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:19
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:Months.SEP"
+msgid "September"
+msgstr "Septembre"
+
+#. Months.OCT
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:20
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:Months.OCT"
+msgid "October"
+msgstr "Octobre"
+
+#. Months.NOV
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:21
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:Months.NOV"
+msgid "November"
+msgstr "Novembre"
+
+#. Months.DEC
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:22
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:Months.DEC"
+msgid "December"
+msgstr "Décembre"
+
+#. ShortMonths.JAN
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:23
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:ShortMonths.JAN"
+msgid "Jan"
+msgstr ""
+
+#. ShortMonths.FEB
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:24
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:ShortMonths.FEB"
+msgid "Feb "
+msgstr ""
+
+#. ShortMonths.MAR
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:25
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:ShortMonths.MAR"
+msgid "Mar"
+msgstr ""
+
+#. ShortMonths.APR
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:26
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:ShortMonths.APR"
+msgid "Apr"
+msgstr ""
+
+#. ShortMonths.MAY
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:27
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:ShortMonths.MAY"
+msgid "May"
+msgstr "Mai"
+
+#. ShortMonths.JUN
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:28
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:ShortMonths.JUN"
+msgid "Jun"
+msgstr ""
+
+#. ShortMonths.JUL
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:29
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:ShortMonths.JUL"
+msgid "Jul"
+msgstr ""
+
+#. ShortMonths.AUG
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:30
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:ShortMonths.AUG"
+msgid "Aug"
+msgstr ""
+
+#. ShortMonths.SEP
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:31
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:ShortMonths.SEP"
+msgid "Sep"
+msgstr ""
+
+#. ShortMonths.OCT
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:32
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:ShortMonths.OCT"
+msgid "Oct"
+msgstr ""
+
+#. ShortMonths.NOV
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:33
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:ShortMonths.NOV"
+msgid "Nov"
+msgstr ""
+
+#. ShortMonths.DEC
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:34
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:ShortMonths.DEC"
+msgid "Dec"
+msgstr ""
+
+#. Weekdays.SUN
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:35
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:Weekdays.SUN"
+msgid "Sunday "
+msgstr ""
+
+#. Weekdays.MON
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:36
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:Weekdays.MON"
+msgid "Monday"
+msgstr "Lundi"
+
+#. Weekdays.TUE
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:37
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:Weekdays.TUE"
+msgid "Tuesday"
+msgstr "Mardi"
+
+#. Weekdays.WED
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:38
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:Weekdays.WED"
+msgid "Wednesday"
+msgstr "Mercredi"
+
+#. Weekdays.THU
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:39
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:Weekdays.THU"
+msgid "Thursday"
+msgstr "Jeudi"
+
+#. Weekdays.FRI
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:40
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:Weekdays.FRI"
+msgid "Friday"
+msgstr "Vendredi"
+
+#. Weekdays.SAT
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:41
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:Weekdays.SAT"
+msgid "Saturday"
+msgstr "Samedi"
+
+#. ShortWeekdays.SUN
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:42
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:ShortWeekdays.SUN"
+msgid "Sun "
+msgstr ""
+
+#. ShortWeekdays.MON
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:43
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:ShortWeekdays.MON"
+msgid "Mon"
+msgstr ""
+
+#. ShortWeekdays.TUE
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:44
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:ShortWeekdays.TUE"
+msgid "Tue"
+msgstr ""
+
+#. ShortWeekdays.WED
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:45
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:ShortWeekdays.WED"
+msgid "Wed"
+msgstr ""
+
+#. ShortWeekdays.THU
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:46
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:ShortWeekdays.THU"
+msgid "Thu"
+msgstr ""
+
+#. ShortWeekdays.FRI
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:47
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:ShortWeekdays.FRI"
+msgid "Fri"
+msgstr ""
+
+#. ShortWeekdays.SAT
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:48
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:ShortWeekdays.SAT"
+msgid "Sat"
+msgstr ""
+
+#. AmPmStrings.AM
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:49
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:AmPmStrings.AM"
+msgid "AM"
+msgstr "AM"
+
+#. AmPmStrings.PM
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:50
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:AmPmStrings.PM"
+msgid "PM"
+msgstr "PM"
+
+#. LocalPatternChars
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:51
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:LocalPatternChars"
+msgid "GyMdkHmsSEDFwWahKzZ"
+msgstr ""
+
+#. CurrencySymbol
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:52
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:CurrencySymbol"
+msgid "¤"
+msgstr ""
+
+#. DecimalSeparator
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:53
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:DecimalSeparator"
+msgid "."
+msgstr "."
+
+#. Digit
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:54
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:Digit"
+msgid "#"
+msgstr "#"
+
+#. ExponentSeparator
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:55
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:ExponentSeparator"
+msgid "E"
+msgstr ""
+
+#. GroupingSeparator
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:56
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:GroupingSeparator"
+msgid ","
+msgstr ","
+
+#. Infinity
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:57
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:Infinity"
+msgid "∞"
+msgstr ""
+
+#. InternationalCurrencySymbol
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:58
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:InternationalCurrencySymbol"
+msgid "XXX"
+msgstr ""
+
+#. MinusSign
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:59
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:MinusSign"
+msgid "-"
+msgstr "- "
+
+#. MonetaryDecimalSeparator
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:60
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:MonetaryDecimalSeparator"
+msgid "."
+msgstr "."
+
+#. NaN
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:61
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:NaN"
+msgid "�"
+msgstr ""
+
+#. PatternSeparator
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:62
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:PatternSeparator"
+msgid ";"
+msgstr ""
+
+#. Percent
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:63
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:Percent"
+msgid "%"
+msgstr "%"
+
+#. PerMill
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:64
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:PerMill"
+msgid "‰"
+msgstr ""
+
+#. ZeroDigit
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:65
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:ZeroDigit"
+msgid "0"
+msgstr ""
+
+#. CurrencyPattern
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:66
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:CurrencyPattern"
+msgid "¤#,##0.00;-¤#,##0.00"
+msgstr ""
+
+#. IntegerPattern
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:67
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:IntegerPattern"
+msgid "#,##0;-#,##0"
+msgstr ""
+
+#. NumberPattern
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:68
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:NumberPattern"
+msgid "#,##0.###;-#,##0.###"
+msgstr ""
+
+#. PercentPattern
+#: endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:69
+msgctxt ""
+"endorsed/i18n/src/resources/SakaiLocaleServiceProvider.properties:PercentPattern"
+msgid "#,##0%;-#,##0%"
+msgstr ""

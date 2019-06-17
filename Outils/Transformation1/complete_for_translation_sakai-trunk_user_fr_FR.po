@@ -1,0 +1,905 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: sakai-trunk\n"
+"Report-Msgid-Bugs-To: ddeguchi@nagoya-u.jp\n"
+"POT-Creation-Date: 2019-06-17 04:37+00:00\n"
+"PO-Revision-Date: 2014-10-30 05:02+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: French (France) (http://www.transifex.com/apereo/sakai-trunk/language/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. prefs_noti_title
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:1
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:prefs_noti_title"
+msgid "Notifications"
+msgstr "Notifications"
+
+#. prefs_timezone_title
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:2
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:prefs_timezone_title"
+msgid "Time Zone"
+msgstr "Fuseau horaire"
+
+#. prefs_lang_title
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:3
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:prefs_lang_title"
+msgid "Language"
+msgstr "Langue"
+
+#. prefs_title
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:4
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:prefs_title"
+msgid "Preferences"
+msgstr "Préférences"
+
+#. prefs_privacy
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:5
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:prefs_privacy"
+msgid "Privacy Status"
+msgstr "État de confidentialité"
+
+#. prefs_sites
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:6
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:prefs_sites"
+msgid "Sites"
+msgstr "Espaces"
+
+#. prefs_editor
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:7
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:prefs_editor"
+msgid "Editor"
+msgstr "Éditeur"
+
+#. prefs_site_tab_display_format
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:8
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:prefs_site_tab_display_format"
+msgid "Site Tab Display Format"
+msgstr "Format d’affichage onglet espace"
+
+#. prefs_editor_tab_options
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:9
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:prefs_editor_tab_options"
+msgid "Editor Options"
+msgstr ""
+
+#. prefs_element_locked
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:10
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:prefs_element_locked"
+msgid ""
+"This element can not be placed here.  The element underneath is locked."
+msgstr ""
+
+#. update_pref
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:11
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:update_pref"
+msgid "Update Preferences"
+msgstr "Mettre à jour les préférences"
+
+#. cancel_pref
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:12
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:cancel_pref"
+msgid "Cancel Changes"
+msgstr "Annuler les Modifications"
+
+#. update_success
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:13
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:update_success"
+msgid "Your preferences have been updated successfully."
+msgstr "Vos préférences ont été mises à jour avec succès."
+
+#. hideshowdesc_toggle_hide
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:14
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:hideshowdesc_toggle_hide"
+msgid "Hide Sites"
+msgstr "Masquer les sites"
+
+#. hideshowdesc_toggle_show
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:15
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:hideshowdesc_toggle_show"
+msgid "Show Sites"
+msgstr "Afficher les sites"
+
+#. noti_inst_second
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:16
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:noti_inst_second"
+msgid ""
+"You will receive all high priority notifications via email. Set low priority"
+" notifications below. "
+msgstr ""
+
+#. noti_add_site
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:17
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:noti_add_site"
+msgid "Add a site"
+msgstr "Ajouter un site"
+
+#. moresite_projects
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:18
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:moresite_projects"
+msgid "PROJECTS"
+msgstr "PROJETS"
+
+#. moresite_portfolios
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:19
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:moresite_portfolios"
+msgid "PORTFOLIOS"
+msgstr "PORTFOLIO"
+
+#. moresite_administration
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:20
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:moresite_administration"
+msgid "ADMINISTRATION"
+msgstr "ADMINISTRATION"
+
+#. moresite_other
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:21
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:moresite_other"
+msgid "OTHER"
+msgstr "AUTRES"
+
+#. moresite_scs
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:22
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:moresite_scs"
+msgid "SCS Courses"
+msgstr "Cours SCS"
+
+#. moresite_no_term
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:23
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:moresite_no_term"
+msgid "COURSES WITH NO TERM"
+msgstr "COURS AVEC AUCUN TERME"
+
+#. noti_prefs_title
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:24
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:noti_prefs_title"
+msgid "Override {0} Preferences: Add Site(s)"
+msgstr "Remplacer préférences {0}: Ajouter un ou plusieurs sites"
+
+#. noti_prefs_instr
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:25
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:noti_prefs_instr"
+msgid ""
+"To override the default setting for specific site(s), check the box next to "
+"the site(s) you wish to change and click 'Add Site(s)'"
+msgstr ""
+
+#. noti_prefs_add
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:26
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:noti_prefs_add"
+msgid "Add Site(s)"
+msgstr "Ajouter un ou plusieurs sites"
+
+#. noti_prefs_cancel
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:27
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:noti_prefs_cancel"
+msgid "Cancel"
+msgstr "Annuler"
+
+#. tab_inst_1
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:28
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:tab_inst_1"
+msgid ""
+"To hide a site or make a site visible in the tabs or in the \"more sites\" "
+"pull-down menu, select the site below and click the right or left single "
+"arrow to move it.  To move all the sites, click a double arrow."
+msgstr ""
+
+#. tab_inst_2
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:29
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:tab_inst_2"
+msgid ""
+"To reorder the tabs that are visible, select a site in the \"Sites Visible "
+"in Tabs\" box and click the simple up or down arrow to change the order.  "
+"Use the outer up and down arrows to move a selection to the beginning or end"
+" of the list.  To move multiple sites, select one site, hold down the "
+"Control key (or Command on Mac), and click any other sites. Then click an "
+"arrow."
+msgstr ""
+
+#. tab_inst_3
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:30
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:tab_inst_3"
+msgid ""
+"To change the number of your sites prominently displayed in the worksite "
+"navigation, update the Display number. Then click Update Preferences to make"
+" the changes."
+msgstr ""
+
+#. tab_inst_save
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:31
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:tab_inst_save"
+msgid ""
+"When you have finished making changes, click Update Preferences to save "
+"them."
+msgstr ""
+
+#. tab_not_vis_inst
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:32
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:tab_not_vis_inst"
+msgid "Sites not visible in Tabs"
+msgstr "Sites non visibles dans les onglets"
+
+#. tab_vis_inst
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:33
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:tab_vis_inst"
+msgid "Sites visible in Tabs"
+msgstr "Sites visibles dans les onglets"
+
+#. tab_move_inst
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:34
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:tab_move_inst"
+msgid "Move selected"
+msgstr "Déplacer les éléments sélectionnés"
+
+#. tab_move_inst_re
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:35
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:tab_move_inst_re"
+msgid "Hide selected site"
+msgstr "Supprimer la sélection"
+
+#. tab_move_all_inst
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:36
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:tab_move_all_inst"
+msgid "Make all sites visible"
+msgstr "Déplacer tout"
+
+#. tab_move_all_inst_re
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:37
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:tab_move_all_inst_re"
+msgid "Hide all sites"
+msgstr "Tout supprimer"
+
+#. tab_move_up
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:38
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:tab_move_up"
+msgid "Move selected site up in list"
+msgstr "Monter l'espace sélectionné dans la liste"
+
+#. tab_move_down
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:39
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:tab_move_down"
+msgid "Move selected site down in list"
+msgstr "Descendre l'espace sélectionné dans la liste"
+
+#. tab_move_top
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:40
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:tab_move_top"
+msgid "Move selected site to top of list"
+msgstr "Mettre l'espace sélectionné en haut de la liste"
+
+#. tab_move_bottom
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:41
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:tab_move_bottom"
+msgid "Move selected site to bottom of list"
+msgstr "Mettre l'espace sélectionné en bas de la liste"
+
+#. tabs_move_top
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:42
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:tabs_move_top"
+msgid "Move selected sites to top of this list"
+msgstr "Déplacer les espaces sélectionnés en haut de cette liste"
+
+#. tabs_move_bottom
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:43
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:tabs_move_bottom"
+msgid "Move selected sites to bottom of this list"
+msgstr "Déplacer les espaces sélectionnés en bas de cette liste"
+
+#. tabs_move_left
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:44
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:tabs_move_left"
+msgid "Move selected sites to top of list on left"
+msgstr "Déplacer les espaces sélectionnés au haut de la liste à gauche"
+
+#. tabs_move_right
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:45
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:tabs_move_right"
+msgid "Move selected sites to top of list on right"
+msgstr "Déplacer les espaces sélectionnés au haut de la liste à droite"
+
+#. tabs_screen_reader_label
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:46
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:tabs_screen_reader_label"
+msgid "Select "
+msgstr "Sélectionner "
+
+#. tab_move_rone
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:47
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:tab_move_rone"
+msgid ">"
+msgstr ">"
+
+#. tab_move_lone
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:48
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:tab_move_lone"
+msgid "<"
+msgstr "<"
+
+#. tab_move_rall
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:49
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:tab_move_rall"
+msgid ">>"
+msgstr ">>"
+
+#. tab_move_lall
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:50
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:tab_move_lall"
+msgid "<<"
+msgstr "<<"
+
+#. tab_count
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:51
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:tab_count"
+msgid "Tabs displayed:"
+msgstr "Onglets affichés:"
+
+#. time_inst
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:52
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:time_inst"
+msgid ""
+"Please select your local time zone for selected {0} tools, such as Calendar."
+" You are currently in the {1} time zone"
+msgstr ""
+
+#. locale_msg
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:53
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:locale_msg"
+msgid ""
+"Please select your language (and country) preference. Your current language "
+"preference is:"
+msgstr ""
+
+#. privacy_title
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:54
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:privacy_title"
+msgid "Privacy Status"
+msgstr "État de confidentialité"
+
+#. privacy_default
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:55
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:privacy_default"
+msgid "Default Status"
+msgstr "Statut par défaut"
+
+#. privacy_item_visible
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:56
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:privacy_item_visible"
+msgid "Make me visible when I am added to sites by default"
+msgstr "Me rendre visible quand je suis ajouté aux espaces par défaut"
+
+#. privacy_item_hidden
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:57
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:privacy_item_hidden"
+msgid "Hide me when I am added to sites by default"
+msgstr "Me cacher quand je suis ajouté aux espaces par défaut"
+
+#. privacy_stmt1
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:58
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:privacy_stmt1"
+msgid ""
+"You may alter your settings to keep yourself and your personal information "
+"hidden from others in this site. Your status in this site is currently set "
+"to \""
+msgstr ""
+
+#. privacy_specific_site
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:59
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:privacy_specific_site"
+msgid "Set status for a specific site"
+msgstr "Définir le statut pour un espace spécifique"
+
+#. privacy_stmt_show
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:60
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:privacy_stmt_show"
+msgid ""
+".\" Others can see your name in the roster and can contact you through the "
+"site."
+msgstr ""
+
+#. privacy_stmt_hide
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:61
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:privacy_stmt_hide"
+msgid ""
+".\" Others cannot see your name in the roster and cannot contact you through"
+" the site."
+msgstr ""
+
+#. privacy_all_sites
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:62
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:privacy_all_sites"
+msgid "Change your status in all your sites"
+msgstr "Changer votre statut sur tous vos espaces"
+
+#. privacy_change_directions
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:63
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:privacy_change_directions"
+msgid "If you would like to change your status, check the box next to"
+msgstr "Si vous désirez changer votre état cochez la case à côté de"
+
+#. privacy_change_directions2
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:64
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:privacy_change_directions2"
+msgid "and then click the Update button below."
+msgstr "puis cliquez sur le bouton «Mettre à jour» ci-dessous."
+
+#. privacy_note
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:65
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:privacy_note"
+msgid ""
+"Note: To view your privacy status in other sites, choose Preferences from "
+"your MyWorkspace site."
+msgstr ""
+
+#. move_up_msg
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:66
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:move_up_msg"
+msgid "Please select at least one site to move up."
+msgstr "Veuillez choisir au moins un site à déplacer vers le haut."
+
+#. move_down_msg
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:67
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:move_down_msg"
+msgid "Please select at least one site to move down."
+msgstr "Veuillez choisir au moins un site à déplacer vers le bas."
+
+#. remove_from_sites_msg
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:68
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:remove_from_sites_msg"
+msgid "Please select a site to remove from Sites Visible in Tabs."
+msgstr "Veuillez choisir le site à supprimer des sites visibles dans les onglets."
+
+#. add_to_sites_msg
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:69
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:add_to_sites_msg"
+msgid "Please select a site to add to Sites Visible in Tabs."
+msgstr "Veuillez choisir le site à ajouter aux sites visibles dans les étiquettes."
+
+#. user_missing
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:70
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:user_missing"
+msgid "UserId is missing."
+msgstr "L'identification de l'utilisateur est manquante."
+
+#. remove_all
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:71
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:remove_all"
+msgid "Cannot remove all tabs from top navigation"
+msgstr "Impossible de supprimer tous les onglets de la barre de navigation supérieure"
+
+#. min_tabs
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:72
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:min_tabs"
+msgid "Must have at least %d tabs on top navigation bar"
+msgstr "La barre de navigation supérieure doit comporter au moins %d onglets."
+
+#. privacy_check_hide
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:73
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:privacy_check_hide"
+msgid "Hide Me"
+msgstr "Cachez-moi"
+
+#. privacy_check_show
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:74
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:privacy_check_show"
+msgid "Show Me"
+msgstr "Montrez-moi"
+
+#. privacy_update
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:75
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:privacy_update"
+msgid "Update"
+msgstr "Mise à jour"
+
+#. privacy_choose
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:76
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:privacy_choose"
+msgid "Choose a site "
+msgstr "Choisissez un site "
+
+#. privacy_no_choices
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:77
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:privacy_no_choices"
+msgid "No sites to choose from, you must be a member in at least one site."
+msgstr "Aucun site disponible pour la sélection. Vous devez être membre d'au moins un site."
+
+#. privacy_show_all
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:78
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:privacy_show_all"
+msgid "Show Me in All Sites"
+msgstr "Montrez-moi dans tous les sites"
+
+#. privacy_hide_all
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:79
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:privacy_hide_all"
+msgid "Hide Me in All Sites"
+msgstr "Cachez-moi dans tous les sites"
+
+#. privacy_update_title
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:80
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:privacy_update_title"
+msgid "Update Privacy Status"
+msgstr "Mise à jour de l'état de confidentialité"
+
+#. privacy_show_title
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:81
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:privacy_show_title"
+msgid "Set privacy to Show for all sites"
+msgstr "Paramétrer l'état de confidentialité pour tous les sites"
+
+#. privacy_hide_title
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:82
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:privacy_hide_title"
+msgid "Set privacy to Hide for all sites"
+msgstr "Paramétrer les données confidentielles à cacher pour tous les sites"
+
+#. privacy_visible
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:83
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:privacy_visible"
+msgid "visible"
+msgstr "visible"
+
+#. privacy_hidden
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:84
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:privacy_hidden"
+msgid "hidden"
+msgstr "invisible"
+
+#. privacy_show_all_set
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:85
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:privacy_show_all_set"
+msgid ""
+"Your status in all sites is now set to visible.  Others can see your name in"
+" the roster and can contact you through the site."
+msgstr ""
+
+#. privacy_hide_all_set
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:86
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:privacy_hide_all_set"
+msgid ""
+"Your status in all sites is now set to hidden.  Others cannot see your name "
+"in the roster and cannot contact you through the site."
+msgstr ""
+
+#. privacy_site_not_selected
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:87
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:privacy_site_not_selected"
+msgid "Please select a site in order to change your status."
+msgstr "Veuillez sélectionner un site pour modifier votre état."
+
+#. privacy_choice_heading
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:88
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:privacy_choice_heading"
+msgid "Please set your privacy status preference:"
+msgstr "Veuillez régler les préférences de votre état personnel"
+
+#. privacy_choice_hidden
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:89
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:privacy_choice_hidden"
+msgid "Remain hidden in this site"
+msgstr "Rester invisible dans ce site"
+
+#. privacy_choice_visible
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:90
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:privacy_choice_visible"
+msgid "Make me visible in this site"
+msgstr "Me rendre visible dans ce site"
+
+#. privacy_choice_later
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:91
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:privacy_choice_later"
+msgid "Ask me again later"
+msgstr "Me demander ultérieurement"
+
+#. privacy_change_later_instructions
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:92
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:privacy_change_later_instructions"
+msgid ""
+"To change your privacy settings in the future, visit<br />Home > Preferences"
+" > Privacy Status"
+msgstr ""
+
+#. editor_prompt
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:93
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:editor_prompt"
+msgid "Default Rich Text Editor toolbar layout"
+msgstr ""
+
+#. editor_auto
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:94
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:editor_auto"
+msgid "Auto detected based on browser size"
+msgstr ""
+
+#. editor_basic
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:95
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:editor_basic"
+msgid "Force basic/mobile mode (Limited set of buttons and features)"
+msgstr ""
+
+#. editor_full
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:96
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:editor_full"
+msgid "Force full/desktop mode (Full set of buttons, all features)"
+msgstr ""
+
+#. tabDisplay_prompt
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:97
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:tabDisplay_prompt"
+msgid "Show tabs as:"
+msgstr "Afficher les onglets sous la forme :"
+
+#. tabDisplay_coursecode
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:98
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:tabDisplay_coursecode"
+msgid "Site Title"
+msgstr "Code du cours (p. ex. F13-ACCT-134C-01)"
+
+#. tabDisplay_coursename
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:99
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:tabDisplay_coursename"
+msgid "Site Short Description"
+msgstr "Nom du cours/description (par exemple première année en comptabilité)"
+
+#. userPrefs
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:100
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:userPrefs"
+msgid "User Preference Values"
+msgstr "Valeurs de préférence de l'utilisateur"
+
+#. userPrefs.action.key
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:101
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:userPrefs.action.key"
+msgid ""
+"The action takes user id, and key value, and returns user preference "
+"property settings for that key. Here is the request url pattern: "
+"/direct/userPrefs/key/{user_id}/{key_value}.json with parameters"
+msgstr ""
+
+#. hidden_really_hide_confirm
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:102
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:hidden_really_hide_confirm"
+msgid ""
+"Hiding a favorite site will remove it from your favorites. Do you wish to "
+"continue?"
+msgstr ""
+
+#. hidden_instructions
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:103
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-"
+"prefs.properties:hidden_instructions"
+msgid ""
+"Select a site or grouping of sites to hide from the Site Drawer.<br "
+"/><b>NOTE:</b> This will <b>not</b> affect the visibility of a site to "
+"students."
+msgstr ""
+
+#. hidden_title
+#: user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:104
+msgctxt ""
+"user/user-tool-prefs/tool/src/bundle/user-tool-prefs.properties:hidden_title"
+msgid "Hide From Site Drawer"
+msgstr "Cacher du compartiment à espaces"
+
+#. userPrefs
+#: user/user-tool-prefs/tool/src/bundle/userPrefs.properties:1
+msgctxt "user/user-tool-prefs/tool/src/bundle/userPrefs.properties:userPrefs"
+msgid "User Preference Values"
+msgstr "Valeurs de préférence de l'utilisateur"
+
+#. userPrefs.action.key
+#: user/user-tool-prefs/tool/src/bundle/userPrefs.properties:2
+msgctxt ""
+"user/user-tool-"
+"prefs/tool/src/bundle/userPrefs.properties:userPrefs.action.key"
+msgid ""
+"Retrieve user preference property settings given user id and property key "
+"name. Here is the request URL pattern: "
+"/direct/userPrefs/key/{user_id}/{key_name}.{format}"
+msgstr ""
+
+#. userPrefs.action.updateKey
+#: user/user-tool-prefs/tool/src/bundle/userPrefs.properties:3
+msgctxt ""
+"user/user-tool-"
+"prefs/tool/src/bundle/userPrefs.properties:userPrefs.action.updateKey"
+msgid ""
+"Update the key property values. Here is the request URL pattern: "
+"/direct/userPrefs/updateKey/{user_id}/{key_name}/{name=val&name1=val1...}"
+msgstr ""
+
+#. userPrefs.action.saveDivState
+#: user/user-tool-prefs/tool/src/bundle/userPrefs.properties:4
+msgctxt ""
+"user/user-tool-"
+"prefs/tool/src/bundle/userPrefs.properties:userPrefs.action.saveDivState"
+msgid ""
+"Save key-value pair as current user preferences. Here is the request url "
+"pattern: /direct/userPrefs/saveDivState/{key_name}/{state_value}"
+msgstr ""

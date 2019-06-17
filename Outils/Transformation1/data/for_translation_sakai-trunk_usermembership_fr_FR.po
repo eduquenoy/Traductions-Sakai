@@ -1,0 +1,458 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: sakai-trunk\n"
+"Report-Msgid-Bugs-To: ddeguchi@nagoya-u.jp\n"
+"POT-Creation-Date: 2019-06-17 04:37+00:00\n"
+"PO-Revision-Date: 2014-10-30 04:56+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: French (France) (http://www.transifex.com/apereo/sakai-trunk/language/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. tool_title
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:1
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:tool_title"
+msgid "User Membership"
+msgstr ""
+
+#. title_userlist
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:2
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:title_userlist"
+msgid "Users"
+msgstr ""
+
+#. title_sitelist
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:3
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:title_sitelist"
+msgid "Membership"
+msgstr ""
+
+#. refresh
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:4
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:refresh"
+msgid "refresh"
+msgstr ""
+
+#. help
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:5
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:help"
+msgid "help"
+msgstr ""
+
+#. bar_input_search
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:6
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:bar_input_search"
+msgid "Keyword: "
+msgstr ""
+
+#. bar_input_search_inst
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:7
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:bar_input_search_inst"
+msgid "User name, ID or email"
+msgstr ""
+
+#. bar_input_search_title
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:8
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:bar_input_search_title"
+msgid "Enter User Name, ID or Email Address to Search For."
+msgstr ""
+
+#. bar_search
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:9
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:bar_search"
+msgid "Search"
+msgstr ""
+
+#. bar_clear_search
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:10
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:bar_clear_search"
+msgid "Clear search"
+msgstr ""
+
+#. instructions_userlist
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:11
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:instructions_userlist"
+msgid ""
+"Select a user from the search results to get site and group membership."
+msgstr ""
+
+#. instructions_sitelist
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:12
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:instructions_sitelist"
+msgid "Site and group membership for the selected user."
+msgstr ""
+
+#. unauthorized
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:13
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:unauthorized"
+msgid ""
+"You are not authorized to use this tool. This incident will be reported."
+msgstr ""
+
+#. processing
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:14
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:processing"
+msgid "Processing user memberships..."
+msgstr ""
+
+#. no_enrollments
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:15
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:no_enrollments"
+msgid "No users to display"
+msgstr ""
+
+#. no_sitelist
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:16
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:no_sitelist"
+msgid "No sites to display"
+msgstr ""
+
+#. users
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:17
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:users"
+msgid "users"
+msgstr ""
+
+#. user_id
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:18
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:user_id"
+msgid "User ID"
+msgstr ""
+
+#. internal_user_id
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:19
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:internal_user_id"
+msgid "Internal User ID"
+msgstr ""
+
+#. user_name
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:20
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:user_name"
+msgid "Name"
+msgstr ""
+
+#. user_email
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:21
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:user_email"
+msgid "Email"
+msgstr ""
+
+#. user_type
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:22
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:user_type"
+msgid "Type"
+msgstr ""
+
+#. user_authority
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:23
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:user_authority"
+msgid "Authority"
+msgstr ""
+
+#. user_status
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:24
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:user_status"
+msgid "status"
+msgstr ""
+
+#. user_created_on
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:25
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:user_created_on"
+msgid "Created On"
+msgstr ""
+
+#. user_modified_on
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:26
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:user_modified_on"
+msgid "Modified On"
+msgstr ""
+
+#. site_name
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:27
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:site_name"
+msgid "Site"
+msgstr ""
+
+#. site_id
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:28
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:site_id"
+msgid "Site ID"
+msgstr ""
+
+#. groups
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:29
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:groups"
+msgid "Groups"
+msgstr ""
+
+#. site_type
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:30
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:site_type"
+msgid "Type"
+msgstr ""
+
+#. role_name
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:31
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:role_name"
+msgid "Role"
+msgstr ""
+
+#. status
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:32
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:status"
+msgid "Site status"
+msgstr ""
+
+#. status_published
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:33
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:status_published"
+msgid "Published"
+msgstr ""
+
+#. status_unpublished
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:34
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:status_unpublished"
+msgid "Unpublished"
+msgstr ""
+
+#. site_user_status
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:35
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:site_user_status"
+msgid "User status"
+msgstr ""
+
+#. site_user_status_active
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:36
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:site_user_status_active"
+msgid "Active"
+msgstr ""
+
+#. site_user_status_inactive
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:37
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:site_user_status_inactive"
+msgid "Inactive"
+msgstr ""
+
+#. site_term
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:38
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:site_term"
+msgid "Term"
+msgstr ""
+
+#. userinfoheader
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:39
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:userinfoheader"
+msgid "Basic information:"
+msgstr ""
+
+#. no_such_user
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:40
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:no_such_user"
+msgid "User does not exist"
+msgstr ""
+
+#. return_to_portal
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:41
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:return_to_portal"
+msgid "Return to portal"
+msgstr ""
+
+#. membership_button
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:42
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:membership_button"
+msgid "Membership"
+msgstr ""
+
+#. back_button
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:43
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:back_button"
+msgid "Back to user list"
+msgstr ""
+
+#. export_csv_button
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:44
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:export_csv_button"
+msgid "Export CSV"
+msgstr ""
+
+#. export_excel_button
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:45
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:export_excel_button"
+msgid "Export Excel"
+msgstr ""
+
+#. export_filename_date_format
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:46
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:export_filename_date_format"
+msgid "yyyyMMdd"
+msgstr ""
+
+#. combo_user_type
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:47
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:combo_user_type"
+msgid "User Type: "
+msgstr ""
+
+#. combo_user_type_title
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:48
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:combo_user_type_title"
+msgid "Select user type to filter by."
+msgstr ""
+
+#. combo_user_ext
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:49
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:combo_user_ext"
+msgid "User Authority: "
+msgstr ""
+
+#. combo_user_ext_title
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:50
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:combo_user_ext_title"
+msgid "Select user authority to filter by."
+msgstr ""
+
+#. user_type_all
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:51
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:user_type_all"
+msgid "All"
+msgstr ""
+
+#. user_type_none
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:52
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:user_type_none"
+msgid "(no type)"
+msgstr ""
+
+#. user_auth_all
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:53
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:user_auth_all"
+msgid "All"
+msgstr ""
+
+#. user_auth_internal
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:54
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:user_auth_internal"
+msgid "Internal"
+msgstr ""
+
+#. user_auth_external
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:55
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:user_auth_external"
+msgid "External"
+msgstr ""
+
+#. set_to_inactive_button
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:56
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:set_to_inactive_button"
+msgid "Set Selected to Inactive"
+msgstr ""
+
+#. set_to_active_button
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:57
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:set_to_active_button"
+msgid "Set Selected to Active"
+msgstr ""
+
+#. invert_selection
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:58
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:invert_selection"
+msgid "Invert Selection"
+msgstr ""
+
+#. select_all
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:59
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:select_all"
+msgid "Select All"
+msgstr ""
+
+#. deselect_all
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:60
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:deselect_all"
+msgid "Deselect All"
+msgstr ""
+
+#. export_selected_to_csv
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:61
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:export_selected_to_csv"
+msgid "Export Selected to CSV"
+msgstr ""
+
+#. export_selected_to_excel
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:62
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:export_selected_to_excel"
+msgid "Export Selected to Excel"
+msgstr ""
+
+#. actions_header
+#: usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:63
+msgctxt ""
+"usermembership/tool/src/bundle/org/sakaiproject/umem/tool/bundle/Messages.properties:actions_header"
+msgid "Actions"
+msgstr ""

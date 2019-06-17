@@ -1,0 +1,48 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: TMX Project 0.1a\n"
+"Report-Msgid-Bugs-To: ddeguchi@nagoya-u.jp\n"
+"POT-Creation-Date: 2019-06-17 04:37+00:00\n"
+"PO-Revision-Date: 2017-09-12 12:03+0000\n"
+"Language-Team: French (France) (https://www.transifex.com/apereo/teams/29702/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. app.title
+#: sitemembers/src/java/org/sakaiproject/sitemembers/WidgetApplication.properties:1
+msgctxt ""
+"sitemembers/src/java/org/sakaiproject/sitemembers/WidgetApplication.properties:app.title"
+msgid "Roster"
+msgstr ""
+
+#. course.heading.instructor
+#: sitemembers/src/java/org/sakaiproject/sitemembers/WidgetApplication.properties:2
+msgctxt ""
+"sitemembers/src/java/org/sakaiproject/sitemembers/WidgetApplication.properties:course.heading.instructor"
+msgid "Instructor"
+msgstr ""
+
+#. course.heading.ta
+#: sitemembers/src/java/org/sakaiproject/sitemembers/WidgetApplication.properties:3
+msgctxt ""
+"sitemembers/src/java/org/sakaiproject/sitemembers/WidgetApplication.properties:course.heading.ta"
+msgid "Teaching Assistant"
+msgstr ""
+
+#. other.heading.instructor
+#: sitemembers/src/java/org/sakaiproject/sitemembers/WidgetApplication.properties:4
+msgctxt ""
+"sitemembers/src/java/org/sakaiproject/sitemembers/WidgetApplication.properties:other.heading.instructor"
+msgid "Maintainer"
+msgstr ""
+
+#. other.heading.ta
+#: sitemembers/src/java/org/sakaiproject/sitemembers/WidgetApplication.properties:5
+msgctxt ""
+"sitemembers/src/java/org/sakaiproject/sitemembers/WidgetApplication.properties:other.heading.ta"
+msgid "Assistant"
+msgstr ""

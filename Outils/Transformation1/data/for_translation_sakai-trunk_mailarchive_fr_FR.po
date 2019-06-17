@@ -1,0 +1,942 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: sakai-trunk\n"
+"Report-Msgid-Bugs-To: ddeguchi@nagoya-u.jp\n"
+"POT-Creation-Date: 2019-06-17 04:37+00:00\n"
+"PO-Revision-Date: 2014-10-30 04:57+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: French (France) (http://www.transifex.com/apereo/sakai-trunk/language/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. prefs_title
+#: mailarchive/mailarchive-impl/impl/src/bundle/mailarchive-noti-prefs.properties:1
+msgctxt ""
+"mailarchive/mailarchive-impl/impl/src/bundle/mailarchive-noti-"
+"prefs.properties:prefs_title"
+msgid "Email Archive"
+msgstr ""
+
+#. prefs_opt3
+#: mailarchive/mailarchive-impl/impl/src/bundle/mailarchive-noti-prefs.properties:2
+msgctxt ""
+"mailarchive/mailarchive-impl/impl/src/bundle/mailarchive-noti-"
+"prefs.properties:prefs_opt3"
+msgid "Send me each mail message separately"
+msgstr ""
+
+#. prefs_opt2
+#: mailarchive/mailarchive-impl/impl/src/bundle/mailarchive-noti-prefs.properties:3
+msgctxt ""
+"mailarchive/mailarchive-impl/impl/src/bundle/mailarchive-noti-"
+"prefs.properties:prefs_opt2"
+msgid "Send me one notification per day summarising all email messages"
+msgstr ""
+
+#. prefs_opt1
+#: mailarchive/mailarchive-impl/impl/src/bundle/mailarchive-noti-prefs.properties:4
+msgctxt ""
+"mailarchive/mailarchive-impl/impl/src/bundle/mailarchive-noti-"
+"prefs.properties:prefs_opt1"
+msgid "Do not send me email messages"
+msgstr ""
+
+#. Announcement
+#: mailarchive/mailarchive-impl/impl/src/bundle/siteemaanc.properties:1
+msgctxt ""
+"mailarchive/mailarchive-"
+"impl/impl/src/bundle/siteemaanc.properties:Announcement"
+msgid "Announcement"
+msgstr ""
+
+#. Attachments
+#: mailarchive/mailarchive-impl/impl/src/bundle/siteemaanc.properties:2
+msgctxt ""
+"mailarchive/mailarchive-"
+"impl/impl/src/bundle/siteemaanc.properties:Attachments"
+msgid "Attachments:"
+msgstr ""
+
+#. An_announcement_has_been
+#: mailarchive/mailarchive-impl/impl/src/bundle/siteemaanc.properties:3
+msgctxt ""
+"mailarchive/mailarchive-"
+"impl/impl/src/bundle/siteemaanc.properties:An_announcement_has_been"
+msgid "An announcement has been"
+msgstr ""
+
+#. added
+#: mailarchive/mailarchive-impl/impl/src/bundle/siteemaanc.properties:4
+msgctxt ""
+"mailarchive/mailarchive-impl/impl/src/bundle/siteemaanc.properties:added"
+msgid "added"
+msgstr ""
+
+#. updated
+#: mailarchive/mailarchive-impl/impl/src/bundle/siteemaanc.properties:5
+msgctxt ""
+"mailarchive/mailarchive-impl/impl/src/bundle/siteemaanc.properties:updated"
+msgid "updated"
+msgstr ""
+
+#. in_the
+#: mailarchive/mailarchive-impl/impl/src/bundle/siteemaanc.properties:6
+msgctxt ""
+"mailarchive/mailarchive-impl/impl/src/bundle/siteemaanc.properties:in_the"
+msgid "in the"
+msgstr ""
+
+#. site_at
+#: mailarchive/mailarchive-impl/impl/src/bundle/siteemaanc.properties:7
+msgctxt ""
+"mailarchive/mailarchive-impl/impl/src/bundle/siteemaanc.properties:site_at"
+msgid "site at"
+msgstr ""
+
+#. Subject
+#: mailarchive/mailarchive-impl/impl/src/bundle/siteemaanc.properties:8
+msgctxt ""
+"mailarchive/mailarchive-impl/impl/src/bundle/siteemaanc.properties:Subject"
+msgid "Subject"
+msgstr ""
+
+#. From
+#: mailarchive/mailarchive-impl/impl/src/bundle/siteemaanc.properties:9
+msgctxt ""
+"mailarchive/mailarchive-impl/impl/src/bundle/siteemaanc.properties:From"
+msgid "From"
+msgstr ""
+
+#. Date
+#: mailarchive/mailarchive-impl/impl/src/bundle/siteemaanc.properties:10
+msgctxt ""
+"mailarchive/mailarchive-impl/impl/src/bundle/siteemaanc.properties:Date"
+msgid "Date"
+msgstr ""
+
+#. Message
+#: mailarchive/mailarchive-impl/impl/src/bundle/siteemaanc.properties:11
+msgctxt ""
+"mailarchive/mailarchive-impl/impl/src/bundle/siteemaanc.properties:Message"
+msgid "Message"
+msgstr ""
+
+#. automsg1
+#: mailarchive/mailarchive-impl/impl/src/bundle/siteemaanc.properties:12
+msgctxt ""
+"mailarchive/mailarchive-impl/impl/src/bundle/siteemaanc.properties:automsg1"
+msgid ""
+"This automatic notification message was sent by {0} ({1}) from the {2} site."
+msgstr ""
+
+#. automsg2
+#: mailarchive/mailarchive-impl/impl/src/bundle/siteemaanc.properties:13
+msgctxt ""
+"mailarchive/mailarchive-impl/impl/src/bundle/siteemaanc.properties:automsg2"
+msgid "You can modify how you receive notifications at Home > Preferences."
+msgstr ""
+
+#. cannot1
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:1
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:cannot1"
+msgid "Cannot find the Email Archive Channel!\n"
+msgstr ""
+
+#. cus.anyone
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:2
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:cus.anyone"
+msgid "Anyone"
+msgstr ""
+
+#. cus.cus
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:3
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:cus.cus"
+msgid "Customizing mailbox..."
+msgstr ""
+
+#. cus.cus2
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:4
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:cus.cus2"
+msgid "Customize Email Archive"
+msgstr ""
+
+#. cus.maiset
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:5
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:cus.maiset"
+msgid "Mail Settings"
+msgstr ""
+
+#. cus.maiset2
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:6
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:cus.maiset2"
+msgid "Mailbox settings"
+msgstr ""
+
+#. cus.onluse
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:7
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:cus.onluse"
+msgid "Only users with site access"
+msgstr ""
+
+#. cus.onluse2
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:8
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:cus.onluse2"
+msgid "Only site participants"
+msgstr ""
+
+#. cus.usethi
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:9
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:cus.usethi"
+msgid ""
+"Use this alias email address for addressing email to the participants of "
+"this worksite:"
+msgstr ""
+
+#. cus.usethi2
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:10
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:cus.usethi2"
+msgid "Site Email Address"
+msgstr ""
+
+#. cus.whoare
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:11
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:cus.whoare"
+msgid "Who are messages accepted from?"
+msgstr ""
+
+#. cus.whoare2
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:12
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:cus.whoare2"
+msgid "Accept Messages From"
+msgstr ""
+
+#. cus.replyto
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:13
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:cus.replyto"
+msgid "Set the reply to address"
+msgstr ""
+
+#. cus.replylist
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:14
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:cus.replylist"
+msgid "The email archive"
+msgstr ""
+
+#. cus.replysend
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:15
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:cus.replysend"
+msgid "Leave as the original sender"
+msgstr ""
+
+#. cus.sendto
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:16
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:cus.sendto"
+msgid "Send messages to"
+msgstr ""
+
+#. cus.sendon
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:17
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:cus.sendon"
+msgid "Site participants who have not opted out"
+msgstr ""
+
+#. cus.sendoff
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:18
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:cus.sendoff"
+msgid "Do not send to site participants - just archive them"
+msgstr ""
+
+#. gen.alert
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:19
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:gen.alert"
+msgid "Alert:"
+msgstr ""
+
+#. gen.att
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:20
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:gen.att"
+msgid "Attachments"
+msgstr ""
+
+#. gen.bod
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:21
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:gen.bod"
+msgid "Body"
+msgstr ""
+
+#. gen.bod2
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:22
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:gen.bod2"
+msgid "Body"
+msgstr ""
+
+#. gen.can
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:23
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:gen.can"
+msgid "Cancel"
+msgstr ""
+
+#. gen.dat
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:24
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:gen.dat"
+msgid "Date"
+msgstr ""
+
+#. gen.fol
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:25
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:gen.fol"
+msgid "folder"
+msgstr ""
+
+#. gen.fro
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:26
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:gen.fro"
+msgid "From"
+msgstr ""
+
+#. gen.fro2
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:27
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:gen.fro2"
+msgid "from:"
+msgstr ""
+
+#. gen.fro3
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:28
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:gen.fro3"
+msgid "From"
+msgstr ""
+
+#. gen.hea
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:29
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:gen.hea"
+msgid "Headers"
+msgstr ""
+
+#. gen.maiali
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:30
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:gen.maiali"
+msgid "Mail alias"
+msgstr ""
+
+#. gen.maiali2
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:31
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:gen.maiali2"
+msgid "Mail Address"
+msgstr ""
+
+#. gen.rem
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:32
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:gen.rem"
+msgid "Remove"
+msgstr ""
+
+#. gen.sav
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:33
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:gen.sav"
+msgid "Save"
+msgstr ""
+
+#. gen.sav2
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:34
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:gen.sav2"
+msgid "Update Options"
+msgstr ""
+
+#. gen.sen
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:35
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:gen.sen"
+msgid "Sent"
+msgstr ""
+
+#. gen.datre
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:36
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:gen.datre"
+msgid "Date Received"
+msgstr ""
+
+#. gen.sub
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:37
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:gen.sub"
+msgid "Subject"
+msgstr ""
+
+#. gen.sub2
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:38
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:gen.sub2"
+msgid "Subject"
+msgstr ""
+
+#. hidehead
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:39
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:hidehead"
+msgid "Hide Headers"
+msgstr ""
+
+#. lis.emasen
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:40
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:lis.emasen"
+msgid ""
+"Email sent to the following address(es) will be archived and sent to "
+"participants:"
+msgstr ""
+
+#. lis.emasen2
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:41
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:lis.emasen2"
+msgid "Email sent to the following address(es) will be archived:"
+msgstr ""
+
+#. lis.searchnotif
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:42
+msgctxt ""
+"mailarchive/mailarchive-"
+"tool/tool/src/bundle/email.properties:lis.searchnotif"
+msgid "Searching..."
+msgstr ""
+
+#. lis.noema
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:43
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:lis.noema"
+msgid "No archived email yet..."
+msgstr ""
+
+#. lis.nosearchresults
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:44
+msgctxt ""
+"mailarchive/mailarchive-"
+"tool/tool/src/bundle/email.properties:lis.nosearchresults"
+msgid "Search returned no results."
+msgstr ""
+
+#. lis.sortbydat
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:45
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:lis.sortbydat"
+msgid "Sort by date received"
+msgstr ""
+
+#. lis.sortbysen
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:46
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:lis.sortbysen"
+msgid "Sort by sender"
+msgstr ""
+
+#. lis.sortbysub
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:47
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:lis.sortbysub"
+msgid "Sort by subject"
+msgstr ""
+
+#. lis.youare
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:48
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:lis.youare"
+msgid "You are authorized to send email"
+msgstr ""
+
+#. lis.youarenot
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:49
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:lis.youarenot"
+msgid "You are not authorized to send mail to this worksite."
+msgstr ""
+
+#. lis.noemail
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:50
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:lis.noemail"
+msgid ""
+"There is no email address specified for your account. You must specify the "
+"email address for your account in order to send email to or receive email "
+"from this site."
+msgstr ""
+
+#. lis.summary
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:51
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:lis.summary"
+msgid ""
+"List of archived email messages. First column: the sender. Second column: "
+"the subject. Third column: the date. The headers contain links to sort on "
+"these three categories."
+msgstr ""
+
+#. lis.select
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:52
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:lis.select"
+msgid ""
+"To operate the combo box, first press Alt+Down Arrow to open it, and then "
+"use the up and down arrow keys to scroll through the options."
+msgstr ""
+
+#. lis.att
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:53
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:lis.att"
+msgid "Attachment "
+msgstr ""
+
+#. lis.sendmailto
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:54
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:lis.sendmailto"
+msgid "Send mail to"
+msgstr ""
+
+#. lis.viewmessage
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:55
+msgctxt ""
+"mailarchive/mailarchive-"
+"tool/tool/src/bundle/email.properties:lis.viewmessage"
+msgid "View message    "
+msgstr ""
+
+#. listall
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:56
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:listall"
+msgid "List All"
+msgstr ""
+
+#. list.viewing
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:57
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:list.viewing"
+msgid "Viewing"
+msgstr ""
+
+#. list.of
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:58
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:list.of"
+msgid "of"
+msgstr ""
+
+#. list.items
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:59
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:list.items"
+msgid "items"
+msgstr ""
+
+#. list.first
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:60
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:list.first"
+msgid "First"
+msgstr ""
+
+#. list.next
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:61
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:list.next"
+msgid "Next"
+msgstr ""
+
+#. list.prev
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:62
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:list.prev"
+msgid "Previous"
+msgstr ""
+
+#. list.last
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:63
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:list.last"
+msgid "Last"
+msgstr ""
+
+#. pagsiz
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:64
+msgctxt "mailarchive/mailarchive-tool/tool/src/bundle/email.properties:pagsiz"
+msgid "Page size must be a positive number.\n"
+msgstr ""
+
+#. perm
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:65
+msgctxt "mailarchive/mailarchive-tool/tool/src/bundle/email.properties:perm"
+msgid "Permissions"
+msgstr ""
+
+#. rem
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:66
+msgctxt "mailarchive/mailarchive-tool/tool/src/bundle/email.properties:rem"
+msgid "Remove"
+msgstr ""
+
+#. del
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:67
+msgctxt "mailarchive/mailarchive-tool/tool/src/bundle/email.properties:del"
+msgid "Delete"
+msgstr ""
+
+#. rem.ple
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:68
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:rem.ple"
+msgid "Please confirm the removal of this email archive message:"
+msgstr ""
+
+#. rem.rem
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:69
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:rem.rem"
+msgid "Remove email message"
+msgstr ""
+
+#. rem.tabho2
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:70
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:rem.tabho2"
+msgid ""
+"Table holds a list of emails you have opted to remove.  Column 1 lists the "
+"senders, column 2 the clickable subjects, column 3 the dates when received. "
+msgstr ""
+
+#. setperm
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:71
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:setperm"
+msgid "Set permissions for Email Archive in worksite "
+msgstr ""
+
+#. theemaali
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:72
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:theemaali"
+msgid ""
+"The Email Alias must be made up of alpha numeric characters or any of "
+"!#$&'*+-=?^_`{|}~. (no spaces).\n"
+msgstr ""
+
+#. theemaali2
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:73
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:theemaali2"
+msgid "The Email Alias cannot be changed at this time.\n"
+msgstr ""
+
+#. theemaali3
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:74
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:theemaali3"
+msgid "The Email Alias is otherwise in use.\n"
+msgstr ""
+
+#. theemaali4
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:75
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:theemaali4"
+msgid "The Email Alias entered is too long, please choose a shorter alias.\n"
+msgstr ""
+
+#. theemaarc
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:76
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:theemaarc"
+msgid "The Email Archive Channel may not be modified at this time.\n"
+msgstr ""
+
+#. thiemames1
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:77
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:thiemames1"
+msgid "This email message is not available."
+msgstr ""
+
+#. thimeshas
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:78
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:thimeshas"
+msgid "This message has already been removed.\n"
+msgstr ""
+
+#. thismaiis
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:79
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:thismaiis"
+msgid "This mailbox is not available."
+msgstr ""
+
+#. viehea
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:80
+msgctxt "mailarchive/mailarchive-tool/tool/src/bundle/email.properties:viehea"
+msgid "View Headers"
+msgstr ""
+
+#. youdonot1
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:81
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:youdonot1"
+msgid "You do not have permission to view this mailbox."
+msgstr ""
+
+#. youdonot3
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:82
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:youdonot3"
+msgid "You do not have permission to remove this message.\n"
+msgstr ""
+
+#. lis.search
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:83
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:lis.search"
+msgid "Search"
+msgstr ""
+
+#. lis.clear
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:84
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:lis.clear"
+msgid "Clear Search"
+msgstr ""
+
+#. lis.show5
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:85
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:lis.show5"
+msgid "show 5 items per page"
+msgstr ""
+
+#. lis.show10
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:86
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:lis.show10"
+msgid "show 10 items..."
+msgstr ""
+
+#. lis.show20
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:87
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:lis.show20"
+msgid "show 20 items..."
+msgstr ""
+
+#. lis.show50
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:88
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:lis.show50"
+msgid "show 50 items..."
+msgstr ""
+
+#. lis.show100
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:89
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:lis.show100"
+msgid "show 100 items..."
+msgstr ""
+
+#. lis.show200
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:90
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:lis.show200"
+msgid "show 200 items..."
+msgstr ""
+
+#. view.prev
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:91
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:view.prev"
+msgid "Previous Email"
+msgstr ""
+
+#. view.next
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:92
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:view.next"
+msgid "Next Email"
+msgstr ""
+
+#. view.return
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:93
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:view.return"
+msgid "Return to List"
+msgstr ""
+
+#. view.summary
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:94
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:view.summary"
+msgid "Message properties and message"
+msgstr ""
+
+#. err_no_subject
+#: mailarchive/mailarchive-tool/tool/src/bundle/email.properties:95
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/email.properties:err_no_subject"
+msgid "No subject"
+msgstr ""
+
+#. desc-mail.new
+#: mailarchive/mailarchive-tool/tool/src/bundle/permissions.properties:1
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/permissions.properties:desc-"
+"mail.new"
+msgid "Send email to the site"
+msgstr ""
+
+#. desc-mail.read
+#: mailarchive/mailarchive-tool/tool/src/bundle/permissions.properties:2
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/permissions.properties:desc-"
+"mail.read"
+msgid "Read email in the archive"
+msgstr ""
+
+#. desc-mail.delete.any
+#: mailarchive/mailarchive-tool/tool/src/bundle/permissions.properties:3
+msgctxt ""
+"mailarchive/mailarchive-tool/tool/src/bundle/permissions.properties:desc-"
+"mail.delete.any"
+msgid "Delete any email in the archive"
+msgstr ""
+
+#. mailarchive
+#: mailarchive/mailarchive-tool/tool/src/bundle/mailarchive.properties:1
+msgctxt ""
+"mailarchive/mailarchive-"
+"tool/tool/src/bundle/mailarchive.properties:mailarchive"
+msgid "Represents mailarchive messages for a given site"
+msgstr ""
+
+#. mailarchive.action.siteMessages
+#: mailarchive/mailarchive-tool/tool/src/bundle/mailarchive.properties:2
+msgctxt ""
+"mailarchive/mailarchive-"
+"tool/tool/src/bundle/mailarchive.properties:mailarchive.action.siteMessages"
+msgid "Retrieve Email Archive messages for a site. /siteMessages/{siteId}"
+msgstr ""
+
+#. mailarchive.action.message
+#: mailarchive/mailarchive-tool/tool/src/bundle/mailarchive.properties:3
+msgctxt ""
+"mailarchive/mailarchive-"
+"tool/tool/src/bundle/mailarchive.properties:mailarchive.action.message"
+msgid ""
+"Retrieve an Email Archive message based on the path used by the EmailArchive"
+" service internally. "
+"/message/{siteId}/{emailArchiveChannelId}/{emailArchiveMessageId}"
+msgstr ""
+
+#. mailarchive.action.siteChannels
+#: mailarchive/mailarchive-tool/tool/src/bundle/mailarchive.properties:4
+msgctxt ""
+"mailarchive/mailarchive-"
+"tool/tool/src/bundle/mailarchive.properties:mailarchive.action.siteChannels"
+msgid ""
+"Retrieve MailArchiveChannel entities within giving site. "
+"/siteChannels/{siteId}"
+msgstr ""
+
+#. mailarchive.action.channelMessages
+#: mailarchive/mailarchive-tool/tool/src/bundle/mailarchive.properties:5
+msgctxt ""
+"mailarchive/mailarchive-"
+"tool/tool/src/bundle/mailarchive.properties:mailarchive.action.channelMessages"
+msgid ""
+"Retrieve messages in a MailArchiveChannel. "
+"/channelMessages/{siteId}/{channelId}"
+msgstr ""
+
+#. err_questions
+#: mailarchive/mailarchive-subetha/src/bundle/sakaimailet.properties:1
+msgctxt ""
+"mailarchive/mailarchive-"
+"subetha/src/bundle/sakaimailet.properties:err_questions"
+msgid "If you have further questions about this feature, please email {0}"
+msgstr ""
+
+#. err_email_off
+#: mailarchive/mailarchive-subetha/src/bundle/sakaimailet.properties:2
+msgctxt ""
+"mailarchive/mailarchive-"
+"subetha/src/bundle/sakaimailet.properties:err_email_off"
+msgid ""
+"Your message cannot be delivered because the site you are emailing does not "
+"have the email feature turned on. Please contact the site owner to ask about"
+" enabling this feature on the site."
+msgstr ""
+
+#. err_addr_unknown
+#: mailarchive/mailarchive-subetha/src/bundle/sakaimailet.properties:3
+msgctxt ""
+"mailarchive/mailarchive-"
+"subetha/src/bundle/sakaimailet.properties:err_addr_unknown"
+msgid "Your message cannot be delivered because the address is unknown."
+msgstr ""
+
+#. err_not_member
+#: mailarchive/mailarchive-subetha/src/bundle/sakaimailet.properties:4
+msgctxt ""
+"mailarchive/mailarchive-"
+"subetha/src/bundle/sakaimailet.properties:err_not_member"
+msgid ""
+"Your message cannot be delivered because you are not a member of the site, "
+"or you are a member but don't have the permission to send email to the site,"
+" or because you are registered with a different email address. If you are "
+"sending email from the correct email address, and you believe your email "
+"should be accepted at the site please contact the site owner and have them "
+"check the permission settings for the email archive tool under 'Permissions'"
+" for that tool."
+msgstr ""
+
+#. err_no_subject
+#: mailarchive/mailarchive-subetha/src/bundle/sakaimailet.properties:5
+msgctxt ""
+"mailarchive/mailarchive-"
+"subetha/src/bundle/sakaimailet.properties:err_no_subject"
+msgid "No subject"
+msgstr ""

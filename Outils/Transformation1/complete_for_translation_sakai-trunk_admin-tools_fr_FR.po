@@ -1,0 +1,3857 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: TMX Project 0.1a\n"
+"Report-Msgid-Bugs-To: ddeguchi@nagoya-u.jp\n"
+"POT-Creation-Date: 2019-06-17 04:37+00:00\n"
+"PO-Revision-Date: 2017-05-10 07:50+0000\n"
+"Language-Team: French (France) (https://www.transifex.com/apereo/teams/29702/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. sitact.site
+#: admin-tools/src/bundle/sites.properties:1
+msgctxt "admin-tools/src/bundle/sites.properties:sitact.site"
+msgid "Site {0} not found"
+msgstr "L'espace {0} est introuvable"
+
+#. sitact.newpag
+#: admin-tools/src/bundle/sites.properties:2
+msgctxt "admin-tools/src/bundle/sites.properties:sitact.newpag"
+msgid "New Page"
+msgstr "Nouvelle page"
+
+#. sitact.newgrp
+#: admin-tools/src/bundle/sites.properties:3
+msgctxt "admin-tools/src/bundle/sites.properties:sitact.newgrp"
+msgid "New Group"
+msgstr "Nouveau groupe"
+
+#. sitact.newsit
+#: admin-tools/src/bundle/sites.properties:4
+msgctxt "admin-tools/src/bundle/sites.properties:sitact.newsit"
+msgid "New Site"
+msgstr "Nouvel espace"
+
+#. sitact.newtoo
+#: admin-tools/src/bundle/sites.properties:5
+msgctxt "admin-tools/src/bundle/sites.properties:sitact.newtoo"
+msgid "New Tool"
+msgstr "Nouvel outil"
+
+#. sitact.plesel
+#: admin-tools/src/bundle/sites.properties:6
+msgctxt "admin-tools/src/bundle/sites.properties:sitact.plesel"
+msgid "Please select a feature for this tool."
+msgstr "Veuillez sélectionner une fonctionnalité pour cet outil."
+
+#. sitact.plespe
+#: admin-tools/src/bundle/sites.properties:7
+msgctxt "admin-tools/src/bundle/sites.properties:sitact.plespe"
+msgid "Please specify the page title."
+msgstr "Veuillez définir le titre de la page."
+
+#. sitact.rempag
+#: admin-tools/src/bundle/sites.properties:8
+msgctxt "admin-tools/src/bundle/sites.properties:sitact.rempag"
+msgid "Remove Page"
+msgstr "Supprimer la page"
+
+#. sitact.remgrp
+#: admin-tools/src/bundle/sites.properties:9
+msgctxt "admin-tools/src/bundle/sites.properties:sitact.remgrp"
+msgid "Remove Group"
+msgstr "Supprimer le groupe"
+
+#. sitact.remsit
+#: admin-tools/src/bundle/sites.properties:10
+msgctxt "admin-tools/src/bundle/sites.properties:sitact.remsit"
+msgid "Remove Site"
+msgstr "Supprimer l'espace"
+
+#. sitact.remtoo
+#: admin-tools/src/bundle/sites.properties:11
+msgctxt "admin-tools/src/bundle/sites.properties:sitact.remtoo"
+msgid "Remove Tool"
+msgstr "Supprimer l'outil"
+
+#. sitact.savas
+#: admin-tools/src/bundle/sites.properties:12
+msgctxt "admin-tools/src/bundle/sites.properties:sitact.savas"
+msgid "Save As"
+msgstr "Enregistrer sous"
+
+#. sitact.thesit
+#: admin-tools/src/bundle/sites.properties:13
+msgctxt "admin-tools/src/bundle/sites.properties:sitact.thesit"
+msgid "The Site's Page and Tool IDs have been re-generated."
+msgstr "La page de l'espace et les identifiants d'outils ont été générés à nouveau."
+
+#. sitact.thesitid
+#: admin-tools/src/bundle/sites.properties:14
+msgctxt "admin-tools/src/bundle/sites.properties:sitact.thesitid"
+msgid "The site id {0} is already in use"
+msgstr "L'Identifiant d'espace {0} est déjà utilisé"
+
+#. sitact.thesitid2
+#: admin-tools/src/bundle/sites.properties:15
+msgctxt "admin-tools/src/bundle/sites.properties:sitact.thesitid2"
+msgid "The site id {0} is invalid"
+msgstr "L'identifiant d'espace {0} n'est pas valide"
+
+#. sitact.notfound
+#: admin-tools/src/bundle/sites.properties:16
+msgctxt "admin-tools/src/bundle/sites.properties:sitact.notfound"
+msgid "The site id \"{0}\" cannot be found."
+msgstr ""
+
+#. sitact.youdonot1
+#: admin-tools/src/bundle/sites.properties:17
+msgctxt "admin-tools/src/bundle/sites.properties:sitact.youdonot1"
+msgid "You do not have permission to update this Site {0}."
+msgstr "Vous n'avez pas le droit de mettre à jour l'espace {0}."
+
+#. sitact.youdonot2
+#: admin-tools/src/bundle/sites.properties:18
+msgctxt "admin-tools/src/bundle/sites.properties:sitact.youdonot2"
+msgid "You do not have permission to create this Site {0}."
+msgstr "Vous n'avez pas le droit de créer l'espace {0}."
+
+#. sitact.youdonot3
+#: admin-tools/src/bundle/sites.properties:19
+msgctxt "admin-tools/src/bundle/sites.properties:sitact.youdonot3"
+msgid "You do not have permission to remove Site {0}."
+msgstr "Vous n'avez pas le droit de supprimer l'espace {0}."
+
+#. sitact.sperol
+#: admin-tools/src/bundle/sites.properties:20
+msgctxt "admin-tools/src/bundle/sites.properties:sitact.sperol"
+msgid "Please specify a qualified joiner's role."
+msgstr "Veuillez spécifier un rôle adéquat pour la personne s'incrivant."
+
+#. sitconrem.alert
+#: admin-tools/src/bundle/sites.properties:21
+msgctxt "admin-tools/src/bundle/sites.properties:sitconrem.alert"
+msgid "Alert:"
+msgstr "Alerte :"
+
+#. sitconrem.can
+#: admin-tools/src/bundle/sites.properties:22
+msgctxt "admin-tools/src/bundle/sites.properties:sitconrem.can"
+msgid "Cancel"
+msgstr "Annuler"
+
+#. sitconrem.plecon
+#: admin-tools/src/bundle/sites.properties:23
+msgctxt "admin-tools/src/bundle/sites.properties:sitconrem.plecon"
+msgid "Please confirm the removal of this Site:"
+msgstr "Veuillez confirmer la suppression de cet espace :"
+
+#. sitconrem.rem
+#: admin-tools/src/bundle/sites.properties:24
+msgctxt "admin-tools/src/bundle/sites.properties:sitconrem.rem"
+msgid "Remove"
+msgstr "Supprimer"
+
+#. sitconrem.remvi
+#: admin-tools/src/bundle/sites.properties:25
+msgctxt "admin-tools/src/bundle/sites.properties:sitconrem.remvi"
+msgid "Removing Site..."
+msgstr "Suppression de l'espace..."
+
+#. sitedi.alert
+#: admin-tools/src/bundle/sites.properties:26
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.alert"
+msgid "Alert:"
+msgstr "Alerte :"
+
+#. sitedi.assnew
+#: admin-tools/src/bundle/sites.properties:27
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.assnew"
+msgid "Assign New IDs"
+msgstr "Affecter de nouveaux Identifiants"
+
+#. sitedi.can
+#: admin-tools/src/bundle/sites.properties:28
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.can"
+msgid "Cancel"
+msgstr "Annuler"
+
+#. sitedi.comthesit
+#: admin-tools/src/bundle/sites.properties:29
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.comthesit"
+msgid "Complete the Site Edit"
+msgstr "Finir la modification de l'espace"
+
+#. sitedi.conedi
+#: admin-tools/src/bundle/sites.properties:30
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.conedi"
+msgid "Continue Editing"
+msgstr "Continuer la modification"
+
+#. sitedi.cre
+#: admin-tools/src/bundle/sites.properties:31
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.cre"
+msgid "Created:"
+msgstr "Créé le :"
+
+#. sitedi.creby
+#: admin-tools/src/bundle/sites.properties:32
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.creby"
+msgid "Created by:"
+msgstr "Créé par :"
+
+#. sitedi.des
+#: admin-tools/src/bundle/sites.properties:33
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.des"
+msgid "Description:"
+msgstr "Description :"
+
+#. sitedi.deleted
+#: admin-tools/src/bundle/sites.properties:34
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.deleted"
+msgid "Softly Deleted:"
+msgstr "Suppression réversible  :"
+
+#. sitedi.deletedon
+#: admin-tools/src/bundle/sites.properties:35
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.deletedon"
+msgid "Softly Deleted on:"
+msgstr "Suppression réversible le :"
+
+#. sitedi.edisit
+#: admin-tools/src/bundle/sites.properties:36
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.edisit"
+msgid "Edit: Site"
+msgstr "Modifier l'espace"
+
+#. pagedi.edisit
+#: admin-tools/src/bundle/sites.properties:37
+msgctxt "admin-tools/src/bundle/sites.properties:pagedi.edisit"
+msgid "Edit: Page"
+msgstr "Modifier la page"
+
+#. tooldi.edisit
+#: admin-tools/src/bundle/sites.properties:38
+msgctxt "admin-tools/src/bundle/sites.properties:tooldi.edisit"
+msgid "Edit: Tool"
+msgstr "Modifier l'outil"
+
+#. sitedi.joi
+#: admin-tools/src/bundle/sites.properties:39
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.joi"
+msgid "Joinable?:"
+msgstr "Auto-inscription ? :"
+
+#. sitedi.joirol
+#: admin-tools/src/bundle/sites.properties:40
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.joirol"
+msgid "Role to assign to joiners:"
+msgstr "Rôle à attribuer aux personnes s'inscrivant :"
+
+#. sitedi.mod
+#: admin-tools/src/bundle/sites.properties:41
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.mod"
+msgid "Modified:"
+msgstr "Modifié le :"
+
+#. sitedi.modby
+#: admin-tools/src/bundle/sites.properties:42
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.modby"
+msgid "Modified By:"
+msgstr "Modifié par :"
+
+#. sitedi.no
+#: admin-tools/src/bundle/sites.properties:43
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.no"
+msgid "no"
+msgstr "Non"
+
+#. sitedi.pag
+#: admin-tools/src/bundle/sites.properties:44
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.pag"
+msgid "Pages"
+msgstr "Pages"
+
+#. sitedi.grp
+#: admin-tools/src/bundle/sites.properties:45
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.grp"
+msgid "Groups"
+msgstr "Groupes"
+
+#. sitedi.pub
+#: admin-tools/src/bundle/sites.properties:46
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.pub"
+msgid "Published:"
+msgstr "Publié :"
+
+#. sitedi.pub2
+#: admin-tools/src/bundle/sites.properties:47
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.pub2"
+msgid "published"
+msgstr "publié"
+
+#. sitedi.pubvie
+#: admin-tools/src/bundle/sites.properties:48
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.pubvie"
+msgid "Public View?:"
+msgstr "Vue publique ? :"
+
+#. sitedi.revandmod
+#: admin-tools/src/bundle/sites.properties:49
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.revandmod"
+msgid "Review and modify this Site's information."
+msgstr "Vérifier et modifier l'information de l'espace."
+
+#. sitedi.revsit
+#: admin-tools/src/bundle/sites.properties:50
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.revsit"
+msgid "Review Site information"
+msgstr "Vérifier l'information de l'espace"
+
+#. sitedi.sav
+#: admin-tools/src/bundle/sites.properties:51
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.sav"
+msgid "Save"
+msgstr "Enregistrer"
+
+#. sitedi.sho
+#: admin-tools/src/bundle/sites.properties:52
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.sho"
+msgid "Short Description:"
+msgstr "Description courte :"
+
+#. sitedi.sit
+#: admin-tools/src/bundle/sites.properties:53
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.sit"
+msgid "Site"
+msgstr "Espace"
+
+#. sitedi.sit2
+#: admin-tools/src/bundle/sites.properties:54
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.sit2"
+msgid "Site Id:"
+msgstr "Identifiant de l'espace :"
+
+#. sitedi.sitcre
+#: admin-tools/src/bundle/sites.properties:55
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.sitcre"
+msgid ""
+"Sites created in prior versions may not have system-wide unique IDs for "
+"pages and tools. Use this converter to assign new IDs."
+msgstr ""
+
+#. sitedi.ski
+#: admin-tools/src/bundle/sites.properties:56
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.ski"
+msgid "Skin:"
+msgstr "Habillage :"
+
+#. sitedi.specon
+#: admin-tools/src/bundle/sites.properties:57
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.specon"
+msgid "Special Conversion"
+msgstr "Conversion spéciale"
+
+#. sitedi.tit
+#: admin-tools/src/bundle/sites.properties:58
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.tit"
+msgid "Title:"
+msgstr "Titre:"
+
+#. sitedi.typ
+#: admin-tools/src/bundle/sites.properties:59
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.typ"
+msgid "Type:"
+msgstr "Type :"
+
+#. sitedi.unpub
+#: admin-tools/src/bundle/sites.properties:60
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.unpub"
+msgid "unpublished"
+msgstr "non publié"
+
+#. sitedi.worsit
+#: admin-tools/src/bundle/sites.properties:61
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.worsit"
+msgid "Worksite Icon URL:"
+msgstr "URL de l'icône de l'espace :"
+
+#. sitedi.worsit2
+#: admin-tools/src/bundle/sites.properties:62
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.worsit2"
+msgid "Worksite Info URL:"
+msgstr "URL de l'information de l'espace :"
+
+#. sitedi.yes
+#: admin-tools/src/bundle/sites.properties:63
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.yes"
+msgid "yes"
+msgstr "Oui"
+
+#. sitedi.pro
+#: admin-tools/src/bundle/sites.properties:64
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.pro"
+msgid "Properties"
+msgstr "Propriétés"
+
+#. sitedi.info
+#: admin-tools/src/bundle/sites.properties:65
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.info"
+msgid "Info"
+msgstr "Information"
+
+#. sitedi.addeditprops
+#: admin-tools/src/bundle/sites.properties:66
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.addeditprops"
+msgid "Add/Edit Properties"
+msgstr "Ajouter/Modifier les propriétés"
+
+#. sitedi.props
+#: admin-tools/src/bundle/sites.properties:67
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.props"
+msgid "Properties"
+msgstr "Propriétés"
+
+#. sitedi.revandmodprops
+#: admin-tools/src/bundle/sites.properties:68
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.revandmodprops"
+msgid ""
+"Review and modify this Site's properties.  Remove a value to remove a "
+"property."
+msgstr ""
+
+#. pagedi.revandmodprops
+#: admin-tools/src/bundle/sites.properties:69
+msgctxt "admin-tools/src/bundle/sites.properties:pagedi.revandmodprops"
+msgid ""
+"Review and modify this Page's properties.  Remove a value to remove a "
+"property."
+msgstr ""
+
+#. tooldi.revandmodprops
+#: admin-tools/src/bundle/sites.properties:70
+msgctxt "admin-tools/src/bundle/sites.properties:tooldi.revandmodprops"
+msgid ""
+"Review and modify this Tool's properties.  Remove a value to remove a "
+"property."
+msgstr ""
+
+#. sitedi.newprop
+#: admin-tools/src/bundle/sites.properties:71
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.newprop"
+msgid "New Property"
+msgstr "Nouvelle propriété"
+
+#. sitedi.newpropinst
+#: admin-tools/src/bundle/sites.properties:72
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.newpropinst"
+msgid ""
+"Enter a new property name and value to add a new one.  Press the New "
+"Property button to add more."
+msgstr ""
+
+#. sitedi.name
+#: admin-tools/src/bundle/sites.properties:73
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.name"
+msgid "Name"
+msgstr "Nom"
+
+#. sitedi.value
+#: admin-tools/src/bundle/sites.properties:74
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.value"
+msgid "Value"
+msgstr "Valeur"
+
+#. sitedipag.alert
+#: admin-tools/src/bundle/sites.properties:75
+msgctxt "admin-tools/src/bundle/sites.properties:sitedipag.alert"
+msgid "Alert:"
+msgstr "Alerte :"
+
+#. sitedipag.can
+#: admin-tools/src/bundle/sites.properties:76
+msgctxt "admin-tools/src/bundle/sites.properties:sitedipag.can"
+msgid "Cancel"
+msgstr "Annuler"
+
+#. sitedipag.comthesit
+#: admin-tools/src/bundle/sites.properties:77
+msgctxt "admin-tools/src/bundle/sites.properties:sitedipag.comthesit"
+msgid "Complete the Site Edit"
+msgstr "Finir la modification de l'espace"
+
+#. sitedipag.conedi
+#: admin-tools/src/bundle/sites.properties:78
+msgctxt "admin-tools/src/bundle/sites.properties:sitedipag.conedi"
+msgid "Continue Editing"
+msgstr "Continuer la modification"
+
+#. sitedipag.don
+#: admin-tools/src/bundle/sites.properties:79
+msgctxt "admin-tools/src/bundle/sites.properties:sitedipag.don"
+msgid "Done"
+msgstr "Terminé"
+
+#. sitedipag.edisit
+#: admin-tools/src/bundle/sites.properties:80
+msgctxt "admin-tools/src/bundle/sites.properties:sitedipag.edisit"
+msgid "Edit: Site"
+msgstr "Modifier l'espace"
+
+#. sitedipag.lay
+#: admin-tools/src/bundle/sites.properties:81
+msgctxt "admin-tools/src/bundle/sites.properties:sitedipag.lay"
+msgid "Layout:"
+msgstr "Mise en page :"
+
+#. sitedipag.pag
+#: admin-tools/src/bundle/sites.properties:82
+msgctxt "admin-tools/src/bundle/sites.properties:sitedipag.pag"
+msgid "Page"
+msgstr "Page"
+
+#. sitedipag.pag2
+#: admin-tools/src/bundle/sites.properties:83
+msgctxt "admin-tools/src/bundle/sites.properties:sitedipag.pag2"
+msgid "Page Id:"
+msgstr "Identifiant de la page :"
+
+#. sitedipag.pop
+#: admin-tools/src/bundle/sites.properties:84
+msgctxt "admin-tools/src/bundle/sites.properties:sitedipag.pop"
+msgid "Popup?"
+msgstr "Nouvelle fenêtre ?"
+
+#. sitedipag.custom
+#: admin-tools/src/bundle/sites.properties:85
+msgctxt "admin-tools/src/bundle/sites.properties:sitedipag.custom"
+msgid "Custom Title?"
+msgstr "Titre personnalisé ?"
+
+#. sitedipag.revandmod
+#: admin-tools/src/bundle/sites.properties:86
+msgctxt "admin-tools/src/bundle/sites.properties:sitedipag.revandmod"
+msgid "Review and modify this Page's information."
+msgstr "Vérifier et modifier l'information de cette page."
+
+#. sitedipag.sav
+#: admin-tools/src/bundle/sites.properties:87
+msgctxt "admin-tools/src/bundle/sites.properties:sitedipag.sav"
+msgid "Save"
+msgstr "Enregistrer"
+
+#. sitedipag.tit
+#: admin-tools/src/bundle/sites.properties:88
+msgctxt "admin-tools/src/bundle/sites.properties:sitedipag.tit"
+msgid "Title:"
+msgstr "Titre:"
+
+#. sitedipag.too
+#: admin-tools/src/bundle/sites.properties:89
+msgctxt "admin-tools/src/bundle/sites.properties:sitedipag.too"
+msgid "Tools"
+msgstr "Outils"
+
+#. sitedipag.tool.list.summary
+#: admin-tools/src/bundle/sites.properties:90
+msgctxt "admin-tools/src/bundle/sites.properties:sitedipag.tool.list.summary"
+msgid "List of tools in this page."
+msgstr "Liste des outils dans cette page."
+
+#. sitedipag.show5
+#: admin-tools/src/bundle/sites.properties:91
+msgctxt "admin-tools/src/bundle/sites.properties:sitedipag.show5"
+msgid "show 5 items..."
+msgstr "Afficher 5 éléments..."
+
+#. sitedipag.show10
+#: admin-tools/src/bundle/sites.properties:92
+msgctxt "admin-tools/src/bundle/sites.properties:sitedipag.show10"
+msgid "show 10 items..."
+msgstr "Afficher 10 éléments..."
+
+#. sitedipag.show20
+#: admin-tools/src/bundle/sites.properties:93
+msgctxt "admin-tools/src/bundle/sites.properties:sitedipag.show20"
+msgid "show 20 items..."
+msgstr "Afficher 20 éléments..."
+
+#. sitedipag.show50
+#: admin-tools/src/bundle/sites.properties:94
+msgctxt "admin-tools/src/bundle/sites.properties:sitedipag.show50"
+msgid "show 50 items..."
+msgstr "Afficher 50 éléments..."
+
+#. sitedipag.show100
+#: admin-tools/src/bundle/sites.properties:95
+msgctxt "admin-tools/src/bundle/sites.properties:sitedipag.show100"
+msgid "show 100 items..."
+msgstr "Afficher 100 éléments..."
+
+#. sitedipag.show200
+#: admin-tools/src/bundle/sites.properties:96
+msgctxt "admin-tools/src/bundle/sites.properties:sitedipag.show200"
+msgid "show 200 items...."
+msgstr "Afficher 200 éléments..."
+
+#. sitedipag.listnavselect
+#: admin-tools/src/bundle/sites.properties:97
+msgctxt "admin-tools/src/bundle/sites.properties:sitedipag.listnavselect"
+msgid "Press alt + up and down arrows to scroll through menu"
+msgstr "Pressez Alt + les touches de déplacement vers le haut et vers le bas pour faire défiler le menu"
+
+#. sitedipag.first
+#: admin-tools/src/bundle/sites.properties:98
+msgctxt "admin-tools/src/bundle/sites.properties:sitedipag.first"
+msgid "First"
+msgstr "Premier"
+
+#. sitedipag.previous
+#: admin-tools/src/bundle/sites.properties:99
+msgctxt "admin-tools/src/bundle/sites.properties:sitedipag.previous"
+msgid "Previous"
+msgstr "Précédent"
+
+#. sitedipag.next
+#: admin-tools/src/bundle/sites.properties:100
+msgctxt "admin-tools/src/bundle/sites.properties:sitedipag.next"
+msgid "Next"
+msgstr "Suivant"
+
+#. sitedipag.last
+#: admin-tools/src/bundle/sites.properties:101
+msgctxt "admin-tools/src/bundle/sites.properties:sitedipag.last"
+msgid "Last"
+msgstr "Dernier"
+
+#. sitedipag.list.viewing
+#: admin-tools/src/bundle/sites.properties:102
+msgctxt "admin-tools/src/bundle/sites.properties:sitedipag.list.viewing"
+msgid "You are viewing {0} - {1} of {2} results. "
+msgstr "Vous voyez les résultats {0} à {1} sur {2}."
+
+#. sitedipag.alias.isinval
+#: admin-tools/src/bundle/sites.properties:103
+msgctxt "admin-tools/src/bundle/sites.properties:sitedipag.alias.isinval"
+msgid "Alias {0} is invalid."
+msgstr "L'alias {0} n'est pas valide."
+
+#. sitedipag.alias.exists
+#: admin-tools/src/bundle/sites.properties:104
+msgctxt "admin-tools/src/bundle/sites.properties:sitedipag.alias.exists"
+msgid "Alias {0} already exists.\t\t\t"
+msgstr ""
+
+#. sitedipag.alias.nopermission
+#: admin-tools/src/bundle/sites.properties:105
+msgctxt "admin-tools/src/bundle/sites.properties:sitedipag.alias.nopermission"
+msgid "does not have permission to add alias."
+msgstr "Vous n'avez pas le droit d'ajouter des alias."
+
+#. sitedipag.url_alias
+#: admin-tools/src/bundle/sites.properties:106
+msgctxt "admin-tools/src/bundle/sites.properties:sitedipag.url_alias"
+msgid "Site URL Alias"
+msgstr "URL de l'alias de l'espace"
+
+#. sitedigrp.alert
+#: admin-tools/src/bundle/sites.properties:107
+msgctxt "admin-tools/src/bundle/sites.properties:sitedigrp.alert"
+msgid "Alert:"
+msgstr "Alerte :"
+
+#. sitedigrp.can
+#: admin-tools/src/bundle/sites.properties:108
+msgctxt "admin-tools/src/bundle/sites.properties:sitedigrp.can"
+msgid "Cancel"
+msgstr "Annuler"
+
+#. sitedigrp.comthesit
+#: admin-tools/src/bundle/sites.properties:109
+msgctxt "admin-tools/src/bundle/sites.properties:sitedigrp.comthesit"
+msgid "Complete the Site Edit"
+msgstr "Finir la modification de l'espace"
+
+#. sitedigrp.conedi
+#: admin-tools/src/bundle/sites.properties:110
+msgctxt "admin-tools/src/bundle/sites.properties:sitedigrp.conedi"
+msgid "Continue Editing"
+msgstr "Continuer la modification"
+
+#. sitedigrp.don
+#: admin-tools/src/bundle/sites.properties:111
+msgctxt "admin-tools/src/bundle/sites.properties:sitedigrp.don"
+msgid "Done"
+msgstr "Terminé"
+
+#. sitedigrp.edisit
+#: admin-tools/src/bundle/sites.properties:112
+msgctxt "admin-tools/src/bundle/sites.properties:sitedigrp.edisit"
+msgid "Edit: Site"
+msgstr "Modifier l'espace"
+
+#. sitedigrp.grp
+#: admin-tools/src/bundle/sites.properties:113
+msgctxt "admin-tools/src/bundle/sites.properties:sitedigrp.grp"
+msgid "Group"
+msgstr "Groupe"
+
+#. sitedigrp.grp2
+#: admin-tools/src/bundle/sites.properties:114
+msgctxt "admin-tools/src/bundle/sites.properties:sitedigrp.grp2"
+msgid "Group Id:"
+msgstr "Identifiant du groupe :"
+
+#. sitedigrp.revandmod
+#: admin-tools/src/bundle/sites.properties:115
+msgctxt "admin-tools/src/bundle/sites.properties:sitedigrp.revandmod"
+msgid "Review and modify this Group's information."
+msgstr "Vérifier et modifier l'information de ce groupe."
+
+#. sitedigrp.sav
+#: admin-tools/src/bundle/sites.properties:116
+msgctxt "admin-tools/src/bundle/sites.properties:sitedigrp.sav"
+msgid "Save"
+msgstr "Enregistrer"
+
+#. sitedigrp.tit
+#: admin-tools/src/bundle/sites.properties:117
+msgctxt "admin-tools/src/bundle/sites.properties:sitedigrp.tit"
+msgid "Title:"
+msgstr "Titre:"
+
+#. sitedigrp.des
+#: admin-tools/src/bundle/sites.properties:118
+msgctxt "admin-tools/src/bundle/sites.properties:sitedigrp.des"
+msgid "Description:"
+msgstr "Description :"
+
+#. siteditoo.alert
+#: admin-tools/src/bundle/sites.properties:119
+msgctxt "admin-tools/src/bundle/sites.properties:siteditoo.alert"
+msgid "Alert:"
+msgstr "Alerte :"
+
+#. siteditoo.can
+#: admin-tools/src/bundle/sites.properties:120
+msgctxt "admin-tools/src/bundle/sites.properties:siteditoo.can"
+msgid "Cancel"
+msgstr "Annuler"
+
+#. siteditoo.comthesit
+#: admin-tools/src/bundle/sites.properties:121
+msgctxt "admin-tools/src/bundle/sites.properties:siteditoo.comthesit"
+msgid "Complete the Site Edit"
+msgstr "Finir la modification de l'espace"
+
+#. siteditoo.con
+#: admin-tools/src/bundle/sites.properties:122
+msgctxt "admin-tools/src/bundle/sites.properties:siteditoo.con"
+msgid "Configuration"
+msgstr "Configuration"
+
+#. siteditoo.conedi
+#: admin-tools/src/bundle/sites.properties:123
+msgctxt "admin-tools/src/bundle/sites.properties:siteditoo.conedi"
+msgid "Continue Editing"
+msgstr "Continuer la modification"
+
+#. siteditoo.don
+#: admin-tools/src/bundle/sites.properties:124
+msgctxt "admin-tools/src/bundle/sites.properties:siteditoo.don"
+msgid "Done"
+msgstr "Terminé"
+
+#. siteditoo.edisit
+#: admin-tools/src/bundle/sites.properties:125
+msgctxt "admin-tools/src/bundle/sites.properties:siteditoo.edisit"
+msgid "Edit: Site"
+msgstr "Modifier l'espace"
+
+#. siteditoo.fea
+#: admin-tools/src/bundle/sites.properties:126
+msgctxt "admin-tools/src/bundle/sites.properties:siteditoo.fea"
+msgid "Features:"
+msgstr "Fonctionnalités :"
+
+#. siteditoo.lay
+#: admin-tools/src/bundle/sites.properties:127
+msgctxt "admin-tools/src/bundle/sites.properties:siteditoo.lay"
+msgid "LayoutHints"
+msgstr "Pistes de mise en page"
+
+#. siteditoo.pag
+#: admin-tools/src/bundle/sites.properties:128
+msgctxt "admin-tools/src/bundle/sites.properties:siteditoo.pag"
+msgid "Page"
+msgstr "Page"
+
+#. siteditoo.revandmod
+#: admin-tools/src/bundle/sites.properties:129
+msgctxt "admin-tools/src/bundle/sites.properties:siteditoo.revandmod"
+msgid "Review and modify this Tool's information."
+msgstr "Vérifier et modifier l'information de cet outil."
+
+#. siteditoo.rowcol
+#: admin-tools/src/bundle/sites.properties:130
+msgctxt "admin-tools/src/bundle/sites.properties:siteditoo.rowcol"
+msgid "(row, col 0 based):"
+msgstr "(ligne,  colonne 0 comme base) :"
+
+#. siteditoo.sav
+#: admin-tools/src/bundle/sites.properties:131
+msgctxt "admin-tools/src/bundle/sites.properties:siteditoo.sav"
+msgid "Save"
+msgstr "Enregistrer"
+
+#. siteditoo.tit
+#: admin-tools/src/bundle/sites.properties:132
+msgctxt "admin-tools/src/bundle/sites.properties:siteditoo.tit"
+msgid "Title:"
+msgstr "Titre:"
+
+#. siteditoo.too
+#: admin-tools/src/bundle/sites.properties:133
+msgctxt "admin-tools/src/bundle/sites.properties:siteditoo.too"
+msgid "Tool"
+msgstr "Outil"
+
+#. siteditoo.toocon
+#: admin-tools/src/bundle/sites.properties:134
+msgctxt "admin-tools/src/bundle/sites.properties:siteditoo.toocon"
+msgid "Tool Configuration"
+msgstr "Configuration de l'outil"
+
+#. siteditoo.toofea
+#: admin-tools/src/bundle/sites.properties:135
+msgctxt "admin-tools/src/bundle/sites.properties:siteditoo.toofea"
+msgid "Tool Feature"
+msgstr "Fonctionnalité de l'outil"
+
+#. siteditoo.tooid
+#: admin-tools/src/bundle/sites.properties:136
+msgctxt "admin-tools/src/bundle/sites.properties:siteditoo.tooid"
+msgid "Tool Id:"
+msgstr "Identifiant de l'outil :"
+
+#. sitlis.alert
+#: admin-tools/src/bundle/sites.properties:137
+msgctxt "admin-tools/src/bundle/sites.properties:sitlis.alert"
+msgid "Alert:"
+msgstr "Alerte :"
+
+#. sitlis.sites
+#: admin-tools/src/bundle/sites.properties:138
+msgctxt "admin-tools/src/bundle/sites.properties:sitlis.sites"
+msgid "Sites"
+msgstr "Espaces"
+
+#. sitlis.list.summary
+#: admin-tools/src/bundle/sites.properties:139
+msgctxt "admin-tools/src/bundle/sites.properties:sitlis.list.summary"
+msgid ""
+"List of sites in the sytem. First column: site ID. Second: title. Third: "
+"published status. Fourth: joinable status. Fith: type. Sixth: description, "
+"other info.\t"
+msgstr ""
+
+#. sitlis.cre
+#: admin-tools/src/bundle/sites.properties:140
+msgctxt "admin-tools/src/bundle/sites.properties:sitlis.cre"
+msgid "Created:"
+msgstr "Créé le :"
+
+#. sitlis.des
+#: admin-tools/src/bundle/sites.properties:141
+msgctxt "admin-tools/src/bundle/sites.properties:sitlis.des"
+msgid "Description, URLs"
+msgstr "Description, URLs"
+
+#. sitlis.des2
+#: admin-tools/src/bundle/sites.properties:142
+msgctxt "admin-tools/src/bundle/sites.properties:sitlis.des2"
+msgid "Description:"
+msgstr "Description :"
+
+#. sitlis.ico
+#: admin-tools/src/bundle/sites.properties:143
+msgctxt "admin-tools/src/bundle/sites.properties:sitlis.ico"
+msgid "Icon URL:"
+msgstr "URL de l'icône :"
+
+#. sitlis.joi
+#: admin-tools/src/bundle/sites.properties:144
+msgctxt "admin-tools/src/bundle/sites.properties:sitlis.joi"
+msgid "Joinable?"
+msgstr "Auto-inscription ?"
+
+#. sitlis.joialt
+#: admin-tools/src/bundle/sites.properties:145
+msgctxt "admin-tools/src/bundle/sites.properties:sitlis.joialt"
+msgid "joinable"
+msgstr "auto-inscription"
+
+#. sitlis.nosit
+#: admin-tools/src/bundle/sites.properties:146
+msgctxt "admin-tools/src/bundle/sites.properties:sitlis.nosit"
+msgid "No sites are defined that meet the search criteria."
+msgstr "Aucun des espaces définis ne correspond aux critères de recherche."
+
+#. sitlis.pub
+#: admin-tools/src/bundle/sites.properties:147
+msgctxt "admin-tools/src/bundle/sites.properties:sitlis.pub"
+msgid "Published"
+msgstr "Publié"
+
+#. sitlis.shodes
+#: admin-tools/src/bundle/sites.properties:148
+msgctxt "admin-tools/src/bundle/sites.properties:sitlis.shodes"
+msgid "Short Description:"
+msgstr "Description courte :"
+
+#. sitlis.sitid
+#: admin-tools/src/bundle/sites.properties:149
+msgctxt "admin-tools/src/bundle/sites.properties:sitlis.sitid"
+msgid "Site Id"
+msgstr "Identifiant du site"
+
+#. sitlis.sitinf
+#: admin-tools/src/bundle/sites.properties:150
+msgctxt "admin-tools/src/bundle/sites.properties:sitlis.sitinf"
+msgid "Site info URL:"
+msgstr "URL de l'information du site :"
+
+#. sitlis.theare
+#: admin-tools/src/bundle/sites.properties:151
+msgctxt "admin-tools/src/bundle/sites.properties:sitlis.theare"
+msgid ""
+"These are the Sites defined within the system that meet the search criteria."
+"  Click on an Id to edit."
+msgstr ""
+
+#. sitlis.tit
+#: admin-tools/src/bundle/sites.properties:152
+msgctxt "admin-tools/src/bundle/sites.properties:sitlis.tit"
+msgid "Title"
+msgstr "Titre"
+
+#. sitlis.typ
+#: admin-tools/src/bundle/sites.properties:153
+msgctxt "admin-tools/src/bundle/sites.properties:sitlis.typ"
+msgid "Type"
+msgstr "Type"
+
+#. sitlis.uid
+#: admin-tools/src/bundle/sites.properties:154
+msgctxt "admin-tools/src/bundle/sites.properties:sitlis.uid"
+msgid "User ID"
+msgstr "Identifiant"
+
+#. sitlis.sid
+#: admin-tools/src/bundle/sites.properties:155
+msgctxt "admin-tools/src/bundle/sites.properties:sitlis.sid"
+msgid "Site ID"
+msgstr "Identifiant de l'espace"
+
+#. sitlis.link
+#: admin-tools/src/bundle/sites.properties:156
+msgctxt "admin-tools/src/bundle/sites.properties:sitlis.link"
+msgid "Go to site"
+msgstr "Aller au site"
+
+#. sitlis.edit
+#: admin-tools/src/bundle/sites.properties:157
+msgctxt "admin-tools/src/bundle/sites.properties:sitlis.edit"
+msgid "Edit site"
+msgstr ""
+
+#. sitpag.alert
+#: admin-tools/src/bundle/sites.properties:158
+msgctxt "admin-tools/src/bundle/sites.properties:sitpag.alert"
+msgid "Alert:"
+msgstr "Alerte :"
+
+#. sitpag.can
+#: admin-tools/src/bundle/sites.properties:159
+msgctxt "admin-tools/src/bundle/sites.properties:sitpag.can"
+msgid "Cancel"
+msgstr "Annuler"
+
+#. sitpag.comthesit
+#: admin-tools/src/bundle/sites.properties:160
+msgctxt "admin-tools/src/bundle/sites.properties:sitpag.comthesit"
+msgid "Complete the Site Edit"
+msgstr "Finir la modification de l'espace"
+
+#. sitpag.conedi
+#: admin-tools/src/bundle/sites.properties:161
+msgctxt "admin-tools/src/bundle/sites.properties:sitpag.conedi"
+msgid "Continue Editing"
+msgstr "Continuer la modification"
+
+#. sitpag.des
+#: admin-tools/src/bundle/sites.properties:162
+msgctxt "admin-tools/src/bundle/sites.properties:sitpag.des"
+msgid "Description"
+msgstr "Description"
+
+#. sitpag.don
+#: admin-tools/src/bundle/sites.properties:163
+msgctxt "admin-tools/src/bundle/sites.properties:sitpag.don"
+msgid "Done"
+msgstr "Terminé"
+
+#. sitpag.edisit
+#: admin-tools/src/bundle/sites.properties:164
+msgctxt "admin-tools/src/bundle/sites.properties:sitpag.edisit"
+msgid "Edit: Site"
+msgstr "Modifier l'espace"
+
+#. sitpag.fea
+#: admin-tools/src/bundle/sites.properties:165
+msgctxt "admin-tools/src/bundle/sites.properties:sitpag.fea"
+msgid "Features:"
+msgstr "Fonctionnalités :"
+
+#. sitpag.lay
+#: admin-tools/src/bundle/sites.properties:166
+msgctxt "admin-tools/src/bundle/sites.properties:sitpag.lay"
+msgid "Layout:"
+msgstr "Mise en page :"
+
+#. sitpag.lisofgro
+#: admin-tools/src/bundle/sites.properties:167
+msgctxt "admin-tools/src/bundle/sites.properties:sitpag.lisofgro"
+msgid ""
+"List of pages in site. First column has links to move them up and down. "
+"Second: Page ID. Third: title. Fourth: description and other info. "
+msgstr ""
+
+#. sitpag.mopadown
+#: admin-tools/src/bundle/sites.properties:168
+msgctxt "admin-tools/src/bundle/sites.properties:sitpag.mopadown"
+msgid "move page down"
+msgstr "déplacer la page vers le bas"
+
+#. sitpag.mopaup
+#: admin-tools/src/bundle/sites.properties:169
+msgctxt "admin-tools/src/bundle/sites.properties:sitpag.mopaup"
+msgid "move page up"
+msgstr "déplacer la page vers le haut"
+
+#. sitpag.nopag
+#: admin-tools/src/bundle/sites.properties:170
+msgctxt "admin-tools/src/bundle/sites.properties:sitpag.nopag"
+msgid "No pages are defined."
+msgstr "Aucune page n'est définie."
+
+#. sitpag.pagid
+#: admin-tools/src/bundle/sites.properties:171
+msgctxt "admin-tools/src/bundle/sites.properties:sitpag.pagid"
+msgid "Page Id"
+msgstr "Identifiant de la page"
+
+#. sitpag.sav
+#: admin-tools/src/bundle/sites.properties:172
+msgctxt "admin-tools/src/bundle/sites.properties:sitpag.sav"
+msgid "Save"
+msgstr "Enregistrer"
+
+#. sitpag.theare
+#: admin-tools/src/bundle/sites.properties:173
+msgctxt "admin-tools/src/bundle/sites.properties:sitpag.theare"
+msgid ""
+"These are the Pages defined in this Site.  Click on one to edit.  Use the up"
+" and down arrows to re-arrange."
+msgstr ""
+
+#. sitpag.tit
+#: admin-tools/src/bundle/sites.properties:174
+msgctxt "admin-tools/src/bundle/sites.properties:sitpag.tit"
+msgid "Title"
+msgstr "Titre"
+
+#. sitgrp.alert
+#: admin-tools/src/bundle/sites.properties:175
+msgctxt "admin-tools/src/bundle/sites.properties:sitgrp.alert"
+msgid "Alert:"
+msgstr "Alerte :"
+
+#. sitgrp.can
+#: admin-tools/src/bundle/sites.properties:176
+msgctxt "admin-tools/src/bundle/sites.properties:sitgrp.can"
+msgid "Cancel"
+msgstr "Annuler"
+
+#. sitgrp.comthesit
+#: admin-tools/src/bundle/sites.properties:177
+msgctxt "admin-tools/src/bundle/sites.properties:sitgrp.comthesit"
+msgid "Complete the Site Edit"
+msgstr "Finir la modification de l'espace"
+
+#. sitgrp.conedi
+#: admin-tools/src/bundle/sites.properties:178
+msgctxt "admin-tools/src/bundle/sites.properties:sitgrp.conedi"
+msgid "Continue Editing"
+msgstr "Continuer la modification"
+
+#. sitgrp.des
+#: admin-tools/src/bundle/sites.properties:179
+msgctxt "admin-tools/src/bundle/sites.properties:sitgrp.des"
+msgid "Description"
+msgstr "Description"
+
+#. sitgrp.don
+#: admin-tools/src/bundle/sites.properties:180
+msgctxt "admin-tools/src/bundle/sites.properties:sitgrp.don"
+msgid "Done"
+msgstr "Terminé"
+
+#. sitgrp.edisit
+#: admin-tools/src/bundle/sites.properties:181
+msgctxt "admin-tools/src/bundle/sites.properties:sitgrp.edisit"
+msgid "Edit: Site"
+msgstr "Modifier l'espace"
+
+#. sitgrp.lisofgrp
+#: admin-tools/src/bundle/sites.properties:182
+msgctxt "admin-tools/src/bundle/sites.properties:sitgrp.lisofgrp"
+msgid "List of Groups"
+msgstr "Liste des groupes"
+
+#. sitgrp.nogrp
+#: admin-tools/src/bundle/sites.properties:183
+msgctxt "admin-tools/src/bundle/sites.properties:sitgrp.nogrp"
+msgid "No groups are defined."
+msgstr "Aucun groupe n'est défini."
+
+#. sitgrp.grpid
+#: admin-tools/src/bundle/sites.properties:184
+msgctxt "admin-tools/src/bundle/sites.properties:sitgrp.grpid"
+msgid "Group Id"
+msgstr "Identifiant du groupe"
+
+#. sitgrp.sav
+#: admin-tools/src/bundle/sites.properties:185
+msgctxt "admin-tools/src/bundle/sites.properties:sitgrp.sav"
+msgid "Save"
+msgstr "Enregistrer"
+
+#. sitgrp.theare
+#: admin-tools/src/bundle/sites.properties:186
+msgctxt "admin-tools/src/bundle/sites.properties:sitgrp.theare"
+msgid "These are the Groups defined in this Site.  Click on one to edit."
+msgstr "Voici les groupes définis dans cet espace. Cliquez sur l'un d'eux pour le modifier."
+
+#. sitgrp.tit
+#: admin-tools/src/bundle/sites.properties:187
+msgctxt "admin-tools/src/bundle/sites.properties:sitgrp.tit"
+msgid "Title"
+msgstr "Titre"
+
+#. sitgrp.plespe
+#: admin-tools/src/bundle/sites.properties:188
+msgctxt "admin-tools/src/bundle/sites.properties:sitgrp.plespe"
+msgid "Please specify the Group title."
+msgstr "Veuillez spécifier le titre du groupe."
+
+#. sitpag.lay_sngl
+#: admin-tools/src/bundle/sites.properties:189
+msgctxt "admin-tools/src/bundle/sites.properties:sitpag.lay_sngl"
+msgid "Single Column Layout"
+msgstr "Mise en page sur une colonne"
+
+#. sitpag.lay_dbl
+#: admin-tools/src/bundle/sites.properties:190
+msgctxt "admin-tools/src/bundle/sites.properties:sitpag.lay_dbl"
+msgid "Double Column Layout"
+msgstr "Mise en page sur deux colonnes"
+
+#. sitsav.alert
+#: admin-tools/src/bundle/sites.properties:191
+msgctxt "admin-tools/src/bundle/sites.properties:sitsav.alert"
+msgid "Alert:"
+msgstr "Alerte :"
+
+#. sitsav.can
+#: admin-tools/src/bundle/sites.properties:192
+msgctxt "admin-tools/src/bundle/sites.properties:sitsav.can"
+msgid "Cancel"
+msgstr "Annuler"
+
+#. sitsav.entnew
+#: admin-tools/src/bundle/sites.properties:193
+msgctxt "admin-tools/src/bundle/sites.properties:sitsav.entnew"
+msgid ""
+"Enter a new site id to create a new site that is a copy of the selected "
+"site.<br/> Note: only the Site definition is copied, not related resources."
+msgstr ""
+
+#. sitsav.sav
+#: admin-tools/src/bundle/sites.properties:194
+msgctxt "admin-tools/src/bundle/sites.properties:sitsav.sav"
+msgid "Save"
+msgstr "Enregistrer"
+
+#. sitsav.savas
+#: admin-tools/src/bundle/sites.properties:195
+msgctxt "admin-tools/src/bundle/sites.properties:sitsav.savas"
+msgid "Save As ..."
+msgstr "Enregistrer sous..."
+
+#. sitsav.sit
+#: admin-tools/src/bundle/sites.properties:196
+msgctxt "admin-tools/src/bundle/sites.properties:sitsav.sit"
+msgid "Site"
+msgstr "Espace"
+
+#. sitsav.sitid
+#: admin-tools/src/bundle/sites.properties:197
+msgctxt "admin-tools/src/bundle/sites.properties:sitsav.sitid"
+msgid "Site Id:"
+msgstr "Identifiant de l'espace :"
+
+#. sittoo.alert
+#: admin-tools/src/bundle/sites.properties:198
+msgctxt "admin-tools/src/bundle/sites.properties:sittoo.alert"
+msgid "Alert:"
+msgstr "Alerte :"
+
+#. sittoo.can
+#: admin-tools/src/bundle/sites.properties:199
+msgctxt "admin-tools/src/bundle/sites.properties:sittoo.can"
+msgid "Cancel"
+msgstr "Annuler"
+
+#. sittoo.comthe
+#: admin-tools/src/bundle/sites.properties:200
+msgctxt "admin-tools/src/bundle/sites.properties:sittoo.comthe"
+msgid "Complete the Site Edit"
+msgstr "Finir la modification de l'espace"
+
+#. sittoo.con
+#: admin-tools/src/bundle/sites.properties:201
+msgctxt "admin-tools/src/bundle/sites.properties:sittoo.con"
+msgid "Configuration:"
+msgstr "Configuration :"
+
+#. sittoo.conedi
+#: admin-tools/src/bundle/sites.properties:202
+msgctxt "admin-tools/src/bundle/sites.properties:sittoo.conedi"
+msgid "Continue Editing"
+msgstr "Continuer la modification"
+
+#. sittoo.des
+#: admin-tools/src/bundle/sites.properties:203
+msgctxt "admin-tools/src/bundle/sites.properties:sittoo.des"
+msgid "Description:"
+msgstr "Description :"
+
+#. sittoo.don
+#: admin-tools/src/bundle/sites.properties:204
+msgctxt "admin-tools/src/bundle/sites.properties:sittoo.don"
+msgid "Done"
+msgstr "Terminé"
+
+#. sittoo.edisit
+#: admin-tools/src/bundle/sites.properties:205
+msgctxt "admin-tools/src/bundle/sites.properties:sittoo.edisit"
+msgid "Edit: Site"
+msgstr "Modifier l'espace"
+
+#. sittoo.fea
+#: admin-tools/src/bundle/sites.properties:206
+msgctxt "admin-tools/src/bundle/sites.properties:sittoo.fea"
+msgid "Features"
+msgstr "Fonctionnalités"
+
+#. sittoo.lay
+#: admin-tools/src/bundle/sites.properties:207
+msgctxt "admin-tools/src/bundle/sites.properties:sittoo.lay"
+msgid "Layout Hints:"
+msgstr "Conseils de mise en page :"
+
+#. sittoo.pag
+#: admin-tools/src/bundle/sites.properties:208
+msgctxt "admin-tools/src/bundle/sites.properties:sittoo.pag"
+msgid "Page"
+msgstr "Page"
+
+#. sittoo.sav
+#: admin-tools/src/bundle/sites.properties:209
+msgctxt "admin-tools/src/bundle/sites.properties:sittoo.sav"
+msgid "Save"
+msgstr "Enregistrer"
+
+#. sittoo.theare
+#: admin-tools/src/bundle/sites.properties:210
+msgctxt "admin-tools/src/bundle/sites.properties:sittoo.theare"
+msgid ""
+"These are the Tools defined in this Page.  Click on one to edit.  Use the up"
+" and down arrows to re-arrange."
+msgstr ""
+
+#. sittoo.theareno
+#: admin-tools/src/bundle/sites.properties:211
+msgctxt "admin-tools/src/bundle/sites.properties:sittoo.theareno"
+msgid ""
+"There are no tools defined in this page. Click the 'New Tool' button to add "
+"a tool."
+msgstr ""
+
+#. sittoo.tit
+#: admin-tools/src/bundle/sites.properties:212
+msgctxt "admin-tools/src/bundle/sites.properties:sittoo.tit"
+msgid "Title:"
+msgstr "Titre:"
+
+#. sittoo.tooid
+#: admin-tools/src/bundle/sites.properties:213
+msgctxt "admin-tools/src/bundle/sites.properties:sittoo.tooid"
+msgid "Tool Id"
+msgstr "Identifiant de l'outil"
+
+#. sittoo.motoup
+#: admin-tools/src/bundle/sites.properties:214
+msgctxt "admin-tools/src/bundle/sites.properties:sittoo.motoup"
+msgid "move tool up"
+msgstr "déplacer l'outil vers le haut"
+
+#. sittoo.motodown
+#: admin-tools/src/bundle/sites.properties:215
+msgctxt "admin-tools/src/bundle/sites.properties:sittoo.motodown"
+msgid "move tool down"
+msgstr "déplacer l'outil vers le bas"
+
+#. sites.noaccess
+#: admin-tools/src/bundle/sites.properties:216
+msgctxt "admin-tools/src/bundle/sites.properties:sites.noaccess"
+msgid "You do not have permission to use this tool."
+msgstr "Vous n'avez pas la permission d'utiliser cet outil."
+
+#. sitedi.addeditpages
+#: admin-tools/src/bundle/sites.properties:217
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.addeditpages"
+msgid "Add/Edit pages"
+msgstr "Ajouter/modifier des pages"
+
+#. sitedi.addeditgroups
+#: admin-tools/src/bundle/sites.properties:218
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.addeditgroups"
+msgid "Add/Edit groups"
+msgstr "Ajouter/modifier des groupes"
+
+#. term
+#: admin-tools/src/bundle/sites.properties:219
+msgctxt "admin-tools/src/bundle/sites.properties:term"
+msgid "term"
+msgstr "semestre"
+
+#. sitedi.custom
+#: admin-tools/src/bundle/sites.properties:220
+msgctxt "admin-tools/src/bundle/sites.properties:sitedi.custom"
+msgid "Custom Page Order?:"
+msgstr "Ordre de page personnalisé ? : "
+
+#. siteTitle.htmlStrippedToEmpty
+#: admin-tools/src/bundle/sites.properties:221
+msgctxt ""
+"admin-tools/src/bundle/sites.properties:siteTitle.htmlStrippedToEmpty"
+msgid "Site title cannot contain HTML. Please provide a valid site title."
+msgstr ""
+
+#. siteTitle.maxLength
+#: admin-tools/src/bundle/sites.properties:222
+msgctxt "admin-tools/src/bundle/sites.properties:siteTitle.maxLength"
+msgid ""
+"Title length cannot exceed {0} characters. Please provide a shorter title."
+msgstr ""
+
+#. siteTitle.Empty
+#: admin-tools/src/bundle/sites.properties:223
+msgctxt "admin-tools/src/bundle/sites.properties:siteTitle.Empty"
+msgid "Please specify a site title."
+msgstr ""
+
+#. memory.notpermis
+#: admin-tools/src/bundle/memory.properties:1
+msgctxt "admin-tools/src/bundle/memory.properties:memory.notpermis"
+msgid "You do not have permission to perform this action."
+msgstr "Vous n'avez pas le droit d'accomplir cette action. "
+
+#. memory.vm.alert.nosplit
+#: admin-tools/src/bundle/memory.properties:2
+msgctxt "admin-tools/src/bundle/memory.properties:memory.vm.alert.nosplit"
+msgid "Alert: {0}"
+msgstr "Alerte : {0}"
+
+#. memory.vm.ava.nosplit
+#: admin-tools/src/bundle/memory.properties:3
+msgctxt "admin-tools/src/bundle/memory.properties:memory.vm.ava.nosplit"
+msgid "Available Memory: {0}"
+msgstr "Mémoire disponible : {0}"
+
+#. memory.vm.memory
+#: admin-tools/src/bundle/memory.properties:4
+msgctxt "admin-tools/src/bundle/memory.properties:memory.vm.memory"
+msgid "Memory"
+msgstr "Mémoire"
+
+#. memory.vm.reset
+#: admin-tools/src/bundle/memory.properties:5
+msgctxt "admin-tools/src/bundle/memory.properties:memory.vm.reset"
+msgid "Reset All Caches"
+msgstr "Réinitialiser tous les Caches"
+
+#. memory.vm.evict
+#: admin-tools/src/bundle/memory.properties:6
+msgctxt "admin-tools/src/bundle/memory.properties:memory.vm.evict"
+msgid "Evict Expired Members"
+msgstr "Purger les entrées périmées"
+
+#. memory.vm.status
+#: admin-tools/src/bundle/memory.properties:7
+msgctxt "admin-tools/src/bundle/memory.properties:memory.vm.status"
+msgid "Status"
+msgstr "Statut"
+
+#. memory.noaccess
+#: admin-tools/src/bundle/memory.properties:8
+msgctxt "admin-tools/src/bundle/memory.properties:memory.noaccess"
+msgid "You do not have permission to use this tool."
+msgstr "Vous n'avez pas la permission d'utiliser cet outil."
+
+#. gen.alert
+#: admin-tools/src/bundle/authz-tool.properties:1
+msgctxt "admin-tools/src/bundle/authz-tool.properties:gen.alert"
+msgid "Alert:"
+msgstr "Alerte :"
+
+#. gen.can
+#: admin-tools/src/bundle/authz-tool.properties:2
+msgctxt "admin-tools/src/bundle/authz-tool.properties:gen.can"
+msgid "Cancel"
+msgstr "Annuler"
+
+#. gen.sav
+#: admin-tools/src/bundle/authz-tool.properties:3
+msgctxt "admin-tools/src/bundle/authz-tool.properties:gen.sav"
+msgid "Save"
+msgstr "Enregistrer"
+
+#. gen.don
+#: admin-tools/src/bundle/authz-tool.properties:4
+msgctxt "admin-tools/src/bundle/authz-tool.properties:gen.don"
+msgid "Done"
+msgstr "Terminé"
+
+#. gen.show5
+#: admin-tools/src/bundle/authz-tool.properties:5
+msgctxt "admin-tools/src/bundle/authz-tool.properties:gen.show5"
+msgid "show 5 items..."
+msgstr "Afficher 5 éléments..."
+
+#. gen.show10
+#: admin-tools/src/bundle/authz-tool.properties:6
+msgctxt "admin-tools/src/bundle/authz-tool.properties:gen.show10"
+msgid "show 10 items..."
+msgstr "Afficher 10 éléments..."
+
+#. gen.show20
+#: admin-tools/src/bundle/authz-tool.properties:7
+msgctxt "admin-tools/src/bundle/authz-tool.properties:gen.show20"
+msgid "show 20 items..."
+msgstr "Afficher 20 éléments..."
+
+#. gen.show50
+#: admin-tools/src/bundle/authz-tool.properties:8
+msgctxt "admin-tools/src/bundle/authz-tool.properties:gen.show50"
+msgid "show 50 items..."
+msgstr "Afficher 50 éléments..."
+
+#. gen.show100
+#: admin-tools/src/bundle/authz-tool.properties:9
+msgctxt "admin-tools/src/bundle/authz-tool.properties:gen.show100"
+msgid "show 100 items..."
+msgstr "Afficher 100 éléments..."
+
+#. gen.show200
+#: admin-tools/src/bundle/authz-tool.properties:10
+msgctxt "admin-tools/src/bundle/authz-tool.properties:gen.show200"
+msgid "show 200 items...."
+msgstr "Afficher 200 éléments..."
+
+#. gen.listnavselect
+#: admin-tools/src/bundle/authz-tool.properties:11
+msgctxt "admin-tools/src/bundle/authz-tool.properties:gen.listnavselect"
+msgid ""
+"To operate the combo box, first press Alt+Down Arrow to open it, and then "
+"use the up and down arrow keys to scroll through the options."
+msgstr ""
+
+#. gen.first
+#: admin-tools/src/bundle/authz-tool.properties:12
+msgctxt "admin-tools/src/bundle/authz-tool.properties:gen.first"
+msgid "First"
+msgstr "Premier"
+
+#. gen.previous
+#: admin-tools/src/bundle/authz-tool.properties:13
+msgctxt "admin-tools/src/bundle/authz-tool.properties:gen.previous"
+msgid "Previous"
+msgstr "Précédent"
+
+#. gen.next
+#: admin-tools/src/bundle/authz-tool.properties:14
+msgctxt "admin-tools/src/bundle/authz-tool.properties:gen.next"
+msgid "Next"
+msgstr "Suivant"
+
+#. gen.last
+#: admin-tools/src/bundle/authz-tool.properties:15
+msgctxt "admin-tools/src/bundle/authz-tool.properties:gen.last"
+msgid "Last"
+msgstr "Dernier"
+
+#. gen.enable
+#: admin-tools/src/bundle/authz-tool.properties:16
+msgctxt "admin-tools/src/bundle/authz-tool.properties:gen.enable"
+msgid "Enable"
+msgstr "Activer"
+
+#. gen.back
+#: admin-tools/src/bundle/authz-tool.properties:17
+msgctxt "admin-tools/src/bundle/authz-tool.properties:gen.back"
+msgid "Back"
+msgstr "Retour"
+
+#. gen.yes
+#: admin-tools/src/bundle/authz-tool.properties:18
+msgctxt "admin-tools/src/bundle/authz-tool.properties:gen.yes"
+msgid "yes"
+msgstr "Oui"
+
+#. gen.no
+#: admin-tools/src/bundle/authz-tool.properties:19
+msgctxt "admin-tools/src/bundle/authz-tool.properties:gen.no"
+msgid "no"
+msgstr "Non"
+
+#. per.alrgra
+#: admin-tools/src/bundle/authz-tool.properties:20
+msgctxt "admin-tools/src/bundle/authz-tool.properties:per.alrgra"
+msgid "already granted"
+msgstr "déjà attribué"
+
+#. per.lis.head
+#: admin-tools/src/bundle/authz-tool.properties:21
+msgctxt "admin-tools/src/bundle/authz-tool.properties:per.lis.head"
+msgid "Permission"
+msgstr "Droits"
+
+#. per.lis.head.title
+#: admin-tools/src/bundle/authz-tool.properties:22
+msgctxt "admin-tools/src/bundle/authz-tool.properties:per.lis.head.title"
+msgid "Toggle all permissions for all roles"
+msgstr "Permuter tous les droits pour tous les rôles"
+
+#. per.lis.role.title
+#: admin-tools/src/bundle/authz-tool.properties:23
+msgctxt "admin-tools/src/bundle/authz-tool.properties:per.lis.role.title"
+msgid "Toggle all permissions for this role"
+msgstr "Permuter tous les droits pour ce rôle"
+
+#. per.lis.perm.title
+#: admin-tools/src/bundle/authz-tool.properties:24
+msgctxt "admin-tools/src/bundle/authz-tool.properties:per.lis.perm.title"
+msgid "Toggle all roles for this permission"
+msgstr "Permuter tous les rôles pour ce droit"
+
+#. per.lis.title
+#: admin-tools/src/bundle/authz-tool.properties:25
+msgctxt "admin-tools/src/bundle/authz-tool.properties:per.lis.title"
+msgid "Permissions"
+msgstr "Droits"
+
+#. per.lis
+#: admin-tools/src/bundle/authz-tool.properties:26
+msgctxt "admin-tools/src/bundle/authz-tool.properties:per.lis"
+msgid ""
+"List of roles and permissions that can be applied to this folder. Layout: "
+"each row lists the permissions of a role. Layout: column 1 lists the roles, "
+"the other columns list the permissions, checkboxes permit enabling a "
+"permission for a role."
+msgstr ""
+
+#. per.rol
+#: admin-tools/src/bundle/authz-tool.properties:27
+msgctxt "admin-tools/src/bundle/authz-tool.properties:per.rol"
+msgid "Role"
+msgstr "Rôle"
+
+#. per.alert
+#: admin-tools/src/bundle/authz-tool.properties:28
+msgctxt "admin-tools/src/bundle/authz-tool.properties:per.alert"
+msgid "Alert: no roles are defined."
+msgstr "Alerte: aucun rôle n'a été défini."
+
+#. per.lis.clearall
+#: admin-tools/src/bundle/authz-tool.properties:29
+msgctxt "admin-tools/src/bundle/authz-tool.properties:per.lis.clearall"
+msgid "Clear all"
+msgstr "Tout effacer"
+
+#. per.lis.restoredef
+#: admin-tools/src/bundle/authz-tool.properties:30
+msgctxt "admin-tools/src/bundle/authz-tool.properties:per.lis.restoredef"
+msgid "Undo changes"
+msgstr "Annuler les modifications"
+
+#. per.lis.selectgrp
+#: admin-tools/src/bundle/authz-tool.properties:31
+msgctxt "admin-tools/src/bundle/authz-tool.properties:per.lis.selectgrp"
+msgid "Set permissions for"
+msgstr "Placer les permissions pour"
+
+#. per.lis.site
+#: admin-tools/src/bundle/authz-tool.properties:32
+msgctxt "admin-tools/src/bundle/authz-tool.properties:per.lis.site"
+msgid "Site"
+msgstr "Espace"
+
+#. alert.prbset
+#: admin-tools/src/bundle/authz-tool.properties:33
+msgctxt "admin-tools/src/bundle/authz-tool.properties:alert.prbset"
+msgid ""
+"Permissions can not be set at this time because of an unknown error.Try "
+"closing permissions in other tools before proceeding."
+msgstr ""
+
+#. realm.add
+#: admin-tools/src/bundle/authz-tool.properties:34
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.add"
+msgid "Add Role"
+msgstr "Ajouter rôle"
+
+#. realm.confirm.alert
+#: admin-tools/src/bundle/authz-tool.properties:35
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.confirm.alert"
+msgid "Alert:"
+msgstr "Alerte :"
+
+#. realm.confirm.cancel
+#: admin-tools/src/bundle/authz-tool.properties:36
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.confirm.cancel"
+msgid "Cancel"
+msgstr "Annuler"
+
+#. realm.confirm.please
+#: admin-tools/src/bundle/authz-tool.properties:37
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.confirm.please"
+msgid "Please confirm the removal of this Realm:"
+msgstr "Merci de confirmer la suppression de ce domaine :"
+
+#. realm.confirm.remove
+#: admin-tools/src/bundle/authz-tool.properties:38
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.confirm.remove"
+msgid "Remove"
+msgstr "Supprimer"
+
+#. realm.confirm.usedfor
+#: admin-tools/src/bundle/authz-tool.properties:39
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.confirm.usedfor"
+msgid "Used for"
+msgstr "Employé pour"
+
+#. realm.confirm.removing
+#: admin-tools/src/bundle/authz-tool.properties:40
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.confirm.removing"
+msgid "Removing Realm..."
+msgstr "Suppression du domaine en cours..."
+
+#. realm.copyrol
+#: admin-tools/src/bundle/authz-tool.properties:41
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.copyrol"
+msgid "Copy Role..."
+msgstr "Copie du rôle en cours..."
+
+#. realm.defined
+#: admin-tools/src/bundle/authz-tool.properties:42
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.defined"
+msgid "A Role with this id ({0}) is already defined."
+msgstr "Un rôle associé à l'identifiant ({0}) a déjà été défini."
+
+#. realm.edit.active
+#: admin-tools/src/bundle/authz-tool.properties:43
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.edit.active"
+msgid "active"
+msgstr "actif"
+
+#. realm.edit.inactive
+#: admin-tools/src/bundle/authz-tool.properties:44
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.edit.inactive"
+msgid "inactive"
+msgstr "Inactif"
+
+#. realm.edit.summary
+#: admin-tools/src/bundle/authz-tool.properties:45
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.edit.summary"
+msgid "Review and modify this Realm's information."
+msgstr "Consultez et modifiez les renseignements relatifs à ce domaine."
+
+#. realm.edit.alert
+#: admin-tools/src/bundle/authz-tool.properties:46
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.edit.alert"
+msgid "Alert:"
+msgstr "Alerte :"
+
+#. realm.edit.cancel
+#: admin-tools/src/bundle/authz-tool.properties:47
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.edit.cancel"
+msgid "Cancel"
+msgstr "Annuler"
+
+#. realm.edit.complete
+#: admin-tools/src/bundle/authz-tool.properties:48
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.edit.complete"
+msgid "Complete the Realm Edit"
+msgstr "Terminer la modification du domaine"
+
+#. realm.edit.description
+#: admin-tools/src/bundle/authz-tool.properties:49
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.edit.description"
+msgid "Description"
+msgstr "Description"
+
+#. realm.edit.edit
+#: admin-tools/src/bundle/authz-tool.properties:50
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.edit.edit"
+msgid "Edit: Realm"
+msgstr "Modifier : Domaine"
+
+#. realm.edit.from
+#: admin-tools/src/bundle/authz-tool.properties:51
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.edit.from"
+msgid "From Provider"
+msgstr "Du fournisseur"
+
+#. realm.edit.id
+#: admin-tools/src/bundle/authz-tool.properties:52
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.edit.id"
+msgid "Realm Id:"
+msgstr "Identifiant du domaine :"
+
+#. realm.edit.maintain
+#: admin-tools/src/bundle/authz-tool.properties:53
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.edit.maintain"
+msgid "Maintain Role:"
+msgstr "Rôle Maintain :"
+
+#. realm.edit.noroles
+#: admin-tools/src/bundle/authz-tool.properties:54
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.edit.noroles"
+msgid "No Roles have been granted to any users."
+msgstr "Aucun rôle n'a été attribué aux utilisateurs."
+
+#. realm.edit.noroles1
+#: admin-tools/src/bundle/authz-tool.properties:55
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.edit.noroles1"
+msgid "No roles are defined."
+msgstr "Aucun rôle n'est défini."
+
+#. realm.edit.provided
+#: admin-tools/src/bundle/authz-tool.properties:56
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.edit.provided"
+msgid "provided"
+msgstr "fourni"
+
+#. realm.edit.provider
+#: admin-tools/src/bundle/authz-tool.properties:57
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.edit.provider"
+msgid "Provider Id:"
+msgstr "Identifiant du fournisseur :"
+
+#. realm.edit.realm
+#: admin-tools/src/bundle/authz-tool.properties:58
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.edit.realm"
+msgid "Realm"
+msgstr "Domaine"
+
+#. realm.edit.review
+#: admin-tools/src/bundle/authz-tool.properties:59
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.edit.review"
+msgid "Review and modify this Realm's information."
+msgstr "Consultez et modifiez les renseignements relatifs à ce domaine."
+
+#. realm.edit.role
+#: admin-tools/src/bundle/authz-tool.properties:60
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.edit.role"
+msgid "Role"
+msgstr "Rôle"
+
+#. realm.edit.status
+#: admin-tools/src/bundle/authz-tool.properties:61
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.edit.status"
+msgid "Status"
+msgstr "Statut"
+
+#. realm.edit.roleid
+#: admin-tools/src/bundle/authz-tool.properties:62
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.edit.roleid"
+msgid "Role Id"
+msgstr "Identifiant du rôle"
+
+#. realm.edit.roles
+#: admin-tools/src/bundle/authz-tool.properties:63
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.edit.roles"
+msgid "Roles"
+msgstr "Rôles"
+
+#. realm.edit.roles.list.summary
+#: admin-tools/src/bundle/authz-tool.properties:64
+msgctxt ""
+"admin-tools/src/bundle/authz-tool.properties:realm.edit.roles.list.summary"
+msgid "List of Roles. First column role ids, second column description."
+msgstr "Liste des rôles. La première colonne contient les identifiants de rôles et la seconde la description du rôle."
+
+#. realm.edit.save
+#: admin-tools/src/bundle/authz-tool.properties:65
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.edit.save"
+msgid "Save"
+msgstr "Enregistrer"
+
+#. realm.edit.these
+#: admin-tools/src/bundle/authz-tool.properties:66
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.edit.these"
+msgid ""
+"These are the Roles granted to individual users in this Realm.  Click on an "
+"Id to edit."
+msgstr ""
+
+#. realm.edit.these1
+#: admin-tools/src/bundle/authz-tool.properties:67
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.edit.these1"
+msgid ""
+"These are the Roles defined within this Realm.  Click on an Id to edit."
+msgstr ""
+
+#. realm.edit.used
+#: admin-tools/src/bundle/authz-tool.properties:68
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.edit.used"
+msgid "Used for"
+msgstr "Employé pour"
+
+#. realm.edit.userid
+#: admin-tools/src/bundle/authz-tool.properties:69
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.edit.userid"
+msgid "User Id"
+msgstr "Identifiant de l'utilisateur"
+
+#. realm.edit.users
+#: admin-tools/src/bundle/authz-tool.properties:70
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.edit.users"
+msgid "Users"
+msgstr "Utilisateurs"
+
+#. realm.edit.users.list.summary
+#: admin-tools/src/bundle/authz-tool.properties:71
+msgctxt ""
+"admin-tools/src/bundle/authz-tool.properties:realm.edit.users.list.summary"
+msgid ""
+"List of users. First column contains user ids, second column contains "
+"description, third column contains status, fourth column contains the "
+"provider."
+msgstr ""
+
+#. realm.grant
+#: admin-tools/src/bundle/authz-tool.properties:72
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.grant"
+msgid "Grant Ability"
+msgstr "Accorder la possibilité"
+
+#. realm.idinvalid
+#: admin-tools/src/bundle/authz-tool.properties:73
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.idinvalid"
+msgid "The realm id is invalid"
+msgstr "Identifiant de domaine non valide"
+
+#. realm.iduse
+#: admin-tools/src/bundle/authz-tool.properties:74
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.iduse"
+msgid "The realm id is already in use"
+msgstr "Identifiant de domaine déjà utilisé"
+
+#. realm.list.alert
+#: admin-tools/src/bundle/authz-tool.properties:75
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.list.alert"
+msgid "Alert:"
+msgstr "Alerte :"
+
+#. realm.list.summary
+#: admin-tools/src/bundle/authz-tool.properties:76
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.list.summary"
+msgid ""
+"List of Realms. First column Realm ID, second provider ID, third Maintain "
+"Role"
+msgstr ""
+
+#. realm.list.maintain
+#: admin-tools/src/bundle/authz-tool.properties:77
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.list.maintain"
+msgid "Maintain Role"
+msgstr "Rôle de type Maintain"
+
+#. realm.list.norealms
+#: admin-tools/src/bundle/authz-tool.properties:78
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.list.norealms"
+msgid "No realms are defined that meet the search criteria."
+msgstr "Aucun domaine correspondant aux critères de recherche n'est défini."
+
+#. realm.list.provide
+#: admin-tools/src/bundle/authz-tool.properties:79
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.list.provide"
+msgid "Provider Id"
+msgstr "identifiant du fournisseur"
+
+#. realm.list.realmid
+#: admin-tools/src/bundle/authz-tool.properties:80
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.list.realmid"
+msgid "Realm Id"
+msgstr "Identifiant du domaine"
+
+#. realm.list.these
+#: admin-tools/src/bundle/authz-tool.properties:81
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.list.these"
+msgid ""
+"These are the Realms defined within the system that meet the search "
+"criteria.  Click on an Id to edit."
+msgstr ""
+
+#. realm.list.used
+#: admin-tools/src/bundle/authz-tool.properties:82
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.list.used"
+msgid "Used for"
+msgstr "Employé pour"
+
+#. realm.list.youare
+#: admin-tools/src/bundle/authz-tool.properties:83
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.list.youare"
+msgid "You are viewing "
+msgstr "Vous consultez "
+
+#. realm.list.of
+#: admin-tools/src/bundle/authz-tool.properties:84
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.list.of"
+msgid "of"
+msgstr "de"
+
+#. realm.list.results
+#: admin-tools/src/bundle/authz-tool.properties:85
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.list.results"
+msgid "results."
+msgstr "résultats."
+
+#. realm.new
+#: admin-tools/src/bundle/authz-tool.properties:86
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.new"
+msgid "New Realm"
+msgstr "Nouveau domaine"
+
+#. realm.notfound
+#: admin-tools/src/bundle/authz-tool.properties:87
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.notfound"
+msgid "Realm {0} not found"
+msgstr "Domaine {0} introuvable"
+
+#. realm.notpermis
+#: admin-tools/src/bundle/authz-tool.properties:88
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.notpermis"
+msgid "You do not have permission to create this Realm"
+msgstr "Vous n'êtes pas autorisé à créer ce domaine"
+
+#. realm.notpermis1
+#: admin-tools/src/bundle/authz-tool.properties:89
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.notpermis1"
+msgid "You do not have permission to edit Realm"
+msgstr "Vous n'êtes pas autorisé à modifier le domaine"
+
+#. realm.notpermis2
+#: admin-tools/src/bundle/authz-tool.properties:90
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.notpermis2"
+msgid "You do not have permission to remove Realm {0}"
+msgstr "Vous n'êtes pas autorisé à supprimer le domaine {0}"
+
+#. realm.notpermis3
+#: admin-tools/src/bundle/authz-tool.properties:91
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.notpermis3"
+msgid "You do not have permission to edit this Realm"
+msgstr "Vous n'êtes pas autorisé à modifier ce domaine"
+
+#. realm.please
+#: admin-tools/src/bundle/authz-tool.properties:92
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.please"
+msgid "Please enter a Role id."
+msgstr "Veuillez indiquer un identifiant de rôle."
+
+#. realm.realm
+#: admin-tools/src/bundle/authz-tool.properties:93
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.realm"
+msgid "Realm"
+msgstr "Domaine"
+
+#. realm.remove
+#: admin-tools/src/bundle/authz-tool.properties:94
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.remove"
+msgid "Remove Realm"
+msgstr "Supprimer le domaine"
+
+#. realm.removeall
+#: admin-tools/src/bundle/authz-tool.properties:95
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.removeall"
+msgid "Remove All"
+msgstr "Tout supprimer"
+
+#. realm.removerol
+#: admin-tools/src/bundle/authz-tool.properties:96
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.removerol"
+msgid "Remove Role"
+msgstr "Supprimer le rôle"
+
+#. realm.role
+#: admin-tools/src/bundle/authz-tool.properties:97
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.role"
+msgid "Add Role"
+msgstr "Ajouter rôle"
+
+#. realm.role.alert
+#: admin-tools/src/bundle/authz-tool.properties:98
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.role.alert"
+msgid "Alert:"
+msgstr "Alerte :"
+
+#. realm.role.cancel
+#: admin-tools/src/bundle/authz-tool.properties:99
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.role.cancel"
+msgid "Cancel"
+msgstr "Annuler"
+
+#. realm.role.complete
+#: admin-tools/src/bundle/authz-tool.properties:100
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.role.complete"
+msgid "Complete the Realm Edit"
+msgstr "Terminer la modification du domaine"
+
+#. realm.role.continue
+#: admin-tools/src/bundle/authz-tool.properties:101
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.role.continue"
+msgid "Continue Editing"
+msgstr "Continuer la modification"
+
+#. realm.role.description
+#: admin-tools/src/bundle/authz-tool.properties:102
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.role.description"
+msgid "Description:"
+msgstr "Description :"
+
+#. realm.role.done
+#: admin-tools/src/bundle/authz-tool.properties:103
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.role.done"
+msgid "Done"
+msgstr "Terminé"
+
+#. realm.role.edit
+#: admin-tools/src/bundle/authz-tool.properties:104
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.role.edit"
+msgid "Edit: Realm"
+msgstr "Modifier : Domaine"
+
+#. realm.role.functions
+#: admin-tools/src/bundle/authz-tool.properties:105
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.role.functions"
+msgid "Functions"
+msgstr "Fonctions"
+
+#. realm.role.functions2
+#: admin-tools/src/bundle/authz-tool.properties:106
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.role.functions2"
+msgid "Functions:"
+msgstr "Fonctions :"
+
+#. realm.role.id
+#: admin-tools/src/bundle/authz-tool.properties:107
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.role.id"
+msgid "Role Id:"
+msgstr "Identifiant du rôle :"
+
+#. realm.role.role
+#: admin-tools/src/bundle/authz-tool.properties:108
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.role.role"
+msgid "Role"
+msgstr "Rôle"
+
+#. realm.role.save
+#: admin-tools/src/bundle/authz-tool.properties:109
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.role.save"
+msgid "Save"
+msgstr "Enregistrer"
+
+#. realm.role.used
+#: admin-tools/src/bundle/authz-tool.properties:110
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.role.used"
+msgid "Used for"
+msgstr "Employé pour"
+
+#. realm.role.set
+#: admin-tools/src/bundle/authz-tool.properties:111
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.role.set"
+msgid "Set the Functions for this Role."
+msgstr "Définissez les fonctions associées à ce rôle."
+
+#. realm.role.group
+#: admin-tools/src/bundle/authz-tool.properties:112
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.role.group"
+msgid "Should this role be limited to the group provider only?"
+msgstr "Faut-il limiter ce rôle au fournisseur du groupe uniquement ?"
+
+#. realm.save
+#: admin-tools/src/bundle/authz-tool.properties:113
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.save"
+msgid "Save As"
+msgstr "Enregistrer sous"
+
+#. realm.saveas.alert
+#: admin-tools/src/bundle/authz-tool.properties:114
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.saveas.alert"
+msgid "Alert:"
+msgstr "Alerte :"
+
+#. realm.saveas.cancel
+#: admin-tools/src/bundle/authz-tool.properties:115
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.saveas.cancel"
+msgid "Cancel"
+msgstr "Annuler"
+
+#. realm.saveas.copy
+#: admin-tools/src/bundle/authz-tool.properties:116
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.saveas.copy"
+msgid "Copy Role"
+msgstr "Copier le rôle"
+
+#. realm.saveas.enter
+#: admin-tools/src/bundle/authz-tool.properties:117
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.saveas.enter"
+msgid ""
+"Enter a new Role id to create a new role that is a copy of the selected "
+"Role."
+msgstr ""
+
+#. realm.saveas.enter1
+#: admin-tools/src/bundle/authz-tool.properties:118
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.saveas.enter1"
+msgid ""
+"Enter a new realm id to create a new realm that is a copy of the selected "
+"realm."
+msgstr ""
+
+#. realm.saveas.realm
+#: admin-tools/src/bundle/authz-tool.properties:119
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.saveas.realm"
+msgid "Realm"
+msgstr "Domaine"
+
+#. realm.saveas.realmid
+#: admin-tools/src/bundle/authz-tool.properties:120
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.saveas.realmid"
+msgid "Realm Id:"
+msgstr "Identifiant du domaine :"
+
+#. realm.saveas.role
+#: admin-tools/src/bundle/authz-tool.properties:121
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.saveas.role"
+msgid "Role"
+msgstr "Rôle"
+
+#. realm.saveas.roleid
+#: admin-tools/src/bundle/authz-tool.properties:122
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.saveas.roleid"
+msgid "Role Id:"
+msgstr "Identifiant du rôle :"
+
+#. realm.saveas.save
+#: admin-tools/src/bundle/authz-tool.properties:123
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.saveas.save"
+msgid "Save"
+msgstr "Enregistrer"
+
+#. realm.saveas.saveas
+#: admin-tools/src/bundle/authz-tool.properties:124
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.saveas.saveas"
+msgid "Save as..."
+msgstr "Enregistrer sous..."
+
+#. realm.someone
+#: admin-tools/src/bundle/authz-tool.properties:125
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.someone"
+msgid "Someone else is currently editing this Realm:"
+msgstr "Un autre utilisateur modifie actuellement ce domaine :"
+
+#. realm.user
+#: admin-tools/src/bundle/authz-tool.properties:126
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.user"
+msgid "User id not found."
+msgstr "Identifiant de l'utilisateur introuvable."
+
+#. realm.user.alert
+#: admin-tools/src/bundle/authz-tool.properties:127
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.user.alert"
+msgid "Alert:"
+msgstr "Alerte :"
+
+#. realm.user.cancel
+#: admin-tools/src/bundle/authz-tool.properties:128
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.user.cancel"
+msgid "Cancel"
+msgstr "Annuler"
+
+#. realm.user.complete
+#: admin-tools/src/bundle/authz-tool.properties:129
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.user.complete"
+msgid "Complete the Realm Edit"
+msgstr "Terminer la modification du domaine"
+
+#. realm.user.continue
+#: admin-tools/src/bundle/authz-tool.properties:130
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.user.continue"
+msgid "Continue Editing"
+msgstr "Continuer la modification"
+
+#. realm.user.done
+#: admin-tools/src/bundle/authz-tool.properties:131
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.user.done"
+msgid "Done"
+msgstr "Terminé"
+
+#. realm.user.edit
+#: admin-tools/src/bundle/authz-tool.properties:132
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.user.edit"
+msgid "Edit: Realm"
+msgstr "Modifier : Domaine"
+
+#. realm.user.id
+#: admin-tools/src/bundle/authz-tool.properties:133
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.user.id"
+msgid "User Id:"
+msgstr "Identifiant de l'utilisateur :"
+
+#. realm.user.role
+#: admin-tools/src/bundle/authz-tool.properties:134
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.user.role"
+msgid "Role"
+msgstr "Rôle"
+
+#. realm.user.role2
+#: admin-tools/src/bundle/authz-tool.properties:135
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.user.role2"
+msgid "Role:"
+msgstr "Rôle:"
+
+#. realm.user.save
+#: admin-tools/src/bundle/authz-tool.properties:136
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.user.save"
+msgid "Save"
+msgstr "Enregistrer"
+
+#. realm.user.set
+#: admin-tools/src/bundle/authz-tool.properties:137
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.user.set"
+msgid "Set the Role for this User."
+msgstr "Affectez le rôle à cet utilisateur."
+
+#. realm.user.used
+#: admin-tools/src/bundle/authz-tool.properties:138
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.user.used"
+msgid "Used for"
+msgstr "Employé pour"
+
+#. realm.user.user
+#: admin-tools/src/bundle/authz-tool.properties:139
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.user.user"
+msgid "User Role"
+msgstr "Rôle de l'utilisateur"
+
+#. realm.user.notfound
+#: admin-tools/src/bundle/authz-tool.properties:140
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.user.notfound"
+msgid "Internal error: user not found."
+msgstr "Erreur interne : utilisateur introuvable."
+
+#. realm.noaccess
+#: admin-tools/src/bundle/authz-tool.properties:141
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.noaccess"
+msgid "You do not have permission to use this tool."
+msgstr "Vous n'avez pas la permission d'utiliser cet outil."
+
+#. realm.view.active
+#: admin-tools/src/bundle/authz-tool.properties:142
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.view.active"
+msgid "active"
+msgstr "actif"
+
+#. realm.view.description
+#: admin-tools/src/bundle/authz-tool.properties:143
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.view.description"
+msgid "Description"
+msgstr "Description"
+
+#. realm.view.view
+#: admin-tools/src/bundle/authz-tool.properties:144
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.view.view"
+msgid "View: Realm"
+msgstr "Voir : domaine"
+
+#. realm.view.realm
+#: admin-tools/src/bundle/authz-tool.properties:145
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.view.realm"
+msgid "Realm"
+msgstr "Domaine"
+
+#. realm.view.review
+#: admin-tools/src/bundle/authz-tool.properties:146
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.view.review"
+msgid "Review this Realm's information."
+msgstr "Revoir les informations du domaine."
+
+#. realm.view.from
+#: admin-tools/src/bundle/authz-tool.properties:147
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.view.from"
+msgid "From Provider"
+msgstr "Du fournisseur"
+
+#. realm.view.id
+#: admin-tools/src/bundle/authz-tool.properties:148
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.view.id"
+msgid "Realm Id:"
+msgstr "Identifiant du domaine :"
+
+#. realm.view.maintain
+#: admin-tools/src/bundle/authz-tool.properties:149
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.view.maintain"
+msgid "Maintain Role:"
+msgstr "Rôle Maintain :"
+
+#. realm.view.used
+#: admin-tools/src/bundle/authz-tool.properties:150
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.view.used"
+msgid "Used for"
+msgstr "Employé pour"
+
+#. realm.view.these
+#: admin-tools/src/bundle/authz-tool.properties:151
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.view.these"
+msgid ""
+"These are the Roles granted to individual users in this Realm.  Click on an "
+"Id to view."
+msgstr ""
+
+#. realm.view.these1
+#: admin-tools/src/bundle/authz-tool.properties:152
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.view.these1"
+msgid ""
+"These are the Roles defined within this Realm.  Click on an Id to view."
+msgstr ""
+
+#. realm.view.userid
+#: admin-tools/src/bundle/authz-tool.properties:153
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.view.userid"
+msgid "User Id"
+msgstr "Identifiant de l'utilisateur"
+
+#. realm.view.users
+#: admin-tools/src/bundle/authz-tool.properties:154
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.view.users"
+msgid "Users"
+msgstr "Utilisateurs"
+
+#. realm.view.users.list.summary
+#: admin-tools/src/bundle/authz-tool.properties:155
+msgctxt ""
+"admin-tools/src/bundle/authz-tool.properties:realm.view.users.list.summary"
+msgid ""
+"List of users. First column contains user ids, second column contains "
+"description, third column contains status, fourth column contains the "
+"provider."
+msgstr ""
+
+#. realm.view.status
+#: admin-tools/src/bundle/authz-tool.properties:156
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.view.status"
+msgid "Status"
+msgstr "Statut"
+
+#. realm.view.roleid
+#: admin-tools/src/bundle/authz-tool.properties:157
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.view.roleid"
+msgid "Role Id"
+msgstr "Identifiant du rôle"
+
+#. realm.view.roles
+#: admin-tools/src/bundle/authz-tool.properties:158
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.view.roles"
+msgid "Roles"
+msgstr "Rôles"
+
+#. realm.view.roles.list.summary
+#: admin-tools/src/bundle/authz-tool.properties:159
+msgctxt ""
+"admin-tools/src/bundle/authz-tool.properties:realm.view.roles.list.summary"
+msgid "List of Roles. First column role ids, second column description."
+msgstr "Liste des rôles. La première colonne contient les identifiants de rôles et la seconde la description du rôle."
+
+#. realm.view.noroles
+#: admin-tools/src/bundle/authz-tool.properties:160
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.view.noroles"
+msgid "No Roles have been granted to any users."
+msgstr "Aucun rôle n'a été attribué aux utilisateurs."
+
+#. realm.view.noroles1
+#: admin-tools/src/bundle/authz-tool.properties:161
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.view.noroles1"
+msgid "No roles are defined."
+msgstr "Aucun rôle n'est défini."
+
+#. realm.view.provided
+#: admin-tools/src/bundle/authz-tool.properties:162
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.view.provided"
+msgid "provided"
+msgstr "fourni"
+
+#. realm.view.provider
+#: admin-tools/src/bundle/authz-tool.properties:163
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.view.provider"
+msgid "Provider Id:"
+msgstr "Identifiant du fournisseur :"
+
+#. realm.role.view
+#: admin-tools/src/bundle/authz-tool.properties:164
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.role.view"
+msgid "View the Functions for this Role."
+msgstr "Voir les fonctions de ce rôle."
+
+#. realm.role.group.view
+#: admin-tools/src/bundle/authz-tool.properties:165
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.role.group.view"
+msgid "Is this role be limited to the group provider only?"
+msgstr "Ce rôle est-il restreint exclusivement au fournisseur du groupe ?"
+
+#. realm.view.back
+#: admin-tools/src/bundle/authz-tool.properties:166
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.view.back"
+msgid "Cancel"
+msgstr "Annuler"
+
+#. realm.noProviderIdFound
+#: admin-tools/src/bundle/authz-tool.properties:167
+msgctxt "admin-tools/src/bundle/authz-tool.properties:realm.noProviderIdFound"
+msgid "No course section found with Provider Id: {0}"
+msgstr "Aucune section de cours trouvée avec l'identifiant de fournisseur: {0}"
+
+#. reasav.alert
+#: admin-tools/src/bundle/authz-tool.properties:168
+msgctxt "admin-tools/src/bundle/authz-tool.properties:reasav.alert"
+msgid "Alert:"
+msgstr "Alerte :"
+
+#. reasav.can
+#: admin-tools/src/bundle/authz-tool.properties:169
+msgctxt "admin-tools/src/bundle/authz-tool.properties:reasav.can"
+msgid "Cancel"
+msgstr "Annuler"
+
+#. reasav.entanew2
+#: admin-tools/src/bundle/authz-tool.properties:170
+msgctxt "admin-tools/src/bundle/authz-tool.properties:reasav.entanew2"
+msgid "Enter a new Realm id."
+msgstr "Saisissez un nouvel identifiant de domaine."
+
+#. reasav.entnew
+#: admin-tools/src/bundle/authz-tool.properties:171
+msgctxt "admin-tools/src/bundle/authz-tool.properties:reasav.entnew"
+msgid ""
+"Enter a new realm id to create a new realm that is a copy of the selected "
+"realm."
+msgstr ""
+
+#. reasav.reaid
+#: admin-tools/src/bundle/authz-tool.properties:172
+msgctxt "admin-tools/src/bundle/authz-tool.properties:reasav.reaid"
+msgid "Realm Id:"
+msgstr "Identifiant du domaine :"
+
+#. reasav.realm
+#: admin-tools/src/bundle/authz-tool.properties:173
+msgctxt "admin-tools/src/bundle/authz-tool.properties:reasav.realm"
+msgid "Realm"
+msgstr "Domaine"
+
+#. reasav.sav
+#: admin-tools/src/bundle/authz-tool.properties:174
+msgctxt "admin-tools/src/bundle/authz-tool.properties:reasav.sav"
+msgid "Save"
+msgstr "Enregistrer"
+
+#. reasav.savas
+#: admin-tools/src/bundle/authz-tool.properties:175
+msgctxt "admin-tools/src/bundle/authz-tool.properties:reasav.savas"
+msgid "Save As ..."
+msgstr "Enregistrer sous..."
+
+#. reasavrol.alert
+#: admin-tools/src/bundle/authz-tool.properties:176
+msgctxt "admin-tools/src/bundle/authz-tool.properties:reasavrol.alert"
+msgid "Alert:"
+msgstr "Alerte :"
+
+#. reasavrol.can
+#: admin-tools/src/bundle/authz-tool.properties:177
+msgctxt "admin-tools/src/bundle/authz-tool.properties:reasavrol.can"
+msgid "Cancel"
+msgstr "Annuler"
+
+#. reasavrol.coprol
+#: admin-tools/src/bundle/authz-tool.properties:178
+msgctxt "admin-tools/src/bundle/authz-tool.properties:reasavrol.coprol"
+msgid "Copy Role"
+msgstr "Copier le rôle"
+
+#. reasavrol.entanew
+#: admin-tools/src/bundle/authz-tool.properties:179
+msgctxt "admin-tools/src/bundle/authz-tool.properties:reasavrol.entanew"
+msgid ""
+"Enter a new Role id to create a new role that is a copy of the selected "
+"Role."
+msgstr ""
+
+#. reasavrol.entanew2
+#: admin-tools/src/bundle/authz-tool.properties:180
+msgctxt "admin-tools/src/bundle/authz-tool.properties:reasavrol.entanew2"
+msgid "Enter a new Role id."
+msgstr "Saisissez un nouvel identifiant de rôle."
+
+#. reasavrol.rolid
+#: admin-tools/src/bundle/authz-tool.properties:181
+msgctxt "admin-tools/src/bundle/authz-tool.properties:reasavrol.rolid"
+msgid "Role Id:"
+msgstr "Identifiant du rôle :"
+
+#. reasavrol.sav
+#: admin-tools/src/bundle/authz-tool.properties:182
+msgctxt "admin-tools/src/bundle/authz-tool.properties:reasavrol.sav"
+msgid "Save"
+msgstr "Enregistrer"
+
+#. desc-annc.new
+#: admin-tools/src/bundle/authz-tool.properties:183
+msgctxt "admin-tools/src/bundle/authz-tool.properties:desc-annc.new"
+msgid "Create announcements"
+msgstr "Créer des annonces"
+
+#. desc-annc.read
+#: admin-tools/src/bundle/authz-tool.properties:184
+msgctxt "admin-tools/src/bundle/authz-tool.properties:desc-annc.read"
+msgid "Read announcements"
+msgstr "Lire des annonces"
+
+#. desc-annc.revise.any
+#: admin-tools/src/bundle/authz-tool.properties:185
+msgctxt "admin-tools/src/bundle/authz-tool.properties:desc-annc.revise.any"
+msgid "Edit all announcements"
+msgstr "Modifier toutes les annonces"
+
+#. desc-annc.revise.own
+#: admin-tools/src/bundle/authz-tool.properties:186
+msgctxt "admin-tools/src/bundle/authz-tool.properties:desc-annc.revise.own"
+msgid "Edit own announcements"
+msgstr "Modifier ses propres annonces"
+
+#. desc-annc.delete.any
+#: admin-tools/src/bundle/authz-tool.properties:187
+msgctxt "admin-tools/src/bundle/authz-tool.properties:desc-annc.delete.any"
+msgid "Delete all announcements"
+msgstr "Supprimer toutes les annonces"
+
+#. desc-annc.delete.own
+#: admin-tools/src/bundle/authz-tool.properties:188
+msgctxt "admin-tools/src/bundle/authz-tool.properties:desc-annc.delete.own"
+msgid "Delete own announcements"
+msgstr "Supprimer ses propres annonces"
+
+#. desc-annc.read.drafts
+#: admin-tools/src/bundle/authz-tool.properties:189
+msgctxt "admin-tools/src/bundle/authz-tool.properties:desc-annc.read.drafts"
+msgid "Read all draft announcements"
+msgstr "Lire tous les brouillons d'annonces"
+
+#. desc-annc.all.groups
+#: admin-tools/src/bundle/authz-tool.properties:190
+msgctxt "admin-tools/src/bundle/authz-tool.properties:desc-annc.all.groups"
+msgid "Access all group announcements"
+msgstr "Accéder à toutes les annonces de groupe"
+
+#. alert_sitegroupnotdefined
+#: admin-tools/src/bundle/authz-tool.properties:191
+msgctxt ""
+"admin-tools/src/bundle/authz-tool.properties:alert_sitegroupnotdefined"
+msgid "Cannot find site/group with reference ''{0}''."
+msgstr ""
+
+#. alert_permission
+#: admin-tools/src/bundle/authz-tool.properties:192
+msgctxt "admin-tools/src/bundle/authz-tool.properties:alert_permission"
+msgid "You don''t have permission to change permission settings for ''{0}''."
+msgstr ""
+
+#. useact.newuse
+#: admin-tools/src/bundle/users.properties:1
+msgctxt "admin-tools/src/bundle/users.properties:useact.newuse"
+msgid "New User"
+msgstr "Nouvel utilisateur"
+
+#. useact.remuse
+#: admin-tools/src/bundle/users.properties:2
+msgctxt "admin-tools/src/bundle/users.properties:useact.remuse"
+msgid "Remove User"
+msgstr "Supprimer Utilisateur"
+
+#. useact.remuse.list.summary
+#: admin-tools/src/bundle/users.properties:3
+msgctxt "admin-tools/src/bundle/users.properties:useact.remuse.list.summary"
+msgid ""
+"List of users to be removed. First column: user ID. Second column: user "
+"name. Third column: user email."
+msgstr ""
+
+#. useact.theuseid1
+#: admin-tools/src/bundle/users.properties:4
+msgctxt "admin-tools/src/bundle/users.properties:useact.theuseid1"
+msgid "The user id is already in use"
+msgstr "L'identifiant de l'utilisateur est déjà utilisé"
+
+#. useact.theuseemail1
+#: admin-tools/src/bundle/users.properties:5
+msgctxt "admin-tools/src/bundle/users.properties:useact.theuseemail1"
+msgid "The user email is already in use"
+msgstr "L'email de l'utilisateur est déjà utilisé"
+
+#. useact.theuseid2
+#: admin-tools/src/bundle/users.properties:6
+msgctxt "admin-tools/src/bundle/users.properties:useact.theuseid2"
+msgid "The user id is invalid"
+msgstr "L'identifiant de l'utilisateur est invalide"
+
+#. useact.use_notfou
+#: admin-tools/src/bundle/users.properties:7
+msgctxt "admin-tools/src/bundle/users.properties:useact.use_notfou"
+msgid "User {0} not found"
+msgstr "Utilisateur {0} introuvable"
+
+#. useact.youdonot1
+#: admin-tools/src/bundle/users.properties:8
+msgctxt "admin-tools/src/bundle/users.properties:useact.youdonot1"
+msgid "You do not have permission to edit User {0}"
+msgstr "Vous n'avez pas le droit d'éditer l'utilisateur {0}"
+
+#. useact.youdonot2
+#: admin-tools/src/bundle/users.properties:9
+msgctxt "admin-tools/src/bundle/users.properties:useact.youdonot2"
+msgid "You do not have permission to remove User {0}"
+msgstr "Vous n'avez pas le droit de supprimer l'utilisateur {0}"
+
+#. useact.youdonot3
+#: admin-tools/src/bundle/users.properties:10
+msgctxt "admin-tools/src/bundle/users.properties:useact.youdonot3"
+msgid "You do not have permission to edit this User"
+msgstr "Vous n'avez pas le droit d'éditer cet utilisateur"
+
+#. useact.youdonot4
+#: admin-tools/src/bundle/users.properties:11
+msgctxt "admin-tools/src/bundle/users.properties:useact.youdonot4"
+msgid "Only admins can change information for admin users"
+msgstr "Seuls les administrateurs peuvent modifier les informations concernant les utilisateurs administrateurs"
+
+#. useact.couldnot
+#: admin-tools/src/bundle/users.properties:12
+msgctxt "admin-tools/src/bundle/users.properties:useact.couldnot"
+msgid "Could not remove user {0} from realm {1}"
+msgstr "Impossible de supprimer l'utilisateur {0} du domaine {1}"
+
+#. useact.tryloginagain
+#: admin-tools/src/bundle/users.properties:13
+msgctxt "admin-tools/src/bundle/users.properties:useact.tryloginagain"
+msgid ""
+"Account created, but unable to process the login.  Please try to login "
+"again."
+msgstr ""
+
+#. useact.invemail
+#: admin-tools/src/bundle/users.properties:14
+msgctxt "admin-tools/src/bundle/users.properties:useact.invemail"
+msgid "The email address is invalid"
+msgstr "Cette adresse de courriel est invalide"
+
+#. useact.capterr
+#: admin-tools/src/bundle/users.properties:15
+msgctxt "admin-tools/src/bundle/users.properties:useact.capterr"
+msgid "There was a problem with the captcha."
+msgstr "Un problème est survenu avec le captcha."
+
+#. useact.search
+#: admin-tools/src/bundle/users.properties:16
+msgctxt "admin-tools/src/bundle/users.properties:useact.search"
+msgid "Search for users"
+msgstr "Recherche d'utilisateurs"
+
+#. useconrem.alert
+#: admin-tools/src/bundle/users.properties:17
+msgctxt "admin-tools/src/bundle/users.properties:useconrem.alert"
+msgid "Alert:"
+msgstr "Alerte :"
+
+#. useconrem.can
+#: admin-tools/src/bundle/users.properties:18
+msgctxt "admin-tools/src/bundle/users.properties:useconrem.can"
+msgid "Cancel"
+msgstr "Annuler"
+
+#. usecre.firnam
+#: admin-tools/src/bundle/users.properties:19
+msgctxt "admin-tools/src/bundle/users.properties:usecre.firnam"
+msgid "First Name"
+msgstr "Prénom"
+
+#. usecre.lasnam
+#: admin-tools/src/bundle/users.properties:20
+msgctxt "admin-tools/src/bundle/users.properties:usecre.lasnam"
+msgid "Last Name"
+msgstr "Nom"
+
+#. useconrem.nam
+#: admin-tools/src/bundle/users.properties:21
+msgctxt "admin-tools/src/bundle/users.properties:useconrem.nam"
+msgid "Name"
+msgstr "Nom"
+
+#. useedi.cre
+#: admin-tools/src/bundle/users.properties:22
+msgctxt "admin-tools/src/bundle/users.properties:useedi.cre"
+msgid "Created"
+msgstr "Créé le"
+
+#. useedi.creby
+#: admin-tools/src/bundle/users.properties:23
+msgctxt "admin-tools/src/bundle/users.properties:useedi.creby"
+msgid "Created By"
+msgstr "Créé par"
+
+#. useconrem.useid
+#: admin-tools/src/bundle/users.properties:24
+msgctxt "admin-tools/src/bundle/users.properties:useconrem.useid"
+msgid "User Id"
+msgstr "Identifiant de l'utilisateur"
+
+#. useconrem.useuid
+#: admin-tools/src/bundle/users.properties:25
+msgctxt "admin-tools/src/bundle/users.properties:useconrem.useuid"
+msgid "Internal Id"
+msgstr "Identifiant interne"
+
+#. useact.somels
+#: admin-tools/src/bundle/users.properties:26
+msgctxt "admin-tools/src/bundle/users.properties:useact.somels"
+msgid "Someone else is currently editing this User: {0}"
+msgstr "Quelqu'un d'autre est en train d'éditer cet utilisateur : {0}"
+
+#. useedi.mod
+#: admin-tools/src/bundle/users.properties:27
+msgctxt "admin-tools/src/bundle/users.properties:useedi.mod"
+msgid "Modified"
+msgstr "Modifié le"
+
+#. useedi.modby
+#: admin-tools/src/bundle/users.properties:28
+msgctxt "admin-tools/src/bundle/users.properties:useedi.modby"
+msgid "Modified By"
+msgstr "Modifié par"
+
+#. usecre.typ
+#: admin-tools/src/bundle/users.properties:29
+msgctxt "admin-tools/src/bundle/users.properties:usecre.typ"
+msgid "Type"
+msgstr "Type"
+
+#. usecre.status
+#: admin-tools/src/bundle/users.properties:30
+msgctxt "admin-tools/src/bundle/users.properties:usecre.status"
+msgid "Status"
+msgstr "Statut"
+
+#. usecre.vercurpass
+#: admin-tools/src/bundle/users.properties:31
+msgctxt "admin-tools/src/bundle/users.properties:usecre.vercurpass"
+msgid "Enter Current Password"
+msgstr "Saisir le mot de passe actuel"
+
+#. usecre.crenewpass
+#: admin-tools/src/bundle/users.properties:32
+msgctxt "admin-tools/src/bundle/users.properties:usecre.crenewpass"
+msgid "Create New Password"
+msgstr "Créer le nouveau mot de passe"
+
+#. usecre.vernewpass
+#: admin-tools/src/bundle/users.properties:33
+msgctxt "admin-tools/src/bundle/users.properties:usecre.vernewpass"
+msgid "Verify New Password"
+msgstr "Confirmer le nouveau mot de passe"
+
+#. useconrem.ema
+#: admin-tools/src/bundle/users.properties:34
+msgctxt "admin-tools/src/bundle/users.properties:useconrem.ema"
+msgid "Email"
+msgstr "Courriel"
+
+#. usecre.disableFailed
+#: admin-tools/src/bundle/users.properties:35
+msgctxt "admin-tools/src/bundle/users.properties:usecre.disableFailed"
+msgid "The new user was created, but the Disabled Proerty was not set."
+msgstr "Le nouvel utilisateur a été créé, mais la propriété ''Disabled'' n'a pas été enregistrée."
+
+#. useconrem.permdel
+#: admin-tools/src/bundle/users.properties:36
+msgctxt "admin-tools/src/bundle/users.properties:useconrem.permdel"
+msgid ""
+"{0} will be permanently deleted from the system. Are you sure you want to "
+"proceed?"
+msgstr ""
+
+#. useconrem.unenrol
+#: admin-tools/src/bundle/users.properties:37
+msgctxt "admin-tools/src/bundle/users.properties:useconrem.unenrol"
+msgid ""
+"{0} will be unenrolled from {1} and permanently deleted from the system. Are"
+" you sure you want to proceed?"
+msgstr ""
+
+#. useconrem.site
+#: admin-tools/src/bundle/users.properties:38
+msgctxt "admin-tools/src/bundle/users.properties:useconrem.site"
+msgid "1 site"
+msgstr "1 espace"
+
+#. useconrem.sites
+#: admin-tools/src/bundle/users.properties:39
+msgctxt "admin-tools/src/bundle/users.properties:useconrem.sites"
+msgid "{0} sites"
+msgstr "{0} espaces"
+
+#. useconrem.rem
+#: admin-tools/src/bundle/users.properties:40
+msgctxt "admin-tools/src/bundle/users.properties:useconrem.rem"
+msgid "Remove"
+msgstr "Supprimer"
+
+#. usecre.creaco
+#: admin-tools/src/bundle/users.properties:41
+msgctxt "admin-tools/src/bundle/users.properties:usecre.creaco"
+msgid "Create Account"
+msgstr "Créer un compte"
+
+#. usecre.reqaco
+#: admin-tools/src/bundle/users.properties:42
+msgctxt "admin-tools/src/bundle/users.properties:usecre.reqaco"
+msgid "Request Account"
+msgstr "Demande de compte"
+
+#. usecre.entthe
+#: admin-tools/src/bundle/users.properties:43
+msgctxt "admin-tools/src/bundle/users.properties:usecre.entthe"
+msgid "Enter the following information to create a new account."
+msgstr "Complétez l'information suivante pour créer un nouveau compte."
+
+#. usecre.instruc
+#: admin-tools/src/bundle/users.properties:44
+msgctxt "admin-tools/src/bundle/users.properties:usecre.instruc"
+msgid "Indicates a required field."
+msgstr "Indique les champs requis."
+
+#. usecre.pass
+#: admin-tools/src/bundle/users.properties:45
+msgctxt "admin-tools/src/bundle/users.properties:usecre.pass"
+msgid "Please enter the password the same in both fields."
+msgstr "Les mots de passe doivent être les mêmes"
+
+#. usecre.curpass
+#: admin-tools/src/bundle/users.properties:46
+msgctxt "admin-tools/src/bundle/users.properties:usecre.curpass"
+msgid "Please enter your current password to make changes to your account."
+msgstr "Veuillez saisir votre mot de passe actuel pour apporter des modifications à votre compte."
+
+#. usecre.pasismis
+#: admin-tools/src/bundle/users.properties:47
+msgctxt "admin-tools/src/bundle/users.properties:usecre.pasismis"
+msgid "Please enter a password."
+msgstr "Veuillez saisir un mot de passe."
+
+#. usecre.eidmis
+#: admin-tools/src/bundle/users.properties:48
+msgctxt "admin-tools/src/bundle/users.properties:usecre.eidmis"
+msgid "Please enter a user id."
+msgstr "Veuillez saisir un identifiant utilisateur."
+
+#. useedi.can
+#: admin-tools/src/bundle/users.properties:49
+msgctxt "admin-tools/src/bundle/users.properties:useedi.can"
+msgid "Cancel Changes"
+msgstr "Annuler les Modifications"
+
+#. useedi.pass
+#: admin-tools/src/bundle/users.properties:50
+msgctxt "admin-tools/src/bundle/users.properties:useedi.pass"
+msgid "Passwords Must Match"
+msgstr "Les mots de passe doivent être les mêmes"
+
+#. useedi.revandmod
+#: admin-tools/src/bundle/users.properties:51
+msgctxt "admin-tools/src/bundle/users.properties:useedi.revandmod"
+msgid "Account Details"
+msgstr "Détails du Compte"
+
+#. useedi.revuseinf
+#: admin-tools/src/bundle/users.properties:52
+msgctxt "admin-tools/src/bundle/users.properties:useedi.revuseinf"
+msgid "Review User Information"
+msgstr "Révisez l'information de l'Utilisateur"
+
+#. useedi.sav
+#: admin-tools/src/bundle/users.properties:53
+msgctxt "admin-tools/src/bundle/users.properties:useedi.sav"
+msgid "Update Details"
+msgstr "Mettre à jour les détails"
+
+#. useedi.sav2
+#: admin-tools/src/bundle/users.properties:54
+msgctxt "admin-tools/src/bundle/users.properties:useedi.sav2"
+msgid "Save Details"
+msgstr "Enregistrer les détails"
+
+#. useedi.edit
+#: admin-tools/src/bundle/users.properties:55
+msgctxt "admin-tools/src/bundle/users.properties:useedi.edit"
+msgid "Edit Account"
+msgstr "Modifier le Compte"
+
+#. uselis.users
+#: admin-tools/src/bundle/users.properties:56
+msgctxt "admin-tools/src/bundle/users.properties:uselis.users"
+msgid "Users"
+msgstr "Utilisateurs"
+
+#. uselis.lisof
+#: admin-tools/src/bundle/users.properties:57
+msgctxt "admin-tools/src/bundle/users.properties:uselis.lisof"
+msgid ""
+"List of Users. First column: user ID. Second: the name. Third: email "
+"address. Fourth: user type."
+msgstr ""
+
+#. uselis.nouse
+#: admin-tools/src/bundle/users.properties:58
+msgctxt "admin-tools/src/bundle/users.properties:uselis.nouse"
+msgid "No users are defined that meet the search criteria."
+msgstr "Aucun des utilisateurs définis ne correspond aux critères de recherche."
+
+#. uselis.theare
+#: admin-tools/src/bundle/users.properties:59
+msgctxt "admin-tools/src/bundle/users.properties:uselis.theare"
+msgid ""
+"These are the Users defined within the system that meet the search criteria."
+"  Click a User Id to edit or view detail.\t<br/>Note: users defined by an "
+"external user authority are not listed here."
+msgstr ""
+
+#. uselis.show
+#: admin-tools/src/bundle/users.properties:60
+msgctxt "admin-tools/src/bundle/users.properties:uselis.show"
+msgid "show {0} items...."
+msgstr "Afficher {0} éléments..."
+
+#. uselis.listnavselect
+#: admin-tools/src/bundle/users.properties:61
+msgctxt "admin-tools/src/bundle/users.properties:uselis.listnavselect"
+msgid ""
+"To operate the combo box, first press Alt+Down Arrow to open it, and then "
+"use the up and down arrow keys to scroll through the options."
+msgstr ""
+
+#. uselis.first
+#: admin-tools/src/bundle/users.properties:62
+msgctxt "admin-tools/src/bundle/users.properties:uselis.first"
+msgid "First"
+msgstr "Premier"
+
+#. uselis.previous
+#: admin-tools/src/bundle/users.properties:63
+msgctxt "admin-tools/src/bundle/users.properties:uselis.previous"
+msgid "Previous"
+msgstr "Précédent"
+
+#. uselis.next
+#: admin-tools/src/bundle/users.properties:64
+msgctxt "admin-tools/src/bundle/users.properties:uselis.next"
+msgid "Next"
+msgstr "Suivant"
+
+#. uselis.last
+#: admin-tools/src/bundle/users.properties:65
+msgctxt "admin-tools/src/bundle/users.properties:uselis.last"
+msgid "Last"
+msgstr "Dernier"
+
+#. uselis.list.youare_of_results
+#: admin-tools/src/bundle/users.properties:66
+msgctxt ""
+"admin-tools/src/bundle/users.properties:uselis.list.youare_of_results"
+msgid "You are viewing {0} - {1} of {2} results."
+msgstr "Vous voyez les résultats {0} à {1} sur {2}."
+
+#. usevie.ema
+#: admin-tools/src/bundle/users.properties:67
+msgctxt "admin-tools/src/bundle/users.properties:usevie.ema"
+msgid "Email"
+msgstr "Courriel"
+
+#. usevie.mod2
+#: admin-tools/src/bundle/users.properties:68
+msgctxt "admin-tools/src/bundle/users.properties:usevie.mod2"
+msgid "Modify Details"
+msgstr "Modifiez les Détails"
+
+#. usevie.revandmod
+#: admin-tools/src/bundle/users.properties:69
+msgctxt "admin-tools/src/bundle/users.properties:usevie.revandmod"
+msgid "My Account Details"
+msgstr "Détails de mon Compte"
+
+#. usevie.revandmod2
+#: admin-tools/src/bundle/users.properties:70
+msgctxt "admin-tools/src/bundle/users.properties:usevie.revandmod2"
+msgid "Review and modify this User's information."
+msgstr "Révisez  et modifiez l'information Utilisateur"
+
+#. usevie.use
+#: admin-tools/src/bundle/users.properties:71
+msgctxt "admin-tools/src/bundle/users.properties:usevie.use"
+msgid "User"
+msgstr "Utilisateur"
+
+#. usevie.revuseinf
+#: admin-tools/src/bundle/users.properties:72
+msgctxt "admin-tools/src/bundle/users.properties:usevie.revuseinf"
+msgid "Review User information"
+msgstr "Révisez l'information utilisateur"
+
+#. users.noaccess
+#: admin-tools/src/bundle/users.properties:73
+msgctxt "admin-tools/src/bundle/users.properties:users.noaccess"
+msgid "You do not have permission to use this tool."
+msgstr "Vous n'avez pas la permission d'utiliser cet outil."
+
+#. sitedipag.listnavselect
+#: admin-tools/src/bundle/users.properties:74
+msgctxt "admin-tools/src/bundle/users.properties:sitedipag.listnavselect"
+msgid ""
+"To operate the combo box, first press Alt+Down Arrow to open it, and then "
+"use the up and down arrow keys to scroll through the options."
+msgstr ""
+
+#. useProperties
+#: admin-tools/src/bundle/users.properties:75
+msgctxt "admin-tools/src/bundle/users.properties:useProperties"
+msgid "Properties"
+msgstr "Propriétés"
+
+#. optional.attributes
+#: admin-tools/src/bundle/users.properties:76
+msgctxt "admin-tools/src/bundle/users.properties:optional.attributes"
+msgid "Optional Attributes"
+msgstr "Attributs facultatifs"
+
+#. optional.attributes.add
+#: admin-tools/src/bundle/users.properties:77
+msgctxt "admin-tools/src/bundle/users.properties:optional.attributes.add"
+msgid "Add an attribute"
+msgstr "Ajouter un attribut"
+
+#. optional.attributes.remove
+#: admin-tools/src/bundle/users.properties:78
+msgctxt "admin-tools/src/bundle/users.properties:optional.attributes.remove"
+msgid "Remove this attribute"
+msgstr "Supprimer cet attribut"
+
+#. sitedi.pro
+#: admin-tools/src/bundle/users.properties:79
+msgctxt "admin-tools/src/bundle/users.properties:sitedi.pro"
+msgid "User Properties"
+msgstr "Propriétés de l'utilisateur"
+
+#. import.user.file
+#: admin-tools/src/bundle/users.properties:80
+msgctxt "admin-tools/src/bundle/users.properties:import.user.file"
+msgid "Import from file"
+msgstr "Importer depuis le fichier"
+
+#. import.heading
+#: admin-tools/src/bundle/users.properties:81
+msgctxt "admin-tools/src/bundle/users.properties:import.heading"
+msgid "Import from file"
+msgstr "Importer depuis le fichier"
+
+#. import.instr
+#: admin-tools/src/bundle/users.properties:82
+msgctxt "admin-tools/src/bundle/users.properties:import.instr"
+msgid ""
+"Select a CSV file containing the details of the you users you wish to "
+"create."
+msgstr ""
+
+#. import.instr.req.header
+#: admin-tools/src/bundle/users.properties:83
+msgctxt "admin-tools/src/bundle/users.properties:import.instr.req.header"
+msgid "File requirements"
+msgstr "Prérequis du fichier"
+
+#. import.instr.req.1
+#: admin-tools/src/bundle/users.properties:84
+msgctxt "admin-tools/src/bundle/users.properties:import.instr.req.1"
+msgid ""
+"Include the following headings: user id,first name,last "
+"name,email,password,type. "
+msgstr ""
+
+#. import.instr.req.2
+#: admin-tools/src/bundle/users.properties:85
+msgctxt "admin-tools/src/bundle/users.properties:import.instr.req.2"
+msgid ""
+"Column headings must match EXACTLY the list above. They do not need to be in"
+" the same order."
+msgstr ""
+
+#. import.instr.req.3
+#: admin-tools/src/bundle/users.properties:86
+msgctxt "admin-tools/src/bundle/users.properties:import.instr.req.3"
+msgid ""
+"Fields must be comma separated, contain no spaces between fields and each "
+"field surrounded with double quotes if it is to contain a space."
+msgstr ""
+
+#. import.instr.req.4
+#: admin-tools/src/bundle/users.properties:87
+msgctxt "admin-tools/src/bundle/users.properties:import.instr.req.4"
+msgid ""
+"You can also add other columns and these will be stored as user properties, "
+"as long as the headings do not clash with the main set above. It can be any "
+"arbitrary data."
+msgstr ""
+
+#. import.file.continue
+#: admin-tools/src/bundle/users.properties:88
+msgctxt "admin-tools/src/bundle/users.properties:import.file.continue"
+msgid "Continue"
+msgstr "Continuer"
+
+#. import.failed
+#: admin-tools/src/bundle/users.properties:89
+msgctxt "admin-tools/src/bundle/users.properties:import.failed"
+msgid "Failed to upload file"
+msgstr "Impossible de déposer le fichier"
+
+#. import.file.button
+#: admin-tools/src/bundle/users.properties:90
+msgctxt "admin-tools/src/bundle/users.properties:import.file.button"
+msgid "Import a file"
+msgstr "Importer un fichier"
+
+#. import.error
+#: admin-tools/src/bundle/users.properties:91
+msgctxt "admin-tools/src/bundle/users.properties:import.error"
+msgid ""
+"The file you uploaded was not readable. Please check the file is of the "
+"correct format, and try again."
+msgstr ""
+
+#. import.user.list.accessibility
+#: admin-tools/src/bundle/users.properties:92
+msgctxt ""
+"admin-tools/src/bundle/users.properties:import.user.list.accessibility"
+msgid ""
+"List of Users to be imported. First column: user ID. Second: first name. "
+"Third: last name. Fourth: email address. Fifth: password. Sixth: user type."
+msgstr ""
+
+#. useconrem.pass
+#: admin-tools/src/bundle/users.properties:93
+msgctxt "admin-tools/src/bundle/users.properties:useconrem.pass"
+msgid "Password"
+msgstr "Mot de passe"
+
+#. import.process.msg
+#: admin-tools/src/bundle/users.properties:94
+msgctxt "admin-tools/src/bundle/users.properties:import.process.msg"
+msgid ""
+"The following data was found in the uploaded file. If this is correct, click"
+" 'Continue'. "
+msgstr ""
+
+#. import.process.info
+#: admin-tools/src/bundle/users.properties:95
+msgctxt "admin-tools/src/bundle/users.properties:import.process.info"
+msgid ""
+"Note that any users that already exist will be skipped and their original "
+"records left untouched."
+msgstr ""
+
+#. import.success
+#: admin-tools/src/bundle/users.properties:96
+msgctxt "admin-tools/src/bundle/users.properties:import.success"
+msgid "The users were successfully imported."
+msgstr "Les utilisateurs ont été importées avec succès."
+
+#. import.user.properties
+#: admin-tools/src/bundle/users.properties:97
+msgctxt "admin-tools/src/bundle/users.properties:import.user.properties"
+msgid "Properties"
+msgstr "Propriétés"
+
+#. false
+#: admin-tools/src/bundle/users.properties:98
+msgctxt "admin-tools/src/bundle/users.properties:false"
+msgid "False"
+msgstr "Faux"
+
+#. true
+#: admin-tools/src/bundle/users.properties:99
+msgctxt "admin-tools/src/bundle/users.properties:true"
+msgid "True"
+msgstr "Vrai"
+
+#. disable.user
+#: admin-tools/src/bundle/users.properties:100
+msgctxt "admin-tools/src/bundle/users.properties:disable.user"
+msgid "Disable User"
+msgstr "Désactiver l'utilisateur"
+
+#. disable
+#: admin-tools/src/bundle/users.properties:101
+msgctxt "admin-tools/src/bundle/users.properties:disable"
+msgid "Disable"
+msgstr "Désactiver"
+
+#. disabled
+#: admin-tools/src/bundle/users.properties:102
+msgctxt "admin-tools/src/bundle/users.properties:disabled"
+msgid "Disabled"
+msgstr "Désactivé"
+
+#. enabled
+#: admin-tools/src/bundle/users.properties:103
+msgctxt "admin-tools/src/bundle/users.properties:enabled"
+msgid "Enabled"
+msgstr "Activé"
+
+#. pw.fail
+#: admin-tools/src/bundle/users.properties:104
+msgctxt "admin-tools/src/bundle/users.properties:pw.fail"
+msgid "Password strength: too weak"
+msgstr "Force du mot de passe : trop faible"
+
+#. pw.weak
+#: admin-tools/src/bundle/users.properties:105
+msgctxt "admin-tools/src/bundle/users.properties:pw.weak"
+msgid "Password strength: weak"
+msgstr "Force du mot de passe : faible"
+
+#. pw.moderate
+#: admin-tools/src/bundle/users.properties:106
+msgctxt "admin-tools/src/bundle/users.properties:pw.moderate"
+msgid "Password strength: moderate"
+msgstr "Force du mot de passe : modérée"
+
+#. pw.strong
+#: admin-tools/src/bundle/users.properties:107
+msgctxt "admin-tools/src/bundle/users.properties:pw.strong"
+msgid "Password strength: strong"
+msgstr "Force du mot de passe : forte"
+
+#. pw.strengthInfo
+#: admin-tools/src/bundle/users.properties:108
+msgctxt "admin-tools/src/bundle/users.properties:pw.strengthInfo"
+msgid ""
+"Strong passwords are long and/or use a mix of character types (ie. letters, "
+"numbers, symbols, etc.). They do not contain all or part of the user id."
+msgstr ""
+
+#. pw.match
+#: admin-tools/src/bundle/users.properties:109
+msgctxt "admin-tools/src/bundle/users.properties:pw.match"
+msgid "Passwords match"
+msgstr "Les mots de passe correspondent"
+
+#. pw.noMatch
+#: admin-tools/src/bundle/users.properties:110
+msgctxt "admin-tools/src/bundle/users.properties:pw.noMatch"
+msgid "Passwords do not match"
+msgstr "Les mots de passe ne correspondent pas"
+
+#. email.validation.success
+#: admin-tools/src/bundle/users.properties:111
+msgctxt "admin-tools/src/bundle/users.properties:email.validation.success"
+msgid ""
+"An account has been created for you! An email has been sent to \"{0}\" "
+"containing the final steps to activate your account."
+msgstr ""
+
+#. email.invalid.domain
+#: admin-tools/src/bundle/users.properties:112
+msgctxt "admin-tools/src/bundle/users.properties:email.invalid.domain"
+msgid ""
+"You have entered an email address ending with \"{0}\", which is restricted. "
+"Please try again with a different email address."
+msgstr ""
+
+#. archive
+#: admin-tools/src/bundle/archive.properties:1
+msgctxt "admin-tools/src/bundle/archive.properties:archive"
+msgid "Archiving tools and contents of site {0}:"
+msgstr "Archivage des outils et du contenu de l'espace {0} :"
+
+#. archive.file
+#: admin-tools/src/bundle/archive.properties:2
+msgctxt "admin-tools/src/bundle/archive.properties:archive.file"
+msgid "Please specify a file name and a site id for import."
+msgstr "Veuillez indiquer un nom de fichier et un identifiant d'espace pour l'importation."
+
+#. archive.import
+#: admin-tools/src/bundle/archive.properties:3
+msgctxt "admin-tools/src/bundle/archive.properties:archive.import"
+msgid "import is limited to administrators.\n"
+msgstr ""
+
+#. archive.import1
+#: admin-tools/src/bundle/archive.properties:4
+msgctxt "admin-tools/src/bundle/archive.properties:archive.import1"
+msgid "import {0}: from file {1} to site {2}  with creator id {3} complete.  "
+msgstr "importation {0}: depuis le fichier {1} vers l'espace {2} avec ID de créateur {3} terminée."
+
+#. archive.import2
+#: admin-tools/src/bundle/archive.properties:5
+msgctxt "admin-tools/src/bundle/archive.properties:archive.import2"
+msgid "import from file {0} to site {1} complete. \n"
+msgstr ""
+
+#. archive.limited
+#: admin-tools/src/bundle/archive.properties:6
+msgctxt "admin-tools/src/bundle/archive.properties:archive.limited"
+msgid "archive is limited to administrators.\n"
+msgstr ""
+
+#. archive.please
+#: admin-tools/src/bundle/archive.properties:7
+msgctxt "admin-tools/src/bundle/archive.properties:archive.please"
+msgid "Please specify a site to archive."
+msgstr "Veuillez indiquer un espace à archiver."
+
+#. archive.vm.alert
+#: admin-tools/src/bundle/archive.properties:8
+msgctxt "admin-tools/src/bundle/archive.properties:archive.vm.alert"
+msgid "Alert:"
+msgstr "Alerte :"
+
+#. archive.vm.archive1
+#: admin-tools/src/bundle/archive.properties:9
+msgctxt "admin-tools/src/bundle/archive.properties:archive.vm.archive1"
+msgid "Archive"
+msgstr "Archiver"
+
+#. archive.vm.file
+#: admin-tools/src/bundle/archive.properties:10
+msgctxt "admin-tools/src/bundle/archive.properties:archive.vm.file"
+msgid "file"
+msgstr "fichier"
+
+#. archive.vm.from
+#: admin-tools/src/bundle/archive.properties:11
+msgctxt "admin-tools/src/bundle/archive.properties:archive.vm.from"
+msgid "from site"
+msgstr "depuis l'espace"
+
+#. archive.vm.import
+#: admin-tools/src/bundle/archive.properties:12
+msgctxt "admin-tools/src/bundle/archive.properties:archive.vm.import"
+msgid "Import"
+msgstr "Importer"
+
+#. archive.vm.zip
+#: admin-tools/src/bundle/archive.properties:13
+msgctxt "admin-tools/src/bundle/archive.properties:archive.vm.zip"
+msgid "Zip"
+msgstr "Zip"
+
+#. archive.vm.site
+#: admin-tools/src/bundle/archive.properties:14
+msgctxt "admin-tools/src/bundle/archive.properties:archive.vm.site"
+msgid "to site"
+msgstr "dans l'espace"
+
+#. archive.button.batch
+#: admin-tools/src/bundle/archive.properties:15
+msgctxt "admin-tools/src/bundle/archive.properties:archive.button.batch"
+msgid "Batch Import/Export"
+msgstr "Exportation/Importation par lot"
+
+#. archive.button.single
+#: admin-tools/src/bundle/archive.properties:16
+msgctxt "admin-tools/src/bundle/archive.properties:archive.button.single"
+msgid "Import/Export"
+msgstr "Importer/Exporter"
+
+#. archive.button.download
+#: admin-tools/src/bundle/archive.properties:17
+msgctxt "admin-tools/src/bundle/archive.properties:archive.button.download"
+msgid "Download archives"
+msgstr "Télécharger les archives"
+
+#. archive.batch.auth
+#: admin-tools/src/bundle/archive.properties:18
+msgctxt "admin-tools/src/bundle/archive.properties:archive.batch.auth"
+msgid "Batch Import is limited to administrators."
+msgstr "L'importation par lots est réservée aux administrateurs."
+
+#. archive.batch.missingname
+#: admin-tools/src/bundle/archive.properties:19
+msgctxt "admin-tools/src/bundle/archive.properties:archive.batch.missingname"
+msgid "Please specify a file name for batch site import."
+msgstr "Veuillez indiquer un nom de fichier pour l'importation par lot d'espaces."
+
+#. archive.batch.wrongformat
+#: admin-tools/src/bundle/archive.properties:20
+msgctxt "admin-tools/src/bundle/archive.properties:archive.batch.wrongformat"
+msgid "Wrong format of batch import file. "
+msgstr "Format erroné de fichier d'importation par lot. "
+
+#. archive.noaccess
+#: admin-tools/src/bundle/archive.properties:21
+msgctxt "admin-tools/src/bundle/archive.properties:archive.noaccess"
+msgid "You do not have permission to use this tool."
+msgstr "Vous n'avez pas la permission d'utiliser cet outil."
+
+#. archive.vm.export
+#: admin-tools/src/bundle/archive.properties:22
+msgctxt "admin-tools/src/bundle/archive.properties:archive.vm.export"
+msgid "Export"
+msgstr "Exporter"
+
+#. archive.vm.filebatchimport
+#: admin-tools/src/bundle/archive.properties:23
+msgctxt "admin-tools/src/bundle/archive.properties:archive.vm.filebatchimport"
+msgid "Batch import file"
+msgstr "Fichier d'importation par lots"
+
+#. archive.vm.import.file
+#: admin-tools/src/bundle/archive.properties:24
+msgctxt "admin-tools/src/bundle/archive.properties:archive.vm.import.file"
+msgid "Import from file"
+msgstr "Importer depuis le fichier"
+
+#. archive.vm.archive.single
+#: admin-tools/src/bundle/archive.properties:25
+msgctxt "admin-tools/src/bundle/archive.properties:archive.vm.archive.single"
+msgid "Archive and Import (single site)"
+msgstr "Archiver et importer  (un seul espace)"
+
+#. archive.vm.archive.batch
+#: admin-tools/src/bundle/archive.properties:26
+msgctxt "admin-tools/src/bundle/archive.properties:archive.vm.archive.batch"
+msgid "Archive and Import (batch)"
+msgstr "Archiver et importer (traitement par lot/batch)"
+
+#. archive.vm.export.term
+#: admin-tools/src/bundle/archive.properties:27
+msgctxt "admin-tools/src/bundle/archive.properties:archive.vm.export.term"
+msgid "Export by term"
+msgstr "Exporter par période"
+
+#. archive.vm.term
+#: admin-tools/src/bundle/archive.properties:28
+msgctxt "admin-tools/src/bundle/archive.properties:archive.vm.term"
+msgid "Select a term"
+msgstr "Sélectionnez une période"
+
+#. archive.batch.term.heading.confirm
+#: admin-tools/src/bundle/archive.properties:29
+msgctxt ""
+"admin-tools/src/bundle/archive.properties:archive.batch.term.heading.confirm"
+msgid "Confirm batch archive"
+msgstr "Confirmer l'archivage par lots (batch)"
+
+#. archive.batch.term.button.confirm
+#: admin-tools/src/bundle/archive.properties:30
+msgctxt ""
+"admin-tools/src/bundle/archive.properties:archive.batch.term.button.confirm"
+msgid "Archive these sites"
+msgstr "Archiver ces espaces"
+
+#. archive.batch.term.button.cancel
+#: admin-tools/src/bundle/archive.properties:31
+msgctxt ""
+"admin-tools/src/bundle/archive.properties:archive.batch.term.button.cancel"
+msgid "Cancel"
+msgstr "Annuler"
+
+#. archive.batch.term.text.confirm.1
+#: admin-tools/src/bundle/archive.properties:32
+msgctxt ""
+"admin-tools/src/bundle/archive.properties:archive.batch.term.text.confirm.1"
+msgid ""
+"The following sites were found matching term: <b>{0}</b>. Click ''Archive "
+"these sites'' to begin archiving."
+msgstr ""
+
+#. archive.batch.term.text.nosites
+#: admin-tools/src/bundle/archive.properties:33
+msgctxt ""
+"admin-tools/src/bundle/archive.properties:archive.batch.term.text.nosites"
+msgid "No sites were found matching term: <b>{0}</b>"
+msgstr "Aucun espace n'a été trouvé avec le terme correspondant : <b>{0}</b>"
+
+#. archive.batch.term.text.missingterm
+#: admin-tools/src/bundle/archive.properties:34
+msgctxt ""
+"admin-"
+"tools/src/bundle/archive.properties:archive.batch.term.text.missingterm"
+msgid "Please choose a term to run a batch archive"
+msgstr "Veuillez choisir une période pour exécuter une archive par lots (batch)"
+
+#. archive.batch.term.text.statusmessage.start
+#: admin-tools/src/bundle/archive.properties:35
+msgctxt ""
+"admin-"
+"tools/src/bundle/archive.properties:archive.batch.term.text.statusmessage.start"
+msgid "Archiving <b>{0}</b> sites for term: <b>{1}</b>. {2}% complete."
+msgstr "Archivage des espaces <b>{0}</b> pour la période : <b>{1}</b>. {2} % terminé."
+
+#. archive.batch.term.text.statusmessage.update
+#: admin-tools/src/bundle/archive.properties:36
+msgctxt ""
+"admin-"
+"tools/src/bundle/archive.properties:archive.batch.term.text.statusmessage.update"
+msgid ""
+"Archiving <b>{0}</b> sites for term: <b>{1}</b>. {2} sites archived. {3}% "
+"complete."
+msgstr ""
+
+#. archive.batch.term.text.statusmessage.complete
+#: admin-tools/src/bundle/archive.properties:37
+msgctxt ""
+"admin-"
+"tools/src/bundle/archive.properties:archive.batch.term.text.statusmessage.complete"
+msgid "Archived <b>{0}</b> sites for term: <b>{1}</b>. Refresh to continue."
+msgstr "Archivage des espaces <b>{0}</b> pour la période : <b>{1}</b>. Actualisation en cours."
+
+#. archive.download.heading
+#: admin-tools/src/bundle/archive.properties:38
+msgctxt "admin-tools/src/bundle/archive.properties:archive.download.heading"
+msgid "Download archives"
+msgstr "Télécharger les archives"
+
+#. archive.download.site
+#: admin-tools/src/bundle/archive.properties:39
+msgctxt "admin-tools/src/bundle/archive.properties:archive.download.site"
+msgid "Site details"
+msgstr "Détails de l'espace"
+
+#. archive.download.date
+#: admin-tools/src/bundle/archive.properties:40
+msgctxt "admin-tools/src/bundle/archive.properties:archive.download.date"
+msgid "Date archived"
+msgstr "Date d'archivage"
+
+#. archive.download.size
+#: admin-tools/src/bundle/archive.properties:41
+msgctxt "admin-tools/src/bundle/archive.properties:archive.download.size"
+msgid "Size"
+msgstr "Taille"
+
+#. archive.download.hash
+#: admin-tools/src/bundle/archive.properties:42
+msgctxt "admin-tools/src/bundle/archive.properties:archive.download.hash"
+msgid "Hash <small>(SHA-1)</small>"
+msgstr "Hachage <small>(SHA-1)</small>"
+
+#. archive.download.auth
+#: admin-tools/src/bundle/archive.properties:43
+msgctxt "admin-tools/src/bundle/archive.properties:archive.download.auth"
+msgid "Archive download is limited to administrators."
+msgstr "Téléchargement de l'archive est limitée aux administrateurs."
+
+#. archive.download.none
+#: admin-tools/src/bundle/archive.properties:44
+msgctxt "admin-tools/src/bundle/archive.properties:archive.download.none"
+msgid "No archives are available to download at this time."
+msgstr "Aucune archive n'est actuellement disponible pour téléchargement."
+
+#. alias.alert.message
+#: admin-tools/src/bundle/aliases.properties:1
+msgctxt "admin-tools/src/bundle/aliases.properties:alias.alert.message"
+msgid "Alert: {0}"
+msgstr "Alerte : {0}"
+
+#. alias.cancel
+#: admin-tools/src/bundle/aliases.properties:2
+msgctxt "admin-tools/src/bundle/aliases.properties:alias.cancel"
+msgid "Cancel"
+msgstr "Annuler"
+
+#. alias.alias
+#: admin-tools/src/bundle/aliases.properties:3
+msgctxt "admin-tools/src/bundle/aliases.properties:alias.alias"
+msgid "Alias"
+msgstr "Alias"
+
+#. alias.alias.label
+#: admin-tools/src/bundle/aliases.properties:4
+msgctxt "admin-tools/src/bundle/aliases.properties:alias.alias.label"
+msgid "Alias ({0} chars max):"
+msgstr "Alias ({0} caractères maximum) :"
+
+#. alias.aliases
+#: admin-tools/src/bundle/aliases.properties:5
+msgctxt "admin-tools/src/bundle/aliases.properties:alias.aliases"
+msgid "Aliases"
+msgstr "Éditeur d'Alias"
+
+#. alias.edit.list.summary
+#: admin-tools/src/bundle/aliases.properties:6
+msgctxt "admin-tools/src/bundle/aliases.properties:alias.edit.list.summary"
+msgid "Alias properties"
+msgstr "Propriétés de l'alias"
+
+#. alias.edit.created
+#: admin-tools/src/bundle/aliases.properties:7
+msgctxt "admin-tools/src/bundle/aliases.properties:alias.edit.created"
+msgid "Created:"
+msgstr "Créé le :"
+
+#. alias.edit.createdby
+#: admin-tools/src/bundle/aliases.properties:8
+msgctxt "admin-tools/src/bundle/aliases.properties:alias.edit.createdby"
+msgid "Created By:"
+msgstr "Créé par :"
+
+#. alias.edit.mod
+#: admin-tools/src/bundle/aliases.properties:9
+msgctxt "admin-tools/src/bundle/aliases.properties:alias.edit.mod"
+msgid "Modified:"
+msgstr "Modifié le :"
+
+#. alias.edit.modby
+#: admin-tools/src/bundle/aliases.properties:10
+msgctxt "admin-tools/src/bundle/aliases.properties:alias.edit.modby"
+msgid "Modified By:"
+msgstr "Modifié par :"
+
+#. alias.edit.review
+#: admin-tools/src/bundle/aliases.properties:11
+msgctxt "admin-tools/src/bundle/aliases.properties:alias.edit.review"
+msgid ""
+"Review and modify this Alias. Alias ID is restricted to 99 chars or less "
+"here, 40 chars in user UI."
+msgstr ""
+
+#. alias.edit.save
+#: admin-tools/src/bundle/aliases.properties:12
+msgctxt "admin-tools/src/bundle/aliases.properties:alias.edit.save"
+msgid "Save"
+msgstr "Enregistrer"
+
+#. alias.edit.target.label
+#: admin-tools/src/bundle/aliases.properties:13
+msgctxt "admin-tools/src/bundle/aliases.properties:alias.edit.target.label"
+msgid "Target ({0} chars max):"
+msgstr "Destination ({0} caractères maximum) :"
+
+#. alias.invalid
+#: admin-tools/src/bundle/aliases.properties:14
+msgctxt "admin-tools/src/bundle/aliases.properties:alias.invalid"
+msgid "The alias id ''{0}'' is invalid."
+msgstr ""
+
+#. alias.list.show
+#: admin-tools/src/bundle/aliases.properties:15
+msgctxt "admin-tools/src/bundle/aliases.properties:alias.list.show"
+msgid "show {0} items..."
+msgstr "Afficher {0} éléments…"
+
+#. alias.list.listnavselect
+#: admin-tools/src/bundle/aliases.properties:16
+msgctxt "admin-tools/src/bundle/aliases.properties:alias.list.listnavselect"
+msgid ""
+"To operate the combo box, first press Alt+Down Arrow to open it, and then "
+"use the up and down arrow keys to scroll through the options."
+msgstr ""
+
+#. alias.list.first
+#: admin-tools/src/bundle/aliases.properties:17
+msgctxt "admin-tools/src/bundle/aliases.properties:alias.list.first"
+msgid "First"
+msgstr "Premier"
+
+#. alias.list.previous.withsize
+#: admin-tools/src/bundle/aliases.properties:18
+msgctxt ""
+"admin-tools/src/bundle/aliases.properties:alias.list.previous.withsize"
+msgid "Previous {0}"
+msgstr "{0} précédents"
+
+#. alias.list.next.withsize
+#: admin-tools/src/bundle/aliases.properties:19
+msgctxt "admin-tools/src/bundle/aliases.properties:alias.list.next.withsize"
+msgid "Next {0}"
+msgstr "{0} suivants"
+
+#. alias.list.last
+#: admin-tools/src/bundle/aliases.properties:20
+msgctxt "admin-tools/src/bundle/aliases.properties:alias.list.last"
+msgid "Last"
+msgstr "Dernier"
+
+#. alias.list.youare
+#: admin-tools/src/bundle/aliases.properties:21
+msgctxt "admin-tools/src/bundle/aliases.properties:alias.list.youare"
+msgid "You are viewing {0} - {1} of {2} results."
+msgstr "Vous voyez les résultats {0} à {1} sur {2}."
+
+#. alias.list.summary
+#: admin-tools/src/bundle/aliases.properties:22
+msgctxt "admin-tools/src/bundle/aliases.properties:alias.list.summary"
+msgid ""
+"List of aliases. First column holds the alias name and links to edit them, "
+"second the target. "
+msgstr ""
+
+#. alias.list.alias
+#: admin-tools/src/bundle/aliases.properties:23
+msgctxt "admin-tools/src/bundle/aliases.properties:alias.list.alias"
+msgid "Alias"
+msgstr "Alias"
+
+#. alias.list.defined
+#: admin-tools/src/bundle/aliases.properties:24
+msgctxt "admin-tools/src/bundle/aliases.properties:alias.list.defined"
+msgid ""
+"These are the Aliases defined within the system.  Click an Alias Id to edit "
+"or view detail."
+msgstr ""
+
+#. alias.list.nodefined
+#: admin-tools/src/bundle/aliases.properties:25
+msgctxt "admin-tools/src/bundle/aliases.properties:alias.list.nodefined"
+msgid "No aliases are defined."
+msgstr "Aucun alias n'est défini."
+
+#. alias.target
+#: admin-tools/src/bundle/aliases.properties:26
+msgctxt "admin-tools/src/bundle/aliases.properties:alias.target"
+msgid "Target"
+msgstr "Destination"
+
+#. alias.new
+#: admin-tools/src/bundle/aliases.properties:27
+msgctxt "admin-tools/src/bundle/aliases.properties:alias.new"
+msgid "New Alias"
+msgstr "Nouvel alias"
+
+#. alias.notfound
+#: admin-tools/src/bundle/aliases.properties:28
+msgctxt "admin-tools/src/bundle/aliases.properties:alias.notfound"
+msgid "Alias ''{0}'' not found"
+msgstr ""
+
+#. alias.notpermis
+#: admin-tools/src/bundle/aliases.properties:29
+msgctxt "admin-tools/src/bundle/aliases.properties:alias.notpermis"
+msgid "You do not have permission to edit alias ''{0}''."
+msgstr ""
+
+#. alias.notpermis1
+#: admin-tools/src/bundle/aliases.properties:30
+msgctxt "admin-tools/src/bundle/aliases.properties:alias.notpermis1"
+msgid "You do not have permission to remove alias ''{0}''."
+msgstr ""
+
+#. alias.notpermis2
+#: admin-tools/src/bundle/aliases.properties:31
+msgctxt "admin-tools/src/bundle/aliases.properties:alias.notpermis2"
+msgid "You do not have permission to edit this alias ''{0}''."
+msgstr ""
+
+#. alias.remove
+#: admin-tools/src/bundle/aliases.properties:32
+msgctxt "admin-tools/src/bundle/aliases.properties:alias.remove"
+msgid "Remove Alias"
+msgstr "Supprimer l'alias"
+
+#. alias.remove.alias
+#: admin-tools/src/bundle/aliases.properties:33
+msgctxt "admin-tools/src/bundle/aliases.properties:alias.remove.alias"
+msgid "Alias"
+msgstr "Alias"
+
+#. alias.remove.list.summary
+#: admin-tools/src/bundle/aliases.properties:34
+msgctxt "admin-tools/src/bundle/aliases.properties:alias.remove.list.summary"
+msgid ""
+"List of aliases being removed - first column hold the Alias, second the "
+"target."
+msgstr ""
+
+#. alias.remove.remove
+#: admin-tools/src/bundle/aliases.properties:35
+msgctxt "admin-tools/src/bundle/aliases.properties:alias.remove.remove"
+msgid "Remove"
+msgstr "Supprimer"
+
+#. alias.remove.sure
+#: admin-tools/src/bundle/aliases.properties:36
+msgctxt "admin-tools/src/bundle/aliases.properties:alias.remove.sure"
+msgid "Are you sure you want to remove the following Alias:"
+msgstr "Voulez-vous vraiment supprimer l'alias suivant :"
+
+#. alias.someone
+#: admin-tools/src/bundle/aliases.properties:37
+msgctxt "admin-tools/src/bundle/aliases.properties:alias.someone"
+msgid "Someone else is currently editing this Alias:"
+msgstr "Quelqu'un d'autre modifie actuellement cet alias :"
+
+#. alias.use
+#: admin-tools/src/bundle/aliases.properties:38
+msgctxt "admin-tools/src/bundle/aliases.properties:alias.use"
+msgid "The alias id ''{0}'' is already in use."
+msgstr ""
+
+#. alias.noaccess
+#: admin-tools/src/bundle/aliases.properties:39
+msgctxt "admin-tools/src/bundle/aliases.properties:alias.noaccess"
+msgid "You do not have permission to use this tool."
+msgstr "Vous n'avez pas la permission d'utiliser cet outil."

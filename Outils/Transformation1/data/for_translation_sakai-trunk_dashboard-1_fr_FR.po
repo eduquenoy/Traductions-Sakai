@@ -1,0 +1,981 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: sakai-trunk\n"
+"Report-Msgid-Bugs-To: ddeguchi@nagoya-u.jp\n"
+"POT-Creation-Date: 2017-07-31 22:00+00:00\n"
+"PO-Revision-Date: 2014-10-30 05:02+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: French (France) (http://www.transifex.com/apereo/sakai-trunk/language/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. announcement.metadata
+#: dashboard/bundles/resources/dash_entity.properties:1
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:announcement.metadata"
+msgid "Posted by {user-name} on {news-time}. "
+msgstr ""
+
+#. announcement.attachments
+#: dashboard/bundles/resources/dash_entity.properties:2
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:announcement.attachments"
+msgid "Attachments: {0}"
+msgstr ""
+
+#. announcement.news.time
+#: dashboard/bundles/resources/dash_entity.properties:3
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:announcement.news.time"
+msgid "Date posted: {0}"
+msgstr ""
+
+#. announcement.user.name
+#: dashboard/bundles/resources/dash_entity.properties:4
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:announcement.user.name"
+msgid "Posted by: {0}"
+msgstr ""
+
+#. announcement.info.link
+#: dashboard/bundles/resources/dash_entity.properties:5
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:announcement.info.link"
+msgid "View in Site"
+msgstr ""
+
+#. announcement.grouped.created
+#: dashboard/bundles/resources/dash_entity.properties:6
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:announcement.grouped.created"
+msgid "{0} announcements added to {1}"
+msgstr ""
+
+#. announcement.grouped.updated
+#: dashboard/bundles/resources/dash_entity.properties:7
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:announcement.grouped.updated"
+msgid "{0} announcements revised in {1}"
+msgstr ""
+
+#. announcement.added
+#: dashboard/bundles/resources/dash_entity.properties:8
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:announcement.added"
+msgid "added"
+msgstr ""
+
+#. assignment.data
+#: dashboard/bundles/resources/dash_entity.properties:9
+msgctxt "dashboard/bundles/resources/dash_entity.properties:assignment.data"
+msgid "Due: {due-time}. Accept until: {close-time}. {grade-type}."
+msgstr ""
+
+#. assignment.data.with.maxpoint
+#: dashboard/bundles/resources/dash_entity.properties:10
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:assignment.data.with.maxpoint"
+msgid ""
+"Due: {due-time}. Accept until: {close-time}. {grade-type}. Max points: "
+"{grade-max}."
+msgstr ""
+
+#. assignment.metadata
+#: dashboard/bundles/resources/dash_entity.properties:11
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:assignment.metadata"
+msgid "Posted by {user-name} on {news-time}. Assignment opened {open-time}."
+msgstr ""
+
+#. assignment.description
+#: dashboard/bundles/resources/dash_entity.properties:12
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:assignment.description"
+msgid "Description"
+msgstr ""
+
+#. assignment.attachments
+#: dashboard/bundles/resources/dash_entity.properties:13
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:assignment.attachments"
+msgid "Attachments"
+msgstr ""
+
+#. assignment.calendar.time
+#: dashboard/bundles/resources/dash_entity.properties:14
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:assignment.calendar.time"
+msgid "Due date: {0}"
+msgstr ""
+
+#. assignment.user.name
+#: dashboard/bundles/resources/dash_entity.properties:15
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:assignment.user.name"
+msgid "Created by: {0}"
+msgstr ""
+
+#. assignment.news.time
+#: dashboard/bundles/resources/dash_entity.properties:16
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:assignment.news.time"
+msgid "Date created: {0}"
+msgstr ""
+
+#. assignment.open.time
+#: dashboard/bundles/resources/dash_entity.properties:17
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:assignment.open.time"
+msgid "Open: {0}"
+msgstr ""
+
+#. assignment.due.time
+#: dashboard/bundles/resources/dash_entity.properties:18
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:assignment.due.time"
+msgid "Due: {0}"
+msgstr ""
+
+#. assignment.close.time
+#: dashboard/bundles/resources/dash_entity.properties:19
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:assignment.close.time"
+msgid "Accept Until: {0}"
+msgstr ""
+
+#. assignment.info.link
+#: dashboard/bundles/resources/dash_entity.properties:20
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:assignment.info.link"
+msgid "View in Site"
+msgstr ""
+
+#. assignment.grade.type
+#: dashboard/bundles/resources/dash_entity.properties:21
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:assignment.grade.type"
+msgid "Grade: {0} "
+msgstr ""
+
+#. assignment.max.grade
+#: dashboard/bundles/resources/dash_entity.properties:22
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:assignment.max.grade"
+msgid "max ({0})"
+msgstr ""
+
+#. assignment.submission.status
+#: dashboard/bundles/resources/dash_entity.properties:23
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:assignment.submission.status"
+msgid "Status: {0}"
+msgstr ""
+
+#. assignment.due.date
+#: dashboard/bundles/resources/dash_entity.properties:24
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:assignment.due.date"
+msgid "Due date"
+msgstr ""
+
+#. assignment.close.date
+#: dashboard/bundles/resources/dash_entity.properties:25
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:assignment.close.date"
+msgid "Accept until "
+msgstr ""
+
+#. assignment.grouped.created
+#: dashboard/bundles/resources/dash_entity.properties:26
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:assignment.grouped.created"
+msgid "{0} assignments added to {1}"
+msgstr ""
+
+#. assignment.grouped.updated
+#: dashboard/bundles/resources/dash_entity.properties:27
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:assignment.grouped.updated"
+msgid "{0} assignments revised in {1}"
+msgstr ""
+
+#. assignment.added
+#: dashboard/bundles/resources/dash_entity.properties:28
+msgctxt "dashboard/bundles/resources/dash_entity.properties:assignment.added"
+msgid "added"
+msgstr ""
+
+#. samigo.data
+#: dashboard/bundles/resources/dash_entity.properties:29
+msgctxt "dashboard/bundles/resources/dash_entity.properties:samigo.data"
+msgid "Due: {due-time}. Accept until: {close-time}."
+msgstr ""
+
+#. samigo.data.with.maxpoint
+#: dashboard/bundles/resources/dash_entity.properties:30
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:samigo.data.with.maxpoint"
+msgid "Due: {due-time}. Accept until: {close-time}. Max points: {grade-max}."
+msgstr ""
+
+#. samigo.metadata
+#: dashboard/bundles/resources/dash_entity.properties:31
+msgctxt "dashboard/bundles/resources/dash_entity.properties:samigo.metadata"
+msgid ""
+"Published by {user-name} on {news-time}. Assessment opened {open-time}."
+msgstr ""
+
+#. samigo.description
+#: dashboard/bundles/resources/dash_entity.properties:32
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:samigo.description"
+msgid "Description"
+msgstr ""
+
+#. samigo.calendar.time
+#: dashboard/bundles/resources/dash_entity.properties:33
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:samigo.calendar.time"
+msgid "Due date: {0}"
+msgstr ""
+
+#. samigo.user.name
+#: dashboard/bundles/resources/dash_entity.properties:34
+msgctxt "dashboard/bundles/resources/dash_entity.properties:samigo.user.name"
+msgid "Created by: {0}"
+msgstr ""
+
+#. samigo.news.time
+#: dashboard/bundles/resources/dash_entity.properties:35
+msgctxt "dashboard/bundles/resources/dash_entity.properties:samigo.news.time"
+msgid "Date created: {0}"
+msgstr ""
+
+#. samigo.open.time
+#: dashboard/bundles/resources/dash_entity.properties:36
+msgctxt "dashboard/bundles/resources/dash_entity.properties:samigo.open.time"
+msgid "Open: {0}"
+msgstr ""
+
+#. samigo.due.time
+#: dashboard/bundles/resources/dash_entity.properties:37
+msgctxt "dashboard/bundles/resources/dash_entity.properties:samigo.due.time"
+msgid "Due: {0}"
+msgstr ""
+
+#. samigo.close.time
+#: dashboard/bundles/resources/dash_entity.properties:38
+msgctxt "dashboard/bundles/resources/dash_entity.properties:samigo.close.time"
+msgid "Accept Until: {0}"
+msgstr ""
+
+#. samigo.info.link
+#: dashboard/bundles/resources/dash_entity.properties:39
+msgctxt "dashboard/bundles/resources/dash_entity.properties:samigo.info.link"
+msgid "View in Site"
+msgstr ""
+
+#. samigo.max.grade
+#: dashboard/bundles/resources/dash_entity.properties:40
+msgctxt "dashboard/bundles/resources/dash_entity.properties:samigo.max.grade"
+msgid "max ({0})"
+msgstr ""
+
+#. samigo.due.date
+#: dashboard/bundles/resources/dash_entity.properties:41
+msgctxt "dashboard/bundles/resources/dash_entity.properties:samigo.due.date"
+msgid "Due date"
+msgstr ""
+
+#. samigo.close.date
+#: dashboard/bundles/resources/dash_entity.properties:42
+msgctxt "dashboard/bundles/resources/dash_entity.properties:samigo.close.date"
+msgid "Accept until "
+msgstr ""
+
+#. samigo.grouped.created
+#: dashboard/bundles/resources/dash_entity.properties:43
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:samigo.grouped.created"
+msgid "{0} assignments added to {1}"
+msgstr ""
+
+#. samigo.grouped.updated
+#: dashboard/bundles/resources/dash_entity.properties:44
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:samigo.grouped.updated"
+msgid "{0} assignments revised in {1}"
+msgstr ""
+
+#. samigo.added
+#: dashboard/bundles/resources/dash_entity.properties:45
+msgctxt "dashboard/bundles/resources/dash_entity.properties:samigo.added"
+msgid "added"
+msgstr ""
+
+#. resource.user.name
+#: dashboard/bundles/resources/dash_entity.properties:46
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:resource.user.name"
+msgid "Posted by: {0}"
+msgstr ""
+
+#. resource.news.time
+#: dashboard/bundles/resources/dash_entity.properties:47
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:resource.news.time"
+msgid "Date posted: {0}"
+msgstr ""
+
+#. resource.info.link.file
+#: dashboard/bundles/resources/dash_entity.properties:48
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:resource.info.link.file"
+msgid "Download File ({0} bytes)"
+msgstr ""
+
+#. resource.info.link.text
+#: dashboard/bundles/resources/dash_entity.properties:49
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:resource.info.link.text"
+msgid "View Text"
+msgstr ""
+
+#. resource.info.link.html
+#: dashboard/bundles/resources/dash_entity.properties:50
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:resource.info.link.html"
+msgid "View Page"
+msgstr ""
+
+#. resource.info.link.url
+#: dashboard/bundles/resources/dash_entity.properties:51
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:resource.info.link.url"
+msgid "Go to Site"
+msgstr ""
+
+#. resource.info.link.citationlist
+#: dashboard/bundles/resources/dash_entity.properties:52
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:resource.info.link.citationlist"
+msgid "View Citation List"
+msgstr ""
+
+#. resource.grouped.created
+#: dashboard/bundles/resources/dash_entity.properties:53
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:resource.grouped.created"
+msgid "{0} resources added to {1}"
+msgstr ""
+
+#. resource.grouped.updated
+#: dashboard/bundles/resources/dash_entity.properties:54
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:resource.grouped.updated"
+msgid "{0} resources revised in {1}"
+msgstr ""
+
+#. resource.added
+#: dashboard/bundles/resources/dash_entity.properties:55
+msgctxt "dashboard/bundles/resources/dash_entity.properties:resource.added"
+msgid "added"
+msgstr ""
+
+#. resource.updated
+#: dashboard/bundles/resources/dash_entity.properties:56
+msgctxt "dashboard/bundles/resources/dash_entity.properties:resource.updated"
+msgid "revised"
+msgstr ""
+
+#. resource.metadata
+#: dashboard/bundles/resources/dash_entity.properties:57
+msgctxt "dashboard/bundles/resources/dash_entity.properties:resource.metadata"
+msgid "Posted by {user-name} on {news-time}. "
+msgstr ""
+
+#. dropbox.added
+#: dashboard/bundles/resources/dash_entity.properties:58
+msgctxt "dashboard/bundles/resources/dash_entity.properties:dropbox.added"
+msgid "added to Drop Box"
+msgstr ""
+
+#. dropbox.updated
+#: dashboard/bundles/resources/dash_entity.properties:59
+msgctxt "dashboard/bundles/resources/dash_entity.properties:dropbox.updated"
+msgid "revised in Drop Box"
+msgstr ""
+
+#. dropbox.grouped.created
+#: dashboard/bundles/resources/dash_entity.properties:60
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dropbox.grouped.created"
+msgid "{0} resources added to {1} Drop Box"
+msgstr ""
+
+#. dropbox.grouped.updated
+#: dashboard/bundles/resources/dash_entity.properties:61
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dropbox.grouped.updated"
+msgid "{0} resources revised in {1} Drop Box"
+msgstr ""
+
+#. schedule.info.link
+#: dashboard/bundles/resources/dash_entity.properties:62
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:schedule.info.link"
+msgid "View in Site"
+msgstr ""
+
+#. schedule.news.time
+#: dashboard/bundles/resources/dash_entity.properties:63
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:schedule.news.time"
+msgid "Date posted: {0}"
+msgstr ""
+
+#. schedule.metadata
+#: dashboard/bundles/resources/dash_entity.properties:64
+msgctxt "dashboard/bundles/resources/dash_entity.properties:schedule.metadata"
+msgid "Event date: {calendar-time}. Posted on {news-time}"
+msgstr ""
+
+#. schedule.key1
+#: dashboard/bundles/resources/dash_entity.properties:65
+msgctxt "dashboard/bundles/resources/dash_entity.properties:schedule.key1"
+msgid "Academic Calendar "
+msgstr ""
+
+#. schedule.key2
+#: dashboard/bundles/resources/dash_entity.properties:66
+msgctxt "dashboard/bundles/resources/dash_entity.properties:schedule.key2"
+msgid "Activity "
+msgstr ""
+
+#. schedule.key3
+#: dashboard/bundles/resources/dash_entity.properties:67
+msgctxt "dashboard/bundles/resources/dash_entity.properties:schedule.key3"
+msgid "Cancellation "
+msgstr ""
+
+#. schedule.key4
+#: dashboard/bundles/resources/dash_entity.properties:68
+msgctxt "dashboard/bundles/resources/dash_entity.properties:schedule.key4"
+msgid "Class section - Discussion"
+msgstr ""
+
+#. schedule.key5
+#: dashboard/bundles/resources/dash_entity.properties:69
+msgctxt "dashboard/bundles/resources/dash_entity.properties:schedule.key5"
+msgid "Class section - Lab"
+msgstr ""
+
+#. schedule.key6
+#: dashboard/bundles/resources/dash_entity.properties:70
+msgctxt "dashboard/bundles/resources/dash_entity.properties:schedule.key6"
+msgid "Class section - Lecture "
+msgstr ""
+
+#. schedule.key7
+#: dashboard/bundles/resources/dash_entity.properties:71
+msgctxt "dashboard/bundles/resources/dash_entity.properties:schedule.key7"
+msgid "Class section - Small Group  "
+msgstr ""
+
+#. schedule.key8
+#: dashboard/bundles/resources/dash_entity.properties:72
+msgctxt "dashboard/bundles/resources/dash_entity.properties:schedule.key8"
+msgid "Class session"
+msgstr ""
+
+#. schedule.key9
+#: dashboard/bundles/resources/dash_entity.properties:73
+msgctxt "dashboard/bundles/resources/dash_entity.properties:schedule.key9"
+msgid "Computer Session  "
+msgstr ""
+
+#. schedule.key10
+#: dashboard/bundles/resources/dash_entity.properties:74
+msgctxt "dashboard/bundles/resources/dash_entity.properties:schedule.key10"
+msgid "Deadline"
+msgstr ""
+
+#. schedule.key11
+#: dashboard/bundles/resources/dash_entity.properties:75
+msgctxt "dashboard/bundles/resources/dash_entity.properties:schedule.key11"
+msgid "Exam"
+msgstr ""
+
+#. schedule.key12
+#: dashboard/bundles/resources/dash_entity.properties:76
+msgctxt "dashboard/bundles/resources/dash_entity.properties:schedule.key12"
+msgid "Meeting "
+msgstr ""
+
+#. schedule.key13
+#: dashboard/bundles/resources/dash_entity.properties:77
+msgctxt "dashboard/bundles/resources/dash_entity.properties:schedule.key13"
+msgid "Multidisciplinary Conference  "
+msgstr ""
+
+#. schedule.key14
+#: dashboard/bundles/resources/dash_entity.properties:78
+msgctxt "dashboard/bundles/resources/dash_entity.properties:schedule.key14"
+msgid "Quiz"
+msgstr ""
+
+#. schedule.key15
+#: dashboard/bundles/resources/dash_entity.properties:79
+msgctxt "dashboard/bundles/resources/dash_entity.properties:schedule.key15"
+msgid "Special event  "
+msgstr ""
+
+#. schedule.key16
+#: dashboard/bundles/resources/dash_entity.properties:80
+msgctxt "dashboard/bundles/resources/dash_entity.properties:schedule.key16"
+msgid "Web Assignment  "
+msgstr ""
+
+#. schedule.grouped.title
+#: dashboard/bundles/resources/dash_entity.properties:81
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:schedule.grouped.title"
+msgid "{0} events added to the {1} calendar"
+msgstr ""
+
+#. dash.calendar.title
+#: dashboard/bundles/resources/dash_entity.properties:82
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.calendar.title"
+msgid "Assignments & Events"
+msgstr ""
+
+#. dash.calendar.upcoming
+#: dashboard/bundles/resources/dash_entity.properties:83
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.calendar.upcoming"
+msgid "Upcoming"
+msgstr ""
+
+#. dash.calendar.past
+#: dashboard/bundles/resources/dash_entity.properties:84
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.calendar.past"
+msgid "Past"
+msgstr ""
+
+#. dash.calendar.starred
+#: dashboard/bundles/resources/dash_entity.properties:85
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.calendar.starred"
+msgid "Starred"
+msgstr ""
+
+#. dash.calendar.hidden
+#: dashboard/bundles/resources/dash_entity.properties:86
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.calendar.hidden"
+msgid "Hidden"
+msgstr ""
+
+#. dash.calendar.noupcoming
+#: dashboard/bundles/resources/dash_entity.properties:87
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.calendar.noupcoming"
+msgid "You have no upcoming items."
+msgstr ""
+
+#. dash.calendar.nopast
+#: dashboard/bundles/resources/dash_entity.properties:88
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.calendar.nopast"
+msgid "You have no past items."
+msgstr ""
+
+#. dash.calendar.nostarred
+#: dashboard/bundles/resources/dash_entity.properties:89
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.calendar.nostarred"
+msgid "You have not starred any items."
+msgstr ""
+
+#. dash.calendar.nohidden
+#: dashboard/bundles/resources/dash_entity.properties:90
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.calendar.nohidden"
+msgid "You have not hidden any items."
+msgstr ""
+
+#. dash.calendar.linksCount
+#: dashboard/bundles/resources/dash_entity.properties:91
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.calendar.linksCount"
+msgid "{0} items"
+msgstr ""
+
+#. dash.calendar.linksCount0
+#: dashboard/bundles/resources/dash_entity.properties:92
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.calendar.linksCount0"
+msgid "No items"
+msgstr ""
+
+#. dash.calendar.linksCount1
+#: dashboard/bundles/resources/dash_entity.properties:93
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.calendar.linksCount1"
+msgid "Showing 1 item"
+msgstr ""
+
+#. dash.calendar.linksCount2
+#: dashboard/bundles/resources/dash_entity.properties:94
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.calendar.linksCount2"
+msgid "Showing item {0} of {1} items"
+msgstr ""
+
+#. dash.calendar.linksCount3
+#: dashboard/bundles/resources/dash_entity.properties:95
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.calendar.linksCount3"
+msgid "Showing {0} to {1} of {2} items"
+msgstr ""
+
+#. dash.pager.range
+#: dashboard/bundles/resources/dash_entity.properties:96
+msgctxt "dashboard/bundles/resources/dash_entity.properties:dash.pager.range"
+msgid "{0}-{1}"
+msgstr ""
+
+#. dash.motd.title
+#: dashboard/bundles/resources/dash_entity.properties:97
+msgctxt "dashboard/bundles/resources/dash_entity.properties:dash.motd.title"
+msgid "Message of the day"
+msgstr ""
+
+#. dash.news.title
+#: dashboard/bundles/resources/dash_entity.properties:98
+msgctxt "dashboard/bundles/resources/dash_entity.properties:dash.news.title"
+msgid "Recent Activity"
+msgstr ""
+
+#. dash.news.current
+#: dashboard/bundles/resources/dash_entity.properties:99
+msgctxt "dashboard/bundles/resources/dash_entity.properties:dash.news.current"
+msgid "Updates"
+msgstr ""
+
+#. dash.news.starred
+#: dashboard/bundles/resources/dash_entity.properties:100
+msgctxt "dashboard/bundles/resources/dash_entity.properties:dash.news.starred"
+msgid "Starred"
+msgstr ""
+
+#. dash.news.hidden
+#: dashboard/bundles/resources/dash_entity.properties:101
+msgctxt "dashboard/bundles/resources/dash_entity.properties:dash.news.hidden"
+msgid "Hidden"
+msgstr ""
+
+#. dash.news.nocurrent
+#: dashboard/bundles/resources/dash_entity.properties:102
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.news.nocurrent"
+msgid "You have no recent items."
+msgstr ""
+
+#. dash.news.nostarred
+#: dashboard/bundles/resources/dash_entity.properties:103
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.news.nostarred"
+msgid "You have not starred any recent items. "
+msgstr ""
+
+#. dash.news.nohidden
+#: dashboard/bundles/resources/dash_entity.properties:104
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.news.nohidden"
+msgid "You have not hidden any recent items."
+msgstr ""
+
+#. dash.news.linksCount
+#: dashboard/bundles/resources/dash_entity.properties:105
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.news.linksCount"
+msgid "{0} items"
+msgstr ""
+
+#. dash.news.linksCount0
+#: dashboard/bundles/resources/dash_entity.properties:106
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.news.linksCount0"
+msgid "No items"
+msgstr ""
+
+#. dash.news.linksCount1
+#: dashboard/bundles/resources/dash_entity.properties:107
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.news.linksCount1"
+msgid "Showing 1 item"
+msgstr ""
+
+#. dash.news.linksCount2
+#: dashboard/bundles/resources/dash_entity.properties:108
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.news.linksCount2"
+msgid "Showing item {0} of {1} items"
+msgstr ""
+
+#. dash.news.linksCount3
+#: dashboard/bundles/resources/dash_entity.properties:109
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.news.linksCount3"
+msgid "Showing {0} to {1} of {2} items"
+msgstr ""
+
+#. dash.star
+#: dashboard/bundles/resources/dash_entity.properties:110
+msgctxt "dashboard/bundles/resources/dash_entity.properties:dash.star"
+msgid "Star this"
+msgstr ""
+
+#. dash.unstar
+#: dashboard/bundles/resources/dash_entity.properties:111
+msgctxt "dashboard/bundles/resources/dash_entity.properties:dash.unstar"
+msgid "Unstar this"
+msgstr ""
+
+#. dash.hide
+#: dashboard/bundles/resources/dash_entity.properties:112
+msgctxt "dashboard/bundles/resources/dash_entity.properties:dash.hide"
+msgid "Hide this"
+msgstr ""
+
+#. dash.show
+#: dashboard/bundles/resources/dash_entity.properties:113
+msgctxt "dashboard/bundles/resources/dash_entity.properties:dash.show"
+msgid "Show this"
+msgstr ""
+
+#. dash.details
+#: dashboard/bundles/resources/dash_entity.properties:114
+msgctxt "dashboard/bundles/resources/dash_entity.properties:dash.details"
+msgid "(click to view details)"
+msgstr ""
+
+#. dash.grouped.title
+#: dashboard/bundles/resources/dash_entity.properties:115
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.grouped.title"
+msgid "{0} items of type {1} added to the {2} site"
+msgstr ""
+
+#. dash.grouped.more.status
+#: dashboard/bundles/resources/dash_entity.properties:116
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.grouped.more.status"
+msgid "Showing {0} of {1} items"
+msgstr ""
+
+#. dash.grouped.more.link
+#: dashboard/bundles/resources/dash_entity.properties:117
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.grouped.more.link"
+msgid "Show more..."
+msgstr ""
+
+#. dash.date.minute.ago
+#: dashboard/bundles/resources/dash_entity.properties:118
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.date.minute.ago"
+msgid "1 minute ago"
+msgstr ""
+
+#. dash.date.minutes.ago
+#: dashboard/bundles/resources/dash_entity.properties:119
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.date.minutes.ago"
+msgid "{0} minutes ago"
+msgstr ""
+
+#. dash.date.hour.ago
+#: dashboard/bundles/resources/dash_entity.properties:120
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.date.hour.ago"
+msgid "1 hour ago"
+msgstr ""
+
+#. dash.date.hours.ago
+#: dashboard/bundles/resources/dash_entity.properties:121
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.date.hours.ago"
+msgid "{0} hours ago"
+msgstr ""
+
+#. dash.date.today
+#: dashboard/bundles/resources/dash_entity.properties:122
+msgctxt "dashboard/bundles/resources/dash_entity.properties:dash.date.today"
+msgid "Today "
+msgstr ""
+
+#. dash.date.today.time
+#: dashboard/bundles/resources/dash_entity.properties:123
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.date.today.time"
+msgid "Today {0}"
+msgstr ""
+
+#. dash.date.tomorrow.time
+#: dashboard/bundles/resources/dash_entity.properties:124
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.date.tomorrow.time"
+msgid "Tomorrow {0}"
+msgstr ""
+
+#. dash.date.yesterday
+#: dashboard/bundles/resources/dash_entity.properties:125
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.date.yesterday"
+msgid "Yesterday "
+msgstr ""
+
+#. dash.date.yesterday.time
+#: dashboard/bundles/resources/dash_entity.properties:126
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.date.yesterday.time"
+msgid "Yesterday {0} "
+msgstr ""
+
+#. dash.date.unknown.time
+#: dashboard/bundles/resources/dash_entity.properties:127
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.date.unknown.time"
+msgid "Unknown time"
+msgstr ""
+
+#. dash.ajax.hide.success
+#: dashboard/bundles/resources/dash_entity.properties:128
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.ajax.hide.success"
+msgid "Item is now hidden"
+msgstr ""
+
+#. dash.ajax.show.success
+#: dashboard/bundles/resources/dash_entity.properties:129
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.ajax.show.success"
+msgid "Item is no longer hidden"
+msgstr ""
+
+#. dash.ajax.star.success
+#: dashboard/bundles/resources/dash_entity.properties:130
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.ajax.star.success"
+msgid "Item is now starred"
+msgstr ""
+
+#. dash.ajax.unstar.success
+#: dashboard/bundles/resources/dash_entity.properties:131
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.ajax.unstar.success"
+msgid "Item is no longer starred"
+msgstr ""
+
+#. dash.ajax.hide.failed
+#: dashboard/bundles/resources/dash_entity.properties:132
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.ajax.hide.failed"
+msgid "Update failed. Item is still showing."
+msgstr ""
+
+#. dash.ajax.show.failed
+#: dashboard/bundles/resources/dash_entity.properties:133
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.ajax.show.failed"
+msgid "Update failed. Item is still hidden."
+msgstr ""
+
+#. dash.ajax.star.failed
+#: dashboard/bundles/resources/dash_entity.properties:134
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.ajax.star.failed"
+msgid "Update failed. Item is not starred."
+msgstr ""
+
+#. dash.ajax.unstar.failed
+#: dashboard/bundles/resources/dash_entity.properties:135
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.ajax.unstar.failed"
+msgid "Update failed. Item is still starred."
+msgstr ""
+
+#. dash.ajax.failed
+#: dashboard/bundles/resources/dash_entity.properties:136
+msgctxt "dashboard/bundles/resources/dash_entity.properties:dash.ajax.failed"
+msgid "Update failed. No changes made."
+msgstr ""
+
+#. dash.updated
+#: dashboard/bundles/resources/dash_entity.properties:137
+msgctxt "dashboard/bundles/resources/dash_entity.properties:dash.updated"
+msgid "revised"
+msgstr ""
+
+#. dash.attachment
+#: dashboard/bundles/resources/dash_entity.properties:138
+msgctxt "dashboard/bundles/resources/dash_entity.properties:dash.attachment"
+msgid "Attachment"
+msgstr ""
+
+#. dash.generic.error
+#: dashboard/bundles/resources/dash_entity.properties:139
+msgctxt ""
+"dashboard/bundles/resources/dash_entity.properties:dash.generic.error"
+msgid "You may have logged out or the item is no longer available."
+msgstr ""
+
+#. dash.notset
+#: dashboard/bundles/resources/dash_entity.properties:140
+msgctxt "dashboard/bundles/resources/dash_entity.properties:dash.notset"
+msgid "Not set"
+msgstr ""
+
+#. page.title
+#: dashboard/tool/src/java/org/sakaiproject/dash/tool/MyApplication.properties:1
+msgctxt ""
+"dashboard/tool/src/java/org/sakaiproject/dash/tool/MyApplication.properties:page.title"
+msgid "Dashboard"
+msgstr ""
+
+#. link.dashboard
+#: dashboard/tool/src/java/org/sakaiproject/dash/tool/MyApplication.properties:2
+msgctxt ""
+"dashboard/tool/src/java/org/sakaiproject/dash/tool/MyApplication.properties:link.dashboard"
+msgid "Dash"
+msgstr ""
+
+#. link.dashboard.tooltip
+#: dashboard/tool/src/java/org/sakaiproject/dash/tool/MyApplication.properties:3
+msgctxt ""
+"dashboard/tool/src/java/org/sakaiproject/dash/tool/MyApplication.properties:link.dashboard.tooltip"
+msgid "Go to the dashboard page"
+msgstr ""
+
+#. link.options
+#: dashboard/tool/src/java/org/sakaiproject/dash/tool/MyApplication.properties:4
+msgctxt ""
+"dashboard/tool/src/java/org/sakaiproject/dash/tool/MyApplication.properties:link.options"
+msgid "Options"
+msgstr ""
+
+#. link.options.tooltip
+#: dashboard/tool/src/java/org/sakaiproject/dash/tool/MyApplication.properties:5
+msgctxt ""
+"dashboard/tool/src/java/org/sakaiproject/dash/tool/MyApplication.properties:link.options.tooltip"
+msgid "This is another page"
+msgstr ""

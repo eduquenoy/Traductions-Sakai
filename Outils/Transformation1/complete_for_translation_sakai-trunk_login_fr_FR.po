@@ -1,0 +1,487 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: sakai-trunk\n"
+"Report-Msgid-Bugs-To: ddeguchi@nagoya-u.jp\n"
+"POT-Creation-Date: 2019-06-17 04:37+00:00\n"
+"PO-Revision-Date: 2014-10-30 05:01+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: French (France) (http://www.transifex.com/apereo/sakai-trunk/language/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. email
+#: login/login-tool/tool/src/bundle/auth.properties:1
+msgctxt "login/login-tool/tool/src/bundle/auth.properties:email"
+msgid "email"
+msgstr "courriel"
+
+#. err.logerr
+#: login/login-tool/tool/src/bundle/auth.properties:2
+msgctxt "login/login-tool/tool/src/bundle/auth.properties:err.logerr"
+msgid "Login Error"
+msgstr "Erreur d'ouverture de session"
+
+#. invalid
+#: login/login-tool/tool/src/bundle/auth.properties:3
+msgctxt "login/login-tool/tool/src/bundle/auth.properties:invalid"
+msgid "Invalid"
+msgstr "Invalide"
+
+#. log.log
+#: login/login-tool/tool/src/bundle/auth.properties:4
+msgctxt "login/login-tool/tool/src/bundle/auth.properties:log.log"
+msgid "Log in"
+msgstr "Ouverture de session"
+
+#. log.cancel
+#: login/login-tool/tool/src/bundle/auth.properties:5
+msgctxt "login/login-tool/tool/src/bundle/auth.properties:log.cancel"
+msgid "Cancel"
+msgstr "Annuler"
+
+#. log.login
+#: login/login-tool/tool/src/bundle/auth.properties:6
+msgctxt "login/login-tool/tool/src/bundle/auth.properties:log.login"
+msgid "Log in"
+msgstr "Ouverture de session"
+
+#. log.logreq
+#: login/login-tool/tool/src/bundle/auth.properties:7
+msgctxt "login/login-tool/tool/src/bundle/auth.properties:log.logreq"
+msgid "Login Required"
+msgstr "Identification obligatoire"
+
+#. log.pass
+#: login/login-tool/tool/src/bundle/auth.properties:8
+msgctxt "login/login-tool/tool/src/bundle/auth.properties:log.pass"
+msgid "password"
+msgstr "Mot de passe"
+
+#. log.ple
+#: login/login-tool/tool/src/bundle/auth.properties:9
+msgctxt "login/login-tool/tool/src/bundle/auth.properties:log.ple"
+msgid "Please log in"
+msgstr "Veuillez ouvrir une session"
+
+#. orpass
+#: login/login-tool/tool/src/bundle/auth.properties:10
+msgctxt "login/login-tool/tool/src/bundle/auth.properties:orpass"
+msgid "or password"
+msgstr "ou mot de passe"
+
+#. userid
+#: login/login-tool/tool/src/bundle/auth.properties:11
+msgctxt "login/login-tool/tool/src/bundle/auth.properties:userid"
+msgid "user id"
+msgstr "Identifiant de l'utilisateur"
+
+#. wel.wel
+#: login/login-tool/tool/src/bundle/auth.properties:12
+msgctxt "login/login-tool/tool/src/bundle/auth.properties:wel.wel"
+msgid "Welcome"
+msgstr "Bienvenue"
+
+#. log.invalid
+#: login/login-tool/tool/src/bundle/auth.properties:13
+msgctxt "login/login-tool/tool/src/bundle/auth.properties:log.invalid"
+msgid "Invalid login"
+msgstr "nom d'utilisateur invalide"
+
+#. log.canceled
+#: login/login-tool/tool/src/bundle/auth.properties:14
+msgctxt "login/login-tool/tool/src/bundle/auth.properties:log.canceled"
+msgid "Login canceled"
+msgstr "ouverture de session annulée"
+
+#. log.invalid.with.penalty
+#: login/login-tool/tool/src/bundle/auth.properties:15
+msgctxt ""
+"login/login-tool/tool/src/bundle/auth.properties:log.invalid.with.penalty"
+msgid ""
+"Login failed. To help us maintain security please type the distorted words "
+"or letters shown into the text box below."
+msgstr ""
+
+#. log.invalid.credentials
+#: login/login-tool/tool/src/bundle/auth.properties:16
+msgctxt ""
+"login/login-tool/tool/src/bundle/auth.properties:log.invalid.credentials"
+msgid ""
+"One or more of your credentials were not correctly entered. Please ensure "
+"that your user id and password are correct, and type the distorted words or "
+"letters shown into the text box below."
+msgstr ""
+
+#. log.disabled.user
+#: login/login-tool/tool/src/bundle/auth.properties:17
+msgctxt "login/login-tool/tool/src/bundle/auth.properties:log.disabled.user"
+msgid "Your account has been disabled."
+msgstr "Votre compte a été désactivé."
+
+#. log.tryagain
+#: login/login-tool/tool/src/bundle/auth.properties:18
+msgctxt "login/login-tool/tool/src/bundle/auth.properties:log.tryagain"
+msgid "Unable to process that login, please try again."
+msgstr "Impossible d'ouvrir la session, veuillez essayer à nouveau."
+
+#. log.password.reset
+#: login/login-tool/tool/src/bundle/auth.properties:19
+msgctxt "login/login-tool/tool/src/bundle/auth.properties:log.password.reset"
+msgid "Forgot your password?"
+msgstr "Mot de passe oublié ?"
+
+#. log.choicereq
+#: login/login-tool/tool/src/bundle/auth.properties:20
+msgctxt "login/login-tool/tool/src/bundle/auth.properties:log.choicereq"
+msgid "Select your authentication source"
+msgstr "Sélectionner votre source d'authentification"
+
+#. log.email
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:1
+msgctxt "login/login-authn-tool/tool/src/bundle/sitenav.properties:log.email"
+msgid "email"
+msgstr "courriel"
+
+#. log.log
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:2
+msgctxt "login/login-authn-tool/tool/src/bundle/sitenav.properties:log.log"
+msgid "Log in"
+msgstr "Ouverture de session"
+
+#. log.login
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:3
+msgctxt "login/login-authn-tool/tool/src/bundle/sitenav.properties:log.login"
+msgid "Login"
+msgstr "Ouverture de session"
+
+#. log.pass
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:4
+msgctxt "login/login-authn-tool/tool/src/bundle/sitenav.properties:log.pass"
+msgid "password:"
+msgstr "Mot de passe :"
+
+#. log.ple
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:5
+msgctxt "login/login-authn-tool/tool/src/bundle/sitenav.properties:log.ple"
+msgid "Please Login"
+msgstr "Veuillez ouvrir une session"
+
+#. log.userid
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:6
+msgctxt "login/login-authn-tool/tool/src/bundle/sitenav.properties:log.userid"
+msgid "user id:"
+msgstr "Identifiant de l’utilisateur :"
+
+#. sit.log
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:7
+msgctxt "login/login-authn-tool/tool/src/bundle/sitenav.properties:sit.log"
+msgid "Logout"
+msgstr "Déconnexion"
+
+#. sit.more
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:8
+msgctxt "login/login-authn-tool/tool/src/bundle/sitenav.properties:sit.more"
+msgid "- more -"
+msgstr "- plus -"
+
+#. sit.selectmessage
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:9
+msgctxt ""
+"login/login-authn-tool/tool/src/bundle/sitenav.properties:sit.selectmessage"
+msgid ""
+"To operate the combo box, first press Alt+Down Arrow to open it, and then "
+"use the up and down arrow keys to scroll through the options."
+msgstr ""
+
+#. sit.mywor
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:10
+msgctxt "login/login-authn-tool/tool/src/bundle/sitenav.properties:sit.mywor"
+msgid "Home"
+msgstr "Page d'accueil"
+
+#. sit.worksite
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:11
+msgctxt ""
+"login/login-authn-tool/tool/src/bundle/sitenav.properties:sit.worksite"
+msgid "worksite"
+msgstr "espace de travail"
+
+#. sit.worksites
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:12
+msgctxt ""
+"login/login-authn-tool/tool/src/bundle/sitenav.properties:sit.worksites"
+msgid "Worksites"
+msgstr "Espaces de travail"
+
+#. sit.accessibility
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:13
+msgctxt ""
+"login/login-authn-tool/tool/src/bundle/sitenav.properties:sit.accessibility"
+msgid "go to accessibility information page"
+msgstr "aller à la page d’information sur l’accessibilité"
+
+#. sit.jumpcontent
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:14
+msgctxt ""
+"login/login-authn-tool/tool/src/bundle/sitenav.properties:sit.jumpcontent"
+msgid "jump to content"
+msgstr "aller au contenu"
+
+#. sit.jumptools
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:15
+msgctxt ""
+"login/login-authn-tool/tool/src/bundle/sitenav.properties:sit.jumptools"
+msgid "jump to tools list"
+msgstr "aller à la liste des outils"
+
+#. sit.jumpworksite
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:16
+msgctxt ""
+"login/login-authn-tool/tool/src/bundle/sitenav.properties:sit.jumpworksite"
+msgid "jump to worksite list"
+msgstr "aller à la liste des espaces"
+
+#. sit.worksiteshead
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:17
+msgctxt ""
+"login/login-authn-tool/tool/src/bundle/sitenav.properties:sit.worksiteshead"
+msgid "Worksites begin here"
+msgstr "Les espaces commencent ici"
+
+#. sit.toolshead
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:18
+msgctxt ""
+"login/login-authn-tool/tool/src/bundle/sitenav.properties:sit.toolshead"
+msgid "Tools begin here"
+msgstr "Les outils commencent ici"
+
+#. sit.contentshead
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:19
+msgctxt ""
+"login/login-authn-tool/tool/src/bundle/sitenav.properties:sit.contentshead"
+msgid "Content begins here"
+msgstr "Le contenu commence ici"
+
+#. sit.contentporttit
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:20
+msgctxt ""
+"login/login-authn-tool/tool/src/bundle/sitenav.properties:sit.contentporttit"
+msgid "Content"
+msgstr "Contenu"
+
+#. sit.presencetitle
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:21
+msgctxt ""
+"login/login-authn-tool/tool/src/bundle/sitenav.properties:sit.presencetitle"
+msgid "Users present:"
+msgstr "Utilisateurs présents :"
+
+#. sit.presenceiframetit
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:22
+msgctxt ""
+"login/login-authn-"
+"tool/tool/src/bundle/sitenav.properties:sit.presenceiframetit"
+msgid "Users Present in Site"
+msgstr "Utilisateurs présents dans l'espace"
+
+#. site.newwindow
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:23
+msgctxt ""
+"login/login-authn-tool/tool/src/bundle/sitenav.properties:site.newwindow"
+msgid "Opens in a new window"
+msgstr "Ouvre dans une nouvelle fenêtre"
+
+#. sit.help
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:24
+msgctxt "login/login-authn-tool/tool/src/bundle/sitenav.properties:sit.help"
+msgid "Help"
+msgstr "Aide"
+
+#. bugreport.bugreport
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:25
+msgctxt ""
+"login/login-authn-"
+"tool/tool/src/bundle/sitenav.properties:bugreport.bugreport"
+msgid "Bug Report"
+msgstr "Rapport de bogue"
+
+#. bugreport.user
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:26
+msgctxt ""
+"login/login-authn-tool/tool/src/bundle/sitenav.properties:bugreport.user"
+msgid "user"
+msgstr "Utilisateur "
+
+#. bugreport.usagesession
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:27
+msgctxt ""
+"login/login-authn-"
+"tool/tool/src/bundle/sitenav.properties:bugreport.usagesession"
+msgid "usage session"
+msgstr "session d'utilisation"
+
+#. bugreport.usercomment
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:28
+msgctxt ""
+"login/login-authn-"
+"tool/tool/src/bundle/sitenav.properties:bugreport.usercomment"
+msgid "user comment"
+msgstr "Commentaire de l’utilisateur "
+
+#. bugreport.time
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:29
+msgctxt ""
+"login/login-authn-tool/tool/src/bundle/sitenav.properties:bugreport.time"
+msgid "time"
+msgstr "Date et heure "
+
+#. bugreport.error
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:30
+msgctxt ""
+"login/login-authn-tool/tool/src/bundle/sitenav.properties:bugreport.error"
+msgid "Error"
+msgstr "Erreur"
+
+#. bugreport.stacktrace
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:31
+msgctxt ""
+"login/login-authn-"
+"tool/tool/src/bundle/sitenav.properties:bugreport.stacktrace"
+msgid "stack trace"
+msgstr "Trace de pile "
+
+#. bugreport.statement
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:32
+msgctxt ""
+"login/login-authn-"
+"tool/tool/src/bundle/sitenav.properties:bugreport.statement"
+msgid "An unexpected error has occurred."
+msgstr "Une erreur inattendue s’est produite."
+
+#. bugreport.sendtitle
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:33
+msgctxt ""
+"login/login-authn-"
+"tool/tool/src/bundle/sitenav.properties:bugreport.sendtitle"
+msgid "Send a bug report"
+msgstr "Envoyer un rapport de bogue"
+
+#. bugreport.sendinstructions
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:34
+msgctxt ""
+"login/login-authn-"
+"tool/tool/src/bundle/sitenav.properties:bugreport.sendinstructions"
+msgid ""
+"To send a bug report, describe what you were doing when the problem "
+"occurred, in the space below, and press the submit button."
+msgstr ""
+
+#. bugreport.sendsubmit
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:35
+msgctxt ""
+"login/login-authn-"
+"tool/tool/src/bundle/sitenav.properties:bugreport.sendsubmit"
+msgid "Submit Report"
+msgstr "Envoyer le rapport"
+
+#. bugreport.recoverytitle
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:36
+msgctxt ""
+"login/login-authn-"
+"tool/tool/src/bundle/sitenav.properties:bugreport.recoverytitle"
+msgid "Recovery"
+msgstr "Récupération"
+
+#. bugreport.recoveryinstructions
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:37
+msgctxt ""
+"login/login-authn-"
+"tool/tool/src/bundle/sitenav.properties:bugreport.recoveryinstructions"
+msgid ""
+"To recover from this error without sending in a bug report, please do the "
+"following:"
+msgstr ""
+
+#. bugreport.recoveryinstructions1
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:38
+msgctxt ""
+"login/login-authn-"
+"tool/tool/src/bundle/sitenav.properties:bugreport.recoveryinstructions1"
+msgid "Press the Logout button above to logout."
+msgstr "Appuyez sur le bouton de déconnexion ci-dessus pour vous déconnecter."
+
+#. bugreport.recoveryinstructions2
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:39
+msgctxt ""
+"login/login-authn-"
+"tool/tool/src/bundle/sitenav.properties:bugreport.recoveryinstructions2"
+msgid "Close your browser to assure a clean start."
+msgstr "Fermez votre navigateur pour garantir un démarrage sain."
+
+#. bugreport.recoveryinstructions3
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:40
+msgctxt ""
+"login/login-authn-"
+"tool/tool/src/bundle/sitenav.properties:bugreport.recoveryinstructions3"
+msgid "Re-open your browser and start again."
+msgstr "Ouvrez votre navigateur à nouveau et recommencez."
+
+#. bugreport.detailstitle
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:41
+msgctxt ""
+"login/login-authn-"
+"tool/tool/src/bundle/sitenav.properties:bugreport.detailstitle"
+msgid "Technical Details"
+msgstr "Détails techniques"
+
+#. bugreport.detailsnote
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:42
+msgctxt ""
+"login/login-authn-"
+"tool/tool/src/bundle/sitenav.properties:bugreport.detailsnote"
+msgid "This information will automatically be included in your bug report."
+msgstr "Cette information sera automatiquement incluse dans votre rapport de bogue."
+
+#. bugreport.troublereporting
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:43
+msgctxt ""
+"login/login-authn-"
+"tool/tool/src/bundle/sitenav.properties:bugreport.troublereporting"
+msgid "trouble reporting error to user:"
+msgstr "Problème lors du signalement de l’erreur à l’utilisateur :"
+
+#. bugreport.troubleredirecting
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:44
+msgctxt ""
+"login/login-authn-"
+"tool/tool/src/bundle/sitenav.properties:bugreport.troubleredirecting"
+msgid "trouble redirecting after post:"
+msgstr "Problème lors de la redirection après POST :"
+
+#. bugreport.senttitle
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:45
+msgctxt ""
+"login/login-authn-"
+"tool/tool/src/bundle/sitenav.properties:bugreport.senttitle"
+msgid "Bug report sent"
+msgstr "Rapport de bogue envoyé"
+
+#. bugreport.sentnote
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:46
+msgctxt ""
+"login/login-authn-tool/tool/src/bundle/sitenav.properties:bugreport.sentnote"
+msgid "Thank you for your bug report."
+msgstr "Merci pour votre rapport de bogue."
+
+#. bugreport.troublethanks
+#: login/login-authn-tool/tool/src/bundle/sitenav.properties:47
+msgctxt ""
+"login/login-authn-"
+"tool/tool/src/bundle/sitenav.properties:bugreport.troublethanks"
+msgid "trouble reporting thanks to user:"
+msgstr "Problème lors du remerciement à l’utilisateur :"

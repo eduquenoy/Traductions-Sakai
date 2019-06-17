@@ -1,0 +1,1462 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: sakai-trunk\n"
+"Report-Msgid-Bugs-To: ddeguchi@nagoya-u.jp\n"
+"POT-Creation-Date: 2019-06-17 04:37+00:00\n"
+"PO-Revision-Date: 2019-05-15 04:37+0000\n"
+"Last-Translator: spanishsakai <spanishsakai@gmail.com>\n"
+"Language-Team: French (France) (http://www.transifex.com/apereo/sakai-trunk/language/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. page.title
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:1
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:page.title"
+msgid "Delegated Access"
+msgstr "Accès délégué"
+
+#. link.first
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:2
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:link.first"
+msgid "Delegated Access"
+msgstr "Accès délégué"
+
+#. link.first.tooltip
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:3
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:link.first.tooltip"
+msgid "Go to the home page"
+msgstr "Aller à la page d'accueil"
+
+#. link.first.shopping
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:4
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:link.first.shopping"
+msgid "Home"
+msgstr "Page d'accueil"
+
+#. link.first.tooltip.shopping
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:5
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:link.first.tooltip.shopping"
+msgid "Go to the home page"
+msgstr "Aller à la page d'accueil"
+
+#. link.third
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:6
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:link.third"
+msgid "Search by User"
+msgstr "Recherche par utilisateur"
+
+#. link.third.tooltip
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:7
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:link.third.tooltip"
+msgid "Search for user's to add or remove access"
+msgstr "Recherche d'utilisateurs pour ajouter ou supprimer des accès"
+
+#. link.second
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:8
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:link.second"
+msgid "Shopping Admin"
+msgstr "Administration des courses"
+
+#. link.second.tooltip
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:9
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:link.second.tooltip"
+msgid "Set shopping period for my sites"
+msgstr "Définir la période de courses pour mes sites"
+
+#. link.shoppingStats
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:10
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:link.shoppingStats"
+msgid "Shopping List"
+msgstr "Liste de courses"
+
+#. link.shoppingStats.tooltip
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:11
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:link.shoppingStats.tooltip"
+msgid "See list of open shopping sites"
+msgstr "Voir la liste des espaces ouverts pour les courses"
+
+#. link.administrate
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:12
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:link.administrate"
+msgid "Admin Tools"
+msgstr "Outils d'administration"
+
+#. link.administrate.tooltip
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:13
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:link.administrate.tooltip"
+msgid "Admin tools"
+msgstr "Outils d'administration"
+
+#. searchAccessLinkLabel
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:14
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:searchAccessLinkLabel"
+msgid "Search by Access"
+msgstr "Recherche par accès"
+
+#. searchAccessLinkLabel.tooltip
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:15
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:searchAccessLinkLabel.tooltip"
+msgid "Search which users have access where"
+msgstr "Rechercher quels utilisateurs ont accès à quoi"
+
+#. searchResultsTitle
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:16
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:searchResultsTitle"
+msgid "Results for: "
+msgstr "Résultats pour : "
+
+#. searchForUsers
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:17
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:searchForUsers"
+msgid "Search for users:"
+msgstr "Recherche d'utilisateurs :"
+
+#. userIdHeader
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:18
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:userIdHeader"
+msgid "User Id"
+msgstr "Identifiant de l'utilisateur"
+
+#. nameHeader
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:19
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:nameHeader"
+msgid "Name"
+msgstr "Nom"
+
+#. emailHeader
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:20
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:emailHeader"
+msgid "Email"
+msgstr "Courriel"
+
+#. typeHeader
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:21
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:typeHeader"
+msgid "Type"
+msgstr "Type"
+
+#. expandColapse
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:22
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:expandColapse"
+msgid "Expand/Collapse All Nodes"
+msgstr "Développer/replier tous les nœuds"
+
+#. exapndNodes
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:23
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:exapndNodes"
+msgid "Expand All Nodes"
+msgstr "Développer tous les nœuds"
+
+#. collapseNodes
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:24
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:collapseNodes"
+msgid "Collapse All Nodes"
+msgstr "Replier tous les nœuds"
+
+#. noDelegatedAccess
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:25
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:noDelegatedAccess"
+msgid "You do not have any delegated access"
+msgstr "Vous n'avez pas d'accès délégué"
+
+#. noDelegatedAccessUser
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:26
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:noDelegatedAccessUser"
+msgid "This user does not have any delegated access"
+msgstr "Cet utilisateur n'a aucun accès délégué"
+
+#. noHierarchy
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:27
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:noHierarchy"
+msgid ""
+"The hierarchy hasn't been setup for this tool.  In order to use Delegated "
+"Access, you must create a hierarchy.  Please consult the following "
+"confluence page: "
+"https://confluence.sakaiproject.org/display/DAC/Delegated+Access+Tool"
+msgstr ""
+
+#. addAccess
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:28
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:addAccess"
+msgid "Add Access"
+msgstr "Ajouter l'accès"
+
+#. add
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:29
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:add"
+msgid "Add"
+msgstr "Ajouter"
+
+#. remove
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:30
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:remove"
+msgid "Remove"
+msgstr "Supprimer"
+
+#. update
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:31
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:update"
+msgid "Update"
+msgstr "Mise à jour"
+
+#. access
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:32
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:access"
+msgid "Access"
+msgstr "Accès"
+
+#. success.save
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:33
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:success.save"
+msgid "Successfully saved"
+msgstr "Sauvegarde réussie"
+
+#. failed.save
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:34
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:failed.save"
+msgid "An error has occurred while saving"
+msgstr "Une erreur s'est produite lors de la sauvegarde"
+
+#. realm
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:35
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:realm"
+msgid "Realm"
+msgstr "Domaine"
+
+#. role
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:36
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:role"
+msgid "Role"
+msgstr "Rôle"
+
+#. userRolesHeader
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:37
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:userRolesHeader"
+msgid "Default Access Role"
+msgstr "Rôle d'accès par défaut"
+
+#. userDelegatedAccessHeader
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:38
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:userDelegatedAccessHeader"
+msgid "Delegated Access"
+msgstr "Accès délégué"
+
+#. restrictedToolsHeader
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:39
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:restrictedToolsHeader"
+msgid "Restricted Tools"
+msgstr "Outils limités"
+
+#. inheritedToolsHeader
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:40
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:inheritedToolsHeader"
+msgid "Inherited"
+msgstr "Hérité"
+
+#. noToolsInherited
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:41
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:noToolsInherited"
+msgid "No tools inherited"
+msgstr "Aucun outil hérité"
+
+#. noPermsInherited
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:42
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:noPermsInherited"
+msgid "No permissions inherited"
+msgstr "Aucun droit hérité"
+
+#. cancel
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:43
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:cancel"
+msgid "Cancel"
+msgstr "Annuler"
+
+#. save
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:44
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:save"
+msgid "Save"
+msgstr "Enregistrer"
+
+#. done
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:45
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:done"
+msgid "Done"
+msgstr "Terminé"
+
+#. close
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:46
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:close"
+msgid "Close"
+msgstr "Fermer"
+
+#. inheritedRestrictedToolsTitle
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:47
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:inheritedRestrictedToolsTitle"
+msgid "Inherited List"
+msgstr "Liste héritée"
+
+#. inheritedRestrictedToolsDescription
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:48
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:inheritedRestrictedToolsDescription"
+msgid "This node inherits the following from its closest parent."
+msgstr "Ce nœud hérite de ce qui suit de son plus proche parent."
+
+#. inheritedNothing
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:49
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:inheritedNothing"
+msgid "Nothing inherited"
+msgstr "Aucun héritage"
+
+#. editableRestrictedToolsTitle
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:50
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:editableRestrictedToolsTitle"
+msgid "Choose Tools to Restrict"
+msgstr "Choisissez les outils à restreindre"
+
+#. editableShowToolsTitle
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:51
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:editableShowToolsTitle"
+msgid "Choose Tools to Show"
+msgstr "Choisir les outils à montrer"
+
+#. editableRestrictedToolsDescription
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:52
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:editableRestrictedToolsDescription"
+msgid ""
+"Choosing a tool in the list will hide the tool for this user.  This node and"
+" all children will inherit this list.  A child can overwrite this list by "
+"selecting it's own restricted tools list."
+msgstr ""
+
+#. editableShowToolsDescription
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:53
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:editableShowToolsDescription"
+msgid ""
+"Choosing a tool in the list will show the tool for this user.  This node and"
+" all children will inherit this list.  A child can overwrite this list by "
+"it's own tools to show."
+msgstr ""
+
+#. switchEditableTools
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:54
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:switchEditableTools"
+msgid "Inherited Tools"
+msgstr "Outils hérités"
+
+#. searchSites
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:55
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:searchSites"
+msgid "Search Sites"
+msgstr "Rechercher des espaces"
+
+#. siteTitleHeader
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:56
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:siteTitleHeader"
+msgid "Site Title"
+msgstr "Code du cours (p. ex. F13-ACCT-134C-01)"
+
+#. siteIdHeader
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:57
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:siteIdHeader"
+msgid "Site Id"
+msgstr "Identifiant du site"
+
+#. endDate
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:58
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:endDate"
+msgid "End Date"
+msgstr "Date de fin"
+
+#. startDate
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:59
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:startDate"
+msgid "Start Date"
+msgstr "Date de début"
+
+#. shoppingPeriodPerms
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:60
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:shoppingPeriodPerms"
+msgid "Permissions"
+msgstr "Droits"
+
+#. shoppingPeriodPermsInherited
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:61
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:shoppingPeriodPermsInherited"
+msgid "Inherited"
+msgstr "Hérité"
+
+#. switchEditablePerms
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:62
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:switchEditablePerms"
+msgid "Inherited"
+msgstr "Hérité"
+
+#. editableRestrictedPermsTitle
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:63
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:editableRestrictedPermsTitle"
+msgid "Choose Permissions to Grant"
+msgstr "Choisissez les droits à accorder"
+
+#. editableRestrictedPermsDescription
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:64
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:editableRestrictedPermsDescription"
+msgid ""
+"These will be the permissions you are granting for the shopping period."
+msgstr ""
+
+#. inheritedRestrictedPermsTitle
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:65
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:inheritedRestrictedPermsTitle"
+msgid "Inherited Permissions"
+msgstr "Droits hérités"
+
+#. inheritedRestrictedPermsDescription
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:66
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:inheritedRestrictedPermsDescription"
+msgid ""
+"This node inherits the following permissions from its closest parent with "
+"selected permissions tools."
+msgstr ""
+
+#. shoppingPeriodAuth
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:67
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:shoppingPeriodAuth"
+msgid "Authorization"
+msgstr "Autorisation"
+
+#. shoppersBecome
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:68
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:shoppersBecome"
+msgid "Shoppers Become"
+msgstr "Le client obtient les droits"
+
+#. userBecomes
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:69
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:userBecomes"
+msgid "User Becomes"
+msgstr "L'utilisateur obtient les droits"
+
+#. shoppingPeriodAdmin
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:70
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:shoppingPeriodAdmin"
+msgid "Shopping Admin"
+msgstr "Administration des courses"
+
+#. siteAccess
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:71
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:siteAccess"
+msgid "Site Access"
+msgstr "Accès Site"
+
+#. noShoppingAdminAccess
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:72
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:noShoppingAdminAccess"
+msgid "You do not have any shopping period admin access"
+msgstr "Vous n'avez pas d'accès administrateur pour la période des courses"
+
+#. editUsersInstructions
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:73
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:editUsersInstructions"
+msgid "This page allows you to assign delegated access for this user."
+msgstr ""
+
+#. editUsersInstructions_accessAdmin
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:74
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:editUsersInstructions_accessAdmin"
+msgid ""
+"For the \"Access Admin\" column, you can select the checkbox next to the "
+"level/site you want this user to have control over setting access and "
+"shopping period admin permissions for any user in the system."
+msgstr ""
+
+#. editUsersInstructions_shoppingAdmin
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:75
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:editUsersInstructions_shoppingAdmin"
+msgid ""
+"For the \"Shopping Admin\" column, you can select the checkbox next to the "
+"level/site you want this user to have control over setting shopping period "
+"settings for.  The nodes and children of the nodes you select for \"Shopping"
+" Admin\" will show up for the user in the \"Shopping Period\" link."
+msgstr ""
+
+#. editUsersInstructions_siteAccess
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:76
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:editUsersInstructions_siteAccess"
+msgid ""
+"For the \"Site Access\" column, you can select which level/site you want the"
+" user to have access to.  When you choose \"Site Access\", you must fill out"
+" what role the user will become when they visit that site or a site that "
+"under that level.  You also have the ability to choose which tools are "
+"restricted for this user by clicking the \"Restrict Tools\" link.  All child"
+" nodes will inherit their parents settings unless you have specifically "
+"overridden them.  The nodes and children of the nodes you select for \"Site "
+"Access\" will show up for the user in the \"Delegated Access\" link.  When "
+"you are done, click save or click cancel to undo all changes."
+msgstr ""
+
+#. delegatedAccessInstructions
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:77
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:delegatedAccessInstructions"
+msgid ""
+"This page allows you to search through sites you have been granted access "
+"to.  You can search by site title, site id, instructor name, instructor id, "
+"instructor email, or site term, or you can use the tree structure below to "
+"find the site you want.  Click on the title of the site to jump to that "
+"site."
+msgstr ""
+
+#. shoppingAdminInstructions
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:78
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:shoppingAdminInstructions"
+msgid ""
+"This page allows you to set the shopping period settings for the sites "
+"you've been granted permission to update.  To set the shopping period "
+"settings, you can select the checkbox next to the level/site that you want "
+"to set.  Note, you will only see a checkbox next to a node you have "
+"permission to modify.  First, when you select a node, you must set the "
+"\"Authorization\" setting.  The two options are \"Public\" and \"Logged "
+"In\".  \"Public\" means anyone can access this site and do not need to log "
+"in to shop in this site.  \"Logged In\" means users must log in first in "
+"order to shop in this site.  Next, you need to choose the role the user will"
+" become when they are shopping.  Finally, you need to set the dates during "
+"which the shopping period will be open.  By default, all tools are hidden to"
+" shoppers so you must specify which tools a shopper can access.  You can "
+"edit this list of viewable tools by clicking the \"Show Tools\" link.  All "
+"child nodes will inherit their parents settings unless the child node has "
+"been set with its own settings.  When you are done, click save or click "
+"cancel to undo all changes. "
+msgstr ""
+
+#. shoppingAdminTitle
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:79
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:shoppingAdminTitle"
+msgid "Edit Shopping Period Settings"
+msgstr "Modifier les paramètres de période de courses"
+
+#. delegatedAccessTitle
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:80
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:delegatedAccessTitle"
+msgid "Delegated Access"
+msgstr "Accès délégué"
+
+#. editUsersTitle
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:81
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:editUsersTitle"
+msgid "Edit Permission for: "
+msgstr "Modifier les droits pour : "
+
+#. instructorField
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:82
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:instructorField"
+msgid "Instructor: "
+msgstr "Enseignant : "
+
+#. instructor
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:83
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:instructor"
+msgid "Instructor"
+msgstr "Enseignant"
+
+#. member
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:84
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:member"
+msgid "Member"
+msgstr "Membre"
+
+#. user
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:85
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:user"
+msgid "User"
+msgstr "Utilisateur"
+
+#. advancedSearch
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:86
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:advancedSearch"
+msgid "Advanced Search Options"
+msgstr "Options de recherche avancée"
+
+#. hideAdvancedSearch
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:87
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:hideAdvancedSearch"
+msgid "Hide Advanced Search Options"
+msgstr "Cacher les options de recherche avancée"
+
+#. siteIdTitleField
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:88
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:siteIdTitleField"
+msgid "Site:"
+msgstr "Site:"
+
+#. termField
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:89
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:termField"
+msgid "Term: "
+msgstr "Semestre : "
+
+#. termHeader
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:90
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:termHeader"
+msgid "Term"
+msgstr "Semestre"
+
+#. instructorHeader
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:91
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:instructorHeader"
+msgid "Instructor"
+msgstr "Enseignant"
+
+#. noShoppingSites
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:92
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:noShoppingSites"
+msgid "No sites are available"
+msgstr "Aucun espace n'est disponible"
+
+#. shoppingTitle
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:93
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:shoppingTitle"
+msgid "Shopping Period"
+msgstr "Période de courses"
+
+#. shoppingInstruction
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:94
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:shoppingInstruction"
+msgid ""
+"This page allows you to search through sites that are open for shopping. You"
+" can search by site title, site id, instructor name, instructor id, "
+"instructor email, or site term, or you can use the tree structure below to "
+"find the site you want. Click on the title of the site to jump to that site."
+msgstr ""
+
+#. .anon
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:95
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:.anon"
+msgid "Public"
+msgstr "Public"
+
+#. .auth
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:96
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:.auth"
+msgid "Logged In"
+msgstr "Connecté"
+
+#. any
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:97
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:any"
+msgid "Any"
+msgstr "Tous"
+
+#. showToolsHeader
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:98
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:showToolsHeader"
+msgid "Show Tools"
+msgstr "Afficher les outils"
+
+#. showAuthToolsHeader
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:99
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:showAuthToolsHeader"
+msgid "Tools: Logged In"
+msgstr "Outils : Connecté"
+
+#. showPublicToolsHeader
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:100
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:showPublicToolsHeader"
+msgid "Tools: Public"
+msgstr "Outils : Public"
+
+#. link.current
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:101
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:link.current"
+msgid "Active Shopping Sites"
+msgstr "Sites ouverts pour les courses"
+
+#. link.current.tooltip
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:102
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:link.current.tooltip"
+msgid "Shows a list of all the active shopping sites and their settings."
+msgstr "Affiche une liste de tous les sites ouverts pour les courses et leurs paramètres."
+
+#. link.all
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:103
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:link.all"
+msgid "All Shopping Sites"
+msgstr "Tous les sites paramétrés pour les courses"
+
+#. link.all.tooltip
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:104
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:link.all.tooltip"
+msgid "Shows the list of all shopping sites and their settings."
+msgstr "Affiche la liste de tous les espaces paramétrés pour les courses et leurs paramètres."
+
+#. accessModifiedBy
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:105
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:accessModifiedBy"
+msgid "Access Modified By"
+msgstr "Accès modifié par"
+
+#. accessModifiedOn
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:106
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:accessModifiedOn"
+msgid "Access Modified On"
+msgstr "Accès modifié le"
+
+#. hideInstructions
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:107
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:hideInstructions"
+msgid "Hide Instructions"
+msgstr "Masquer les instructions"
+
+#. showInstructions
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:108
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:showInstructions"
+msgid "Show Instructions"
+msgstr "Afficher les instructions"
+
+#. accessAdmin
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:109
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:accessAdmin"
+msgid "Access Admin"
+msgstr "Administration des accès"
+
+#. lookupInstructor
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:110
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:lookupInstructor"
+msgid "Lookup Instructor"
+msgstr "Chercher un enseignant"
+
+#. shoppingPeriodRevokeInstructorEditable
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:111
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:shoppingPeriodRevokeInstructorEditable"
+msgid "Disable Instructor Override"
+msgstr "Désactiver le changement de paramétrage par l'enseignant"
+
+#. noToolsSelected
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:112
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:noToolsSelected"
+msgid "You have not selected any tools."
+msgstr "Vous n'avez sélectionné aucun outil."
+
+#. advanced
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:113
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:advanced"
+msgid "Advanced"
+msgstr "Avancé"
+
+#. advancedOptionsTitle
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:114
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:advancedOptionsTitle"
+msgid "Advanced Options"
+msgstr "Options avancées"
+
+#. advancedOptionsDesc
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:115
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:advancedOptionsDesc"
+msgid "All children will inherit these settings unless overridden."
+msgstr "Tous les enfants hériteront de ces paramètres s'ils ne sont pas changés."
+
+#. advOptInstructorGroupTitle
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:116
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:advOptInstructorGroupTitle"
+msgid "Instructor Settings"
+msgstr "Paramètres de l'instructeur"
+
+#. shoppingPeriodRevokePublicOptCheckbox
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:117
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:shoppingPeriodRevokePublicOptCheckbox"
+msgid "Disable \"Public\" option"
+msgstr ""
+
+#. inactiveLegendText
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:118
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:inactiveLegendText"
+msgid "No activity has been detected for this site"
+msgstr "Aucune activité n'a été détectée pour cet espace"
+
+#. legend
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:119
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:legend"
+msgid "Legend"
+msgstr "Légende"
+
+#. nodeIdParam
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:120
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:nodeIdParam"
+msgid ""
+"Set nodeId parameter if you know the node you want to update.  If let empty,"
+" entire tree will update."
+msgstr ""
+
+#. administrationTools
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:121
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:administrationTools"
+msgid "Admin Tools"
+msgstr "Outils d'administration"
+
+#. add.da.myworkspace
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:122
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:add.da.myworkspace"
+msgid "Add Delegated Access to Homes"
+msgstr "Ajouter l'accès délégué aux espaces de travail"
+
+#. add.da.myworkspace.desc
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:123
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:add.da.myworkspace.desc"
+msgid ""
+"This adds the Delegated Access tool to all user's Home sites for users who "
+"have any kind of permissions in Delegated Access.  By default, a user will "
+"have the Delegated Access tool added/removed when you update their "
+"permissions, however, sometimes you have to delete all Homes to pick up a "
+"new Home template."
+msgstr ""
+
+#. addDaMyworkspaceTitle
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:124
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:addDaMyworkspaceTitle"
+msgid "Add Delegated Access to MyWorkspaces"
+msgstr "Ajouter l'accès délégué aux espaces de travail"
+
+#. success.addDaMyworkspace
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:125
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:success.addDaMyworkspace"
+msgid ""
+"You have successfully scheduled the job to add Delegated Access to user's "
+"Home sites."
+msgstr ""
+
+#. addDaMyworkspace.job.status.none
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:126
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:addDaMyworkspace.job.status.none"
+msgid "Never been scheduled."
+msgstr "N'a jamais été planifié."
+
+#. status
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:127
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:status"
+msgid "Status:"
+msgstr "Statut :"
+
+#. na
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:128
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:na"
+msgid "N/A"
+msgstr "N/A"
+
+#. addDaMyworkspace.job.status.failed
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:129
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:addDaMyworkspace.job.status.failed"
+msgid "Failed during last run"
+msgstr "A échoué au cours de la dernière exécution"
+
+#. addDaMyworkspace.job.status.scheduled
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:130
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:addDaMyworkspace.job.status.scheduled"
+msgid "Scheduled"
+msgstr "Planifié"
+
+#. addDaMyworkspace.job.status.success
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:131
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:addDaMyworkspace.job.status.success"
+msgid "Successfully ran last on "
+msgstr "Exécuté avec succès en dernier sur "
+
+#. allowBecomeUser
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:132
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:allowBecomeUser"
+msgid "Allow user to use Become User tool for users in these sites"
+msgstr "Permettre à l'utilisateur d'employer l'outil Devenir Utilisateur pour les utilisateurs de ces espaces"
+
+#. allowedBeomceUser
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:133
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:allowedBeomceUser"
+msgid "User is allowed to become any user in these sites"
+msgstr "L'utilisateur est autorisé à devenir n'importe quel utilisateur dans ces espaces"
+
+#. legendNodeDesc
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:134
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:legendNodeDesc"
+msgid "Hierarchy Node"
+msgstr "Nœud de hiérarchie"
+
+#. legendSiteDesc
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:135
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:legendSiteDesc"
+msgid "Site"
+msgstr "Espace"
+
+#. legendInactiveDesc
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:136
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:legendInactiveDesc"
+msgid "Inactive"
+msgstr "Inactive"
+
+#. legendInstructorEditedDesc
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:137
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:legendInstructorEditedDesc"
+msgid "Instructor Edited"
+msgstr "Instructeur modifié"
+
+#. searchByHierarchyLabel
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:138
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:searchByHierarchyLabel"
+msgid "hierarchy"
+msgstr "hiérarchie"
+
+#. searchByEidLabel
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:139
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:searchByEidLabel"
+msgid "user id"
+msgstr "Identifiant de l'utilisateur"
+
+#. eidLabel
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:140
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:eidLabel"
+msgid "Eid:"
+msgstr "Eid :"
+
+#. searchByLabel
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:141
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:searchByLabel"
+msgid "Search by"
+msgstr "Chercher par"
+
+#. levelHeader
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:142
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:levelHeader"
+msgid "Level"
+msgstr "Level"
+
+#. hierarchyHeader
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:143
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:hierarchyHeader"
+msgid "Hierarchy"
+msgstr "Hiérarchie"
+
+#. userDoesNotExist
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:144
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:userDoesNotExist"
+msgid "User does not exist"
+msgstr "L'utilisateur n'existe pas"
+
+#. accessType1
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:145
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:accessType1"
+msgid "Access"
+msgstr "Accès"
+
+#. accessType2
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:146
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:accessType2"
+msgid "Shopping Admin"
+msgstr "Administration des courses"
+
+#. accessType4
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:147
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:accessType4"
+msgid "Access Admin"
+msgstr "Administration des accès"
+
+#. edit
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:148
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:edit"
+msgid "Edit"
+msgstr "Modifier"
+
+#. site
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:149
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:site"
+msgid "Site"
+msgstr "Espace"
+
+#. viewAccess
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:150
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:viewAccess"
+msgid "View Access"
+msgstr "Voir l'accès"
+
+#. noEidEntered
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:151
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:noEidEntered"
+msgid "Please enter a valid eid"
+msgstr "Veuillez entrer un eid valide"
+
+#. eidDoesNotExist
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:152
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:eidDoesNotExist"
+msgid "Could not find user with that eid"
+msgstr "Impossible de trouver l'utilisateur avec cet eid"
+
+#. noResultsUser
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:153
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:noResultsUser"
+msgid "No access found for this user or you don't have permission to view it."
+msgstr "Aucun accès trouvé pour cet utilisateur ou vous n'avez pas la permission de l'afficher."
+
+#. noResultsHierarchy
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:154
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:noResultsHierarchy"
+msgid "No access found at this level or you don't have permission to view it."
+msgstr "Aucun accès trouvé à ce niveau ou vous n'avez pas la permission de l'afficher."
+
+#. confirmRemove
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:155
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:confirmRemove"
+msgid "Are you sure you want to remove this permission?"
+msgstr "Êtes-vous sûr de que vouloir supprimer ce droit ?"
+
+#. includeLowerPermsLabel
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:156
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:includeLowerPermsLabel"
+msgid "Include lower levels"
+msgstr "Inclure des niveaux inférieurs"
+
+#. removeAllPerms
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:157
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:removeAllPerms"
+msgid "Remove All Permissions"
+msgstr "Supprimer tous les droits"
+
+#. confirmRemoveAll
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:158
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:confirmRemoveAll"
+msgid "Are you sure you want to remove all permissions for this user?"
+msgstr "Êtes-vous sûr de que vouloir supprimer tous les droits pour cet utilisateur ?"
+
+#. accessHeader
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:159
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:accessHeader"
+msgid "Access"
+msgstr "Accès"
+
+#. popupBlockWarning
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:160
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:popupBlockWarning"
+msgid ""
+"Window popup blocker detected. Make sure to allow popups for this site."
+msgstr ""
+
+#. permaLink
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:161
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:permaLink"
+msgid "Save Search"
+msgstr "Enregistrer la recherche"
+
+#. permaLinkMessage
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:162
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:permaLinkMessage"
+msgid "Copy link for pasting into email"
+msgstr "Copier le lien pour le coller dans un courrier électronique"
+
+#. published
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:163
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:published"
+msgid "Published"
+msgstr "Publié"
+
+#. yes
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:164
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:yes"
+msgid "Yes"
+msgstr "Ou"
+
+#. no
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:165
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:no"
+msgid "No"
+msgstr "Non"
+
+#. providers
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:166
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:providers"
+msgid "Roster"
+msgstr "Liste"
+
+#. lookupProviders
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:167
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:lookupProviders"
+msgid "Lookup Roster"
+msgstr "Rechercher dans liste d'étudiants"
+
+#. exportData
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:168
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:exportData"
+msgid "Export to CSV"
+msgstr "Exporter au format CSV"
+
+#. searchExportFileName
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:169
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:searchExportFileName"
+msgid "DelegatedAccessSearchResults"
+msgstr "DelegatedAccessSearchResults"
+
+#. shoppingAdminBulkTitle
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:170
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:shoppingAdminBulkTitle"
+msgid "Bulk Add, Update, and Delete Shopping Period Settings"
+msgstr "Faire en vrac ajouter, mettre à jour, ou supprimer des paramètres de périodicité pour faire des courses"
+
+#. shoppingAdminBulkInstructions
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:171
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:shoppingAdminBulkInstructions"
+msgid ""
+"This page allows you to delete and/or add or update any site's shopping "
+"period settings. To delete a site's shopping period settings, simply add the"
+" site ID to the \"Delete\" tab's site list. Please note that it will only "
+"delete direct settings for that node and won't delete any inherited "
+"settings. To add or update a site's settings, set the shopping period "
+"settings in the \"Add or Update\" tab then add the sites you want to update "
+"to the list of sites. When you are ready, click Save and allow some time for"
+" the page to load."
+msgstr ""
+
+#. bulkEditLink
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:172
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:bulkEditLink"
+msgid "Bulk Add, Update, or Delete"
+msgstr "Faire en vrac ajouter, mettre à jour, ou supprimer"
+
+#. deleteShoppingSettings
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:173
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:deleteShoppingSettings"
+msgid "Delete Shopping Period Settings"
+msgstr "Supprimer les paramètres de la période de courses"
+
+#. siteIds
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:174
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:siteIds"
+msgid "Site IDs"
+msgstr "IDs espace"
+
+#. siteIdsInfo
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:175
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:siteIdsInfo"
+msgid "(one ID per line)"
+msgstr "(un seul ID par ligne)"
+
+#. sitesToBeDeleted
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:176
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:sitesToBeDeleted"
+msgid "Sites to be deleted"
+msgstr "Espaces à supprimer"
+
+#. noSitesInInput
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:177
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:noSitesInInput"
+msgid "No sites to add. "
+msgstr "Aucun espace à ajouter. "
+
+#. sitesNotFound
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:178
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:sitesNotFound"
+msgid "The following sites were not found in the hierarchy: {0}"
+msgstr "Les espaces suivants n'ont pas été trouvés dans la hiérarchie : {0}"
+
+#. sitesNoAccess
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:179
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:sitesNoAccess"
+msgid "You do not have permission to modify the following sites: {0}"
+msgstr "Vous n'êtes pas autorisé à modifier les espaces suivants : {0}"
+
+#. siteId
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:180
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:siteId"
+msgid "Site ID"
+msgstr "Identifiant de l'espace"
+
+#. siteTitle
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:181
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:siteTitle"
+msgid "Title"
+msgstr "Titre"
+
+#. addUpdateShoppingSettings
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:182
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:addUpdateShoppingSettings"
+msgid "Add or Update Shopping Period Settings"
+msgstr "Ajouter ou mettre à jour les paramètres de période de courses"
+
+#. sitesToBeAdded
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:183
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:sitesToBeAdded"
+msgid "Sites to be added or updated"
+msgstr "Espaces à ajouter ou à mettre à jour"
+
+#. shoppingPeriodSettings
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:184
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:shoppingPeriodSettings"
+msgid "Shopping Period Settings"
+msgstr "Paramètres de la période des courses"
+
+#. selectAll
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:185
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:selectAll"
+msgid "Select All"
+msgstr "Tout sélectionner"
+
+#. selectTools
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:186
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:selectTools"
+msgid "Select Tools"
+msgstr "Sélectionnez Outils"
+
+#. noSitesToaddOrDelete
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:187
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:noSitesToaddOrDelete"
+msgid "You must have at least one site in the add/update or delete lists."
+msgstr "Vous devez avoir au moins un espace dans les listes supprimées ou ajoutées/mises à jour."
+
+#. oneDateRequired
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:188
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:oneDateRequired"
+msgid "At least one date is required to add/update sites."
+msgstr "Il faut au moins une date pour ajouter/mettre à jour des espaces."
+
+#. startDateMustBeFirst
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:189
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:startDateMustBeFirst"
+msgid "Start date must be before end date."
+msgstr "La date de début doit être antérieure à la date de fin."
+
+#. oneToolMustBeSelected
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:190
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:oneToolMustBeSelected"
+msgid ""
+"You must select at least one public or private tool to add/update sites."
+msgstr ""
+
+#. roleRequired
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:191
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:roleRequired"
+msgid "Role is required."
+msgstr "Un rôle est requis."
+
+#. filterBy
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:192
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:filterBy"
+msgid "Filter By"
+msgstr "Filtrer par "
+
+#. hierarchyLevel
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:193
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:hierarchyLevel"
+msgid "Hierarchy Level"
+msgstr "Niveau de hiérarchie"
+
+#. filter
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:194
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:filter"
+msgid "Filter"
+msgstr "Filtrer"
+
+#. clear
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:195
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:clear"
+msgid "Clear"
+msgstr "Effacer"
+
+#. modificationsPending
+#: delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:196
+msgctxt ""
+"delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/DelegatedAccessApplication.properties:modificationsPending"
+msgid ""
+"There are unsaved modifications that will be removed, please save or "
+"continue with action."
+msgstr ""

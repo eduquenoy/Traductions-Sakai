@@ -1,0 +1,3448 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: sakai-trunk\n"
+"Report-Msgid-Bugs-To: ddeguchi@nagoya-u.jp\n"
+"POT-Creation-Date: 2019-06-17 04:37+00:00\n"
+"PO-Revision-Date: 2014-10-30 04:58+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: French (France) (http://www.transifex.com/apereo/sakai-trunk/language/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. list.title
+#: citations/citations-util/util/src/bundle/citations.properties:1
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:list.title"
+msgid "Reading List"
+msgstr ""
+
+#. list.count
+#: citations/citations-util/util/src/bundle/citations.properties:2
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:list.count"
+msgid "Citation Count"
+msgstr ""
+
+#. list.summary
+#: citations/citations-util/util/src/bundle/citations.properties:3
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:list.summary"
+msgid "citations table"
+msgstr ""
+
+#. listing.title
+#: citations/citations-util/util/src/bundle/citations.properties:4
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:listing.title"
+msgid "Citations"
+msgstr ""
+
+#. cite.title
+#: citations/citations-util/util/src/bundle/citations.properties:5
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:cite.title"
+msgid "Citation"
+msgstr ""
+
+#. cite.subtitle
+#: citations/citations-util/util/src/bundle/citations.properties:6
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:cite.subtitle"
+msgid ""
+"Click \"{0}\" to see if a copy of the citation is available through your "
+"library."
+msgstr ""
+
+#. cite.openUrlLabel
+#: citations/citations-util/util/src/bundle/citations.properties:7
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:cite.openUrlLabel"
+msgid "Find in my library"
+msgstr ""
+
+#. action.create
+#: citations/citations-util/util/src/bundle/citations.properties:8
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:action.create"
+msgid "Create Citation List"
+msgstr ""
+
+#. action.create.quota
+#: citations/citations-util/util/src/bundle/citations.properties:9
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:action.create.quota"
+msgid ""
+"Adding a Citation List would place this account over quota. To add this "
+"resource, some resources may need to be deleted."
+msgstr ""
+
+#. action.revise
+#: citations/citations-util/util/src/bundle/citations.properties:10
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:action.revise"
+msgid "Edit Citation List"
+msgstr ""
+
+#. resource.new
+#: citations/citations-util/util/src/bundle/citations.properties:11
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:resource.new"
+msgid "New Citation List"
+msgstr ""
+
+#. resource.revise
+#: citations/citations-util/util/src/bundle/citations.properties:12
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.revise"
+msgid "Revise Citation List"
+msgstr ""
+
+#. resource.title
+#: citations/citations-util/util/src/bundle/citations.properties:13
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:resource.title"
+msgid "Citation List Name:"
+msgstr ""
+
+#. resource.gen.email1
+#: citations/citations-util/util/src/bundle/citations.properties:14
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.gen.email1"
+msgid "Email Notification"
+msgstr ""
+
+#. resource.gen.email2
+#: citations/citations-util/util/src/bundle/citations.properties:15
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.gen.email2"
+msgid "High - All participants"
+msgstr ""
+
+#. resource.gen.email3
+#: citations/citations-util/util/src/bundle/citations.properties:16
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.gen.email3"
+msgid "Low - Only participants who have opted in"
+msgstr ""
+
+#. resource.gen.email4
+#: citations/citations-util/util/src/bundle/citations.properties:17
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.gen.email4"
+msgid "None - No notification"
+msgstr ""
+
+#. resource.search.target
+#: citations/citations-util/util/src/bundle/citations.properties:18
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.search.target"
+msgid "Add Citations From:"
+msgstr ""
+
+#. resource.library
+#: citations/citations-util/util/src/bundle/citations.properties:19
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.library"
+msgid "Library Resources"
+msgstr ""
+
+#. resource.library.search
+#: citations/citations-util/util/src/bundle/citations.properties:20
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.library.search"
+msgid "Search Library Resources"
+msgstr ""
+
+#. resource.google
+#: citations/citations-util/util/src/bundle/citations.properties:21
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.google"
+msgid "Google Scholar"
+msgstr ""
+
+#. resource.resourcepicker
+#: citations/citations-util/util/src/bundle/citations.properties:22
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.resourcepicker"
+msgid "Search Resources"
+msgstr ""
+
+#. resource.google.search
+#: citations/citations-util/util/src/bundle/citations.properties:23
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.google.search"
+msgid "Search Google Scholar"
+msgstr ""
+
+#. resource.pick.resource
+#: citations/citations-util/util/src/bundle/citations.properties:24
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.pick.resource"
+msgid "Pick from Sakai Resources"
+msgstr ""
+
+#. resource.editor
+#: citations/citations-util/util/src/bundle/citations.properties:25
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.editor"
+msgid "Manually Create"
+msgstr ""
+
+#. resource.import
+#: citations/citations-util/util/src/bundle/citations.properties:26
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.import"
+msgid "Import"
+msgstr ""
+
+#. resource.import.file
+#: citations/citations-util/util/src/bundle/citations.properties:27
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.import.file"
+msgid "Import From File"
+msgstr ""
+
+#. resource.export
+#: citations/citations-util/util/src/bundle/citations.properties:28
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.export"
+msgid "Export"
+msgstr ""
+
+#. resource.export.file
+#: citations/citations-util/util/src/bundle/citations.properties:29
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.export.file"
+msgid "Export To File"
+msgstr ""
+
+#. resource.new.success
+#: citations/citations-util/util/src/bundle/citations.properties:30
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.new.success"
+msgid "Citation List ({0}) has been created."
+msgstr ""
+
+#. resource.null_collectionId.error
+#: citations/citations-util/util/src/bundle/citations.properties:31
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.null_collectionId.error"
+msgid "Configuration problem. (No CI). "
+msgstr ""
+
+#. resource.description
+#: citations/citations-util/util/src/bundle/citations.properties:32
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.description"
+msgid "Description"
+msgstr ""
+
+#. resource.access.groups.choice
+#: citations/citations-util/util/src/bundle/citations.properties:33
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.access.groups.choice"
+msgid "Display this file to <strong>selected groups</strong> only."
+msgstr ""
+
+#. resource.access.groups.fldr
+#: citations/citations-util/util/src/bundle/citations.properties:34
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.access.groups.fldr"
+msgid ""
+"Display this folder and its contents to <strong>selected groups</strong> "
+"only."
+msgstr ""
+
+#. resource.access.inherit
+#: citations/citations-util/util/src/bundle/citations.properties:35
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.access.inherit"
+msgid "Leave access settings as for the folder."
+msgstr ""
+
+#. resource.access.public.choice
+#: citations/citations-util/util/src/bundle/citations.properties:36
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.access.public.choice"
+msgid "This file is <strong>publicly viewable</strong>."
+msgstr ""
+
+#. resource.access.public.fldr
+#: citations/citations-util/util/src/bundle/citations.properties:37
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.access.public.fldr"
+msgid "This folder and its contents are <strong>publicly viewable</strong>."
+msgstr ""
+
+#. resource.access.site.choice
+#: citations/citations-util/util/src/bundle/citations.properties:38
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.access.site.choice"
+msgid "Only <strong>members of this site</strong> can see this file."
+msgstr ""
+
+#. resource.access.site.fldr
+#: citations/citations-util/util/src/bundle/citations.properties:39
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.access.site.fldr"
+msgid ""
+"Only <strong>members of this site</strong> can see this folder and its "
+"contents."
+msgstr ""
+
+#. resource.access.title
+#: citations/citations-util/util/src/bundle/citations.properties:40
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.access.title"
+msgid "Access"
+msgstr ""
+
+#. resource.nocitations
+#: citations/citations-util/util/src/bundle/citations.properties:41
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.nocitations"
+msgid "No citations have been added yet."
+msgstr ""
+
+#. resource.updated
+#: citations/citations-util/util/src/bundle/citations.properties:42
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.updated"
+msgid "Resource updated"
+msgstr ""
+
+#. resource.done
+#: citations/citations-util/util/src/bundle/citations.properties:43
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:resource.done"
+msgid "Done"
+msgstr ""
+
+#. resource.aaa.hide
+#: citations/citations-util/util/src/bundle/citations.properties:44
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.aaa.hide"
+msgid "Hide Citation List Options"
+msgstr ""
+
+#. resource.aaa.show
+#: citations/citations-util/util/src/bundle/citations.properties:45
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.aaa.show"
+msgid "Show Citation List Options"
+msgstr ""
+
+#. resource.aaa.title
+#: citations/citations-util/util/src/bundle/citations.properties:46
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.aaa.title"
+msgid "Citation List Options"
+msgstr ""
+
+#. resource.avail.end1
+#: citations/citations-util/util/src/bundle/citations.properties:47
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.avail.end1"
+msgid "Until"
+msgstr ""
+
+#. resource.avail.hide
+#: citations/citations-util/util/src/bundle/citations.properties:48
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.avail.hide"
+msgid "Hide"
+msgstr ""
+
+#. resource.avail.hide10
+#: citations/citations-util/util/src/bundle/citations.properties:49
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.avail.hide10"
+msgid "Hide this item "
+msgstr ""
+
+#. resource.avail.hide20
+#: citations/citations-util/util/src/bundle/citations.properties:50
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.avail.hide20"
+msgid "Hide this folder and its contents"
+msgstr ""
+
+#. resource.avail.show1
+#: citations/citations-util/util/src/bundle/citations.properties:51
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.avail.show1"
+msgid "Show this item"
+msgstr ""
+
+#. resource.avail.show2
+#: citations/citations-util/util/src/bundle/citations.properties:52
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.avail.show2"
+msgid "Show this folder"
+msgstr ""
+
+#. resource.avail.start1
+#: citations/citations-util/util/src/bundle/citations.properties:53
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.avail.start1"
+msgid "From"
+msgstr ""
+
+#. resource.avail.title
+#: citations/citations-util/util/src/bundle/citations.properties:54
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.avail.title"
+msgid "Availability"
+msgstr ""
+
+#. resource.edit.access4
+#: citations/citations-util/util/src/bundle/citations.properties:55
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.edit.access4"
+msgid "Display to selected groups"
+msgstr ""
+
+#. resource.edit.group1
+#: citations/citations-util/util/src/bundle/citations.properties:56
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.edit.group1"
+msgid "Title"
+msgstr ""
+
+#. resource.edit.group2
+#: citations/citations-util/util/src/bundle/citations.properties:57
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.edit.group2"
+msgid "Description"
+msgstr ""
+
+#. resource.edit.group3
+#: citations/citations-util/util/src/bundle/citations.properties:58
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.edit.group3"
+msgid ""
+"Table contains list of groups. First column contains checkboxes, second "
+"contains the group name, third the group description. Header links can be "
+"used to sort."
+msgstr ""
+
+#. resource.group.select.title
+#: citations/citations-util/util/src/bundle/citations.properties:59
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.group.select.title"
+msgid "Check All"
+msgstr ""
+
+#. resource.instr.access
+#: citations/citations-util/util/src/bundle/citations.properties:60
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.instr.access"
+msgid "Choose who can see this item."
+msgstr ""
+
+#. resource.instr.avail
+#: citations/citations-util/util/src/bundle/citations.properties:61
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.instr.avail"
+msgid ""
+"Resources can be scheduled to be visible between certain dates only. Site "
+"administrators will always be able to see hidden items, even when they are "
+"hidden from other users. "
+msgstr ""
+
+#. resource.label.date
+#: citations/citations-util/util/src/bundle/citations.properties:62
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.label.date"
+msgid "Date: "
+msgstr ""
+
+#. resource.label.time
+#: citations/citations-util/util/src/bundle/citations.properties:63
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.label.time"
+msgid "Time: "
+msgstr ""
+
+#. resource.citations.added
+#: citations/citations-util/util/src/bundle/citations.properties:64
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.citations.added"
+msgid "Citations have been added. Click \"Refresh Now\" to see changes. "
+msgstr ""
+
+#. resource.refresh.now
+#: citations/citations-util/util/src/bundle/citations.properties:65
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:resource.refresh.now"
+msgid "Refresh Now"
+msgstr ""
+
+#. import.title
+#: citations/citations-util/util/src/bundle/citations.properties:66
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:import.title"
+msgid "Import Citations"
+msgstr ""
+
+#. import.directions
+#: citations/citations-util/util/src/bundle/citations.properties:67
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:import.directions"
+msgid ""
+"Please select an RIS file to upload or enter the text of an RIS file "
+"directly into the text area below."
+msgstr ""
+
+#. import.file
+#: citations/citations-util/util/src/bundle/citations.properties:68
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:import.file"
+msgid "Import File From"
+msgstr ""
+
+#. import.ristext
+#: citations/citations-util/util/src/bundle/citations.properties:69
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:import.ristext"
+msgid "Import RIS Formatted Data from the Following Text"
+msgstr ""
+
+#. import.alert
+#: citations/citations-util/util/src/bundle/citations.properties:70
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:import.alert"
+msgid ""
+"You must either upload a file or place a RIS formatted text in the text area"
+msgstr ""
+
+#. import.create
+#: citations/citations-util/util/src/bundle/citations.properties:71
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:import.create"
+msgid ""
+"Import citations in RIS format from EndNote, RefWorks or other citation "
+"management tools."
+msgstr ""
+
+#. sort.title
+#: citations/citations-util/util/src/bundle/citations.properties:72
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:sort.title"
+msgid "Title"
+msgstr ""
+
+#. sort.author
+#: citations/citations-util/util/src/bundle/citations.properties:73
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:sort.author"
+msgid "First Author"
+msgstr ""
+
+#. sort.date
+#: citations/citations-util/util/src/bundle/citations.properties:74
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:sort.date"
+msgid "Published Year"
+msgstr ""
+
+#. sort.label
+#: citations/citations-util/util/src/bundle/citations.properties:75
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:sort.label"
+msgid "Sort By"
+msgstr ""
+
+#. sort.position
+#: citations/citations-util/util/src/bundle/citations.properties:76
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:sort.position"
+msgid "Position"
+msgstr ""
+
+#. submit.sort
+#: citations/citations-util/util/src/bundle/citations.properties:77
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:submit.sort"
+msgid "Save Sort"
+msgstr ""
+
+#. sort.save.error
+#: citations/citations-util/util/src/bundle/citations.properties:78
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:sort.save.error"
+msgid "Sort could not be saved"
+msgstr ""
+
+#. sort.save.success
+#: citations/citations-util/util/src/bundle/citations.properties:79
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:sort.save.success"
+msgid "Sort has been saved\t"
+msgstr ""
+
+#. instr.add.menu
+#: citations/citations-util/util/src/bundle/citations.properties:80
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:instr.add.menu"
+msgid ""
+"Add citations to the list using one or more of the methods below. Edit the "
+"list to modify the citations, title the list, and add it to your resources."
+msgstr ""
+
+#. instr.revise.menu
+#: citations/citations-util/util/src/bundle/citations.properties:81
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:instr.revise.menu"
+msgid ""
+"Add citations to the list using one or more of the methods below. Edit the "
+"list to modify the citations."
+msgstr ""
+
+#. instr.search.main
+#: citations/citations-util/util/src/bundle/citations.properties:82
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:instr.search.main"
+msgid ""
+"Enter search terms and search the recommended databases selected or select "
+"your own category and databases."
+msgstr ""
+
+#. instr.search.sub
+#: citations/citations-util/util/src/bundle/citations.properties:83
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:instr.search.sub"
+msgid ""
+"Search for an exact phrase by putting quotation marks (\") around the "
+"phrase."
+msgstr ""
+
+#. instr.search.adv
+#: citations/citations-util/util/src/bundle/citations.properties:84
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:instr.search.adv"
+msgid "Note: All fields are ANDed together."
+msgstr ""
+
+#. instr.search.db
+#: citations/citations-util/util/src/bundle/citations.properties:85
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:instr.search.db"
+msgid ""
+"Note: No more than {0} databases can be searched at one time. Recommended "
+"databases are pre-selected."
+msgstr ""
+
+#. instr.results
+#: citations/citations-util/util/src/bundle/citations.properties:86
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:instr.results"
+msgid ""
+"To add citations to the list, click \"{0}\" next to the desired citation. "
+"When finished, click \"{1}\". View citation details by clicking the article "
+"title, or lock for the article by clicking \"{2}\". To search a different "
+"set of databases, click \"{3}\"."
+msgstr ""
+
+#. instr.list
+#: citations/citations-util/util/src/bundle/citations.properties:87
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:instr.list"
+msgid ""
+"Click on citation titles to view or edit citation details, or click on "
+"\"{0}\" to locate the citation. To title and save this citation list, click "
+"\"{1}\"."
+msgstr ""
+
+#. instr.edit
+#: citations/citations-util/util/src/bundle/citations.properties:88
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:instr.edit"
+msgid "Enter citation information and click \"{0}\"."
+msgstr ""
+
+#. instr.edit.sub
+#: citations/citations-util/util/src/bundle/citations.properties:89
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:instr.edit.sub"
+msgid "Required items marked with <span class=\"reqStarInline\">*</span>"
+msgstr ""
+
+#. label.continue
+#: citations/citations-util/util/src/bundle/citations.properties:90
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:label.continue"
+msgid "Continue"
+msgstr ""
+
+#. label.review
+#: citations/citations-util/util/src/bundle/citations.properties:91
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:label.review"
+msgid "Review Citation List"
+msgstr ""
+
+#. label.cancel
+#: citations/citations-util/util/src/bundle/citations.properties:92
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:label.cancel"
+msgid "Cancel"
+msgstr ""
+
+#. label.back
+#: citations/citations-util/util/src/bundle/citations.properties:93
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:label.back"
+msgid "Back"
+msgstr ""
+
+#. label.finish
+#: citations/citations-util/util/src/bundle/citations.properties:94
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:label.finish"
+msgid "Continue"
+msgstr ""
+
+#. label.menu
+#: citations/citations-util/util/src/bundle/citations.properties:95
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:label.menu"
+msgid "Add Citations to List"
+msgstr ""
+
+#. label.process
+#: citations/citations-util/util/src/bundle/citations.properties:96
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:label.process"
+msgid "Processing..."
+msgstr ""
+
+#. label.done
+#: citations/citations-util/util/src/bundle/citations.properties:97
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:label.done"
+msgid "Done Editing List"
+msgstr ""
+
+#. label.import
+#: citations/citations-util/util/src/bundle/citations.properties:98
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:label.import"
+msgid "Import"
+msgstr ""
+
+#. label.importing
+#: citations/citations-util/util/src/bundle/citations.properties:99
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:label.importing"
+msgid "Importing..."
+msgstr ""
+
+#. label.descr
+#: citations/citations-util/util/src/bundle/citations.properties:100
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:label.descr"
+msgid "Description:"
+msgstr ""
+
+#. title.add
+#: citations/citations-util/util/src/bundle/citations.properties:101
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:title.add"
+msgid "Add Citations"
+msgstr ""
+
+#. title.search
+#: citations/citations-util/util/src/bundle/citations.properties:102
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:title.search"
+msgid "Search for Citations"
+msgstr ""
+
+#. action.google
+#: citations/citations-util/util/src/bundle/citations.properties:103
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:action.google"
+msgid "Search Google Scholar"
+msgstr ""
+
+#. popup.title.google
+#: citations/citations-util/util/src/bundle/citations.properties:104
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:popup.title.google"
+msgid "sakai_google"
+msgstr ""
+
+#. description.google
+#: citations/citations-util/util/src/bundle/citations.properties:105
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:description.google"
+msgid ""
+"Search world-wide database of scholarly resources and save search results to"
+" this citation list."
+msgstr ""
+
+#. linkLabel.google.sakai
+#: citations/citations-util/util/src/bundle/citations.properties:106
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:linkLabel.google.sakai"
+msgid "Add to {0}"
+msgstr ""
+
+#. popup.title.resourcepicker
+#: citations/citations-util/util/src/bundle/citations.properties:107
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:popup.title.resourcepicker"
+msgid "sakai_resources"
+msgstr ""
+
+#. action.external.search
+#: citations/citations-util/util/src/bundle/citations.properties:108
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:action.external.search"
+msgid "Search the Library Catalogue"
+msgstr ""
+
+#. description.external.search
+#: citations/citations-util/util/src/bundle/citations.properties:109
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:description.external.search"
+msgid ""
+"Search directly in the Library Catalogue for an item to add to this Reading "
+"List."
+msgstr ""
+
+#. action.pickresource
+#: citations/citations-util/util/src/bundle/citations.properties:110
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:action.pickresource"
+msgid "Pick a Resource"
+msgstr ""
+
+#. description.pickresource
+#: citations/citations-util/util/src/bundle/citations.properties:111
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:description.pickresource"
+msgid ""
+"Pick a file from the site resources. The file link will be displayed in the "
+"list."
+msgstr ""
+
+#. title.link
+#: citations/citations-util/util/src/bundle/citations.properties:112
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:title.link"
+msgid "Link(s)"
+msgstr ""
+
+#. label.link
+#: citations/citations-util/util/src/bundle/citations.properties:113
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:label.link"
+msgid "Label"
+msgstr ""
+
+#. url.link
+#: citations/citations-util/util/src/bundle/citations.properties:114
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:url.link"
+msgid "URL"
+msgstr ""
+
+#. preferred.link
+#: citations/citations-util/util/src/bundle/citations.properties:115
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:preferred.link"
+msgid "Use as title link?"
+msgstr ""
+
+#. preferred.text
+#: citations/citations-util/util/src/bundle/citations.properties:116
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:preferred.text"
+msgid "preferred"
+msgstr ""
+
+#. gen.alert
+#: citations/citations-util/util/src/bundle/citations.properties:117
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:gen.alert"
+msgid "Alert:"
+msgstr ""
+
+#. required.alert
+#: citations/citations-util/util/src/bundle/citations.properties:118
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:required.alert"
+msgid "Please enter values for all required fields."
+msgstr ""
+
+#. list.exportWindow
+#: citations/citations-util/util/src/bundle/citations.properties:119
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:list.exportWindow"
+msgid "citationExport"
+msgstr ""
+
+#. title.list
+#: citations/citations-util/util/src/bundle/citations.properties:120
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:title.list"
+msgid "Citations"
+msgstr ""
+
+#. empty.list
+#: citations/citations-util/util/src/bundle/citations.properties:121
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:empty.list"
+msgid "Click \"{0}\" to add citations to this list. "
+msgstr ""
+
+#. actions.list
+#: citations/citations-util/util/src/bundle/citations.properties:122
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:actions.list"
+msgid "Citation Actions:"
+msgstr ""
+
+#. select.action.list
+#: citations/citations-util/util/src/bundle/citations.properties:123
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:select.action.list"
+msgid "Select Action"
+msgstr ""
+
+#. select.all.list
+#: citations/citations-util/util/src/bundle/citations.properties:124
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:select.all.list"
+msgid "Select All"
+msgstr ""
+
+#. select.none.list
+#: citations/citations-util/util/src/bundle/citations.properties:125
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:select.none.list"
+msgid "Select None"
+msgstr ""
+
+#. select.warn.list
+#: citations/citations-util/util/src/bundle/citations.properties:126
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:select.warn.list"
+msgid "Please select at least one citation to perform this action."
+msgstr ""
+
+#. export.select.list
+#: citations/citations-util/util/src/bundle/citations.properties:127
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:export.select.list"
+msgid "Export Selected"
+msgstr ""
+
+#. export.all.list
+#: citations/citations-util/util/src/bundle/citations.properties:128
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:export.all.list"
+msgid "Export Entire List"
+msgstr ""
+
+#. export.citation
+#: citations/citations-util/util/src/bundle/citations.properties:129
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:export.citation"
+msgid "export"
+msgstr ""
+
+#. remove.select.list
+#: citations/citations-util/util/src/bundle/citations.properties:130
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:remove.select.list"
+msgid "Remove Selected"
+msgstr ""
+
+#. remove.all.list
+#: citations/citations-util/util/src/bundle/citations.properties:131
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:remove.all.list"
+msgid "Remove Entire List"
+msgstr ""
+
+#. reorder.list
+#: citations/citations-util/util/src/bundle/citations.properties:132
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:reorder.list"
+msgid "Reorder List"
+msgstr ""
+
+#. export.title.list
+#: citations/citations-util/util/src/bundle/citations.properties:133
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:export.title.list"
+msgid "RIS"
+msgstr ""
+
+#. export.default.filename
+#: citations/citations-util/util/src/bundle/citations.properties:134
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:export.default.filename"
+msgid "citations"
+msgstr ""
+
+#. export.filename.all.ris
+#: citations/citations-util/util/src/bundle/citations.properties:135
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:export.filename.all.ris"
+msgid "{0}.ris"
+msgstr ""
+
+#. export.filename.selected.ris
+#: citations/citations-util/util/src/bundle/citations.properties:136
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:export.filename.selected.ris"
+msgid "{0}-selected.ris"
+msgstr ""
+
+#. export.none_selected
+#: citations/citations-util/util/src/bundle/citations.properties:137
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:export.none_selected"
+msgid "No citations selected."
+msgstr ""
+
+#. export.empty_collection
+#: citations/citations-util/util/src/bundle/citations.properties:138
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:export.empty_collection"
+msgid "Citation List is empty."
+msgstr ""
+
+#. nested.section.title
+#: citations/citations-util/util/src/bundle/citations.properties:139
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:nested.section.title"
+msgid "Section Title"
+msgstr ""
+
+#. nested.add.section.button
+#: citations/citations-util/util/src/bundle/citations.properties:140
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:nested.add.section.button"
+msgid "Add Section"
+msgstr ""
+
+#. nested.start.editing.button
+#: citations/citations-util/util/src/bundle/citations.properties:141
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:nested.start.editing.button"
+msgid "Edit"
+msgstr ""
+
+#. nested.finish.editing.button
+#: citations/citations-util/util/src/bundle/citations.properties:142
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:nested.finish.editing.button"
+msgid "Finish editing"
+msgstr ""
+
+#. nested.delete.section.button
+#: citations/citations-util/util/src/bundle/citations.properties:143
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:nested.delete.section.button"
+msgid "Delete"
+msgstr ""
+
+#. nested.add.description.section.button
+#: citations/citations-util/util/src/bundle/citations.properties:144
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:nested.add.description.section.button"
+msgid "Add Description"
+msgstr ""
+
+#. nested.section.description.text
+#: citations/citations-util/util/src/bundle/citations.properties:145
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:nested.section.description.text"
+msgid "Section Description"
+msgstr ""
+
+#. nested.add.subsection.button
+#: citations/citations-util/util/src/bundle/citations.properties:146
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:nested.add.subsection.button"
+msgid "Add Subsection"
+msgstr ""
+
+#. nested.section.title.text
+#: citations/citations-util/util/src/bundle/citations.properties:147
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:nested.section.title.text"
+msgid "<h1>Section Title</h1>"
+msgstr ""
+
+#. nested.delete.section.confirm
+#: citations/citations-util/util/src/bundle/citations.properties:148
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:nested.delete.section.confirm"
+msgid ""
+"Are you sure you want to delete this section (and any subsections or "
+"citations it has)?"
+msgstr ""
+
+#. nested.delete.description.confirm
+#: citations/citations-util/util/src/bundle/citations.properties:149
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:nested.delete.description.confirm"
+msgid "Are you sure you want to delete this description?"
+msgstr ""
+
+#. new.citations.list
+#: citations/citations-util/util/src/bundle/citations.properties:150
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:new.citations.list"
+msgid "New Citation List "
+msgstr ""
+
+#. citation.count
+#: citations/citations-util/util/src/bundle/citations.properties:151
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:citation.count"
+msgid "{0} citations"
+msgstr ""
+
+#. action.edit
+#: citations/citations-util/util/src/bundle/citations.properties:152
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:action.edit"
+msgid "edit"
+msgstr ""
+
+#. title.edit
+#: citations/citations-util/util/src/bundle/citations.properties:153
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:title.edit"
+msgid "Edit Citation"
+msgstr ""
+
+#. submit.edit
+#: citations/citations-util/util/src/bundle/citations.properties:154
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:submit.edit"
+msgid "Save Changes"
+msgstr ""
+
+#. cancel.edit
+#: citations/citations-util/util/src/bundle/citations.properties:155
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:cancel.edit"
+msgid "Cancel Changes"
+msgstr ""
+
+#. action.remove
+#: citations/citations-util/util/src/bundle/citations.properties:156
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:action.remove"
+msgid "remove"
+msgstr ""
+
+#. title.remove
+#: citations/citations-util/util/src/bundle/citations.properties:157
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:title.remove"
+msgid "Remove Citation"
+msgstr ""
+
+#. addAction.create
+#: citations/citations-util/util/src/bundle/citations.properties:158
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:addAction.create"
+msgid "Create New Citation"
+msgstr ""
+
+#. description.create
+#: citations/citations-util/util/src/bundle/citations.properties:159
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:description.create"
+msgid "Add a citation by typing in data."
+msgstr ""
+
+#. title.create
+#: citations/citations-util/util/src/bundle/citations.properties:160
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:title.create"
+msgid "Add Citation"
+msgstr ""
+
+#. submit.create
+#: citations/citations-util/util/src/bundle/citations.properties:161
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:submit.create"
+msgid "Save Citation"
+msgstr ""
+
+#. cancel.create
+#: citations/citations-util/util/src/bundle/citations.properties:162
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:cancel.create"
+msgid "Cancel Citation"
+msgstr ""
+
+#. addanother.create
+#: citations/citations-util/util/src/bundle/citations.properties:163
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:addanother.create"
+msgid "Add another"
+msgstr ""
+
+#. action.search
+#: citations/citations-util/util/src/bundle/citations.properties:164
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:action.search"
+msgid "Search Library Resources"
+msgstr ""
+
+#. description.search
+#: citations/citations-util/util/src/bundle/citations.properties:165
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:description.search"
+msgid "Search library catalog, article databases, and other resources."
+msgstr ""
+
+#. title.basic.search
+#: citations/citations-util/util/src/bundle/citations.properties:166
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:title.basic.search"
+msgid "Search Library Resources - Basic Search"
+msgstr ""
+
+#. title.adv.search
+#: citations/citations-util/util/src/bundle/citations.properties:167
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:title.adv.search"
+msgid "Search Library Resources - Advanced Search"
+msgstr ""
+
+#. submit.search
+#: citations/citations-util/util/src/bundle/citations.properties:168
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:submit.search"
+msgid "Search"
+msgstr ""
+
+#. cancel.search
+#: citations/citations-util/util/src/bundle/citations.properties:169
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:cancel.search"
+msgid "Cancel"
+msgstr ""
+
+#. wait.search
+#: citations/citations-util/util/src/bundle/citations.properties:170
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:wait.search"
+msgid "Searching..."
+msgstr ""
+
+#. select.search
+#: citations/citations-util/util/src/bundle/citations.properties:171
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:select.search"
+msgid "Select search category"
+msgstr ""
+
+#. dbSelected.search
+#: citations/citations-util/util/src/bundle/citations.properties:172
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:dbSelected.search"
+msgid "databases selected:"
+msgstr ""
+
+#. select.sub.search
+#: citations/citations-util/util/src/bundle/citations.properties:173
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:select.sub.search"
+msgid "Select sub-category"
+msgstr ""
+
+#. empty.cat.search
+#: citations/citations-util/util/src/bundle/citations.properties:174
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:empty.cat.search"
+msgid "Selected category contains no searchable databases"
+msgstr ""
+
+#. link.dbshow.search
+#: citations/citations-util/util/src/bundle/citations.properties:175
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:link.dbshow.search"
+msgid "Show Descriptions"
+msgstr ""
+
+#. link.dbhide.search
+#: citations/citations-util/util/src/bundle/citations.properties:176
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:link.dbhide.search"
+msgid "Hide Descriptions"
+msgstr ""
+
+#. alt.dbshow.search
+#: citations/citations-util/util/src/bundle/citations.properties:177
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:alt.dbshow.search"
+msgid "Show Description"
+msgstr ""
+
+#. alt.dbhide.search
+#: citations/citations-util/util/src/bundle/citations.properties:178
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:alt.dbhide.search"
+msgid "Hide Description"
+msgstr ""
+
+#. dbLoad.search
+#: citations/citations-util/util/src/bundle/citations.properties:179
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:dbLoad.search"
+msgid "Loading Databases..."
+msgstr ""
+
+#. terms.search
+#: citations/citations-util/util/src/bundle/citations.properties:180
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:terms.search"
+msgid "Enter search terms"
+msgstr ""
+
+#. link.basic.search
+#: citations/citations-util/util/src/bundle/citations.properties:181
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:link.basic.search"
+msgid "Basic Search"
+msgstr ""
+
+#. link.adv.search
+#: citations/citations-util/util/src/bundle/citations.properties:182
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:link.adv.search"
+msgid "Advanced Search"
+msgstr ""
+
+#. pageSize.search
+#: citations/citations-util/util/src/bundle/citations.properties:183
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:pageSize.search"
+msgid "Page Size"
+msgstr ""
+
+#. maxRecords.search
+#: citations/citations-util/util/src/bundle/citations.properties:184
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:maxRecords.search"
+msgid "Maximum Records"
+msgstr ""
+
+#. startRecord.search
+#: citations/citations-util/util/src/bundle/citations.properties:185
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:startRecord.search"
+msgid "Start Record"
+msgstr ""
+
+#. no.terms.search
+#: citations/citations-util/util/src/bundle/citations.properties:186
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:no.terms.search"
+msgid "Please enter search terms to try again"
+msgstr ""
+
+#. no.databases.search
+#: citations/citations-util/util/src/bundle/citations.properties:187
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:no.databases.search"
+msgid "Please select at least one database to conduct a search"
+msgstr ""
+
+#. clear.search
+#: citations/citations-util/util/src/bundle/citations.properties:188
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:clear.search"
+msgid "Clear Form"
+msgstr ""
+
+#. label.new.search
+#: citations/citations-util/util/src/bundle/citations.properties:189
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:label.new.search"
+msgid "New Search"
+msgstr ""
+
+#. label.back.search
+#: citations/citations-util/util/src/bundle/citations.properties:190
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:label.back.search"
+msgid "Back to Add Citations"
+msgstr ""
+
+#. label.back.fromlist
+#: citations/citations-util/util/src/bundle/citations.properties:191
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:label.back.fromlist"
+msgid "Back to Review Citation List"
+msgstr ""
+
+#. noTerms.search
+#: citations/citations-util/util/src/bundle/citations.properties:192
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:noTerms.search"
+msgid "Please supply at least one search term."
+msgstr ""
+
+#. noDbs.search
+#: citations/citations-util/util/src/bundle/citations.properties:193
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:noDbs.search"
+msgid "Please select at least one database to search."
+msgstr ""
+
+#. error.search
+#: citations/citations-util/util/src/bundle/citations.properties:194
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:error.search"
+msgid "Unable to process your request at this time, please try again later."
+msgstr ""
+
+#. instr.results.main
+#: citations/citations-util/util/src/bundle/citations.properties:195
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:instr.results.main"
+msgid "Click \"{0}\" to add a citation to the citation list."
+msgstr ""
+
+#. instr.results.sub
+#: citations/citations-util/util/src/bundle/citations.properties:196
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:instr.results.sub"
+msgid ""
+"Change search terms to perform a different search within the selected "
+"databases. Click \"{0}\" to search a different set of databases."
+msgstr ""
+
+#. no.results
+#: citations/citations-util/util/src/bundle/citations.properties:197
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:no.results"
+msgid "No results found to match your query"
+msgstr ""
+
+#. title.results
+#: citations/citations-util/util/src/bundle/citations.properties:198
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:title.results"
+msgid "Search Results"
+msgstr ""
+
+#. add.results
+#: citations/citations-util/util/src/bundle/citations.properties:199
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:add.results"
+msgid "Add"
+msgstr ""
+
+#. add_alt.results
+#: citations/citations-util/util/src/bundle/citations.properties:200
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:add_alt.results"
+msgid "Remove from citation list"
+msgstr ""
+
+#. remove.results
+#: citations/citations-util/util/src/bundle/citations.properties:201
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:remove.results"
+msgid "Remove"
+msgstr ""
+
+#. first.results
+#: citations/citations-util/util/src/bundle/citations.properties:202
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:first.results"
+msgid "First Page"
+msgstr ""
+
+#. last.results
+#: citations/citations-util/util/src/bundle/citations.properties:203
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:last.results"
+msgid "Last Page"
+msgstr ""
+
+#. next.results
+#: citations/citations-util/util/src/bundle/citations.properties:204
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:next.results"
+msgid "Next Page"
+msgstr ""
+
+#. prev.results
+#: citations/citations-util/util/src/bundle/citations.properties:205
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:prev.results"
+msgid "Previous Page"
+msgstr ""
+
+#. wait.results
+#: citations/citations-util/util/src/bundle/citations.properties:206
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:wait.results"
+msgid "Loading..."
+msgstr ""
+
+#. show10.results
+#: citations/citations-util/util/src/bundle/citations.properties:207
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:show10.results"
+msgid "Show 10 items per page"
+msgstr ""
+
+#. show20.results
+#: citations/citations-util/util/src/bundle/citations.properties:208
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:show20.results"
+msgid "Show 20 items per page"
+msgstr ""
+
+#. show30.results
+#: citations/citations-util/util/src/bundle/citations.properties:209
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:show30.results"
+msgid "Show 30 items per page"
+msgstr ""
+
+#. show40.results
+#: citations/citations-util/util/src/bundle/citations.properties:210
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:show40.results"
+msgid "Show 40 items per page"
+msgstr ""
+
+#. show50.results
+#: citations/citations-util/util/src/bundle/citations.properties:211
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:show50.results"
+msgid "Show 50 items per page"
+msgstr ""
+
+#. showing.results
+#: citations/citations-util/util/src/bundle/citations.properties:212
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:showing.results"
+msgid "(viewing {0} - {1} of {2})"
+msgstr ""
+
+#. link.show.results
+#: citations/citations-util/util/src/bundle/citations.properties:213
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:link.show.results"
+msgid "Abstract View"
+msgstr ""
+
+#. link.hide.results
+#: citations/citations-util/util/src/bundle/citations.properties:214
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:link.hide.results"
+msgid "Title View"
+msgstr ""
+
+#. label.back.results
+#: citations/citations-util/util/src/bundle/citations.properties:215
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:label.back.results"
+msgid "Back to Search Results"
+msgstr ""
+
+#. summary.results
+#: citations/citations-util/util/src/bundle/citations.properties:216
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:summary.results"
+msgid "Search results table"
+msgstr ""
+
+#. link.show.readonly
+#: citations/citations-util/util/src/bundle/citations.properties:217
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:link.show.readonly"
+msgid "Citation View"
+msgstr ""
+
+#. subjects.result
+#: citations/citations-util/util/src/bundle/citations.properties:218
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:subjects.result"
+msgid "Subject(s):"
+msgstr ""
+
+#. abstract.result
+#: citations/citations-util/util/src/bundle/citations.properties:219
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:abstract.result"
+msgid "Abstract:"
+msgstr ""
+
+#. nodetails.result
+#: citations/citations-util/util/src/bundle/citations.properties:220
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:nodetails.result"
+msgid "No subject or abstract information available"
+msgstr ""
+
+#. title.review
+#: citations/citations-util/util/src/bundle/citations.properties:221
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:title.review"
+msgid "Edit Citation List"
+msgstr ""
+
+#. instr.main.review
+#: citations/citations-util/util/src/bundle/citations.properties:222
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:instr.main.review"
+msgid ""
+"View, edit or remove citations below. Click \"{0}\" to see if a copy of the "
+"citation is available through your library."
+msgstr ""
+
+#. instr.sub.review
+#: citations/citations-util/util/src/bundle/citations.properties:223
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:instr.sub.review"
+msgid "Click \"{0}\" to title and save this citation list to your resources."
+msgstr ""
+
+#. search.problem
+#: citations/citations-util/util/src/bundle/citations.properties:224
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:search.problem"
+msgid "Unable to search at this time. Please try again later."
+msgstr ""
+
+#. title.close
+#: citations/citations-util/util/src/bundle/citations.properties:225
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:title.close"
+msgid "This window is no longer needed."
+msgstr ""
+
+#. subtitle.close
+#: citations/citations-util/util/src/bundle/citations.properties:226
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:subtitle.close"
+msgid "Please click \"Close\" button."
+msgstr ""
+
+#. button.close
+#: citations/citations-util/util/src/bundle/citations.properties:227
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:button.close"
+msgid "Close"
+msgstr ""
+
+#. keyword.adv.search
+#: citations/citations-util/util/src/bundle/citations.properties:228
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:keyword.adv.search"
+msgid "Keyword:"
+msgstr ""
+
+#. author.adv.search
+#: citations/citations-util/util/src/bundle/citations.properties:229
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:author.adv.search"
+msgid "Author:"
+msgstr ""
+
+#. titletext.adv.search
+#: citations/citations-util/util/src/bundle/citations.properties:230
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:titletext.adv.search"
+msgid "Title:"
+msgstr ""
+
+#. subject.adv.search
+#: citations/citations-util/util/src/bundle/citations.properties:231
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:subject.adv.search"
+msgid "Subject:"
+msgstr ""
+
+#. year.adv.search
+#: citations/citations-util/util/src/bundle/citations.properties:232
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:year.adv.search"
+msgid "Year:"
+msgstr ""
+
+#. title.error
+#: citations/citations-util/util/src/bundle/citations.properties:233
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:title.error"
+msgid "There was an error."
+msgstr ""
+
+#. subtitle.error
+#: citations/citations-util/util/src/bundle/citations.properties:234
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:subtitle.error"
+msgid "Please click the \"done\" button to close this window."
+msgstr ""
+
+#. subtitle.error.restart
+#: citations/citations-util/util/src/bundle/citations.properties:235
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:subtitle.error.restart"
+msgid ""
+"Please click the \"reset\" button to close this window and return to the "
+"Resources area."
+msgstr ""
+
+#. cancel.error
+#: citations/citations-util/util/src/bundle/citations.properties:236
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:cancel.error"
+msgid "Done"
+msgstr ""
+
+#. alert.access
+#: citations/citations-util/util/src/bundle/citations.properties:237
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:alert.access"
+msgid "Cannot access the citation"
+msgstr ""
+
+#. type.select
+#: citations/citations-util/util/src/bundle/citations.properties:238
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:type.select"
+msgid "Select Citation Type"
+msgstr ""
+
+#. wait.list
+#: citations/citations-util/util/src/bundle/citations.properties:239
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:wait.list"
+msgid "Processing..."
+msgstr ""
+
+#. action.view
+#: citations/citations-util/util/src/bundle/citations.properties:240
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:action.view"
+msgid "view citation"
+msgstr ""
+
+#. title.view
+#: citations/citations-util/util/src/bundle/citations.properties:241
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:title.view"
+msgid "Citation Details"
+msgstr ""
+
+#. cancel.view
+#: citations/citations-util/util/src/bundle/citations.properties:242
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:cancel.view"
+msgid "Done"
+msgstr ""
+
+#. type.view
+#: citations/citations-util/util/src/bundle/citations.properties:243
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:type.view"
+msgid "Type"
+msgstr ""
+
+#. label.edit.view
+#: citations/citations-util/util/src/bundle/citations.properties:244
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:label.edit.view"
+msgid "Edit Citation"
+msgstr ""
+
+#. nullUrlLabel.view
+#: citations/citations-util/util/src/bundle/citations.properties:245
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:nullUrlLabel.view"
+msgid "Related Link"
+msgstr ""
+
+#. error.gscholar
+#: citations/citations-util/util/src/bundle/citations.properties:246
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:error.gscholar"
+msgid "An error has occurred"
+msgstr ""
+
+#. error.sub.gscholar
+#: citations/citations-util/util/src/bundle/citations.properties:247
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:error.sub.gscholar"
+msgid ""
+"Please close this window and re-launch Google Scholar search from your "
+"current Citation List."
+msgstr ""
+
+#. error.notfound
+#: citations/citations-util/util/src/bundle/citations.properties:248
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:error.notfound"
+msgid "Couldn't find details of citation to add."
+msgstr ""
+
+#. error.noid
+#: citations/citations-util/util/src/bundle/citations.properties:249
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:error.noid"
+msgid "Couldn't find the Citation List to add citation to."
+msgstr ""
+
+#. error.unavailable
+#: citations/citations-util/util/src/bundle/citations.properties:250
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:error.unavailable"
+msgid "Couldn't add citation as server is currently overloaded."
+msgstr ""
+
+#. error.permission
+#: citations/citations-util/util/src/bundle/citations.properties:251
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:error.permission"
+msgid ""
+"Couldn't add citation to list as you don't have permission to change it."
+msgstr ""
+
+#. back.gscholar
+#: citations/citations-util/util/src/bundle/citations.properties:252
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:back.gscholar"
+msgid "Back "
+msgstr ""
+
+#. title.gscholar
+#: citations/citations-util/util/src/bundle/citations.properties:253
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:title.gscholar"
+msgid "Citation added to \"{0}\""
+msgstr ""
+
+#. window.gscholar
+#: citations/citations-util/util/src/bundle/citations.properties:254
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:window.gscholar"
+msgid "Import"
+msgstr ""
+
+#. close.gscholar
+#: citations/citations-util/util/src/bundle/citations.properties:255
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:close.gscholar"
+msgid "Close Window"
+msgstr ""
+
+#. close.integration
+#: citations/citations-util/util/src/bundle/citations.properties:256
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:close.integration"
+msgid "Close Window"
+msgstr ""
+
+#. error.disconnect.integration
+#: citations/citations-util/util/src/bundle/citations.properties:257
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:error.disconnect.integration"
+msgid "This Library Resource Search window can no longer access the editor"
+msgstr ""
+
+#. instr.results.integration
+#: citations/citations-util/util/src/bundle/citations.properties:258
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:instr.results.integration"
+msgid "Click \"{0}\" to add a citation to your text."
+msgstr ""
+
+#. type.article
+#: citations/citations-util/util/src/bundle/citations.properties:259
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:type.article"
+msgid "Journal Article"
+msgstr ""
+
+#. type.audio
+#: citations/citations-util/util/src/bundle/citations.properties:260
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:type.audio"
+msgid "Audio Recording"
+msgstr ""
+
+#. type.book
+#: citations/citations-util/util/src/bundle/citations.properties:261
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:type.book"
+msgid "Book"
+msgstr ""
+
+#. type.chapter
+#: citations/citations-util/util/src/bundle/citations.properties:262
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:type.chapter"
+msgid "Book Section"
+msgstr ""
+
+#. type.electronic
+#: citations/citations-util/util/src/bundle/citations.properties:263
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:type.electronic"
+msgid "Electronic Citation"
+msgstr ""
+
+#. type.proceed
+#: citations/citations-util/util/src/bundle/citations.properties:264
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:type.proceed"
+msgid "Conference Proceeding"
+msgstr ""
+
+#. type.report
+#: citations/citations-util/util/src/bundle/citations.properties:265
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:type.report"
+msgid "Report"
+msgstr ""
+
+#. type.thesis
+#: citations/citations-util/util/src/bundle/citations.properties:266
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:type.thesis"
+msgid "Thesis"
+msgstr ""
+
+#. type.video
+#: citations/citations-util/util/src/bundle/citations.properties:267
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:type.video"
+msgid "Video Recording"
+msgstr ""
+
+#. type.unknown
+#: citations/citations-util/util/src/bundle/citations.properties:268
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:type.unknown"
+msgid "Unknown"
+msgstr ""
+
+#. article.abstract
+#: citations/citations-util/util/src/bundle/citations.properties:269
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:article.abstract"
+msgid "Abstract"
+msgstr ""
+
+#. article.author
+#: citations/citations-util/util/src/bundle/citations.properties:270
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:article.author"
+msgid "Author(s)"
+msgstr ""
+
+#. article.creator
+#: citations/citations-util/util/src/bundle/citations.properties:271
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:article.creator"
+msgid "Author(s)"
+msgstr ""
+
+#. article.doi
+#: citations/citations-util/util/src/bundle/citations.properties:272
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:article.doi"
+msgid "DOI"
+msgstr ""
+
+#. article.endPage
+#: citations/citations-util/util/src/bundle/citations.properties:273
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:article.endPage"
+msgid "End Page"
+msgstr ""
+
+#. article.locIdentifier
+#: citations/citations-util/util/src/bundle/citations.properties:274
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:article.locIdentifier"
+msgid "Call Number"
+msgstr ""
+
+#. article.isnIdentifier
+#: citations/citations-util/util/src/bundle/citations.properties:275
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:article.isnIdentifier"
+msgid "ISSN"
+msgstr ""
+
+#. article.inlineCitation
+#: citations/citations-util/util/src/bundle/citations.properties:276
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:article.inlineCitation"
+msgid "Citation"
+msgstr ""
+
+#. article.Language
+#: citations/citations-util/util/src/bundle/citations.properties:277
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:article.Language"
+msgid "Language"
+msgstr ""
+
+#. article.notes
+#: citations/citations-util/util/src/bundle/citations.properties:278
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:article.notes"
+msgid "Notes"
+msgstr ""
+
+#. article.openURL
+#: citations/citations-util/util/src/bundle/citations.properties:279
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:article.openURL"
+msgid "Open URL"
+msgstr ""
+
+#. article.dateRetrieved
+#: citations/citations-util/util/src/bundle/citations.properties:280
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:article.dateRetrieved"
+msgid "Date Retrieved"
+msgstr ""
+
+#. article.date
+#: citations/citations-util/util/src/bundle/citations.properties:281
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:article.date"
+msgid "Date"
+msgstr ""
+
+#. article.issue
+#: citations/citations-util/util/src/bundle/citations.properties:282
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:article.issue"
+msgid "Issue"
+msgstr ""
+
+#. article.volume
+#: citations/citations-util/util/src/bundle/citations.properties:283
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:article.volume"
+msgid "Volume"
+msgstr ""
+
+#. article.note
+#: citations/citations-util/util/src/bundle/citations.properties:284
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:article.note"
+msgid "Note(s)"
+msgstr ""
+
+#. article.pages
+#: citations/citations-util/util/src/bundle/citations.properties:285
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:article.pages"
+msgid "Pages"
+msgstr ""
+
+#. article.sourceTitle
+#: citations/citations-util/util/src/bundle/citations.properties:286
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:article.sourceTitle"
+msgid "Journal Title"
+msgstr ""
+
+#. article.rights
+#: citations/citations-util/util/src/bundle/citations.properties:287
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:article.rights"
+msgid "Rights"
+msgstr ""
+
+#. article.startPage
+#: citations/citations-util/util/src/bundle/citations.properties:288
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:article.startPage"
+msgid "Start Page"
+msgstr ""
+
+#. article.subject
+#: citations/citations-util/util/src/bundle/citations.properties:289
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:article.subject"
+msgid "Subject(s)"
+msgstr ""
+
+#. article.title
+#: citations/citations-util/util/src/bundle/citations.properties:290
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:article.title"
+msgid "Article Title"
+msgstr ""
+
+#. article.typeOfResource
+#: citations/citations-util/util/src/bundle/citations.properties:291
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:article.typeOfResource"
+msgid "Journal Article"
+msgstr ""
+
+#. article.year
+#: citations/citations-util/util/src/bundle/citations.properties:292
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:article.year"
+msgid "Year"
+msgstr ""
+
+#. book.abstract
+#: citations/citations-util/util/src/bundle/citations.properties:293
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:book.abstract"
+msgid "Abstract"
+msgstr ""
+
+#. book.author
+#: citations/citations-util/util/src/bundle/citations.properties:294
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:book.author"
+msgid "Author(s)"
+msgstr ""
+
+#. book.creator
+#: citations/citations-util/util/src/bundle/citations.properties:295
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:book.creator"
+msgid "Author(s)"
+msgstr ""
+
+#. book.doi
+#: citations/citations-util/util/src/bundle/citations.properties:296
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:book.doi"
+msgid "DOI"
+msgstr ""
+
+#. book.locIdentifier
+#: citations/citations-util/util/src/bundle/citations.properties:297
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:book.locIdentifier"
+msgid "Call Number"
+msgstr ""
+
+#. book.isnIdentifier
+#: citations/citations-util/util/src/bundle/citations.properties:298
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:book.isnIdentifier"
+msgid "ISBN"
+msgstr ""
+
+#. book.inlineCitation
+#: citations/citations-util/util/src/bundle/citations.properties:299
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:book.inlineCitation"
+msgid "Citation"
+msgstr ""
+
+#. book.Language
+#: citations/citations-util/util/src/bundle/citations.properties:300
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:book.Language"
+msgid "Language"
+msgstr ""
+
+#. book.notes
+#: citations/citations-util/util/src/bundle/citations.properties:301
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:book.notes"
+msgid "Notes"
+msgstr ""
+
+#. book.openURL
+#: citations/citations-util/util/src/bundle/citations.properties:302
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:book.openURL"
+msgid "Open URL"
+msgstr ""
+
+#. book.dateRetrieved
+#: citations/citations-util/util/src/bundle/citations.properties:303
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:book.dateRetrieved"
+msgid "Date Retrieved"
+msgstr ""
+
+#. book.date
+#: citations/citations-util/util/src/bundle/citations.properties:304
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:book.date"
+msgid "Date"
+msgstr ""
+
+#. book.edition
+#: citations/citations-util/util/src/bundle/citations.properties:305
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:book.edition"
+msgid "Edition"
+msgstr ""
+
+#. book.editor
+#: citations/citations-util/util/src/bundle/citations.properties:306
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:book.editor"
+msgid "Editor(s)"
+msgstr ""
+
+#. book.note
+#: citations/citations-util/util/src/bundle/citations.properties:307
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:book.note"
+msgid "Note(s)"
+msgstr ""
+
+#. book.publicationLocation
+#: citations/citations-util/util/src/bundle/citations.properties:308
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:book.publicationLocation"
+msgid "Publication Location"
+msgstr ""
+
+#. book.publisher
+#: citations/citations-util/util/src/bundle/citations.properties:309
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:book.publisher"
+msgid "Publisher"
+msgstr ""
+
+#. book.sourceTitle
+#: citations/citations-util/util/src/bundle/citations.properties:310
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:book.sourceTitle"
+msgid "Series Title"
+msgstr ""
+
+#. book.rights
+#: citations/citations-util/util/src/bundle/citations.properties:311
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:book.rights"
+msgid "Rights"
+msgstr ""
+
+#. book.subject
+#: citations/citations-util/util/src/bundle/citations.properties:312
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:book.subject"
+msgid "Subject(s)"
+msgstr ""
+
+#. book.title
+#: citations/citations-util/util/src/bundle/citations.properties:313
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:book.title"
+msgid "Book Title"
+msgstr ""
+
+#. book.typeOfResource
+#: citations/citations-util/util/src/bundle/citations.properties:314
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:book.typeOfResource"
+msgid "Book"
+msgstr ""
+
+#. book.year
+#: citations/citations-util/util/src/bundle/citations.properties:315
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:book.year"
+msgid "Year"
+msgstr ""
+
+#. chapter.abstract
+#: citations/citations-util/util/src/bundle/citations.properties:316
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:chapter.abstract"
+msgid "Abstract"
+msgstr ""
+
+#. chapter.author
+#: citations/citations-util/util/src/bundle/citations.properties:317
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:chapter.author"
+msgid "Author(s)"
+msgstr ""
+
+#. chapter.creator
+#: citations/citations-util/util/src/bundle/citations.properties:318
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:chapter.creator"
+msgid "Author(s)"
+msgstr ""
+
+#. chapter.doi
+#: citations/citations-util/util/src/bundle/citations.properties:319
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:chapter.doi"
+msgid "DOI"
+msgstr ""
+
+#. chapter.editor
+#: citations/citations-util/util/src/bundle/citations.properties:320
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:chapter.editor"
+msgid "Editor(s)"
+msgstr ""
+
+#. chapter.endPage
+#: citations/citations-util/util/src/bundle/citations.properties:321
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:chapter.endPage"
+msgid "End Page"
+msgstr ""
+
+#. chapter.locIdentifier
+#: citations/citations-util/util/src/bundle/citations.properties:322
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:chapter.locIdentifier"
+msgid "Call Number"
+msgstr ""
+
+#. chapter.isnIdentifier
+#: citations/citations-util/util/src/bundle/citations.properties:323
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:chapter.isnIdentifier"
+msgid "ISBN"
+msgstr ""
+
+#. chapter.inlineCitation
+#: citations/citations-util/util/src/bundle/citations.properties:324
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:chapter.inlineCitation"
+msgid "Citation"
+msgstr ""
+
+#. chapter.Language
+#: citations/citations-util/util/src/bundle/citations.properties:325
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:chapter.Language"
+msgid "Language"
+msgstr ""
+
+#. chapter.notes
+#: citations/citations-util/util/src/bundle/citations.properties:326
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:chapter.notes"
+msgid "Notes"
+msgstr ""
+
+#. chapter.openURL
+#: citations/citations-util/util/src/bundle/citations.properties:327
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:chapter.openURL"
+msgid "Open URL"
+msgstr ""
+
+#. chapter.dateRetrieved
+#: citations/citations-util/util/src/bundle/citations.properties:328
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:chapter.dateRetrieved"
+msgid "Date Retrieved"
+msgstr ""
+
+#. chapter.date
+#: citations/citations-util/util/src/bundle/citations.properties:329
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:chapter.date"
+msgid "Date"
+msgstr ""
+
+#. chapter.edition
+#: citations/citations-util/util/src/bundle/citations.properties:330
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:chapter.edition"
+msgid "Edition"
+msgstr ""
+
+#. chapter.note
+#: citations/citations-util/util/src/bundle/citations.properties:331
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:chapter.note"
+msgid "Note(s)"
+msgstr ""
+
+#. chapter.publicationLocation
+#: citations/citations-util/util/src/bundle/citations.properties:332
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:chapter.publicationLocation"
+msgid "Publication Location"
+msgstr ""
+
+#. chapter.publisher
+#: citations/citations-util/util/src/bundle/citations.properties:333
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:chapter.publisher"
+msgid "Publisher"
+msgstr ""
+
+#. chapter.pages
+#: citations/citations-util/util/src/bundle/citations.properties:334
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:chapter.pages"
+msgid "Pages"
+msgstr ""
+
+#. chapter.sourceTitle
+#: citations/citations-util/util/src/bundle/citations.properties:335
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:chapter.sourceTitle"
+msgid "Book Title"
+msgstr ""
+
+#. chapter.rights
+#: citations/citations-util/util/src/bundle/citations.properties:336
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:chapter.rights"
+msgid "Rights"
+msgstr ""
+
+#. chapter.startPage
+#: citations/citations-util/util/src/bundle/citations.properties:337
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:chapter.startPage"
+msgid "Start Page"
+msgstr ""
+
+#. chapter.subject
+#: citations/citations-util/util/src/bundle/citations.properties:338
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:chapter.subject"
+msgid "Subject(s)"
+msgstr ""
+
+#. chapter.title
+#: citations/citations-util/util/src/bundle/citations.properties:339
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:chapter.title"
+msgid "Section Title"
+msgstr ""
+
+#. chapter.typeOfResource
+#: citations/citations-util/util/src/bundle/citations.properties:340
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:chapter.typeOfResource"
+msgid "Book Section"
+msgstr ""
+
+#. chapter.year
+#: citations/citations-util/util/src/bundle/citations.properties:341
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:chapter.year"
+msgid "Year"
+msgstr ""
+
+#. descr.abstract
+#: citations/citations-util/util/src/bundle/citations.properties:342
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:descr.abstract"
+msgid "The abstract returned by the vendor"
+msgstr ""
+
+#. descr.author
+#: citations/citations-util/util/src/bundle/citations.properties:343
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:descr.author"
+msgid "the person who made the work"
+msgstr ""
+
+#. descr.creator
+#: citations/citations-util/util/src/bundle/citations.properties:344
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:descr.creator"
+msgid "the person who made the work"
+msgstr ""
+
+#. descr.doi
+#: citations/citations-util/util/src/bundle/citations.properties:345
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:descr.doi"
+msgid "Digital Object Identifier"
+msgstr ""
+
+#. descr.endPage
+#: citations/citations-util/util/src/bundle/citations.properties:346
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:descr.endPage"
+msgid "end page"
+msgstr ""
+
+#. descr.locIdentifier
+#: citations/citations-util/util/src/bundle/citations.properties:347
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:descr.locIdentifier"
+msgid "Library of Congress number"
+msgstr ""
+
+#. descr.isnIdentifier
+#: citations/citations-util/util/src/bundle/citations.properties:348
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:descr.isnIdentifier"
+msgid "ISBN or ISSN"
+msgstr ""
+
+#. descr.inlineCitation
+#: citations/citations-util/util/src/bundle/citations.properties:349
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:descr.inlineCitation"
+msgid "Inline citation information that is sometimes part of record metadata"
+msgstr ""
+
+#. descr.Language
+#: citations/citations-util/util/src/bundle/citations.properties:350
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:descr.Language"
+msgid "language"
+msgstr ""
+
+#. descr.notes
+#: citations/citations-util/util/src/bundle/citations.properties:351
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:descr.notes"
+msgid "everything else"
+msgstr ""
+
+#. descr.dateRetrieved
+#: citations/citations-util/util/src/bundle/citations.properties:352
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:descr.dateRetrieved"
+msgid "when retrieved"
+msgstr ""
+
+#. descr.date
+#: citations/citations-util/util/src/bundle/citations.properties:353
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:descr.date"
+msgid "whatever date info we get"
+msgstr ""
+
+#. descr.edition
+#: citations/citations-util/util/src/bundle/citations.properties:354
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:descr.edition"
+msgid "Edition of a book or versioned document"
+msgstr ""
+
+#. descr.issue
+#: citations/citations-util/util/src/bundle/citations.properties:355
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:descr.issue"
+msgid "Issue number of the journal"
+msgstr ""
+
+#. descr.publicationLocation
+#: citations/citations-util/util/src/bundle/citations.properties:356
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:descr.publicationLocation"
+msgid "Where published"
+msgstr ""
+
+#. descr.publisher
+#: citations/citations-util/util/src/bundle/citations.properties:357
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:descr.publisher"
+msgid "publsher info (sponsoring inst for report)"
+msgstr ""
+
+#. descr.volume
+#: citations/citations-util/util/src/bundle/citations.properties:358
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:descr.volume"
+msgid "Volume of the journal"
+msgstr ""
+
+#. descr.pages
+#: citations/citations-util/util/src/bundle/citations.properties:359
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:descr.pages"
+msgid "Range (1-3) or list (1-2; 4) of pages"
+msgstr ""
+
+#. descr.sourceTitle
+#: citations/citations-util/util/src/bundle/citations.properties:360
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:descr.sourceTitle"
+msgid "Title of container (book for a chapter, journal, etc.)"
+msgstr ""
+
+#. descr.rights
+#: citations/citations-util/util/src/bundle/citations.properties:361
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:descr.rights"
+msgid "Copyright and licensing information"
+msgstr ""
+
+#. descr.startPage
+#: citations/citations-util/util/src/bundle/citations.properties:362
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:descr.startPage"
+msgid "start page"
+msgstr ""
+
+#. descr.subject
+#: citations/citations-util/util/src/bundle/citations.properties:363
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:descr.subject"
+msgid ""
+"keywords pulled from whatever conrolled vocabularies are returned by vendors"
+msgstr ""
+
+#. descr.title
+#: citations/citations-util/util/src/bundle/citations.properties:364
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:descr.title"
+msgid "the title"
+msgstr ""
+
+#. descr.typeOfResource
+#: citations/citations-util/util/src/bundle/citations.properties:365
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:descr.typeOfResource"
+msgid "is this a book, article, or what?"
+msgstr ""
+
+#. descr.year
+#: citations/citations-util/util/src/bundle/citations.properties:366
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:descr.year"
+msgid "year of publication"
+msgstr ""
+
+#. report.abstract
+#: citations/citations-util/util/src/bundle/citations.properties:367
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:report.abstract"
+msgid "Abstract"
+msgstr ""
+
+#. report.author
+#: citations/citations-util/util/src/bundle/citations.properties:368
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:report.author"
+msgid "Author(s)"
+msgstr ""
+
+#. report.creator
+#: citations/citations-util/util/src/bundle/citations.properties:369
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:report.creator"
+msgid "Author(s)"
+msgstr ""
+
+#. report.doi
+#: citations/citations-util/util/src/bundle/citations.properties:370
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:report.doi"
+msgid "DOI"
+msgstr ""
+
+#. report.editor
+#: citations/citations-util/util/src/bundle/citations.properties:371
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:report.editor"
+msgid "Editor(s)"
+msgstr ""
+
+#. report.locIdentifier
+#: citations/citations-util/util/src/bundle/citations.properties:372
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:report.locIdentifier"
+msgid "Call Number"
+msgstr ""
+
+#. report.isnIdentifier
+#: citations/citations-util/util/src/bundle/citations.properties:373
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:report.isnIdentifier"
+msgid "ISBN"
+msgstr ""
+
+#. report.inlineCitation
+#: citations/citations-util/util/src/bundle/citations.properties:374
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:report.inlineCitation"
+msgid "Citation"
+msgstr ""
+
+#. report.Language
+#: citations/citations-util/util/src/bundle/citations.properties:375
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:report.Language"
+msgid "Language"
+msgstr ""
+
+#. report.notes
+#: citations/citations-util/util/src/bundle/citations.properties:376
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:report.notes"
+msgid "Notes"
+msgstr ""
+
+#. report.dateRetrieved
+#: citations/citations-util/util/src/bundle/citations.properties:377
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:report.dateRetrieved"
+msgid "Date Retrieved"
+msgstr ""
+
+#. report.date
+#: citations/citations-util/util/src/bundle/citations.properties:378
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:report.date"
+msgid "Full Date"
+msgstr ""
+
+#. report.edition
+#: citations/citations-util/util/src/bundle/citations.properties:379
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:report.edition"
+msgid "Edition"
+msgstr ""
+
+#. report.note
+#: citations/citations-util/util/src/bundle/citations.properties:380
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:report.note"
+msgid "Note(s)"
+msgstr ""
+
+#. report.publicationLocation
+#: citations/citations-util/util/src/bundle/citations.properties:381
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:report.publicationLocation"
+msgid "Publication Location"
+msgstr ""
+
+#. report.publisher
+#: citations/citations-util/util/src/bundle/citations.properties:382
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:report.publisher"
+msgid "Institution"
+msgstr ""
+
+#. report.pages
+#: citations/citations-util/util/src/bundle/citations.properties:383
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:report.pages"
+msgid "Pages"
+msgstr ""
+
+#. report.rights
+#: citations/citations-util/util/src/bundle/citations.properties:384
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:report.rights"
+msgid "Rights"
+msgstr ""
+
+#. report.sourceTitle
+#: citations/citations-util/util/src/bundle/citations.properties:385
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:report.sourceTitle"
+msgid "Series Title"
+msgstr ""
+
+#. report.subject
+#: citations/citations-util/util/src/bundle/citations.properties:386
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:report.subject"
+msgid "Keywords"
+msgstr ""
+
+#. report.title
+#: citations/citations-util/util/src/bundle/citations.properties:387
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:report.title"
+msgid "Report Title"
+msgstr ""
+
+#. report.typeOfResource
+#: citations/citations-util/util/src/bundle/citations.properties:388
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:report.typeOfResource"
+msgid "Report"
+msgstr ""
+
+#. report.openURL
+#: citations/citations-util/util/src/bundle/citations.properties:389
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:report.openURL"
+msgid "Open URL"
+msgstr ""
+
+#. report.year
+#: citations/citations-util/util/src/bundle/citations.properties:390
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:report.year"
+msgid "Year"
+msgstr ""
+
+#. unknown.abstract
+#: citations/citations-util/util/src/bundle/citations.properties:391
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:unknown.abstract"
+msgid "Abstract"
+msgstr ""
+
+#. unknown.author
+#: citations/citations-util/util/src/bundle/citations.properties:392
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:unknown.author"
+msgid "Author(s)"
+msgstr ""
+
+#. unknown.creator
+#: citations/citations-util/util/src/bundle/citations.properties:393
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:unknown.creator"
+msgid "Author(s)"
+msgstr ""
+
+#. unknown.date
+#: citations/citations-util/util/src/bundle/citations.properties:394
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:unknown.date"
+msgid "Publication Date"
+msgstr ""
+
+#. unknown.dateRetrieved
+#: citations/citations-util/util/src/bundle/citations.properties:395
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:unknown.dateRetrieved"
+msgid "Date Retrieved"
+msgstr ""
+
+#. unknown.doi
+#: citations/citations-util/util/src/bundle/citations.properties:396
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:unknown.doi"
+msgid "DOI"
+msgstr ""
+
+#. unknown.editor
+#: citations/citations-util/util/src/bundle/citations.properties:397
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:unknown.editor"
+msgid "Editor(s)"
+msgstr ""
+
+#. unknown.edition
+#: citations/citations-util/util/src/bundle/citations.properties:398
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:unknown.edition"
+msgid "Edition"
+msgstr ""
+
+#. unknown.endPage
+#: citations/citations-util/util/src/bundle/citations.properties:399
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:unknown.endPage"
+msgid "End Page"
+msgstr ""
+
+#. unknown.locIdentifier
+#: citations/citations-util/util/src/bundle/citations.properties:400
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:unknown.locIdentifier"
+msgid "Call Number"
+msgstr ""
+
+#. unknown.isnIdentifier
+#: citations/citations-util/util/src/bundle/citations.properties:401
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:unknown.isnIdentifier"
+msgid "ISBN or ISSN"
+msgstr ""
+
+#. unknown.inlineCitation
+#: citations/citations-util/util/src/bundle/citations.properties:402
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:unknown.inlineCitation"
+msgid "Citation"
+msgstr ""
+
+#. unknown.Language
+#: citations/citations-util/util/src/bundle/citations.properties:403
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:unknown.Language"
+msgid "Language"
+msgstr ""
+
+#. unknown.notes
+#: citations/citations-util/util/src/bundle/citations.properties:404
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:unknown.notes"
+msgid "Notes"
+msgstr ""
+
+#. unknown.openURL
+#: citations/citations-util/util/src/bundle/citations.properties:405
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:unknown.openURL"
+msgid "Open URL"
+msgstr ""
+
+#. unknown.issue
+#: citations/citations-util/util/src/bundle/citations.properties:406
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:unknown.issue"
+msgid "Issue"
+msgstr ""
+
+#. unknown.note
+#: citations/citations-util/util/src/bundle/citations.properties:407
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:unknown.note"
+msgid "Note(s)"
+msgstr ""
+
+#. unknown.publicationLocation
+#: citations/citations-util/util/src/bundle/citations.properties:408
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:unknown.publicationLocation"
+msgid "Publication Location"
+msgstr ""
+
+#. unknown.publisher
+#: citations/citations-util/util/src/bundle/citations.properties:409
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:unknown.publisher"
+msgid "Publisher"
+msgstr ""
+
+#. unknown.pages
+#: citations/citations-util/util/src/bundle/citations.properties:410
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:unknown.pages"
+msgid "Pages"
+msgstr ""
+
+#. unknown.sourceTitle
+#: citations/citations-util/util/src/bundle/citations.properties:411
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:unknown.sourceTitle"
+msgid "Source Title"
+msgstr ""
+
+#. unknown.rights
+#: citations/citations-util/util/src/bundle/citations.properties:412
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:unknown.rights"
+msgid "Rights"
+msgstr ""
+
+#. unknown.startPage
+#: citations/citations-util/util/src/bundle/citations.properties:413
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:unknown.startPage"
+msgid "Start Page"
+msgstr ""
+
+#. unknown.subject
+#: citations/citations-util/util/src/bundle/citations.properties:414
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:unknown.subject"
+msgid "Subject(s)"
+msgstr ""
+
+#. unknown.title
+#: citations/citations-util/util/src/bundle/citations.properties:415
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:unknown.title"
+msgid "Title"
+msgstr ""
+
+#. unknown.typeOfResource
+#: citations/citations-util/util/src/bundle/citations.properties:416
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:unknown.typeOfResource"
+msgid "Unknown"
+msgstr ""
+
+#. unknown.volume
+#: citations/citations-util/util/src/bundle/citations.properties:417
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:unknown.volume"
+msgid "Volume"
+msgstr ""
+
+#. unknown.year
+#: citations/citations-util/util/src/bundle/citations.properties:418
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:unknown.year"
+msgid "Year"
+msgstr ""
+
+#. proceed.creator
+#: citations/citations-util/util/src/bundle/citations.properties:419
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:proceed.creator"
+msgid "Author(s)"
+msgstr ""
+
+#. proceed.note
+#: citations/citations-util/util/src/bundle/citations.properties:420
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:proceed.note"
+msgid "Note(s)"
+msgstr ""
+
+#. proceed.pages
+#: citations/citations-util/util/src/bundle/citations.properties:421
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:proceed.pages"
+msgid "Pages"
+msgstr ""
+
+#. proceed.sourceTitle
+#: citations/citations-util/util/src/bundle/citations.properties:422
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:proceed.sourceTitle"
+msgid "Source Title"
+msgstr ""
+
+#. proceed.title
+#: citations/citations-util/util/src/bundle/citations.properties:423
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:proceed.title"
+msgid "Title"
+msgstr ""
+
+#. proceed.volume
+#: citations/citations-util/util/src/bundle/citations.properties:424
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:proceed.volume"
+msgid "Volume"
+msgstr ""
+
+#. proceed.year
+#: citations/citations-util/util/src/bundle/citations.properties:425
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:proceed.year"
+msgid "Year"
+msgstr ""
+
+#. electronic.abstract
+#: citations/citations-util/util/src/bundle/citations.properties:426
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:electronic.abstract"
+msgid "Abstract"
+msgstr ""
+
+#. electronic.sourceTitle
+#: citations/citations-util/util/src/bundle/citations.properties:427
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:electronic.sourceTitle"
+msgid "Source Title"
+msgstr ""
+
+#. electronic.subject
+#: citations/citations-util/util/src/bundle/citations.properties:428
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:electronic.subject"
+msgid "Subject(s)"
+msgstr ""
+
+#. electronic.title
+#: citations/citations-util/util/src/bundle/citations.properties:429
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:electronic.title"
+msgid "Title"
+msgstr ""
+
+#. electronic.year
+#: citations/citations-util/util/src/bundle/citations.properties:430
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:electronic.year"
+msgid "Year"
+msgstr ""
+
+#. thesis.creator
+#: citations/citations-util/util/src/bundle/citations.properties:431
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:thesis.creator"
+msgid "Author(s)"
+msgstr ""
+
+#. thesis.note
+#: citations/citations-util/util/src/bundle/citations.properties:432
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:thesis.note"
+msgid "Note(s)"
+msgstr ""
+
+#. thesis.pages
+#: citations/citations-util/util/src/bundle/citations.properties:433
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:thesis.pages"
+msgid "Pages"
+msgstr ""
+
+#. thesis.publisher
+#: citations/citations-util/util/src/bundle/citations.properties:434
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:thesis.publisher"
+msgid "Publisher"
+msgstr ""
+
+#. thesis.subject
+#: citations/citations-util/util/src/bundle/citations.properties:435
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:thesis.subject"
+msgid "Subject(s)"
+msgstr ""
+
+#. thesis.title
+#: citations/citations-util/util/src/bundle/citations.properties:436
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:thesis.title"
+msgid "Title"
+msgstr ""
+
+#. thesis.year
+#: citations/citations-util/util/src/bundle/citations.properties:437
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:thesis.year"
+msgid "Year"
+msgstr ""
+
+#. reorder.title
+#: citations/citations-util/util/src/bundle/citations.properties:438
+msgctxt ""
+"citations/citations-util/util/src/bundle/citations.properties:reorder.title"
+msgid "Reordering:"
+msgstr ""
+
+#. reorder.instruction
+#: citations/citations-util/util/src/bundle/citations.properties:439
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:reorder.instruction"
+msgid ""
+"Citation lists now have a defined ordering, as well as being sortable by "
+"title, etc. To reorder, drag and drop list items and then click Save."
+msgstr ""
+
+#. savecite.delete.missing_params
+#: citations/citations-util/util/src/bundle/citations.properties:440
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:savecite.delete.missing_params"
+msgid "Must supply resource-id and citation-id to remove citation."
+msgstr ""
+
+#. savecite.delete.invalid_uuid
+#: citations/citations-util/util/src/bundle/citations.properties:441
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:savecite.delete.invalid_uuid"
+msgid "Invalid resource identifier."
+msgstr ""
+
+#. savecite.delete.not_permitted
+#: citations/citations-util/util/src/bundle/citations.properties:442
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:savecite.delete.not_permitted"
+msgid "You do not have permission to remove citations from this resource."
+msgstr ""
+
+#. savecite.delete.internal
+#: citations/citations-util/util/src/bundle/citations.properties:443
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:savecite.delete.internal"
+msgid "Server could not process request at this time."
+msgstr ""
+
+#. savecite.button.add_more
+#: citations/citations-util/util/src/bundle/citations.properties:444
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:savecite.button.add_more"
+msgid "Return to search results to add more citations."
+msgstr ""
+
+#. savecite.button.done
+#: citations/citations-util/util/src/bundle/citations.properties:445
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:savecite.button.done"
+msgid "Close the search window and return to your citation list."
+msgstr ""
+
+#. savecite.button.cancel
+#: citations/citations-util/util/src/bundle/citations.properties:446
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:savecite.button.cancel"
+msgid "Remove all of these citations and return to your citation list."
+msgstr ""
+
+#. savecite.cancel
+#: citations/citations-util/util/src/bundle/citations.properties:447
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:savecite.cancel"
+msgid "Cancel"
+msgstr ""
+
+#. savecite.title.success
+#: citations/citations-util/util/src/bundle/citations.properties:448
+msgctxt ""
+"citations/citations-"
+"util/util/src/bundle/citations.properties:savecite.title.success"
+msgid "These citations have been added to ''{0}''"
+msgstr ""

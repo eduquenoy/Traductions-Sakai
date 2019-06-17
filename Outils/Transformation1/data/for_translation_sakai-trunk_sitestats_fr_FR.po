@@ -1,0 +1,5356 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: sakai-trunk\n"
+"Report-Msgid-Bugs-To: ddeguchi@nagoya-u.jp\n"
+"POT-Creation-Date: 2019-06-17 04:37+00:00\n"
+"PO-Revision-Date: 2019-05-15 04:39+0000\n"
+"Last-Translator: spanishsakai <spanishsakai@gmail.com>\n"
+"Language-Team: French (France) (http://www.transifex.com/apereo/sakai-trunk/language/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. tool_title
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:1
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:tool_title"
+msgid "Site Stats"
+msgstr ""
+
+#. all
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:2
+msgctxt "sitestats/sitestats-bundle/src/resources/Messages.properties:all"
+msgid "All"
+msgstr ""
+
+#. none
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:3
+msgctxt "sitestats/sitestats-bundle/src/resources/Messages.properties:none"
+msgid "None"
+msgstr ""
+
+#. default
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:4
+msgctxt "sitestats/sitestats-bundle/src/resources/Messages.properties:default"
+msgid "Default"
+msgstr ""
+
+#. back
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:5
+msgctxt "sitestats/sitestats-bundle/src/resources/Messages.properties:back"
+msgid "Back"
+msgstr ""
+
+#. unauthorized
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:6
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:unauthorized"
+msgid "You are not authorized to use this tool."
+msgstr ""
+
+#. pie_chart_others
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:7
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:pie_chart_others"
+msgid "Others"
+msgstr ""
+
+#. refresh
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:8
+msgctxt "sitestats/sitestats-bundle/src/resources/Messages.properties:refresh"
+msgid "refresh"
+msgstr ""
+
+#. help
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:9
+msgctxt "sitestats/sitestats-bundle/src/resources/Messages.properties:help"
+msgid "help"
+msgstr ""
+
+#. click_to_max
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:10
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:click_to_max"
+msgid "Click to maximize"
+msgstr ""
+
+#. last_job_run_date
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:11
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:last_job_run_date"
+msgid "Last updated on:"
+msgstr ""
+
+#. hours_abbr
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:12
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:hours_abbr"
+msgid "hrs."
+msgstr ""
+
+#. minutes_abbr
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:13
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:minutes_abbr"
+msgid "min."
+msgstr ""
+
+#. seconds_abbr
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:14
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:seconds_abbr"
+msgid "sec."
+msgstr ""
+
+#. statistics_loading
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:15
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:statistics_loading"
+msgid "Statistics are loading. Please wait..."
+msgstr ""
+
+#. menu_sitelist
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:16
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:menu_sitelist"
+msgid "All sites"
+msgstr ""
+
+#. menu_serverwide
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:17
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:menu_serverwide"
+msgid "Server-wide Reports"
+msgstr ""
+
+#. menu_overview
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:18
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:menu_overview"
+msgid "Overview"
+msgstr ""
+
+#. menu_reports
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:19
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:menu_reports"
+msgid "Reports"
+msgstr ""
+
+#. menu_adminreports
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:20
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:menu_adminreports"
+msgid "Admin Reports"
+msgstr ""
+
+#. menu_useractivity
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:21
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:menu_useractivity"
+msgid "User Activity"
+msgstr ""
+
+#. menu_prefs
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:22
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:menu_prefs"
+msgid "Preferences"
+msgstr ""
+
+#. site_type
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:23
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:site_type"
+msgid "Type: "
+msgstr ""
+
+#. search_label
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:24
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:search_label"
+msgid "Search: "
+msgstr ""
+
+#. search
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:25
+msgctxt "sitestats/sitestats-bundle/src/resources/Messages.properties:search"
+msgid "Search"
+msgstr ""
+
+#. clear_search
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:26
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:clear_search"
+msgid "Clear"
+msgstr ""
+
+#. site_published
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:27
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:site_published"
+msgid "Published"
+msgstr ""
+
+#. site_unpublished
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:28
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:site_unpublished"
+msgid "Unpublished"
+msgstr ""
+
+#. sites
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:29
+msgctxt "sitestats/sitestats-bundle/src/resources/Messages.properties:sites"
+msgid "sites"
+msgstr ""
+
+#. instructions_sitelist
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:30
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:instructions_sitelist"
+msgid "Search sites for title to access site specific statistics"
+msgstr ""
+
+#. submenu_monthly_login_report
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:31
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:submenu_monthly_login_report"
+msgid "Monthly Report"
+msgstr ""
+
+#. submenu_weekly_login_report
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:32
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:submenu_weekly_login_report"
+msgid "Weekly Report"
+msgstr ""
+
+#. submenu_daily_login_report
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:33
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:submenu_daily_login_report"
+msgid "Daily Report"
+msgstr ""
+
+#. submenu_regular_users_report
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:34
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:submenu_regular_users_report"
+msgid "Regular Users"
+msgstr ""
+
+#. submenu_hourly_usage_report
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:35
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:submenu_hourly_usage_report"
+msgid "Hourly Usage"
+msgstr ""
+
+#. submenu_top_activities_report
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:36
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:submenu_top_activities_report"
+msgid "Top 20 Activities"
+msgstr ""
+
+#. submenu_tool_report
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:37
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:submenu_tool_report"
+msgid "Tool Analysis"
+msgstr ""
+
+#. title_monthly_login_report
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:38
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:title_monthly_login_report"
+msgid "Month-by-month Report"
+msgstr ""
+
+#. title_weekly_login_report
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:39
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:title_weekly_login_report"
+msgid "Week-by-week Report"
+msgstr ""
+
+#. title_daily_login_report
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:40
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:title_daily_login_report"
+msgid "Day-by-day Report"
+msgstr ""
+
+#. title_regular_users_report
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:41
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:title_regular_users_report"
+msgid "Regular Users Report"
+msgstr ""
+
+#. title_hourly_usage_report
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:42
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:title_hourly_usage_report"
+msgid "Hourly Usage Report"
+msgstr ""
+
+#. title_top_activities_report
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:43
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:title_top_activities_report"
+msgid "Top 20 Activities"
+msgstr ""
+
+#. title_tool_report
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:44
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:title_tool_report"
+msgid "Tool Analysis"
+msgstr ""
+
+#. legend_logins
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:45
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:legend_logins"
+msgid "Number of Logins"
+msgstr ""
+
+#. legend_unique_logins
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:46
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:legend_unique_logins"
+msgid "Number of unique logins"
+msgstr ""
+
+#. legend_site_created
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:47
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:legend_site_created"
+msgid "New sites"
+msgstr ""
+
+#. legend_site_deleted
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:48
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:legend_site_deleted"
+msgid "Site deleted"
+msgstr ""
+
+#. legend_new_user
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:49
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:legend_new_user"
+msgid "New Users"
+msgstr ""
+
+#. desc_monthly_login_report
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:50
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:desc_monthly_login_report"
+msgid ""
+"This chart shows the total number of logins, unique users, sites created, "
+"sites deleted, and new user month-by-month."
+msgstr ""
+
+#. desc_weekly_login_report
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:51
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:desc_weekly_login_report"
+msgid ""
+"This chart shows the total number of logins, unique users, sites created, "
+"sites deleted, and new user week-by-week."
+msgstr ""
+
+#. desc_daily_login_report
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:52
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:desc_daily_login_report"
+msgid ""
+"This chart shows the total number of logins, unique users, sites created, "
+"sites deleted, and new user day-by-day."
+msgstr ""
+
+#. desc_regular_users_report
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:53
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:desc_regular_users_report"
+msgid ""
+"This chart shows the break down of our users by how often they login in a "
+"week. "
+msgstr ""
+
+#. desc_hourly_usage_report
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:54
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:desc_hourly_usage_report"
+msgid ""
+"This box and whisker chart shows hourly distribution of users starting "
+"session in the last 30 days.   "
+msgstr ""
+
+#. desc_top_activities_report
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:55
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:desc_top_activities_report"
+msgid ""
+"This chart shows daily average of activities in the last 7 days (short "
+"term), 30 days, and 365 days (long term)."
+msgstr ""
+
+#. desc_tool_report
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:56
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:desc_tool_report"
+msgid "This chart shows user selection of tools."
+msgstr ""
+
+#. notes_monthly_login_report
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:57
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:notes_monthly_login_report"
+msgid "Note: The values are the sum of values in a month."
+msgstr ""
+
+#. notes_weekly_login_report
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:58
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:notes_weekly_login_report"
+msgid "Note: The values are the sum of values in a week."
+msgstr ""
+
+#. notes_daily_login_report
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:59
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:notes_daily_login_report"
+msgid ""
+"Note: The values are the sum of values in a day. 7-day moving averages are "
+"shown to smooth the volatility of usage (e.g. weekdays vs. weekend)."
+msgstr ""
+
+#. notes_regular_users_report
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:60
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:notes_regular_users_report"
+msgid ""
+"Note: This stacked area chart shows number of users who logged in regularly "
+"in a week. The gold is the heavy users who logged in more than 5 times in "
+"the week. On the other spectrum, the white is light users which only logged "
+"in once in the week."
+msgstr ""
+
+#. notes_hourly_usage_report
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:61
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:notes_hourly_usage_report"
+msgid ""
+"Note: Session start time have been counted only. This chart does not "
+"represent the number of users logged in at once. The circle shows the "
+"average number of users. The top, middle, and bottom of the boxes shows the "
+"upper quartile, median, and lower quartile value, respectively.  "
+msgstr ""
+
+#. notes_top_activities_report
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:62
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:notes_top_activities_report"
+msgid ""
+"Note: When the blue bar is higher than green bar, this indicates an "
+"increasing trend of usage. On the other hand, shorter narrower bar shows a "
+"decrease of usage."
+msgstr ""
+
+#. notes_tool_report
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:63
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:notes_tool_report"
+msgid ""
+"Note: This chart does not show the actual usage of the tools. It is simply "
+"count how many sites which include a particular tool."
+msgstr ""
+
+#. overview_show_more
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:64
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:overview_show_more"
+msgid "Show more"
+msgstr ""
+
+#. overview_show_less
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:65
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:overview_show_less"
+msgid "Show less"
+msgstr ""
+
+#. overview_show_report
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:66
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:overview_show_report"
+msgid "View complete report"
+msgstr ""
+
+#. overview_tab_bydate
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:67
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:overview_tab_bydate"
+msgid "By date"
+msgstr ""
+
+#. overview_tab_byuser
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:68
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:overview_tab_byuser"
+msgid "By user"
+msgstr ""
+
+#. overview_tab_bytool
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:69
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:overview_tab_bytool"
+msgid "By tool"
+msgstr ""
+
+#. overview_tab_byresource
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:70
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:overview_tab_byresource"
+msgid "By resource"
+msgstr ""
+
+#. overview_filter_date_all
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:71
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:overview_filter_date_all"
+msgid "Since site creation"
+msgstr ""
+
+#. overview_filter_role_all
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:72
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:overview_filter_role_all"
+msgid "All roles"
+msgstr ""
+
+#. overview_filter_user_all
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:73
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:overview_filter_user_all"
+msgid "All users"
+msgstr ""
+
+#. overview_filter_tool_all
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:74
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:overview_filter_tool_all"
+msgid "All tools"
+msgstr ""
+
+#. overview_filter_resaction_all
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:75
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:overview_filter_resaction_all"
+msgid "All actions"
+msgstr ""
+
+#. overview_title_visits
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:76
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:overview_title_visits"
+msgid "Visits"
+msgstr ""
+
+#. overview_title_visits_sum
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:77
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:overview_title_visits_sum"
+msgid "Visits"
+msgstr ""
+
+#. overview_title_unique_visits_sum
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:78
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:overview_title_unique_visits_sum"
+msgid "Users who have visited site"
+msgstr ""
+
+#. overview_title_enrolled_users_sum
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:79
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:overview_title_enrolled_users_sum"
+msgid "Site Members"
+msgstr ""
+
+#. overview_title_enrolled_users_with_visits_sum
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:80
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:overview_title_enrolled_users_with_visits_sum"
+msgid "Members who have visited site"
+msgstr ""
+
+#. overview_title_enrolled_users_without_visits_sum
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:81
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:overview_title_enrolled_users_without_visits_sum"
+msgid "Members who have not visited site"
+msgstr ""
+
+#. overview_title_presence_time_avg
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:82
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:overview_title_presence_time_avg"
+msgid "Average presence time per visit"
+msgstr ""
+
+#. overview_title_presence_time
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:83
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:overview_title_presence_time"
+msgid "Total presence time"
+msgstr ""
+
+#. overview_title_activity
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:84
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:overview_title_activity"
+msgid "Activity"
+msgstr ""
+
+#. overview_title_events_sum
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:85
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:overview_title_events_sum"
+msgid "Events"
+msgstr ""
+
+#. overview_title_mostactivetool_sum
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:86
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:overview_title_mostactivetool_sum"
+msgid "Most active tool"
+msgstr ""
+
+#. overview_title_mostactiveuser_sum
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:87
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:overview_title_mostactiveuser_sum"
+msgid "Most active user"
+msgstr ""
+
+#. overview_title_resources
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:88
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:overview_title_resources"
+msgid "Resources"
+msgstr ""
+
+#. overview_title_resources_sum
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:89
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:overview_title_resources_sum"
+msgid "Files"
+msgstr ""
+
+#. overview_title_openedfiles_sum
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:90
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:overview_title_openedfiles_sum"
+msgid "Files opened"
+msgstr ""
+
+#. overview_title_mostopenedfile_sum
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:91
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:overview_title_mostopenedfile_sum"
+msgid "Most opened file"
+msgstr ""
+
+#. overview_title_useropenedmorefile_sum
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:92
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:overview_title_useropenedmorefile_sum"
+msgid "User who has opened the most files"
+msgstr ""
+
+#. overview_tab_bypage
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:93
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:overview_tab_bypage"
+msgid "By page"
+msgstr ""
+
+#. overview_title_lessonpages
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:94
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:overview_title_lessonpages"
+msgid "Lesson Pages"
+msgstr ""
+
+#. overview_title_pages_sum
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:95
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:overview_title_pages_sum"
+msgid "Pages"
+msgstr ""
+
+#. overview_title_readpages_sum
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:96
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:overview_title_readpages_sum"
+msgid "Pages read"
+msgstr ""
+
+#. overview_title_mostreadpage_sum
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:97
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:overview_title_mostreadpage_sum"
+msgid "Most read page"
+msgstr ""
+
+#. overview_title_userreadmorepage_sum
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:98
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:overview_title_userreadmorepage_sum"
+msgid "User who has read the most pages"
+msgstr ""
+
+#. report_my_instr
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:99
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:report_my_instr"
+msgid "Private reports, available for this site only."
+msgstr ""
+
+#. report_predefined_instr
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:100
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_predefined_instr"
+msgid "Predefined reports, available for all sites."
+msgstr ""
+
+#. report_new
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:101
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:report_new"
+msgid "Add"
+msgstr ""
+
+#. report_myreports
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:102
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_myreports"
+msgid "My reports"
+msgstr ""
+
+#. report_predefinedreports
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:103
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_predefinedreports"
+msgid "Reports"
+msgstr ""
+
+#. report_noreports
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:104
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_noreports"
+msgid "No reports defined."
+msgstr ""
+
+#. report_edit
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:105
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:report_edit"
+msgid "Edit"
+msgstr ""
+
+#. report_hide
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:106
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:report_hide"
+msgid "Hide"
+msgstr ""
+
+#. report_unhide
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:107
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:report_unhide"
+msgid "Unhide"
+msgstr ""
+
+#. report_duplicate
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:108
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_duplicate"
+msgid "Duplicate"
+msgstr ""
+
+#. report_delete
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:109
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:report_delete"
+msgid "Delete"
+msgstr ""
+
+#. report_duplicate_name
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:110
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_duplicate_name"
+msgid "Copy of ${title}"
+msgstr ""
+
+#. report_confirm_delete
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:111
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_confirm_delete"
+msgid "The report {0} will be permanently removed. Continue?"
+msgstr ""
+
+#. report_what
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:112
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:report_what"
+msgid "What?"
+msgstr ""
+
+#. report_what_instructions
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:113
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_what_instructions"
+msgid "Select activity to report."
+msgstr ""
+
+#. report_what_activity
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:114
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_what_activity"
+msgid "Activity:"
+msgstr ""
+
+#. report_what_visits
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:115
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_what_visits"
+msgid "Visits"
+msgstr ""
+
+#. report_what_events
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:116
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_what_events"
+msgid "Events"
+msgstr ""
+
+#. report_what_presences
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:117
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_what_presences"
+msgid "Presence Time"
+msgstr ""
+
+#. report_what_events_bytool
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:118
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_what_events_bytool"
+msgid "Select by tool"
+msgstr ""
+
+#. report_what_events_byevent
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:119
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_what_events_byevent"
+msgid "Select by event"
+msgstr ""
+
+#. report_what_resources
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:120
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_what_resources"
+msgid "Resources"
+msgstr ""
+
+#. report_what_fine_grained_selection
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:121
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_what_fine_grained_selection"
+msgid "fine-grained selection"
+msgstr ""
+
+#. report_what_selection
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:122
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_what_selection"
+msgid "Selection:"
+msgstr ""
+
+#. report_what_resource_action
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:123
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_what_resource_action"
+msgid "Limit to action:"
+msgstr ""
+
+#. report_what_sel_resources
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:124
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_what_sel_resources"
+msgid "Limit to resources:"
+msgstr ""
+
+#. report_what_all
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:125
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:report_what_all"
+msgid "All"
+msgstr ""
+
+#. report_when
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:126
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:report_when"
+msgid "When?"
+msgstr ""
+
+#. report_when_instructions
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:127
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_when_instructions"
+msgid "Select time period to report."
+msgstr ""
+
+#. report_when_period
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:128
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_when_period"
+msgid "Period:"
+msgstr ""
+
+#. report_when_all
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:129
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:report_when_all"
+msgid "All"
+msgstr ""
+
+#. report_when_last7days
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:130
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_when_last7days"
+msgid "Last 7 days"
+msgstr ""
+
+#. report_when_last30days
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:131
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_when_last30days"
+msgid "Last 30 days"
+msgstr ""
+
+#. report_when_last365days
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:132
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_when_last365days"
+msgid "Last 365 days"
+msgstr ""
+
+#. report_when_custom
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:133
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_when_custom"
+msgid "Custom"
+msgstr ""
+
+#. report_when_from_date
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:134
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_when_from_date"
+msgid "From:"
+msgstr ""
+
+#. report_when_to_date
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:135
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_when_to_date"
+msgid "To:"
+msgstr ""
+
+#. report_who
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:136
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:report_who"
+msgid "Who?"
+msgstr ""
+
+#. report_who_instructions
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:137
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_who_instructions"
+msgid "Select users to report."
+msgstr ""
+
+#. report_who_users
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:138
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_who_users"
+msgid "Users:"
+msgstr ""
+
+#. report_who_all
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:139
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:report_who_all"
+msgid "All"
+msgstr ""
+
+#. report_who_group
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:140
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_who_group"
+msgid "Group"
+msgstr ""
+
+#. report_who_role
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:141
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:report_who_role"
+msgid "Role"
+msgstr ""
+
+#. report_who_custom
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:142
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_who_custom"
+msgid "Custom"
+msgstr ""
+
+#. report_who_none
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:143
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:report_who_none"
+msgid "None"
+msgstr ""
+
+#. report_who_not_match
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:144
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_who_not_match"
+msgid "Users not matching previous conditions"
+msgstr ""
+
+#. report_who_group_sel
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:145
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_who_group_sel"
+msgid "Group:"
+msgstr ""
+
+#. report_who_role_sel
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:146
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_who_role_sel"
+msgid "Role:"
+msgstr ""
+
+#. report_who_custom_sel
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:147
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_who_custom_sel"
+msgid "Custom:"
+msgstr ""
+
+#. report_how
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:148
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:report_how"
+msgid "How?"
+msgstr ""
+
+#. report_how_instructions
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:149
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_how_instructions"
+msgid "Specify how results should be presented."
+msgstr ""
+
+#. report_howtotalsby
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:150
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_howtotalsby"
+msgid "Totals by:"
+msgstr ""
+
+#. report_option_user
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:151
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_option_user"
+msgid "User"
+msgstr ""
+
+#. report_option_tool
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:152
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_option_tool"
+msgid "Tool"
+msgstr ""
+
+#. report_option_event
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:153
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_option_event"
+msgid "Event"
+msgstr ""
+
+#. report_option_resource
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:154
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_option_resource"
+msgid "Resource"
+msgstr ""
+
+#. report_option_resourceaction
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:155
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_option_resourceaction"
+msgid "Resource action"
+msgstr ""
+
+#. report_option_date
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:156
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_option_date"
+msgid "Date"
+msgstr ""
+
+#. report_option_lastdate
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:157
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_option_lastdate"
+msgid "Most recent date"
+msgstr ""
+
+#. report_option_site
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:158
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_option_site"
+msgid "Site"
+msgstr ""
+
+#. report_option_total
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:159
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_option_total"
+msgid "Total"
+msgstr ""
+
+#. report_howtotalsby_moreoptions
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:160
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_howtotalsby_moreoptions"
+msgid "More options"
+msgstr ""
+
+#. report_howtotalsby_lessoptions
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:161
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_howtotalsby_lessoptions"
+msgid "Less options"
+msgstr ""
+
+#. report_howsorting
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:162
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_howsorting"
+msgid "Sort by:"
+msgstr ""
+
+#. report_howsorting_enable
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:163
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_howsorting_enable"
+msgid "Specify sorting field"
+msgstr ""
+
+#. report_howsorting_asc
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:164
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_howsorting_asc"
+msgid "Ascending?"
+msgstr ""
+
+#. report_howmaxresults_sel
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:165
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_howmaxresults_sel"
+msgid "Number of results:"
+msgstr ""
+
+#. report_howmaxresults
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:166
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_howmaxresults"
+msgid "Limit to:"
+msgstr ""
+
+#. report_howpresentation
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:167
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_howpresentation"
+msgid "Presentation:"
+msgstr ""
+
+#. report_howpresentation_table
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:168
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_howpresentation_table"
+msgid "Table"
+msgstr ""
+
+#. report_howpresentation_chart
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:169
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_howpresentation_chart"
+msgid "Chart"
+msgstr ""
+
+#. report_howpresentation_both
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:170
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_howpresentation_both"
+msgid "Table & Chart"
+msgstr ""
+
+#. report_howcharttype
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:171
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_howcharttype"
+msgid "Chart type:"
+msgstr ""
+
+#. report_howchart_bar
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:172
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_howchart_bar"
+msgid "Bar"
+msgstr ""
+
+#. report_howchart_line
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:173
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_howchart_line"
+msgid "Line"
+msgstr ""
+
+#. report_howchart_pie
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:174
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_howchart_pie"
+msgid "Pie"
+msgstr ""
+
+#. report_howchart_timeseries
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:175
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_howchart_timeseries"
+msgid "Time series (line)"
+msgstr ""
+
+#. report_howchart_timeseries_bar
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:176
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_howchart_timeseries_bar"
+msgid "Time series (bar)"
+msgstr ""
+
+#. report_howdatasource
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:177
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_howdatasource"
+msgid "Chart data source:"
+msgstr ""
+
+#. report_howdatasource_grouped
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:178
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_howdatasource_grouped"
+msgid "Grouped by:"
+msgstr ""
+
+#. report_howdatasource_series
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:179
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_howdatasource_series"
+msgid "Chart series source:"
+msgstr ""
+
+#. report_multiple_sel_instruction
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:180
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_multiple_sel_instruction"
+msgid ""
+"Press CTRL + click for multiple selections or SHIFT + click for a range "
+"selection."
+msgstr ""
+
+#. report_details
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:181
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:report_details"
+msgid "Report"
+msgstr ""
+
+#. report_details_instructions
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:182
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_details_instructions"
+msgid ""
+"Specify report title and description (required when saving/editing the "
+"report)."
+msgstr ""
+
+#. report_details_show
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:183
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_details_show"
+msgid "Show "
+msgstr ""
+
+#. report_generate
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:184
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:report_generate"
+msgid "Generate report"
+msgstr ""
+
+#. report_err_noevents
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:185
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_err_noevents"
+msgid "No events selected. Please select at least one event."
+msgstr ""
+
+#. report_err_notools
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:186
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_err_notools"
+msgid "No tools selected. Please select at least one tool."
+msgstr ""
+
+#. report_err_noresources
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:187
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_err_noresources"
+msgid "No resources selected. Please select at least one resource."
+msgstr ""
+
+#. report_err_nocustomdates
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:188
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_err_nocustomdates"
+msgid "Custom time period not defined. Please specify 'from' and 'to' dates."
+msgstr ""
+
+#. date.IConverter.Date
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:189
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:date.IConverter.Date"
+msgid "Invalid value specified in custom date period fields."
+msgstr ""
+
+#. hours.NumberValidator.range
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:190
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:hours.NumberValidator.range"
+msgid "Hour value in custom time period fields is outside the valid range."
+msgstr ""
+
+#. minutes.NumberValidator.range
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:191
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:minutes.NumberValidator.range"
+msgid "Minutes value in custom time period fields is outside the valid range."
+msgstr ""
+
+#. hours.IConverter.Integer
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:192
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:hours.IConverter.Integer"
+msgid "Invalid hour specified in custom time period fields."
+msgstr ""
+
+#. minutes.IConverter.Integer
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:193
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:minutes.IConverter.Integer"
+msgid "Invalid minutes specified in custom time period fields."
+msgstr ""
+
+#. reportParams.howMaxResults.Required
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:194
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:reportParams.howMaxResults.Required"
+msgid "No value specified for limiting number of results"
+msgstr ""
+
+#. report_err_emptyrole
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:195
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_err_emptyrole"
+msgid "Selected role has no users. Please select a different role."
+msgstr ""
+
+#. report_err_nogroup
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:196
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_err_nogroup"
+msgid "No group selected. Please select a group."
+msgstr ""
+
+#. report_err_emptygroup
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:197
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_err_emptygroup"
+msgid "Selected group has no users. Please select a different group."
+msgstr ""
+
+#. report_err_nousers
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:198
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_err_nousers"
+msgid "No users selected. Please select at least one user."
+msgstr ""
+
+#. reportParams.howTotalsBy.Required
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:199
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:reportParams.howTotalsBy.Required"
+msgid "No 'Totals by' value selected. Please select at least one field."
+msgstr ""
+
+#. reportParams.howMaxResults.IConverter.int
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:200
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:reportParams.howMaxResults.IConverter.int"
+msgid "Invalid number specified for 'Number of results'."
+msgstr ""
+
+#. report_back
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:201
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:report_back"
+msgid "Back"
+msgstr ""
+
+#. report_adding
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:202
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:report_adding"
+msgid "New report"
+msgstr ""
+
+#. report_editing
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:203
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:report_editing"
+msgid "Editing report '${title}'"
+msgstr ""
+
+#. report_reporttitle
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:204
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_reporttitle"
+msgid "Title:"
+msgstr ""
+
+#. report_reporttitle_localized
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:205
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_reporttitle_localized"
+msgid "Localized title:"
+msgstr ""
+
+#. report_reporttitle_req
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:206
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_reporttitle_req"
+msgid "Title field is required!"
+msgstr ""
+
+#. report_reportdescription
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:207
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_reportdescription"
+msgid "Description:"
+msgstr ""
+
+#. report_reportdescription_localized
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:208
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_reportdescription_localized"
+msgid "Localized description:"
+msgstr ""
+
+#. report_reportsite
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:209
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_reportsite"
+msgid "Site to report:"
+msgstr ""
+
+#. report_reportsite_this
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:210
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_reportsite_this"
+msgid "This site"
+msgstr ""
+
+#. report_reportsite_all
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:211
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_reportsite_all"
+msgid "All sites"
+msgstr ""
+
+#. report_save
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:212
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:report_save"
+msgid "Save report"
+msgstr ""
+
+#. report_cancelsave
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:213
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_cancelsave"
+msgid "Cancel"
+msgstr ""
+
+#. report_save_success
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:214
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_save_success"
+msgid "Report '${title}' saved successfully"
+msgstr ""
+
+#. report_save_error
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:215
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_save_error"
+msgid "An error occurred while saving report ${title}"
+msgstr ""
+
+#. report_content_attachments
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:216
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_content_attachments"
+msgid "Attachments"
+msgstr ""
+
+#. reportres_title
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:217
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:reportres_title"
+msgid "Report"
+msgstr ""
+
+#. reportres_title_detailed
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:218
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:reportres_title_detailed"
+msgid "Report: '${title}'"
+msgstr ""
+
+#. reportres_summ_description
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:219
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:reportres_summ_description"
+msgid "Description:"
+msgstr ""
+
+#. reportres_summ_site
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:220
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:reportres_summ_site"
+msgid "Site:"
+msgstr ""
+
+#. reportres_summ_generatedon
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:221
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:reportres_summ_generatedon"
+msgid "Report generated:"
+msgstr ""
+
+#. reportres_summ_act_basedon
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:222
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:reportres_summ_act_basedon"
+msgid "Activity type:"
+msgstr ""
+
+#. reportres_summ_act_tools_selected
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:223
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:reportres_summ_act_tools_selected"
+msgid "Tools selected:"
+msgstr ""
+
+#. reportres_summ_act_events_selected
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:224
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:reportres_summ_act_events_selected"
+msgid "Events selected:"
+msgstr ""
+
+#. reportres_summ_act_rsrc_action
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:225
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:reportres_summ_act_rsrc_action"
+msgid "Resources action:"
+msgstr ""
+
+#. reportres_summ_act_rsrc_selected
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:226
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:reportres_summ_act_rsrc_selected"
+msgid "Resources selected:"
+msgstr ""
+
+#. reportres_summ_timeperiod
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:227
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:reportres_summ_timeperiod"
+msgid "Date range:"
+msgstr ""
+
+#. reportres_summ_usr_selectiontype
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:228
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:reportres_summ_usr_selectiontype"
+msgid "User selection type:"
+msgstr ""
+
+#. reportres_summ_usr_group_selected
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:229
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:reportres_summ_usr_group_selected"
+msgid "Group selected:"
+msgstr ""
+
+#. reportres_summ_usr_role_selected
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:230
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:reportres_summ_usr_role_selected"
+msgid "Role selected:"
+msgstr ""
+
+#. reportres_summ_usr_users_selected
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:231
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:reportres_summ_usr_users_selected"
+msgid "Users selected:"
+msgstr ""
+
+#. reportres_print
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:232
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:reportres_print"
+msgid "Send to printer"
+msgstr ""
+
+#. reportres_printversion
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:233
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:reportres_printversion"
+msgid "Printable version"
+msgstr ""
+
+#. th_event
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:234
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:th_event"
+msgid "Event"
+msgstr ""
+
+#. th_tool
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:235
+msgctxt "sitestats/sitestats-bundle/src/resources/Messages.properties:th_tool"
+msgid "Tool"
+msgstr ""
+
+#. th_id
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:236
+msgctxt "sitestats/sitestats-bundle/src/resources/Messages.properties:th_id"
+msgid "User ID"
+msgstr ""
+
+#. th_site
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:237
+msgctxt "sitestats/sitestats-bundle/src/resources/Messages.properties:th_site"
+msgid "Site"
+msgstr ""
+
+#. th_title
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:238
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:th_title"
+msgid "Title"
+msgstr ""
+
+#. th_type
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:239
+msgctxt "sitestats/sitestats-bundle/src/resources/Messages.properties:th_type"
+msgid "Type"
+msgstr ""
+
+#. th_status
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:240
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:th_status"
+msgid "Status"
+msgstr ""
+
+#. th_user
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:241
+msgctxt "sitestats/sitestats-bundle/src/resources/Messages.properties:th_user"
+msgid "Name"
+msgstr ""
+
+#. th_date
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:242
+msgctxt "sitestats/sitestats-bundle/src/resources/Messages.properties:th_date"
+msgid "Date"
+msgstr ""
+
+#. th_lastdate
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:243
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:th_lastdate"
+msgid "Most recent date"
+msgstr ""
+
+#. th_total
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:244
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:th_total"
+msgid "Total"
+msgstr ""
+
+#. th_resource
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:245
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:th_resource"
+msgid "Resource"
+msgstr ""
+
+#. th_page
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:246
+msgctxt "sitestats/sitestats-bundle/src/resources/Messages.properties:th_page"
+msgid "Page"
+msgstr ""
+
+#. th_action
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:247
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:th_action"
+msgid "Action"
+msgstr ""
+
+#. th_visits
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:248
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:th_visits"
+msgid "Visits"
+msgstr ""
+
+#. th_uniquevisitors
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:249
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:th_uniquevisitors"
+msgid "Unique visitors"
+msgstr ""
+
+#. th_duration
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:250
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:th_duration"
+msgid "Duration"
+msgstr ""
+
+#. action_all
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:251
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:action_all"
+msgid "All"
+msgstr ""
+
+#. action_create
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:252
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:action_create"
+msgid "Create"
+msgstr ""
+
+#. action_new
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:253
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:action_new"
+msgid "New"
+msgstr ""
+
+#. action_read
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:254
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:action_read"
+msgid "Read"
+msgstr ""
+
+#. action_update
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:255
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:action_update"
+msgid "Update"
+msgstr ""
+
+#. action_revise
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:256
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:action_revise"
+msgid "Revise"
+msgstr ""
+
+#. action_delete
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:257
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:action_delete"
+msgid "Delete"
+msgstr ""
+
+#. no_data
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:258
+msgctxt "sitestats/sitestats-bundle/src/resources/Messages.properties:no_data"
+msgid "No data available"
+msgstr ""
+
+#. site_unknown
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:259
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:site_unknown"
+msgid "[nonexistent site]"
+msgstr ""
+
+#. user_unknown
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:260
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:user_unknown"
+msgid "[nonexistent user]"
+msgstr ""
+
+#. user_anonymous
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:261
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:user_anonymous"
+msgid "[user identity protected]"
+msgstr ""
+
+#. user_anonymous_access
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:262
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:user_anonymous_access"
+msgid "[anonymous access]"
+msgstr ""
+
+#. resource_unknown
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:263
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:resource_unknown"
+msgid "[nonexistent resource]"
+msgstr ""
+
+#. page_unknown
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:264
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:page_unknown"
+msgid "[nonexistent page]"
+msgstr ""
+
+#. bt_export
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:265
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:bt_export"
+msgid "Export  -> "
+msgstr ""
+
+#. bt_export_excel
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:266
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:bt_export_excel"
+msgid "Export XLS "
+msgstr ""
+
+#. bt_export_csv
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:267
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:bt_export_csv"
+msgid "Export CSV"
+msgstr ""
+
+#. bt_export_pdf
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:268
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:bt_export_pdf"
+msgid "Export PDF"
+msgstr ""
+
+#. export_filename_date_format
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:269
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:export_filename_date_format"
+msgid "MMddyyyy"
+msgstr ""
+
+#. user_info
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:270
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:user_info"
+msgid "{0} ({1})"
+msgstr ""
+
+#. prefs_sep_general
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:271
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:prefs_sep_general"
+msgid "General"
+msgstr ""
+
+#. instructions_prefs_general
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:272
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:instructions_prefs_general"
+msgid "General options"
+msgstr ""
+
+#. prefs_listToolEventsOnlyAvailableInSite
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:273
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:prefs_listToolEventsOnlyAvailableInSite"
+msgid "Only list tools available in this site"
+msgstr ""
+
+#. prefs_showOwnStatisticsToStudents
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:274
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:prefs_showOwnStatisticsToStudents"
+msgid "Show their own statistics to students"
+msgstr ""
+
+#. prefs_sep_activity_definition
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:275
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:prefs_sep_activity_definition"
+msgid "Activity definition"
+msgstr ""
+
+#. instructions_prefs_activity_tools
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:276
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:instructions_prefs_activity_tools"
+msgid "Tools/events included as 'activity'"
+msgstr ""
+
+#. prefs_sep_chart
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:277
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:prefs_sep_chart"
+msgid "Chart"
+msgstr ""
+
+#. instructions_prefs_sep_chart
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:278
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:instructions_prefs_sep_chart"
+msgid "Chart presentation options"
+msgstr ""
+
+#. prefs_3dCharts
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:279
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:prefs_3dCharts"
+msgid "Display charts in 3D"
+msgstr ""
+
+#. prefs_itemLabelsVisible
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:280
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:prefs_itemLabelsVisible"
+msgid "Display item labels on bar charts"
+msgstr ""
+
+#. prefs_chartTransparency
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:281
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:prefs_chartTransparency"
+msgid "Chart alpha-transparency"
+msgstr ""
+
+#. prefs_useAllTools
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:282
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:prefs_useAllTools"
+msgid "All tools"
+msgstr ""
+
+#. update
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:283
+msgctxt "sitestats/sitestats-bundle/src/resources/Messages.properties:update"
+msgid "Update"
+msgstr ""
+
+#. cancel
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:284
+msgctxt "sitestats/sitestats-bundle/src/resources/Messages.properties:cancel"
+msgid "Cancel"
+msgstr ""
+
+#. prefs_updated
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:285
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:prefs_updated"
+msgid "Preferences updated successfully."
+msgstr ""
+
+#. prefs_not_updated
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:286
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:prefs_not_updated"
+msgid "Failed to update preferences. Please try again."
+msgstr ""
+
+#. predefined_report0_title
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:287
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:predefined_report0_title"
+msgid "Activity total"
+msgstr ""
+
+#. predefined_report0_description
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:288
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:predefined_report0_description"
+msgid "Show activity in site, with totals per event."
+msgstr ""
+
+#. predefined_report1_title
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:289
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:predefined_report1_title"
+msgid "Most accessed files"
+msgstr ""
+
+#. predefined_report1_description
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:290
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:predefined_report1_description"
+msgid "Show top 10 most accessed files."
+msgstr ""
+
+#. predefined_report2_title
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:291
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:predefined_report2_title"
+msgid "Most active users"
+msgstr ""
+
+#. predefined_report2_description
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:292
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:predefined_report2_description"
+msgid "Show top 10 users with most activity in site."
+msgstr ""
+
+#. predefined_report3_title
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:293
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:predefined_report3_title"
+msgid "Less active users"
+msgstr ""
+
+#. predefined_report3_description
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:294
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:predefined_report3_description"
+msgid "Show top 10 users with less activity in site."
+msgstr ""
+
+#. predefined_report4_title
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:295
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:predefined_report4_title"
+msgid "Users with more visits"
+msgstr ""
+
+#. predefined_report4_description
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:296
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:predefined_report4_description"
+msgid "Show top 10 users who have visited the site the most."
+msgstr ""
+
+#. predefined_report5_title
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:297
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:predefined_report5_title"
+msgid "Users with no visits"
+msgstr ""
+
+#. predefined_report5_description
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:298
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:predefined_report5_description"
+msgid "Show users who have never visited the site."
+msgstr ""
+
+#. predefined_report6_title
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:299
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:predefined_report6_title"
+msgid "Users with no activity"
+msgstr ""
+
+#. predefined_report6_description
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:300
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:predefined_report6_description"
+msgid "Show users with no activity in site."
+msgstr ""
+
+#. lastJobRun_server_time
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:301
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:lastJobRun_server_time"
+msgid "({0} server time: {1})"
+msgstr ""
+
+#. widget_server_time_msg
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:302
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:widget_server_time_msg"
+msgid "All dates use the {0} server time zone."
+msgstr ""
+
+#. report_server_time_zone
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:303
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:report_server_time_zone"
+msgid "({0} server time zone)"
+msgstr ""
+
+#. de_search
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:304
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:de_search"
+msgid "Search"
+msgstr ""
+
+#. de_select_user
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:305
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:de_select_user"
+msgid "Select a user..."
+msgstr ""
+
+#. de_resultsTable_timestamp
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:306
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_resultsTable_timestamp"
+msgid "Date"
+msgstr ""
+
+#. de_resultsTable_event
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:307
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_resultsTable_event"
+msgid "Event"
+msgstr ""
+
+#. de_resultsTable_details
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:308
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_resultsTable_details"
+msgid "Details"
+msgstr ""
+
+#. de_resultsTable_detailsLink
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:309
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_resultsTable_detailsLink"
+msgid "Show more"
+msgstr ""
+
+#. de_allTools_excludeContentRead
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:310
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_allTools_excludeContentRead"
+msgid "All tools excluding \"{0}\""
+msgstr ""
+
+#. de_dateRange
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:311
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:de_dateRange"
+msgid "Date Range ({0})"
+msgstr ""
+
+#. de_dateRangeFrom
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:312
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_dateRangeFrom"
+msgid "From"
+msgstr ""
+
+#. de_dateRangeTo
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:313
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:de_dateRangeTo"
+msgid "to"
+msgstr ""
+
+#. de_userFilter
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:314
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:de_userFilter"
+msgid "User"
+msgstr ""
+
+#. de_eventFilter
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:315
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:de_eventFilter"
+msgid "Tool"
+msgstr ""
+
+#. de_whichEvents
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:316
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:de_whichEvents"
+msgid "Which Events?"
+msgstr ""
+
+#. de_error
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:317
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:de_error"
+msgid "Error"
+msgstr ""
+
+#. de_nodata
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:318
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:de_nodata"
+msgid "Unable to retrieve details for this event"
+msgstr ""
+
+#. de_noperms
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:319
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:de_noperms"
+msgid "You do not have permission to see further details about this event"
+msgstr ""
+
+#. de_info
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:320
+msgctxt "sitestats/sitestats-bundle/src/resources/Messages.properties:de_info"
+msgid "Info"
+msgstr ""
+
+#. de_nodetails
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:321
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:de_nodetails"
+msgid "No further details available"
+msgstr ""
+
+#. de_calendar_title
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:322
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_calendar_title"
+msgid "Title"
+msgstr ""
+
+#. de_calendar_duration
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:323
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_calendar_duration"
+msgid "Duration"
+msgstr ""
+
+#. de_calendar_duration_range
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:324
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_calendar_duration_range"
+msgid "{0} to {1}"
+msgstr ""
+
+#. de_calendar_occurs
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:325
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_calendar_occurs"
+msgid "Occurs"
+msgstr ""
+
+#. de_calendar_freq
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:326
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_calendar_freq"
+msgid "Every {0} {1}"
+msgstr ""
+
+#. de_calendar_freq_once
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:327
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_calendar_freq_once"
+msgid "Once"
+msgstr ""
+
+#. de_msgforums_msgError_topicDeleted
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:328
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_msgforums_msgError_topicDeleted"
+msgid "Topic has been deleted, message details are unavailable."
+msgstr ""
+
+#. de_msgforums_msgError_perms
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:329
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_msgforums_msgError_perms"
+msgid ""
+"You don't have permission to read messages in this topic, or the topic/forum"
+" has been saved in draft mode."
+msgstr ""
+
+#. de_msgforums_title
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:330
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_msgforums_title"
+msgid "Title"
+msgstr ""
+
+#. de_msgforums_topic
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:331
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_msgforums_topic"
+msgid "Topic"
+msgstr ""
+
+#. de_msgforums_topicPath
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:332
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_msgforums_topicPath"
+msgid "{0} > {1}"
+msgstr ""
+
+#. de_msgforums_topic_deleted
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:333
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_msgforums_topic_deleted"
+msgid "{0} [deleted]"
+msgstr ""
+
+#. de_msgforums_conversation
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:334
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_msgforums_conversation"
+msgid "Conversation"
+msgstr ""
+
+#. de_msgforums_conversation_anon
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:335
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_msgforums_conversation_anon"
+msgid "Anonymous conversation"
+msgstr ""
+
+#. de_msgforums_message
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:336
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_msgforums_message"
+msgid "Message"
+msgstr ""
+
+#. de_msgforums_message_anon
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:337
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_msgforums_message_anon"
+msgid "Anonymous message"
+msgstr ""
+
+#. de_msgforums_message_template
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:338
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_msgforums_message_template"
+msgid "\"{0}\" posted by {1} on {2}"
+msgstr ""
+
+#. de_msgforums_message_responded
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:339
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_msgforums_message_responded"
+msgid "Responded to"
+msgstr ""
+
+#. de_lessons_comment_template
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:340
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_lessons_comment_template"
+msgid "\"{0}\" by {1} on {2}"
+msgstr ""
+
+#. de_lessons_item_text
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:341
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_lessons_item_text"
+msgid "Text Item"
+msgstr ""
+
+#. de_lessons_page
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:342
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:de_lessons_page"
+msgid "Page"
+msgstr ""
+
+#. de_lessons_item
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:343
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:de_lessons_item"
+msgid "Item"
+msgstr ""
+
+#. de_lessons_embed
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:344
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_lessons_embed"
+msgid "Embedded Content"
+msgstr ""
+
+#. de_lessons_link
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:345
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:de_lessons_link"
+msgid "Content Link"
+msgstr ""
+
+#. de_lessons_desc
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:346
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:de_lessons_desc"
+msgid "Description"
+msgstr ""
+
+#. de_lessons_deleted
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:347
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_lessons_deleted"
+msgid "[Deleted Page or Item]"
+msgstr ""
+
+#. de_lessons_deleted_page
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:348
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_lessons_deleted_page"
+msgid "[Deleted Page]"
+msgstr ""
+
+#. de_lessons_hierarchy
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:349
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_lessons_hierarchy"
+msgid "Hierarchy"
+msgstr ""
+
+#. de_lessons_comment
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:350
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_lessons_comment"
+msgid "Comment"
+msgstr ""
+
+#. de_lessons_comment_deleted
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:351
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_lessons_comment_deleted"
+msgid "[Comment was deleted or contains no text]"
+msgstr ""
+
+#. de_lessons_comments
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:352
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_lessons_comments"
+msgid "Comments Section"
+msgstr ""
+
+#. de_lessons_comments_placeholder
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:353
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_lessons_comments_placeholder"
+msgid ""
+"This is an automatically generated comments section placeholder. All student"
+" pages have such a placeholder, even if comments are not enabled on the "
+"page."
+msgstr ""
+
+#. de_lessons_note
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:354
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:de_lessons_note"
+msgid "Note"
+msgstr ""
+
+#. de_polls_poll
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:355
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:de_polls_poll"
+msgid "Poll"
+msgstr ""
+
+#. de_wiki_page
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:356
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:de_wiki_page"
+msgid "Page"
+msgstr ""
+
+#. de_news_feed
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:357
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:de_news_feed"
+msgid "Feed"
+msgstr ""
+
+#. de_annc_title
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:358
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:de_annc_title"
+msgid "Title"
+msgstr ""
+
+#. de_asn
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:359
+msgctxt "sitestats/sitestats-bundle/src/resources/Messages.properties:de_asn"
+msgid "Assignment"
+msgstr ""
+
+#. de_asn_anon
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:360
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:de_asn_anon"
+msgid "[Anonymous assignment]"
+msgstr ""
+
+#. de_asn_deleted
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:361
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:de_asn_deleted"
+msgid "[Removed]"
+msgstr ""
+
+#. de_asn_sub_submitter
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:362
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_asn_sub_submitter"
+msgid "Submitter"
+msgstr ""
+
+#. de_asn_sub_submitter_display
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:363
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_asn_sub_submitter_display"
+msgid "{0} ({1})"
+msgstr ""
+
+#. de_asn_sub_by_for
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:364
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_asn_sub_by_for"
+msgid "{0} on behalf of {1}"
+msgstr ""
+
+#. de_asn_sub_by_ins
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:365
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_asn_sub_by_ins"
+msgid "Instructor"
+msgstr ""
+
+#. de_asn_sub_by_unknown
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:366
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_asn_sub_by_unknown"
+msgid "[Unknown user]"
+msgstr ""
+
+#. de_podcasts_title
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:367
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_podcasts_title"
+msgid "Title"
+msgstr ""
+
+#. de_podcasts_datetime
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:368
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_podcasts_datetime"
+msgid "Publish Date/Time"
+msgstr ""
+
+#. de_content_folder
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:369
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_content_folder"
+msgid "Folder"
+msgstr ""
+
+#. de_content_folder_hidden_attachment
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:370
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_content_folder_hidden_attachment"
+msgid "Hidden attachment folder"
+msgstr ""
+
+#. de_content_folder_hidden
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:371
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_content_folder_hidden"
+msgid "Hidden folder"
+msgstr ""
+
+#. de_content_file_resource
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:372
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_content_file_resource"
+msgid "Resource"
+msgstr ""
+
+#. de_content_file_name
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:373
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_content_file_name"
+msgid "Filename"
+msgstr ""
+
+#. de_content_file_hidden
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:374
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_content_file_hidden"
+msgid "Hidden resource"
+msgstr ""
+
+#. de_content_file_hidden_attachment
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:375
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_content_file_hidden_attachment"
+msgid "Hidden attachment"
+msgstr ""
+
+#. de_content_error_deleted
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:376
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_content_error_deleted"
+msgid "Unable to retrieve details. Resource has likely been deleted."
+msgstr ""
+
+#. de_web_page
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:377
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:de_web_page"
+msgid "Page"
+msgstr ""
+
+#. de_sam_assessment
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:378
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_sam_assessment"
+msgid "Assessment"
+msgstr ""
+
+#. de_sam_assessment_draft
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:379
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_sam_assessment_draft"
+msgid "{0} [draft]"
+msgstr ""
+
+#. de_sam_assessment_anon
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:380
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Messages.properties:de_sam_assessment_anon"
+msgid "[Anonymous assessment]"
+msgstr ""
+
+#. de_sam_part
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:381
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:de_sam_part"
+msgid "Part"
+msgstr ""
+
+#. de_sam_question
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:382
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:de_sam_question"
+msgid "Question"
+msgstr ""
+
+#. de_introBlurb
+#: sitestats/sitestats-bundle/src/resources/Messages.properties:383
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Messages.properties:de_introBlurb"
+msgid "Choose a user to view their events for the selected date range"
+msgstr ""
+
+#. sitestats
+#: sitestats/sitestats-bundle/src/resources/sitestats.properties:1
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/sitestats.properties:sitestats"
+msgid ""
+"<br />Provides a set of RESTful endpoints for retrieving Sitestats event "
+"data. <br /><br />"
+msgstr ""
+
+#. sitestats.action.listreports
+#: sitestats/sitestats-bundle/src/resources/sitestats.properties:2
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/sitestats.properties:sitestats.action.listreports"
+msgid ""
+"(GET) Retrieves a list of predefined reports for a given site id. The id "
+"fields in the report entries can be used to run the reports, using the 'run'"
+" action <br /> Example URL: /direct/sitestats/listreports/SITEID.json"
+msgstr ""
+
+#. sitestats.action.runreport
+#: sitestats/sitestats-bundle/src/resources/sitestats.properties:3
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/sitestats.properties:sitestats.action.runreport"
+msgid ""
+"(GET) Runs the report specified by the id url paramemter. The site id must "
+"also be provided in the url. <br /> Example URL: "
+"/direct/sitestats/runreport/SITEID.json?id=1"
+msgstr ""
+
+#. sitestats.action.presencetotals
+#: sitestats/sitestats-bundle/src/resources/sitestats.properties:4
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/sitestats.properties:sitestats.action.presencetotals"
+msgid ""
+"(GET) Returns a map of presence total onto user for the specified site id. "
+"The site id must be provided in the url. <br /> Example URL: "
+"/direct/sitestats/presencetotals/SITEID.json"
+msgstr ""
+
+#. pres.begin
+#: sitestats/sitestats-bundle/src/resources/Events.properties:1
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:pres.begin"
+msgid "Site visit"
+msgstr ""
+
+#. annc.read
+#: sitestats/sitestats-bundle/src/resources/Events.properties:2
+msgctxt "sitestats/sitestats-bundle/src/resources/Events.properties:annc.read"
+msgid "Read announcement"
+msgstr ""
+
+#. annc.new
+#: sitestats/sitestats-bundle/src/resources/Events.properties:3
+msgctxt "sitestats/sitestats-bundle/src/resources/Events.properties:annc.new"
+msgid "Announcement new"
+msgstr ""
+
+#. annc.revise.own
+#: sitestats/sitestats-bundle/src/resources/Events.properties:4
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:annc.revise.own"
+msgid "Announcement revise (own)"
+msgstr ""
+
+#. annc.revise.any
+#: sitestats/sitestats-bundle/src/resources/Events.properties:5
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:annc.revise.any"
+msgid "Announcement revise (other)"
+msgstr ""
+
+#. annc.delete.own
+#: sitestats/sitestats-bundle/src/resources/Events.properties:6
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:annc.delete.own"
+msgid "Announcement delete (own)"
+msgstr ""
+
+#. annc.delete.any
+#: sitestats/sitestats-bundle/src/resources/Events.properties:7
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:annc.delete.any"
+msgid "Announcement delete (other)"
+msgstr ""
+
+#. asn.read
+#: sitestats/sitestats-bundle/src/resources/Events.properties:8
+msgctxt "sitestats/sitestats-bundle/src/resources/Events.properties:asn.read"
+msgid "Assignment read"
+msgstr ""
+
+#. asn.read.assignment
+#: sitestats/sitestats-bundle/src/resources/Events.properties:9
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:asn.read.assignment"
+msgid "Assignment read"
+msgstr ""
+
+#. asn.read.submission
+#: sitestats/sitestats-bundle/src/resources/Events.properties:10
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:asn.read.submission"
+msgid "Assignment submission read"
+msgstr ""
+
+#. asn.new.assignment
+#: sitestats/sitestats-bundle/src/resources/Events.properties:11
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:asn.new.assignment"
+msgid "Assignment new"
+msgstr ""
+
+#. asn.revise.assignment
+#: sitestats/sitestats-bundle/src/resources/Events.properties:12
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:asn.revise.assignment"
+msgid "Assignment revise"
+msgstr ""
+
+#. asn.delete.assignment
+#: sitestats/sitestats-bundle/src/resources/Events.properties:13
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:asn.delete.assignment"
+msgid "Assignment delete"
+msgstr ""
+
+#. asn.submit.submission
+#: sitestats/sitestats-bundle/src/resources/Events.properties:14
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:asn.submit.submission"
+msgid "Assignment submission"
+msgstr ""
+
+#. asn.save.submission
+#: sitestats/sitestats-bundle/src/resources/Events.properties:15
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:asn.save.submission"
+msgid "Assignment save"
+msgstr ""
+
+#. asn.grade.submission
+#: sitestats/sitestats-bundle/src/resources/Events.properties:16
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:asn.grade.submission"
+msgid "Assignment grade/release/return"
+msgstr ""
+
+#. basiclti.config
+#: sitestats/sitestats-bundle/src/resources/Events.properties:17
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:basiclti.config"
+msgid "BasicLTI tool configured"
+msgstr ""
+
+#. basiclti.launch
+#: sitestats/sitestats-bundle/src/resources/Events.properties:18
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:basiclti.launch"
+msgid "BasicLTI tool launched"
+msgstr ""
+
+#. blog.blog.created
+#: sitestats/sitestats-bundle/src/resources/Events.properties:19
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:blog.blog.created"
+msgid "Blog created"
+msgstr ""
+
+#. blog.entry.saved
+#: sitestats/sitestats-bundle/src/resources/Events.properties:20
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:blog.entry.saved"
+msgid "Blog entry added/edited"
+msgstr ""
+
+#. blog.entry.removed
+#: sitestats/sitestats-bundle/src/resources/Events.properties:21
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:blog.entry.removed"
+msgid "Blog entry removed"
+msgstr ""
+
+#. blog.comment.added
+#: sitestats/sitestats-bundle/src/resources/Events.properties:22
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:blog.comment.added"
+msgid "Blog comment added"
+msgstr ""
+
+#. blog.comment.removed
+#: sitestats/sitestats-bundle/src/resources/Events.properties:23
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:blog.comment.removed"
+msgid "Blog comment removed"
+msgstr ""
+
+#. chat.new
+#: sitestats/sitestats-bundle/src/resources/Events.properties:24
+msgctxt "sitestats/sitestats-bundle/src/resources/Events.properties:chat.new"
+msgid "Chat new"
+msgstr ""
+
+#. chat.delete.any
+#: sitestats/sitestats-bundle/src/resources/Events.properties:25
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:chat.delete.any"
+msgid "Chat delete (other)"
+msgstr ""
+
+#. chat.delete.own
+#: sitestats/sitestats-bundle/src/resources/Events.properties:26
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:chat.delete.own"
+msgid "Chat delete (own)"
+msgstr ""
+
+#. chat.delete.channel
+#: sitestats/sitestats-bundle/src/resources/Events.properties:27
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:chat.delete.channel"
+msgid "Chat channel delete"
+msgstr ""
+
+#. disc.new
+#: sitestats/sitestats-bundle/src/resources/Events.properties:28
+msgctxt "sitestats/sitestats-bundle/src/resources/Events.properties:disc.new"
+msgid "Discussion topic/message new"
+msgstr ""
+
+#. disc.new.category
+#: sitestats/sitestats-bundle/src/resources/Events.properties:29
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:disc.new.category"
+msgid "Discussion category new"
+msgstr ""
+
+#. disc.null
+#: sitestats/sitestats-bundle/src/resources/Events.properties:30
+msgctxt "sitestats/sitestats-bundle/src/resources/Events.properties:disc.null"
+msgid "Discussion category delete"
+msgstr ""
+
+#. disc.delete.any
+#: sitestats/sitestats-bundle/src/resources/Events.properties:31
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:disc.delete.any"
+msgid "Discussion topic/message delete (other)"
+msgstr ""
+
+#. disc.delete.own
+#: sitestats/sitestats-bundle/src/resources/Events.properties:32
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:disc.delete.own"
+msgid "Discussion topic/message delete (own)"
+msgstr ""
+
+#. disc.delete.category
+#: sitestats/sitestats-bundle/src/resources/Events.properties:33
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:disc.delete.category"
+msgid "Discussion category delete"
+msgstr ""
+
+#. gradebook.updateItemScores
+#: sitestats/sitestats-bundle/src/resources/Events.properties:34
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:gradebook.updateItemScores"
+msgid "Gradebook Classic item scores update"
+msgstr ""
+
+#. gradebook.updateCourseGrades
+#: sitestats/sitestats-bundle/src/resources/Events.properties:35
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:gradebook.updateCourseGrades"
+msgid "Gradebook Classic course scores update"
+msgstr ""
+
+#. gradebook.downloadRoster
+#: sitestats/sitestats-bundle/src/resources/Events.properties:36
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:gradebook.downloadRoster"
+msgid "Gradebook Classic roster download"
+msgstr ""
+
+#. gradebook.downloadCourseGrade
+#: sitestats/sitestats-bundle/src/resources/Events.properties:37
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:gradebook.downloadCourseGrade"
+msgid "Gradebook Classic course grade download"
+msgstr ""
+
+#. gradebook.importEntire
+#: sitestats/sitestats-bundle/src/resources/Events.properties:38
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:gradebook.importEntire"
+msgid "Gradebook Classic course grades import"
+msgstr ""
+
+#. gradebook.importItem
+#: sitestats/sitestats-bundle/src/resources/Events.properties:39
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:gradebook.importItem"
+msgid "Gradebook Classic item import"
+msgstr ""
+
+#. gradebook.newItem
+#: sitestats/sitestats-bundle/src/resources/Events.properties:40
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:gradebook.newItem"
+msgid "Gradebook item new"
+msgstr ""
+
+#. gradebook.deleteItem
+#: sitestats/sitestats-bundle/src/resources/Events.properties:41
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:gradebook.deleteItem"
+msgid "Gradebook item delete"
+msgstr ""
+
+#. gradebook.comment
+#: sitestats/sitestats-bundle/src/resources/Events.properties:42
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:gradebook.comment"
+msgid "Gradebook comment"
+msgstr ""
+
+#. gradebook.updateAssignment
+#: sitestats/sitestats-bundle/src/resources/Events.properties:43
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:gradebook.updateAssignment"
+msgid "Gradebook item update"
+msgstr ""
+
+#. gradebook.updateItemScore
+#: sitestats/sitestats-bundle/src/resources/Events.properties:44
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:gradebook.updateItemScore"
+msgid "Gradebook item update score"
+msgstr ""
+
+#. gradebook.updateUngradedScores
+#: sitestats/sitestats-bundle/src/resources/Events.properties:45
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:gradebook.updateUngradedScores"
+msgid "Gradebook update ungraded scores"
+msgstr ""
+
+#. gradebook.studentView
+#: sitestats/sitestats-bundle/src/resources/Events.properties:46
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:gradebook.studentView"
+msgid "Gradebook student view"
+msgstr ""
+
+#. gradebook.export
+#: sitestats/sitestats-bundle/src/resources/Events.properties:47
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:gradebook.export"
+msgid "Gradebook export"
+msgstr ""
+
+#. gradebook.importBegin
+#: sitestats/sitestats-bundle/src/resources/Events.properties:48
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:gradebook.importBegin"
+msgid "Gradebook begin import"
+msgstr ""
+
+#. gradebook.importCompleted
+#: sitestats/sitestats-bundle/src/resources/Events.properties:49
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:gradebook.importCompleted"
+msgid "Gradebook import complete"
+msgstr ""
+
+#. gradebook.overrideCourseGrade
+#: sitestats/sitestats-bundle/src/resources/Events.properties:50
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:gradebook.overrideCourseGrade"
+msgid "Gradebook override course grade"
+msgstr ""
+
+#. gradebook.updateSettings
+#: sitestats/sitestats-bundle/src/resources/Events.properties:51
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:gradebook.updateSettings"
+msgid "Gradebook update settings"
+msgstr ""
+
+#. mail.new
+#: sitestats/sitestats-bundle/src/resources/Events.properties:52
+msgctxt "sitestats/sitestats-bundle/src/resources/Events.properties:mail.new"
+msgid "Mail new"
+msgstr ""
+
+#. mail.delete.any
+#: sitestats/sitestats-bundle/src/resources/Events.properties:53
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:mail.delete.any"
+msgid "Mail delete (other)"
+msgstr ""
+
+#. mail.delete.own
+#: sitestats/sitestats-bundle/src/resources/Events.properties:54
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:mail.delete.own"
+msgid "Mail delete (own)"
+msgstr ""
+
+#. markup.create
+#: sitestats/sitestats-bundle/src/resources/Events.properties:55
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:markup.create"
+msgid "Markup tool content created"
+msgstr ""
+
+#. markup.edit
+#: sitestats/sitestats-bundle/src/resources/Events.properties:56
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:markup.edit"
+msgid "Markup tool content edited"
+msgstr ""
+
+#. markup.read
+#: sitestats/sitestats-bundle/src/resources/Events.properties:57
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:markup.read"
+msgid "Markup tool content read"
+msgstr ""
+
+#. melete.module.new
+#: sitestats/sitestats-bundle/src/resources/Events.properties:58
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:melete.module.new"
+msgid "Melete module created"
+msgstr ""
+
+#. melete.module.edit
+#: sitestats/sitestats-bundle/src/resources/Events.properties:59
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:melete.module.edit"
+msgid "Melete module edited"
+msgstr ""
+
+#. melete.module.delete
+#: sitestats/sitestats-bundle/src/resources/Events.properties:60
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:melete.module.delete"
+msgid "Melete module deleted"
+msgstr ""
+
+#. melete.section.new
+#: sitestats/sitestats-bundle/src/resources/Events.properties:61
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:melete.section.new"
+msgid "Melete section created"
+msgstr ""
+
+#. melete.section.edit
+#: sitestats/sitestats-bundle/src/resources/Events.properties:62
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:melete.section.edit"
+msgid "Melete section edited"
+msgstr ""
+
+#. melete.section.read
+#: sitestats/sitestats-bundle/src/resources/Events.properties:63
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:melete.section.read"
+msgid "Melete section read"
+msgstr ""
+
+#. melete.section.delete
+#: sitestats/sitestats-bundle/src/resources/Events.properties:64
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:melete.section.delete"
+msgid "Melete section deleted"
+msgstr ""
+
+#. news.read
+#: sitestats/sitestats-bundle/src/resources/Events.properties:65
+msgctxt "sitestats/sitestats-bundle/src/resources/Events.properties:news.read"
+msgid "News read"
+msgstr ""
+
+#. news.revise
+#: sitestats/sitestats-bundle/src/resources/Events.properties:66
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:news.revise"
+msgid "News revise"
+msgstr ""
+
+#. feeds.read
+#: sitestats/sitestats-bundle/src/resources/Events.properties:67
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:feeds.read"
+msgid "Feeds read"
+msgstr ""
+
+#. feeds.subscribe.institutional
+#: sitestats/sitestats-bundle/src/resources/Events.properties:68
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:feeds.subscribe.institutional"
+msgid "Subscribed to Institutional-provided feed"
+msgstr ""
+
+#. feeds.subscribe.user
+#: sitestats/sitestats-bundle/src/resources/Events.properties:69
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:feeds.subscribe.user"
+msgid "Subscribed to user-provided feed"
+msgstr ""
+
+#. feeds.unsubscribe.institutional
+#: sitestats/sitestats-bundle/src/resources/Events.properties:70
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:feeds.unsubscribe.institutional"
+msgid "Unsubscribed to Institutional-provided feed"
+msgstr ""
+
+#. feeds.unsubscribe.user
+#: sitestats/sitestats-bundle/src/resources/Events.properties:71
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:feeds.unsubscribe.user"
+msgid "Unsubscribed to user-provided feed"
+msgstr ""
+
+#. msgcntr.new
+#: sitestats/sitestats-bundle/src/resources/Events.properties:72
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:msgcntr.new"
+msgid "Forum/Message new"
+msgstr ""
+
+#. msgcntr.read
+#: sitestats/sitestats-bundle/src/resources/Events.properties:73
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:msgcntr.read"
+msgid "Forum/Message read"
+msgstr ""
+
+#. msgcntr.revise
+#: sitestats/sitestats-bundle/src/resources/Events.properties:74
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:msgcntr.revise"
+msgid "Forum/Message revise"
+msgstr ""
+
+#. msgcntr.delete
+#: sitestats/sitestats-bundle/src/resources/Events.properties:75
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:msgcntr.delete"
+msgid "Forum/Message delete"
+msgstr ""
+
+#. msgcntr.response
+#: sitestats/sitestats-bundle/src/resources/Events.properties:76
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:msgcntr.response"
+msgid "Forum/Message response"
+msgstr ""
+
+#. forums.newforum
+#: sitestats/sitestats-bundle/src/resources/Events.properties:77
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:forums.newforum"
+msgid "New forum"
+msgstr ""
+
+#. forums.newtopic
+#: sitestats/sitestats-bundle/src/resources/Events.properties:78
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:forums.newtopic"
+msgid "New topic"
+msgstr ""
+
+#. forums.deleteforum
+#: sitestats/sitestats-bundle/src/resources/Events.properties:79
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:forums.deleteforum"
+msgid "Delete forum"
+msgstr ""
+
+#. forums.deletetopic
+#: sitestats/sitestats-bundle/src/resources/Events.properties:80
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:forums.deletetopic"
+msgid "Delete topic"
+msgstr ""
+
+#. forums.reviseforum
+#: sitestats/sitestats-bundle/src/resources/Events.properties:81
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:forums.reviseforum"
+msgid "Revise forum"
+msgstr ""
+
+#. forums.revisetopic
+#: sitestats/sitestats-bundle/src/resources/Events.properties:82
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:forums.revisetopic"
+msgid "Revise topic"
+msgstr ""
+
+#. forums.new
+#: sitestats/sitestats-bundle/src/resources/Events.properties:83
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:forums.new"
+msgid "New thread"
+msgstr ""
+
+#. forums.read
+#: sitestats/sitestats-bundle/src/resources/Events.properties:84
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:forums.read"
+msgid "Read thread"
+msgstr ""
+
+#. forums.revise
+#: sitestats/sitestats-bundle/src/resources/Events.properties:85
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:forums.revise"
+msgid "Review thread"
+msgstr ""
+
+#. forums.delete
+#: sitestats/sitestats-bundle/src/resources/Events.properties:86
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:forums.delete"
+msgid "Delete thread"
+msgstr ""
+
+#. forums.response
+#: sitestats/sitestats-bundle/src/resources/Events.properties:87
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:forums.response"
+msgid "Response thread"
+msgstr ""
+
+#. forums.grade
+#: sitestats/sitestats-bundle/src/resources/Events.properties:88
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:forums.grade"
+msgid "Grade forum"
+msgstr ""
+
+#. messages.newfolder
+#: sitestats/sitestats-bundle/src/resources/Events.properties:89
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:messages.newfolder"
+msgid "New folder in Private Messages"
+msgstr ""
+
+#. messages.revisefolder
+#: sitestats/sitestats-bundle/src/resources/Events.properties:90
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:messages.revisefolder"
+msgid "Revise folder in Private Messages"
+msgstr ""
+
+#. messages.deletefolder
+#: sitestats/sitestats-bundle/src/resources/Events.properties:91
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:messages.deletefolder"
+msgid "Delete folder in Private Messages"
+msgstr ""
+
+#. messages.reply
+#: sitestats/sitestats-bundle/src/resources/Events.properties:92
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:messages.reply"
+msgid "Reply private message"
+msgstr ""
+
+#. messages.forward
+#: sitestats/sitestats-bundle/src/resources/Events.properties:93
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:messages.forward"
+msgid "Forward private message"
+msgstr ""
+
+#. messages.new
+#: sitestats/sitestats-bundle/src/resources/Events.properties:94
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:messages.new"
+msgid "New private message"
+msgstr ""
+
+#. messages.read
+#: sitestats/sitestats-bundle/src/resources/Events.properties:95
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:messages.read"
+msgid "Read private message"
+msgstr ""
+
+#. messages.delete
+#: sitestats/sitestats-bundle/src/resources/Events.properties:96
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:messages.delete"
+msgid "Delete private message"
+msgstr ""
+
+#. org.theospi.glossary.updateAdd
+#: sitestats/sitestats-bundle/src/resources/Events.properties:97
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:org.theospi.glossary.updateAdd"
+msgid "OSP: Coordinator adds a glossary term"
+msgstr ""
+
+#. org.theospi.glossary.delete
+#: sitestats/sitestats-bundle/src/resources/Events.properties:98
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:org.theospi.glossary.delete"
+msgid "OSP: Coordinator deletes a glossary term"
+msgstr ""
+
+#. org.theospi.layout.add
+#: sitestats/sitestats-bundle/src/resources/Events.properties:99
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:org.theospi.layout.add"
+msgid "OSP: Coordinator adds a layout"
+msgstr ""
+
+#. org.theospi.layout.revise
+#: sitestats/sitestats-bundle/src/resources/Events.properties:100
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:org.theospi.layout.revise"
+msgid "OSP: Coordinator revises a layout"
+msgstr ""
+
+#. org.theospi.layout.delete
+#: sitestats/sitestats-bundle/src/resources/Events.properties:101
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:org.theospi.layout.delete"
+msgid "OSP: Coordinator deletes a layout"
+msgstr ""
+
+#. org.theospi.scaffold.addRevise
+#: sitestats/sitestats-bundle/src/resources/Events.properties:102
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:org.theospi.scaffold.addRevise"
+msgid "OSP: Coordinator adds or revises a matrix"
+msgstr ""
+
+#. org.theospi.scaffold.delete
+#: sitestats/sitestats-bundle/src/resources/Events.properties:103
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:org.theospi.scaffold.delete"
+msgid "OSP: Coordinator deletes a matrix"
+msgstr ""
+
+#. org.theospi.scaffold.publish
+#: sitestats/sitestats-bundle/src/resources/Events.properties:104
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:org.theospi.scaffold.publish"
+msgid "OSP: Coordinator publishes a matrix"
+msgstr ""
+
+#. org.theospi.form.addRevise
+#: sitestats/sitestats-bundle/src/resources/Events.properties:105
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:org.theospi.form.addRevise"
+msgid "OSP: Wizard user adds or revises form in a matrix/wizard instance"
+msgstr ""
+
+#. org.theospi.form.delete
+#: sitestats/sitestats-bundle/src/resources/Events.properties:106
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:org.theospi.form.delete"
+msgid "OSP: Wizard user removes form in a matrix/wizard instance"
+msgstr ""
+
+#. org.theospi.presentation.add
+#: sitestats/sitestats-bundle/src/resources/Events.properties:107
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:org.theospi.presentation.add"
+msgid "OSP: Participant adds a portfolio"
+msgstr ""
+
+#. org.theospi.presentation.revise
+#: sitestats/sitestats-bundle/src/resources/Events.properties:108
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:org.theospi.presentation.revise"
+msgid "OSP: Participant revises a portfolio"
+msgstr ""
+
+#. org.theospi.presentation.delete
+#: sitestats/sitestats-bundle/src/resources/Events.properties:109
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:org.theospi.presentation.delete"
+msgid "OSP: Participant deletes a portfolio"
+msgstr ""
+
+#. org.theospi.review.add
+#: sitestats/sitestats-bundle/src/resources/Events.properties:110
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:org.theospi.review.add"
+msgid "OSP: Reviewer adds a review"
+msgstr ""
+
+#. org.theospi.review.revise
+#: sitestats/sitestats-bundle/src/resources/Events.properties:111
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:org.theospi.review.revise"
+msgid "OSP: Reviewer revises a review"
+msgstr ""
+
+#. org.theospi.review.delete
+#: sitestats/sitestats-bundle/src/resources/Events.properties:112
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:org.theospi.review.delete"
+msgid "OSP: Reviewer deletes a review"
+msgstr ""
+
+#. org.theospi.style.add
+#: sitestats/sitestats-bundle/src/resources/Events.properties:113
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:org.theospi.style.add"
+msgid "OSP: Coordinator adds a style"
+msgstr ""
+
+#. org.theospi.style.revise
+#: sitestats/sitestats-bundle/src/resources/Events.properties:114
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:org.theospi.style.revise"
+msgid "OSP: Coordinator revises a style"
+msgstr ""
+
+#. org.theospi.style.delete
+#: sitestats/sitestats-bundle/src/resources/Events.properties:115
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:org.theospi.style.delete"
+msgid "OSP: Coordinator deletes a style"
+msgstr ""
+
+#. org.theospi.template.add
+#: sitestats/sitestats-bundle/src/resources/Events.properties:116
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:org.theospi.template.add"
+msgid "OSP: Coordinator adds a template"
+msgstr ""
+
+#. org.theospi.template.revise
+#: sitestats/sitestats-bundle/src/resources/Events.properties:117
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:org.theospi.template.revise"
+msgid "OSP: Coordinator revises a template"
+msgstr ""
+
+#. org.theospi.template.delete
+#: sitestats/sitestats-bundle/src/resources/Events.properties:118
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:org.theospi.template.delete"
+msgid "OSP: Coordinator deletes a template"
+msgstr ""
+
+#. org.theospi.wizard.add
+#: sitestats/sitestats-bundle/src/resources/Events.properties:119
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:org.theospi.wizard.add"
+msgid "OSP: Coordinator adds a wizard"
+msgstr ""
+
+#. org.theospi.wizard.revise
+#: sitestats/sitestats-bundle/src/resources/Events.properties:120
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:org.theospi.wizard.revise"
+msgid "OSP: Coordinator revises a wizard"
+msgstr ""
+
+#. org.theospi.wizard.delete
+#: sitestats/sitestats-bundle/src/resources/Events.properties:121
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:org.theospi.wizard.delete"
+msgid "OSP: Coordinator deletes a wizard"
+msgstr ""
+
+#. org.theospi.wizard.publish
+#: sitestats/sitestats-bundle/src/resources/Events.properties:122
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:org.theospi.wizard.publish"
+msgid "OSP: Coordinator publishes a wizard "
+msgstr ""
+
+#. podcast.add
+#: sitestats/sitestats-bundle/src/resources/Events.properties:123
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:podcast.add"
+msgid "Podcast new"
+msgstr ""
+
+#. podcast.revise
+#: sitestats/sitestats-bundle/src/resources/Events.properties:124
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:podcast.revise"
+msgid "Podcast revise"
+msgstr ""
+
+#. podcast.delete
+#: sitestats/sitestats-bundle/src/resources/Events.properties:125
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:podcast.delete"
+msgid "Podcast delete"
+msgstr ""
+
+#. podcast.read.public
+#: sitestats/sitestats-bundle/src/resources/Events.properties:126
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:podcast.read.public"
+msgid "Podcast feed (public) accessed"
+msgstr ""
+
+#. podcast.read.site
+#: sitestats/sitestats-bundle/src/resources/Events.properties:127
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:podcast.read.site"
+msgid "Podcast feed (site-only) accessed"
+msgstr ""
+
+#. poll.vote
+#: sitestats/sitestats-bundle/src/resources/Events.properties:128
+msgctxt "sitestats/sitestats-bundle/src/resources/Events.properties:poll.vote"
+msgid "Poll vote"
+msgstr ""
+
+#. poll.add
+#: sitestats/sitestats-bundle/src/resources/Events.properties:129
+msgctxt "sitestats/sitestats-bundle/src/resources/Events.properties:poll.add"
+msgid "Poll new/revise"
+msgstr ""
+
+#. poll.update
+#: sitestats/sitestats-bundle/src/resources/Events.properties:130
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:poll.update"
+msgid "Poll update"
+msgstr ""
+
+#. poll.delete
+#: sitestats/sitestats-bundle/src/resources/Events.properties:131
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:poll.delete"
+msgid "Poll delete"
+msgstr ""
+
+#. poll.viewResult
+#: sitestats/sitestats-bundle/src/resources/Events.properties:132
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:poll.viewResult"
+msgid "Poll view result"
+msgstr ""
+
+#. content.new
+#: sitestats/sitestats-bundle/src/resources/Events.properties:133
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:content.new"
+msgid "Content new"
+msgstr ""
+
+#. content.read
+#: sitestats/sitestats-bundle/src/resources/Events.properties:134
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:content.read"
+msgid "Content opened"
+msgstr ""
+
+#. content.revise
+#: sitestats/sitestats-bundle/src/resources/Events.properties:135
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:content.revise"
+msgid "Content revise"
+msgstr ""
+
+#. content.delete
+#: sitestats/sitestats-bundle/src/resources/Events.properties:136
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:content.delete"
+msgid "Content delete"
+msgstr ""
+
+#. roster.view
+#: sitestats/sitestats-bundle/src/resources/Events.properties:137
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:roster.view"
+msgid "Roster view"
+msgstr ""
+
+#. roster.view.photos
+#: sitestats/sitestats-bundle/src/resources/Events.properties:138
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:roster.view.photos"
+msgid "Roster view photos"
+msgstr ""
+
+#. sam.setting.edit
+#: sitestats/sitestats-bundle/src/resources/Events.properties:139
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:sam.setting.edit"
+msgid "T&Q Assessment settings edit"
+msgstr ""
+
+#. sam.email
+#: sitestats/sitestats-bundle/src/resources/Events.properties:140
+msgctxt "sitestats/sitestats-bundle/src/resources/Events.properties:sam.email"
+msgid "T&Q Email sent "
+msgstr ""
+
+#. sam.assessment.create
+#: sitestats/sitestats-bundle/src/resources/Events.properties:141
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:sam.assessment.create"
+msgid "T&Q Assessment create "
+msgstr ""
+
+#. sam.assessment.revise
+#: sitestats/sitestats-bundle/src/resources/Events.properties:142
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:sam.assessment.revise"
+msgid "T&Q Assessment part/question add/edit"
+msgstr ""
+
+#. sam.assessment.submit
+#: sitestats/sitestats-bundle/src/resources/Events.properties:143
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:sam.assessment.submit"
+msgid "T&Q Assessment submit "
+msgstr ""
+
+#. sam.assessment.submit.via_url
+#: sitestats/sitestats-bundle/src/resources/Events.properties:144
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:sam.assessment.submit.via_url"
+msgid "T&Q Assessment submit via URL"
+msgstr ""
+
+#. sam.assessment.submit.checked
+#: sitestats/sitestats-bundle/src/resources/Events.properties:145
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:sam.assessment.submit.checked"
+msgid "T&Q Assessment submit, not via timeout popup"
+msgstr ""
+
+#. sam.assessment.submit.click_sub
+#: sitestats/sitestats-bundle/src/resources/Events.properties:146
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:sam.assessment.submit.click_sub"
+msgid "T&Q Assessment submit via submit clicked"
+msgstr ""
+
+#. sam.assessment.submit.auto
+#: sitestats/sitestats-bundle/src/resources/Events.properties:147
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:sam.assessment.submit.auto"
+msgid "T&Q Assessment submit via auto-submit job"
+msgstr ""
+
+#. sam.assessment.submit.from_last
+#: sitestats/sitestats-bundle/src/resources/Events.properties:148
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:sam.assessment.submit.from_last"
+msgid "T&Q Assessment submit via last page"
+msgstr ""
+
+#. sam.assessment.submit.from_toc
+#: sitestats/sitestats-bundle/src/resources/Events.properties:149
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:sam.assessment.submit.from_toc"
+msgid "T&Q Assessment submit via table of contents"
+msgstr ""
+
+#. sam.assessment.submit.thread
+#: sitestats/sitestats-bundle/src/resources/Events.properties:150
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:sam.assessment.submit.thread"
+msgid "T&Q Assessment submit via timed assessment thread"
+msgstr ""
+
+#. sam.assessment.submit.timer
+#: sitestats/sitestats-bundle/src/resources/Events.properties:151
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:sam.assessment.submit.timer"
+msgid "T&Q Assessment submit via timer"
+msgstr ""
+
+#. sam.assessment.submit.timer.url
+#: sitestats/sitestats-bundle/src/resources/Events.properties:152
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:sam.assessment.submit.timer.url"
+msgid "T&Q Assessment submit via timer via URL"
+msgstr ""
+
+#. sam.assessment.submit.timer.thrd
+#: sitestats/sitestats-bundle/src/resources/Events.properties:153
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:sam.assessment.submit.timer.thrd"
+msgid "T&Q Assessment submit via timed assessment thread"
+msgstr ""
+
+#. sam.assessment.publish
+#: sitestats/sitestats-bundle/src/resources/Events.properties:154
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:sam.assessment.publish"
+msgid "T&Q Assessment publish"
+msgstr ""
+
+#. sam.assessment.take
+#: sitestats/sitestats-bundle/src/resources/Events.properties:155
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:sam.assessment.take"
+msgid "T&Q Assessment take"
+msgstr ""
+
+#. sam.assessment.take.via_url
+#: sitestats/sitestats-bundle/src/resources/Events.properties:156
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:sam.assessment.take.via_url"
+msgid "T&Q Assessment take via URL"
+msgstr ""
+
+#. sam.assessment.resume
+#: sitestats/sitestats-bundle/src/resources/Events.properties:157
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:sam.assessment.resume"
+msgid "T&Q Assessment resume attempt"
+msgstr ""
+
+#. sam.assessment.review
+#: sitestats/sitestats-bundle/src/resources/Events.properties:158
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:sam.assessment.review"
+msgid "T&Q Review assessment feedback"
+msgstr ""
+
+#. sam.pubassessment.confirm_edit
+#: sitestats/sitestats-bundle/src/resources/Events.properties:159
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:sam.pubassessment.confirm_edit"
+msgid "T&Q Assessment publish confirmation"
+msgstr ""
+
+#. sam.pubassessment.revise
+#: sitestats/sitestats-bundle/src/resources/Events.properties:160
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:sam.pubassessment.revise"
+msgid "T&Q Published assessment revise"
+msgstr ""
+
+#. sam.pubsetting.edit
+#: sitestats/sitestats-bundle/src/resources/Events.properties:161
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:sam.pubsetting.edit"
+msgid "T&Q Published assessment settings edit"
+msgstr ""
+
+#. sam.student.score.update
+#: sitestats/sitestats-bundle/src/resources/Events.properties:162
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:sam.student.score.update"
+msgid "T&Q Assessment student score update"
+msgstr ""
+
+#. sam.question.score.update
+#: sitestats/sitestats-bundle/src/resources/Events.properties:163
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:sam.question.score.update"
+msgid "T&Q Assessment student question score update"
+msgstr ""
+
+#. sam.total.score.update
+#: sitestats/sitestats-bundle/src/resources/Events.properties:164
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:sam.total.score.update"
+msgid "T&Q Assessment student total score update"
+msgstr ""
+
+#. search.query
+#: sitestats/sitestats-bundle/src/resources/Events.properties:165
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:search.query"
+msgid "Search performed"
+msgstr ""
+
+#. calendar.new
+#: sitestats/sitestats-bundle/src/resources/Events.properties:166
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:calendar.new"
+msgid "Calendar event new"
+msgstr ""
+
+#. calendar.revise
+#: sitestats/sitestats-bundle/src/resources/Events.properties:167
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:calendar.revise"
+msgid "Calendar event revise"
+msgstr ""
+
+#. calendar.read
+#: sitestats/sitestats-bundle/src/resources/Events.properties:168
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:calendar.read"
+msgid "View calendar"
+msgstr ""
+
+#. section.student.join
+#: sitestats/sitestats-bundle/src/resources/Events.properties:169
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:section.student.join"
+msgid "Section student join"
+msgstr ""
+
+#. section.student.unjoin
+#: sitestats/sitestats-bundle/src/resources/Events.properties:170
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:section.student.unjoin"
+msgid "Section student unjoin"
+msgstr ""
+
+#. section.student.switch
+#: sitestats/sitestats-bundle/src/resources/Events.properties:171
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:section.student.switch"
+msgid "Section student switch"
+msgstr ""
+
+#. section.add.ta
+#: sitestats/sitestats-bundle/src/resources/Events.properties:172
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:section.add.ta"
+msgid "Section TA add"
+msgstr ""
+
+#. section.add.student
+#: sitestats/sitestats-bundle/src/resources/Events.properties:173
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:section.add.student"
+msgid "Section student add"
+msgstr ""
+
+#. section.members.reset
+#: sitestats/sitestats-bundle/src/resources/Events.properties:174
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:section.members.reset"
+msgid "Section members reset"
+msgstr ""
+
+#. section.student.drop
+#: sitestats/sitestats-bundle/src/resources/Events.properties:175
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:section.student.drop"
+msgid "Section student drop"
+msgstr ""
+
+#. section.student.drop.category
+#: sitestats/sitestats-bundle/src/resources/Events.properties:176
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:section.student.drop.category"
+msgid "Section student drop category"
+msgstr ""
+
+#. section.add
+#: sitestats/sitestats-bundle/src/resources/Events.properties:177
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:section.add"
+msgid "Section add"
+msgstr ""
+
+#. section.update
+#: sitestats/sitestats-bundle/src/resources/Events.properties:178
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:section.update"
+msgid "Section update"
+msgstr ""
+
+#. section.disband
+#: sitestats/sitestats-bundle/src/resources/Events.properties:179
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:section.disband"
+msgid "Section disband"
+msgstr ""
+
+#. section.student.reg
+#: sitestats/sitestats-bundle/src/resources/Events.properties:180
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:section.student.reg"
+msgid "Section student registration"
+msgstr ""
+
+#. site.add
+#: sitestats/sitestats-bundle/src/resources/Events.properties:181
+msgctxt "sitestats/sitestats-bundle/src/resources/Events.properties:site.add"
+msgid "Site created"
+msgstr ""
+
+#. site.del
+#: sitestats/sitestats-bundle/src/resources/Events.properties:182
+msgctxt "sitestats/sitestats-bundle/src/resources/Events.properties:site.del"
+msgid "Site deleted"
+msgstr ""
+
+#. site.upd
+#: sitestats/sitestats-bundle/src/resources/Events.properties:183
+msgctxt "sitestats/sitestats-bundle/src/resources/Events.properties:site.upd"
+msgid "Site updated"
+msgstr ""
+
+#. site.upd.site.mbrshp
+#: sitestats/sitestats-bundle/src/resources/Events.properties:184
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:site.upd.site.mbrshp"
+msgid "Site member(s) added/removed/role changed"
+msgstr ""
+
+#. syllabus.post.new
+#: sitestats/sitestats-bundle/src/resources/Events.properties:185
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:syllabus.post.new"
+msgid "Syllabus item new"
+msgstr ""
+
+#. syllabus.post.change
+#: sitestats/sitestats-bundle/src/resources/Events.properties:186
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:syllabus.post.change"
+msgid "Syllabus item revise"
+msgstr ""
+
+#. syllabus.read
+#: sitestats/sitestats-bundle/src/resources/Events.properties:187
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:syllabus.read"
+msgid "Syllabus item read"
+msgstr ""
+
+#. syllabus.delete
+#: sitestats/sitestats-bundle/src/resources/Events.properties:188
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:syllabus.delete"
+msgid "Syllabus item delete"
+msgstr ""
+
+#. syllabus.draft.change
+#: sitestats/sitestats-bundle/src/resources/Events.properties:189
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:syllabus.draft.change"
+msgid "Syllabus draft item changed"
+msgstr ""
+
+#. syllabus.draft.new
+#: sitestats/sitestats-bundle/src/resources/Events.properties:190
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:syllabus.draft.new"
+msgid "Syllabus draft item created"
+msgstr ""
+
+#. tasklist.create
+#: sitestats/sitestats-bundle/src/resources/Events.properties:191
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:tasklist.create"
+msgid "Task item new"
+msgstr ""
+
+#. tasklist.view
+#: sitestats/sitestats-bundle/src/resources/Events.properties:192
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:tasklist.view"
+msgid "Task list view"
+msgstr ""
+
+#. tasklist.mark.complete
+#: sitestats/sitestats-bundle/src/resources/Events.properties:193
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:tasklist.mark.complete"
+msgid "Task item mark complete"
+msgstr ""
+
+#. tasklist.mark.incomplete
+#: sitestats/sitestats-bundle/src/resources/Events.properties:194
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:tasklist.mark.incomplete"
+msgid "Task item mark incomplete"
+msgstr ""
+
+#. tasklist.delete.own
+#: sitestats/sitestats-bundle/src/resources/Events.properties:195
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:tasklist.delete.own"
+msgid "Task item delete (own)"
+msgstr ""
+
+#. tasklist.delete.all
+#: sitestats/sitestats-bundle/src/resources/Events.properties:196
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:tasklist.delete.all"
+msgid "Task item delete (other)"
+msgstr ""
+
+#. mneme.answer
+#: sitestats/sitestats-bundle/src/resources/Events.properties:197
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:mneme.answer"
+msgid "Test Center: answer submitted"
+msgstr ""
+
+#. mneme.assessment.delete
+#: sitestats/sitestats-bundle/src/resources/Events.properties:198
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:mneme.assessment.delete"
+msgid "Test Center: test deleted"
+msgstr ""
+
+#. mneme.assessment.edit
+#: sitestats/sitestats-bundle/src/resources/Events.properties:199
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:mneme.assessment.edit"
+msgid "Test Center: test edited"
+msgstr ""
+
+#. mneme.assessment.new
+#: sitestats/sitestats-bundle/src/resources/Events.properties:200
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:mneme.assessment.new"
+msgid "Test Center: new test"
+msgstr ""
+
+#. mneme.assessment.publish
+#: sitestats/sitestats-bundle/src/resources/Events.properties:201
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:mneme.assessment.publish"
+msgid "Test Center: test published"
+msgstr ""
+
+#. mneme.assessment.unpublish
+#: sitestats/sitestats-bundle/src/resources/Events.properties:202
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:mneme.assessment.unpublish"
+msgid "Test Center: test unpublished"
+msgstr ""
+
+#. mneme.auto_complete
+#: sitestats/sitestats-bundle/src/resources/Events.properties:203
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:mneme.auto_complete"
+msgid "Test Center: test auto completed"
+msgstr ""
+
+#. mneme.complete
+#: sitestats/sitestats-bundle/src/resources/Events.properties:204
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:mneme.complete"
+msgid "Test Center: test completed"
+msgstr ""
+
+#. mneme.continue
+#: sitestats/sitestats-bundle/src/resources/Events.properties:205
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:mneme.continue"
+msgid "Test Center: test continued from previous started submission"
+msgstr ""
+
+#. mneme.enter
+#: sitestats/sitestats-bundle/src/resources/Events.properties:206
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:mneme.enter"
+msgid "Test Center: submission started"
+msgstr ""
+
+#. mneme.grade
+#: sitestats/sitestats-bundle/src/resources/Events.properties:207
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:mneme.grade"
+msgid "Test Center: submission graded"
+msgstr ""
+
+#. mneme.pool.delete
+#: sitestats/sitestats-bundle/src/resources/Events.properties:208
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:mneme.pool.delete"
+msgid "Test Center: pool deleted"
+msgstr ""
+
+#. mneme.pool.edit
+#: sitestats/sitestats-bundle/src/resources/Events.properties:209
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:mneme.pool.edit"
+msgid "Test Center: pool edited"
+msgstr ""
+
+#. mneme.pool.new
+#: sitestats/sitestats-bundle/src/resources/Events.properties:210
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:mneme.pool.new"
+msgid "Test Center: new pool"
+msgstr ""
+
+#. mneme.question.edit
+#: sitestats/sitestats-bundle/src/resources/Events.properties:211
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:mneme.question.edit"
+msgid "Test Center: question edited"
+msgstr ""
+
+#. mneme.question.new
+#: sitestats/sitestats-bundle/src/resources/Events.properties:212
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:mneme.question.new"
+msgid "Test Center: new question"
+msgstr ""
+
+#. mneme.review
+#: sitestats/sitestats-bundle/src/resources/Events.properties:213
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:mneme.review"
+msgid "Test Center: test reviewed by student"
+msgstr ""
+
+#. todolist.create
+#: sitestats/sitestats-bundle/src/resources/Events.properties:214
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:todolist.create"
+msgid "ToDo item new"
+msgstr ""
+
+#. todolist.view
+#: sitestats/sitestats-bundle/src/resources/Events.properties:215
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:todolist.view"
+msgid "ToDo list view"
+msgstr ""
+
+#. todolist.mark.complete
+#: sitestats/sitestats-bundle/src/resources/Events.properties:216
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:todolist.mark.complete"
+msgid "ToDo item mark complete"
+msgstr ""
+
+#. todolist.mark.incomplete
+#: sitestats/sitestats-bundle/src/resources/Events.properties:217
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:todolist.mark.incomplete"
+msgid "ToDo item mark incomplete"
+msgstr ""
+
+#. todolist.delete.own
+#: sitestats/sitestats-bundle/src/resources/Events.properties:218
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:todolist.delete.own"
+msgid "ToDo item delete (own)"
+msgstr ""
+
+#. todolist.delete.all
+#: sitestats/sitestats-bundle/src/resources/Events.properties:219
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:todolist.delete.all"
+msgid "ToDo item delete (other)"
+msgstr ""
+
+#. wiki.new
+#: sitestats/sitestats-bundle/src/resources/Events.properties:220
+msgctxt "sitestats/sitestats-bundle/src/resources/Events.properties:wiki.new"
+msgid "Wiki page new"
+msgstr ""
+
+#. wiki.revise
+#: sitestats/sitestats-bundle/src/resources/Events.properties:221
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:wiki.revise"
+msgid "Wiki page revise"
+msgstr ""
+
+#. wiki.read
+#: sitestats/sitestats-bundle/src/resources/Events.properties:222
+msgctxt "sitestats/sitestats-bundle/src/resources/Events.properties:wiki.read"
+msgid "Wiki page read"
+msgstr ""
+
+#. wiki.delete
+#: sitestats/sitestats-bundle/src/resources/Events.properties:223
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:wiki.delete"
+msgid "Wiki page delete"
+msgstr ""
+
+#. yaft.message.created
+#: sitestats/sitestats-bundle/src/resources/Events.properties:224
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:yaft.message.created"
+msgid "Message created"
+msgstr ""
+
+#. yaft.message.deleted
+#: sitestats/sitestats-bundle/src/resources/Events.properties:225
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:yaft.message.deleted"
+msgid "Message deleted"
+msgstr ""
+
+#. yaft.discussion.created
+#: sitestats/sitestats-bundle/src/resources/Events.properties:226
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:yaft.discussion.created"
+msgid "Discussion created"
+msgstr ""
+
+#. yaft.discussion.deleted
+#: sitestats/sitestats-bundle/src/resources/Events.properties:227
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:yaft.discussion.deleted"
+msgid "Discussion deleted"
+msgstr ""
+
+#. yaft.forum.created
+#: sitestats/sitestats-bundle/src/resources/Events.properties:228
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:yaft.forum.created"
+msgid "Forum created"
+msgstr ""
+
+#. yaft.forum.deleted
+#: sitestats/sitestats-bundle/src/resources/Events.properties:229
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:yaft.forum.deleted"
+msgid "Forum deleted"
+msgstr ""
+
+#. blog.post.created
+#: sitestats/sitestats-bundle/src/resources/Events.properties:230
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:blog.post.created"
+msgid "Post created"
+msgstr ""
+
+#. blog.post.deleted
+#: sitestats/sitestats-bundle/src/resources/Events.properties:231
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:blog.post.deleted"
+msgid "Post deleted"
+msgstr ""
+
+#. sitestats.view
+#: sitestats/sitestats-bundle/src/resources/Events.properties:232
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:sitestats.view"
+msgid "Statistics view"
+msgstr ""
+
+#. sitestats.report.new
+#: sitestats/sitestats-bundle/src/resources/Events.properties:233
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:sitestats.report.new"
+msgid "Statistics report new"
+msgstr ""
+
+#. sitestats.report.edit
+#: sitestats/sitestats-bundle/src/resources/Events.properties:234
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:sitestats.report.edit"
+msgid "Statistics report edited"
+msgstr ""
+
+#. sitestats.report.delete
+#: sitestats/sitestats-bundle/src/resources/Events.properties:235
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:sitestats.report.delete"
+msgid "Statistics report removed"
+msgstr ""
+
+#. sitestats.report.view
+#: sitestats/sitestats-bundle/src/resources/Events.properties:236
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:sitestats.report.view"
+msgid "Statistics report view"
+msgstr ""
+
+#. sitestats.prefs.edit
+#: sitestats/sitestats-bundle/src/resources/Events.properties:237
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:sitestats.prefs.edit"
+msgid "Statistics preferences edited"
+msgstr ""
+
+#. sitestats.track
+#: sitestats/sitestats-bundle/src/resources/Events.properties:238
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:sitestats.track"
+msgid "Statistics search user activity"
+msgstr ""
+
+#. profile.view.own
+#: sitestats/sitestats-bundle/src/resources/Events.properties:239
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:profile.view.own"
+msgid "View own's profile"
+msgstr ""
+
+#. profile.view.other
+#: sitestats/sitestats-bundle/src/resources/Events.properties:240
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:profile.view.other"
+msgid "View other's profile "
+msgstr ""
+
+#. profile.friend.request
+#: sitestats/sitestats-bundle/src/resources/Events.properties:241
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:profile.friend.request"
+msgid "Request for friendship"
+msgstr ""
+
+#. profile.friend.confirm
+#: sitestats/sitestats-bundle/src/resources/Events.properties:242
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:profile.friend.confirm"
+msgid "Confirm friendship"
+msgstr ""
+
+#. profile.friends.view.own
+#: sitestats/sitestats-bundle/src/resources/Events.properties:243
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:profile.friends.view.own"
+msgid "View my friends"
+msgstr ""
+
+#. profile.friends.view.other
+#: sitestats/sitestats-bundle/src/resources/Events.properties:244
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:profile.friends.view.other"
+msgid "View the friends of other"
+msgstr ""
+
+#. profile.search.name
+#: sitestats/sitestats-bundle/src/resources/Events.properties:245
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:profile.search.name"
+msgid "Search by name"
+msgstr ""
+
+#. profile.search.interest
+#: sitestats/sitestats-bundle/src/resources/Events.properties:246
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:profile.search.interest"
+msgid "Search by interest"
+msgstr ""
+
+#. profile.status.update
+#: sitestats/sitestats-bundle/src/resources/Events.properties:247
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:profile.status.update"
+msgid "Update my status"
+msgstr ""
+
+#. profile.twitter.update
+#: sitestats/sitestats-bundle/src/resources/Events.properties:248
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:profile.twitter.update"
+msgid "Update twitter"
+msgstr ""
+
+#. profile.message.sent
+#: sitestats/sitestats-bundle/src/resources/Events.properties:249
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:profile.message.sent"
+msgid "Sent message"
+msgstr ""
+
+#. profile.image.change.url
+#: sitestats/sitestats-bundle/src/resources/Events.properties:250
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:profile.image.change.url"
+msgid "Change url of the image"
+msgstr ""
+
+#. profile.image.upload
+#: sitestats/sitestats-bundle/src/resources/Events.properties:251
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:profile.image.upload"
+msgid "Upload image"
+msgstr ""
+
+#. profile.new
+#: sitestats/sitestats-bundle/src/resources/Events.properties:252
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:profile.new"
+msgid "New"
+msgstr ""
+
+#. profile.info.update
+#: sitestats/sitestats-bundle/src/resources/Events.properties:253
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:profile.info.update"
+msgid "Update"
+msgstr ""
+
+#. profile.contact.update
+#: sitestats/sitestats-bundle/src/resources/Events.properties:254
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:profile.contact.update"
+msgid "Update contact"
+msgstr ""
+
+#. profile.interests.update
+#: sitestats/sitestats-bundle/src/resources/Events.properties:255
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:profile.interests.update"
+msgid "Update interests"
+msgstr ""
+
+#. profile.staff.update
+#: sitestats/sitestats-bundle/src/resources/Events.properties:256
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:profile.staff.update"
+msgid "Update staff"
+msgstr ""
+
+#. profile.student.update
+#: sitestats/sitestats-bundle/src/resources/Events.properties:257
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:profile.student.update"
+msgid "Update student"
+msgstr ""
+
+#. profile.socialnetworking.update
+#: sitestats/sitestats-bundle/src/resources/Events.properties:258
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:profile.socialnetworking.update"
+msgid "Update social networking"
+msgstr ""
+
+#. profile.business.update
+#: sitestats/sitestats-bundle/src/resources/Events.properties:259
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:profile.business.update"
+msgid "Update business"
+msgstr ""
+
+#. profile.friend.ignore
+#: sitestats/sitestats-bundle/src/resources/Events.properties:260
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:profile.friend.ignore"
+msgid "Ignore friend"
+msgstr ""
+
+#. profile.friend.remove
+#: sitestats/sitestats-bundle/src/resources/Events.properties:261
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:profile.friend.remove"
+msgid "Remove friend"
+msgstr ""
+
+#. profile.privacy.new
+#: sitestats/sitestats-bundle/src/resources/Events.properties:262
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:profile.privacy.new"
+msgid "New privacy"
+msgstr ""
+
+#. profile.privacy.update
+#: sitestats/sitestats-bundle/src/resources/Events.properties:263
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:profile.privacy.update"
+msgid "Update privacy"
+msgstr ""
+
+#. profile.prefs.new
+#: sitestats/sitestats-bundle/src/resources/Events.properties:264
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:profile.prefs.new"
+msgid "New prefs"
+msgstr ""
+
+#. profile.prefs.update
+#: sitestats/sitestats-bundle/src/resources/Events.properties:265
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:profile.prefs.update"
+msgid "Update prefs"
+msgstr ""
+
+#. profile.gallery.image.upload
+#: sitestats/sitestats-bundle/src/resources/Events.properties:266
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:profile.gallery.image.upload"
+msgid "Upload image gallery"
+msgstr ""
+
+#. webcontent.read
+#: sitestats/sitestats-bundle/src/resources/Events.properties:267
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:webcontent.read"
+msgid "Web content external page read"
+msgstr ""
+
+#. webcontent.revise
+#: sitestats/sitestats-bundle/src/resources/Events.properties:268
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Events.properties:webcontent.revise"
+msgid "Web content edit made or attempted"
+msgstr ""
+
+#. webcontent.service.read
+#: sitestats/sitestats-bundle/src/resources/Events.properties:269
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:webcontent.service.read"
+msgid "Read service web content"
+msgstr ""
+
+#. webcontent.service.revise
+#: sitestats/sitestats-bundle/src/resources/Events.properties:270
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:webcontent.service.revise"
+msgid "Revise service web content"
+msgstr ""
+
+#. webcontent.myworkspace.read
+#: sitestats/sitestats-bundle/src/resources/Events.properties:271
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:webcontent.myworkspace.read"
+msgid "Read MyWorkspace web content"
+msgstr ""
+
+#. webcontent.myworkspace.revise
+#: sitestats/sitestats-bundle/src/resources/Events.properties:272
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:webcontent.myworkspace.revise"
+msgid "Revise MyWorkspace web content"
+msgstr ""
+
+#. webcontent.site.read
+#: sitestats/sitestats-bundle/src/resources/Events.properties:273
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:webcontent.site.read"
+msgid "Read site web content"
+msgstr ""
+
+#. webcontent.site.revise
+#: sitestats/sitestats-bundle/src/resources/Events.properties:274
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Events.properties:webcontent.site.revise"
+msgid "Revise site web content"
+msgstr ""
+
+#. sitestats-metrics
+#: sitestats/sitestats-bundle/src/resources/sitestats-metrics.properties:1
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/sitestats-metrics.properties"
+":sitestats-metrics"
+msgid ""
+"Provides SiteStats event aggregator metrics for the current server node"
+msgstr ""
+
+#. sitestats-metrics.action.get-all-metrics
+#: sitestats/sitestats-bundle/src/resources/sitestats-metrics.properties:2
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/sitestats-metrics.properties"
+":sitestats-metrics.action.get-all-metrics"
+msgid "Gets all the metrics."
+msgstr ""
+
+#. sitestats-metrics.action.reset-all-metrics
+#: sitestats/sitestats-bundle/src/resources/sitestats-metrics.properties:3
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/sitestats-metrics.properties"
+":sitestats-metrics.action.reset-all-metrics"
+msgid "Resets all metrics."
+msgstr ""
+
+#. sitestats-metrics.action.get-total-events-processed
+#: sitestats/sitestats-bundle/src/resources/sitestats-metrics.properties:4
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/sitestats-metrics.properties"
+":sitestats-metrics.action.get-total-events-processed"
+msgid "Get the total number of events processed."
+msgstr ""
+
+#. sitestats-metrics.action.get-reset-time
+#: sitestats/sitestats-bundle/src/resources/sitestats-metrics.properties:5
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/sitestats-metrics.properties"
+":sitestats-metrics.action.get-reset-time"
+msgid "Get the time that occurred since start/last reset."
+msgstr ""
+
+#. sitestats-metrics.action.get-time-ellapsed-since-reset
+#: sitestats/sitestats-bundle/src/resources/sitestats-metrics.properties:6
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/sitestats-metrics.properties"
+":sitestats-metrics.action.get-time-ellapsed-since-reset"
+msgid "Get the total time ellapsed, in milliseconds, since start/last reset."
+msgstr ""
+
+#. sitestats-metrics.action.get-time-spent-processing-events
+#: sitestats/sitestats-bundle/src/resources/sitestats-metrics.properties:7
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/sitestats-metrics.properties"
+":sitestats-metrics.action.get-time-spent-processing-events"
+msgid "Get the total time, in milliseconds, spent in event processing."
+msgstr ""
+
+#. sitestats-metrics.action.get-events-processed-per-sec
+#: sitestats/sitestats-bundle/src/resources/sitestats-metrics.properties:8
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/sitestats-metrics.properties"
+":sitestats-metrics.action.get-events-processed-per-sec"
+msgid "Get the average number of events processed per second."
+msgstr ""
+
+#. sitestats-metrics.action.get-events-generated-per-sec
+#: sitestats/sitestats-bundle/src/resources/sitestats-metrics.properties:9
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/sitestats-metrics.properties"
+":sitestats-metrics.action.get-events-generated-per-sec"
+msgid "Get the average number of events generated by Sakai per second."
+msgstr ""
+
+#. sitestats-metrics.action.get-average-time-event-processing-per-event
+#: sitestats/sitestats-bundle/src/resources/sitestats-metrics.properties:10
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/sitestats-metrics.properties"
+":sitestats-metrics.action.get-average-time-event-processing-per-event"
+msgid ""
+"Get the average time spent, in milliseconds, for event processing per event"
+msgstr ""
+
+#. sitestats-metrics.action.get-queue-size
+#: sitestats/sitestats-bundle/src/resources/sitestats-metrics.properties:11
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/sitestats-metrics.properties"
+":sitestats-metrics.action.get-queue-size"
+msgid ""
+"Returns the total number of events waiting on the queue to be processed."
+msgstr ""
+
+#. sitestats-metrics.action.is-idle
+#: sitestats/sitestats-bundle/src/resources/sitestats-metrics.properties:12
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/sitestats-metrics.properties"
+":sitestats-metrics.action.is-idle"
+msgid ""
+"Check if event aggregator is idle (empty queue and no event being "
+"processed)."
+msgstr ""
+
+#. pager_textFirst
+#: sitestats/sitestats-bundle/src/resources/Navigator.properties:1
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Navigator.properties:pager_textFirst"
+msgid "|<"
+msgstr ""
+
+#. pager_textPrev
+#: sitestats/sitestats-bundle/src/resources/Navigator.properties:2
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Navigator.properties:pager_textPrev"
+msgid "<"
+msgstr ""
+
+#. pager_textNext
+#: sitestats/sitestats-bundle/src/resources/Navigator.properties:3
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Navigator.properties:pager_textNext"
+msgid ">"
+msgstr ""
+
+#. pager_textLast
+#: sitestats/sitestats-bundle/src/resources/Navigator.properties:4
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Navigator.properties:pager_textLast"
+msgid ">|"
+msgstr ""
+
+#. pager_textStatus
+#: sitestats/sitestats-bundle/src/resources/Navigator.properties:5
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Navigator.properties:pager_textStatus"
+msgid "Showing {0} to {1} of {2} {3}"
+msgstr ""
+
+#. pager_textStatusZeroItems
+#: sitestats/sitestats-bundle/src/resources/Navigator.properties:6
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Navigator.properties:pager_textStatusZeroItems"
+msgid "Showing 0 {3}"
+msgstr ""
+
+#. pager_textPageSize
+#: sitestats/sitestats-bundle/src/resources/Navigator.properties:7
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Navigator.properties:pager_textPageSize"
+msgid "Show {0} items"
+msgstr ""
+
+#. pager_textPageSizeAll
+#: sitestats/sitestats-bundle/src/resources/Navigator.properties:8
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Navigator.properties:pager_textPageSizeAll"
+msgid "all"
+msgstr ""
+
+#. pager_textItem
+#: sitestats/sitestats-bundle/src/resources/Navigator.properties:9
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Navigator.properties:pager_textItem"
+msgid "items"
+msgstr ""
+
+#. pager_pageSize
+#: sitestats/sitestats-bundle/src/resources/Navigator.properties:10
+msgctxt ""
+"sitestats/sitestats-bundle/src/resources/Navigator.properties:pager_pageSize"
+msgid "20"
+msgstr ""
+
+#. pager_accesskeys
+#: sitestats/sitestats-bundle/src/resources/Navigator.properties:11
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Navigator.properties:pager_accesskeys"
+msgid "false"
+msgstr ""
+
+#. pager_renderFirst
+#: sitestats/sitestats-bundle/src/resources/Navigator.properties:12
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Navigator.properties:pager_renderFirst"
+msgid "true"
+msgstr ""
+
+#. pager_renderPrev
+#: sitestats/sitestats-bundle/src/resources/Navigator.properties:13
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Navigator.properties:pager_renderPrev"
+msgid "true"
+msgstr ""
+
+#. pager_renderNext
+#: sitestats/sitestats-bundle/src/resources/Navigator.properties:14
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Navigator.properties:pager_renderNext"
+msgid "true"
+msgstr ""
+
+#. pager_renderLast
+#: sitestats/sitestats-bundle/src/resources/Navigator.properties:15
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Navigator.properties:pager_renderLast"
+msgid "true"
+msgstr ""
+
+#. pager_titleFirst
+#: sitestats/sitestats-bundle/src/resources/Navigator.properties:16
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Navigator.properties:pager_titleFirst"
+msgid "First {0} {1}"
+msgstr ""
+
+#. pager_titlePrev
+#: sitestats/sitestats-bundle/src/resources/Navigator.properties:17
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Navigator.properties:pager_titlePrev"
+msgid "Previous {0} {1}"
+msgstr ""
+
+#. pager_titleNext
+#: sitestats/sitestats-bundle/src/resources/Navigator.properties:18
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Navigator.properties:pager_titleNext"
+msgid "Next {0} {1}"
+msgstr ""
+
+#. pager_titleLast
+#: sitestats/sitestats-bundle/src/resources/Navigator.properties:19
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Navigator.properties:pager_titleLast"
+msgid "Last {0} {1}"
+msgstr ""
+
+#. paging_nav_label
+#: sitestats/sitestats-bundle/src/resources/Navigator.properties:20
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Navigator.properties:paging_nav_label"
+msgid "Showing {0} {1} to {2}"
+msgstr ""
+
+#. pager_select_label
+#: sitestats/sitestats-bundle/src/resources/Navigator.properties:21
+msgctxt ""
+"sitestats/sitestats-"
+"bundle/src/resources/Navigator.properties:pager_select_label"
+msgid "Items per page"
+msgstr ""
